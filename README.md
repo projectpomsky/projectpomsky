@@ -1,4 +1,4 @@
-Halloween Break-ins Briefing
+README
 
 I’ll admit, the break-in footage located within this folder isn’t the best.
 (See semifinal folder for best version of it) However, it is the best
@@ -2747,8 +2747,9 @@ but more elaborate quote of what I put above here:
  all my allegations against him. Now I almost have to be able to prove all
  this and definitively. Then he poisons me every time I go out to
  essentially reinforce me to stay home and therefore not have anyone who can
- vouge for me. It’s reverse psychology but he’s essentially been
- conditioning me to frame me. This is a fucking nightmare tbh.
+ vouge for me. It’s like reverse psychology or something but I now believe
+ my brother could essentially be conditioning me to frame me. This is a
+ fucking nightmare tbh.
  -
 
  See photos of my back and neck
@@ -2760,16 +2761,20 @@ but more elaborate quote of what I put above here:
  -
 
  Signing off for now, now that I think I have figured out what my brother
- is ultimately up to. Now I’ve got to ponder on how I can best defend
- against being framed going forward, whereas someone who is attacked will
- likely have similar search history as the attacker and whereas my brother
- is like extremely good at hacking and hiding all his digital stuff and
- hiding stuff in general from what I gather. I think the best way to defend
- against it is to entrust that’s really what he’s ultimately trying to do
- and just ignore it whenever I am poisoned/whenever I do have some strange
- substance on my hand out of nowhere. (They can put that stuff anywhere, on
- doorknobs for instance, etc) If I die from it then I dunno, I guess so be
- it–but even then he could blame me for it. #worstbrotherever #mindf@#$
+ is ultimately up to–I mean it makes sense. I’ve seen signs of them trying
+ to frame me before. And now I write all this and can see it all in a
+ relatively short overview and yea, I think that’s what is ultimately going
+ on here. Now I’ve got to ponder on how I can best defend against being
+ framed going forward, whereas someone who is attacked will likely have
+ similar search history as the attacker and whereas my brother is like
+ extremely good at hacking and hiding all his digital stuff and hiding stuff
+ in general from what I gather. I think the best way to defend against it is
+ to entrust that’s really what he’s ultimately trying to do and just ignore
+ it whenever I am poisoned/whenever I do have some strange substance on my
+ hand out of nowhere. (They can put that stuff anywhere, on doorknobs for
+ instance, and it’s not even immediately noticeable, etc) If I die from
+ what’s left on my hand/body then I dunno, I guess so be it–but even then he
+ could blame me for it–omg. #worstbrotherever #mindf@#$
  -
 
  My brother is smart you guys, I just wish he wouldn’t drag me into all
@@ -2786,14 +2791,22 @@ https://drive.google.com/file/d/1MPPe0Tox0-VSfmKER74yayxrx0fpWK4C/view?usp=shari
 
  -
 
- So having realized this, I think it might be in my best interest to
- close all my accounts and shut off all my devices and get a new mailbox key
- and move someplace else with roommates like asap to make it more difficult
- for my brother to try and frame me. I guess I might have to start a new
+ So having realized this after writing all this, I think it might be in
+ my best interest to close all my accounts and shut off all my devices and
+ get a new mailbox key and move someplace else with roommates like asap–to
+ get away from technology and take back my life as my other brother said.
+ That way it will make it more difficult for Dusty to try and frame me and
+ that way I can hopefully move forward. I guess I might have to start a new
  career as well. I’m still thinking about it, but the longer any of my
  devices are turned on–the more of a potential liability they are for my
  brother to frame me–seems I still haven’t figured out how to get him off my
- network/devices yet.
+ network/devices yet–and seems how based on everything I’ve documented
+ here–that seems to be what he is aiming for after all, at least to me.
+ -
+
+ I’ll try and provide all the references to this doc when I get a sec but
+ then I’m better off having my devices shut off I think–I don’t want Dusty
+ to hurt anybody in my name.
  -
 
  Happy Holidays all, wish me luck. 🎄🎅✌️
