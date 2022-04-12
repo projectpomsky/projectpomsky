@@ -3496,44 +3496,82 @@ when I get there, and then what I’m going to do once I’m there.
 As of December 31, 2021
 
 What these people are doing with the feed from my brain to my eyes might
-actually be caused by another variation of infrasound come to find
-out–which would be a relief if so. I don’t like the idea of my brain being
-reprogrammed. But yea, it could just be infrasound at a different
-frequency/rhythm than the one that messed with my heart previously.
-Infrasound is how your body controls your organs. So infrasound in the
-environment could theoretically produce the results I was describing with
-my eyes. I now suspect they essentially could be just sending out their own
-infrasound using a combination of my house's electricity, my house's duct
-work, whatever they installed in my house previously, and when I shut off
-all my power, some external infrasound source that isn’t quite as powerful.
-(Last night it was pretty loud too—it was seemingly shaking my whole
-room/shelter just depending on where they were pointing it) I also have
-suspected for some time that they are capable of using sound to act as
-sonar or radar, allowing them to map out the surrounding area in real time.
-I suspect there’s still something in my ear though that beeps regardless of
-where I’m located, but it varies. However I do now suspect it to be a
+actually be caused by another variation of infrasound based on me
+experiencing it last night while hearing the sound/feeling the
+vibrations–which would be a relief if so. I don’t like the idea of my brain
+being reprogrammed through a microchip after all. But yea, it could just be
+infrasound at a different frequency/rhythm than the one that messed with my
+heart previously. Infrasound is how your body controls your organs. So
+infrasound in the environment could theoretically produce the results I was
+describing with my eyes. I now suspect they essentially could be just
+sending out their own infrasound using a combination of my house's
+electricity, my house's duct work, whatever they installed in my house
+previously, and when I shut off all my power, some external infrasound
+source that isn’t quite as powerful–to give me that effect in my eyes. (It
+happened again last night, last night it was pretty loud too—it was
+seemingly shaking my whole room/shelter just depending on where they were
+seemingly pointing it at the time)
+
+I also have suspected for some time that they are capable of using sound to
+act as sonar or radar, by triangulating it or something, allowing them to
+map out any surrounding area in real time. (Hence why it seems to me to be
+like some foreign government or something cuz who even has that capability?
+That would be worth some money is all I’m saying) I suspect there’s still
+something in my ear though that beeps regardless of where I’m located, but
+it varies. Therefore I now suspect that thing in my ear to be primarily a
 tracker microchip.
 
-Most all the references I’ve been referring to throughout this document are
-already present somewhere in this folder just fyi. Some of the references
-were deleted, likely forever. Others might could be dug up if I had a clean
-computer and enough time. I dunno if any of the references in this folder
-have been tampered with or not, I’m scared to log in to some of my other
-accounts that are the actual owners/editors of some of the google drive
-folders linked to from within this folder for any substantial amount of
-time to add any more comments and to lay everything out in an intuitive way
-that I could then reference within this document for that reason–to try and
-avoid anybody tampering with what I do already have here. (That’s how I get
-around all the hacking at this time is simply by never logging into certain
-key accounts lol and then referencing certain google drive folders from
-other google drive accounts)
+Most all the references I’ve been referring to throughout this entire
+document should now be present somewhere in this folder just fyi. Some of
+the references were deleted, likely forever. Others might could be dug up
+if I had a clean computer and enough time to devote to it. I dunno if any
+of the references in any of these folders have been tampered with or not,
+I’m scared to log in to some of my other accounts that are the actual
+owners/editors of some of these google drive files/folders, the folders
+linked to from within this folder, for any substantial amount of time to
+add any more comments and to lay everything out in an intuitive way that I
+could then add as clear references within this document for that exact
+reason–to try and avoid anybody tampering with what I do already have here.
+(That’s how I get around all the hacking at this time is simply by never
+logging into certain key accounts lol and then referencing certain google
+drive folders from my other google drive accounts like this one, and by
+using physical security keys or yubikeys on all my accounts as 2fa, to
+prevent them from being able to login to those accounts directly without me
+doing it myself, etc)
 
-I hope I’ve given you enough, I’ve honestly given it my all, but I think
-it’s about time for me to try and find a better life elsewhere. (You know,
-a life where I don’t have to worry about my life, focus on all this shit
-daily, and a life where I don’t have to sleep in a faraday cage nightly,
-etc, etc)
+I hope I’ve given you enough, I’ve honestly given it my all for some time
+now–if you need something in particular just ask–but I think it’s about
+time for me to try and make finding a better life elsewhere my main
+priority. (You know, a life where I don’t have to worry about my life every
+single day, a life where I don’t have to focus on all this bad shit that
+happened in the past daily, and a life where I don’t have to sleep in a
+faraday cage nightly, etc, etc)
 
+It’s about to be a new year now, I’m hoping I can put all this behind me
+and live a happier, more fulfilling life with less worries and less bad
+shit happening to me this next year. 🤞 That’s my new years resolution
+anyways. I’ll try and keep adding references going forward but it might be
+a while cuz I don’t want to have to continue to devote all my time to it,
+I’ve spent like the last two weeks just trying to get all my data in a
+place to where I could actually reference any key parts of it that aren’t
+already present here. And I haven’t even gone through and indexed it all
+yet, let alone uploaded it all to this folder and subsequently referenced
+it within this document. (I’m referring to all my raw phone/computer
+backups, slack comments which I don’t even have access to anymore
+currently, old emails from other accounts, just everything that wasn’t
+already in this google drive folder–so it’s just super time consuming and
+difficult to do is all) Plus I feel it’s in my best interest to move away
+to try and save myself while I still can, as stated above. I feel I’ve
+already endured all the torture way longer than most people would just to
+try and help with justice. But if you need something in particular just let
+me know. Text me on my google voice number, that one seems to normally
+always work without interference/tampering for the most part I think. (435)
+261-2308
+
+I may still keep updating this but likely not as frequently as I have been,
+I start work again on Monday.
+
+Thank you for reading. Happy new year!
 
 Chase Gibbons  / Manager
 435-999-4722
