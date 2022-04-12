@@ -4865,14 +4865,15 @@ against his whole family and this entire town–seeking to do the one thing
 to his family that’s even worse than death–that is–mind control. He wants
 to essentially make some of us act out and behave in ways that will
 essentially cause our whole family never ending suffering and grievance and
-will be the ultimate slap in the face to my father and my mother and to
-this whole town.
+will be the ultimate slap in the face to my father and my mother and this
+whole town.
 
 
 
-I believe he plans to give the Russian’s more than just me within our
-family as well. (Potentially some of my mother’s kids’ kids) I suspect they
-particularly seek out those who are currently single.
+I believe Dusty plans to give the Russian’s more than just me within our
+family as well, if he hasn’t already. (Potentially some of my mother’s
+kids’ kids) I suspect they particularly seek out those who are currently
+single.
 
 [reference goes here]
 
