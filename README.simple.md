@@ -434,7 +434,43 @@ Anonymous Video I’ve Been Working On in Support of Ukraine
 As of March 15, 2022
 
 
+Notice
+
+
+As of March 10, 2022
+
+
+What Putin is Doing
+
+
+Final Answer
+
+
+References
+
+
+As of March 12, 2022
+
+
+As of March 14, 2022
+
+
+Part 2
+
+
+Part 3
+
+
+What their tunnel in my house sounds like
+
+
+As of March 15, 2022
+
+
 Investigation Assumptions
+
+
+Twitter Observation
 
 
 
@@ -11593,6 +11629,51 @@ I’m just trying to do what’s right and I’m trying to help protect my famil
 and my country–that’s it.
 
 
+Twitter Observation
+
+The Russians will literally stalk platforms like twitter looking for people
+to speak up against exact scenarios like shown above and then they will
+find out who those people are and lobby amongst themselves on who to go
+after next. In my case, my brother must have already been producing
+favorable results for Russia and therefore they allowed him to prioritize
+me even though I wasn’t even a big influencer. I think they need people
+like my brother who have a lay of the land and who know the most effective
+way to possibly corrupt our society. Like for instance, my brother would
+have known about Dell Loy Hansen and how he owns a shit ton of companies
+around here–including companies deemed critical infrastructure, my brother
+would have known my company, Rent Dynamics, is also owned by Dell Loy
+Hansen; and my brother would have also known our security practices weren’t
+necessarily the greatest after having hacked me to begin with in 2019. My
+brother also likely would have known the mormon culture around here and how
+to most effectively exploit the whole mormon hierarchy as well. [Opinion]
+
+This happened almost 2 years ago now. I suspect it was an attempt to nail
+down who I was by the Russians/Chinese operatives. I suspect Russia has
+multiple teams working towards the same end game, and they must have
+flagged me across multiple different teams because by 2020 when this
+conversation occurred I had already been being targeted by my
+brother/Russia. This account of mine only has/had 3 followers btw–that just
+goes to show how granular they are willing to go. I have multiple twitter
+accounts to try and help counteract all the Russian troll farms which do
+the same.
+
+This is no joke you guys. Please don’t take this as me being political
+because I’m not. I’m just against corruption and I’m against other
+countries trying to defeat us from within more than anything. That’s the
+only real way to defeat a super power–so if we protect from that then we
+will remain prosperous for years to come. And I personally blame a lot of
+our current tribalism politics on foreign influence so even to those who
+can’t stand democrats, just know it was not always this way–something has
+changed recently and I’m telling you that foreign influence is what you
+should really be mad at. The Russians now have proxies on both sides of our
+politics that are meant to help make us hate each other–and that is
+ultimately what I am against. Social media, when paired with psychology, is
+a lot more powerful than you might think. I just so happened to recognize
+this early on. I hope by now we have all seen the kinds of problems that
+arise when we are divided as a nation and how we become prone to exploit
+across all levels if so. And I hope we all can agree that us being defeated
+is a bad thing, like you can’t trust Putin. Putin’s own army can’t even
+trust Putin.
 
 Chase Gibbons  / Manager
 435-999-4722
