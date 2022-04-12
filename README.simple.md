@@ -425,6 +425,16 @@ Part 2
 Part 3
 
 
+What their tunnel in my house sounds like
+
+
+Anonymous Video I’ve Been Working On in Support of Ukraine (Wait for it to
+finish loading–don’t download anything)
+
+
+As of March 15, 2022
+
+
 
 
 README
@@ -10348,9 +10358,11 @@ underlying encryption signature after they receive enough samples–and once
 they do that then there’s no real way to get the simplisafe to change it’s
 underlying signatures unless you buy a new one.
 
-Anonymous Video I’ve Been Working On in Support of Ukraine
+Anonymous Video I’ve Been Working On in Support of Ukraine (Wait for it to
+finish loading–don’t download anything)
 
-[reference goes here]
+https://drive.google.com/file/d/1pvr7-ULpFCYjPHRYadiOKlxeJzvhVdGc/view?usp=sharing
+
 
 
 I’ve been trying to use psychology to get to their heads lol. I know Russia
@@ -10362,9 +10374,27 @@ having the graphics/sound themselves tell the story.. (you know, kinda like
 russia does everything in signals lol–i’m not supportive of that in terms
 of country to country governmental communications however–because it’s easy
 for miscommunications to take place) The original thought for doing it
-however was to warn people of potential traps set by the russians in oour
+however was to warn people of potential traps set by the russians in our
 hacking and social media, etc. Maybe I’ll just have to make 2 of them..
 
+Did you see Russia released all the ips attacking it’s country? It was a
+combination of the fbi, cia, and a bunch of different hacking groups.
+
+I take out my frustrations with my brother and Russia and China doing shit
+like this these days..
+
+As of March 15, 2022
+
+One way we could tell who keeps coming over to my house and find their
+tunnels is to took look into any publicly available anonymous cell phone
+location statistics over the last year btw. Normally even though the
+records are anonymous–you can still trace them back to their homes. And I’m
+talking this person or persons would show to have shown up at my house
+literally like numerous times a week–even though I rarely ever have
+visitors anymore. (Whereas I’m being gangstalked, it’s hard enough just to
+survive let alone have company over tbh)
+
+I reached out to china just barely and told them how I feel.
 
 Chase Gibbons  / Manager
 435-999-4722
