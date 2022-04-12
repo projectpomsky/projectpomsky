@@ -416,10 +416,13 @@ References
 As of March 12, 2022
 
 
-As of March 13, 2022
-
-
 As of March 14, 2022
+
+
+Part 2
+
+
+Part 3
 
 
 
@@ -10163,10 +10166,11 @@ Part 3
 K so I just thought of something. I could be off but I feel like it
 actually fits quite well. What if this whole ordeal is actually meant to
 convince you all that democracy is actually sub-par to communism? Like
-seems how they keep doing this shit that is pretty obvious its them doing
-it but given the way our laws are structured, it makes it a lot harder to
-bring charges against or prosecute? What if they are really just trying to
-convince the broader population not only that communism is better but that
+seems how they keep doing this shit that is pretty obvious it's indeed them
+doing it but given the way our laws are structured, it makes it a lot
+harder to bring charges against or prosecute because the bar is beyond a
+reasonable doubt? What if they are really just trying to convince the
+broader population around here not only that communism is better but that
 communism is already inevitable for us essentially? Hear me out. I thought
 of this because for one, I realized the timing of when Dusty went missing
 previously, it was right after I called him out for essentially flipping
@@ -10174,58 +10178,125 @@ his political affiliation right when he started coming after me. If this
 really is/was their goal then that would make sense because they know that
 as soon as you know my brother is playing you in regards to his political
 affiliation then that would be counterproductive to what they are trying to
-do. In addition, it fits in the sense of my family’s past history and just
-the notoriety of it all. It makes it so they could try and manipulate a
-large audience into losing faith in things like our freedom from search and
-seizure, right to stay silent, our democracy in general, etc, etc–all at
-once. It also fits in that I think that’s what they were trying to do in
-sharing this with Ukraine tbh. Now that’s some psychology for you.
+do. And they realize that no republican is going to be convinced of a
+socialist communist from another socialist–particularly another socialist
+in their same country. In addition, it fits in the sense of my family’s
+past history and just the notoriety of it all. It makes it so they could
+try and manipulate a large audience into losing faith in things like our
+freedom from search and seizure, our right to stay silent, our democracy in
+general, etc, etc–all at once. It also fits in that I think that’s what
+they were trying to do when somebody I suspect shared this very file/folder
+with Ukraine tbh. Now that’s some psychology for you. That’s the level of
+psychological manipulation I’m dealing with and trying to decipher here,
+it’s not easy.
 
-I specifically recall them being touchy about both political affiliation
-and the time I said I prayed–which I did but they didn’t like it as if
-their really trying to target you.
+I specifically recall them being touchy about both any remarks about
+political affiliation and the time I said I prayed–which I did pray and I
+likely treated it more seriously than they do but they didn’t like it as if
+they're really trying to target YOU–the audience of this documentation.
 
-Let me give you my counter arguments to that just incase that is what they
-are ultimately trying to do. First, this wouldn’t be happening if a foreign
-country weren’t trying to interfere with our politics. It also wouldn’t
-happen with so little concrete evidence if it were being carried out by
-anyone else besides a sophisticated foreign government. There would most
-definitely be more mistakes made by anyone who doesn’t have all the
-resources these guys have. Which disqualifies the notion of communism
-potentially being better than democracies based on what’s happened here
-right away in my view. That would be like us corrupting some foreign
-communist leader and having him convince his people that democracy is
-better. Second, imagine if the person with the best relationship with the
-boss/leader always won in cases like this–that would mean I would be
-completely and totally screwed. I wouldn’t even have a chance I mean. It
-would mean people like my brother could kill whomever they wanted without
-repercussions essentially–not based on what they know but based on who they
-know and how corrupt they are. Third, I’ll just say that the first officers
+Let me give you my counter arguments to all that just incase that is what
+they are ultimately trying to do. First, this wouldn’t be happening if a
+foreign country weren’t trying to interfere with our politics–period. It
+also wouldn’t have happened with so little concrete evidence to show if it
+were being carried out by anyone else besides a sophisticated foreign
+government. (I mean they got everything from 0day exploits to hacking to
+microchips to tunnels–literally everything they could ever want to be able
+to pull something like this off–nobody else is ever going to have all that)
+Therefore, there would most definitely be more mistakes made by anyone who
+doesn’t have all the resources these guys have. Which disqualifies the
+notion of communism potentially being better than democracies based on
+what’s happening just off the bat in my view. That would be like us
+corrupting some foreign communist leader and corrupting a bunch of cronies
+and having them all stage shit to try and convince their people that
+democracy is better than communism. Second, imagine if the person with the
+best relationship with the boss/leader always won in cases like this–or in
+any case for that matter–that would mean I would be completely and totally
+screwed. I wouldn’t even have a chance I mean. It would mean people like my
+brother could kill whomever they wanted without repercussions
+essentially–not based on what they know but based on who they know and how
+corrupt and ruthless they are. Third, I’ll just say that the first officers
 I spoke to about all the EMF stuff I think actually did mainly just take my
-word for it and I think they were able to get some kind of warrant based on
-my word alone. So it’s not impossible in a democracy to do things like that
-I don’t think.
+word for it and I think they did go out and get some kind of warrant based
+on my word alone–because they straight up pretty much indicated that’s what
+they were going to do after asking me if I was highly confident it was my
+brother. So it’s not impossible in a democracy to do things like that I
+don’t think if they can do it.
 
 I’ll admit, I can do a better job myself at not feeding into this potential
-narrative myself, I always get caught in their damn traps tbh—not
-intentionally but just because they have such an advantage over me and
-because they switch up their false flags behavior from real meaningful
-behavior constantly. Bottom line is any non foreign superpower would have
-made more mistakes by now and this wouldn’t be happening if they weren’t
-trying to interfere in our country to begin with. And if it did still
-happen—Dusty would have been totally busted by now. This is the first time
-anyone has had any real reason to even question him about it tbh, so if he
-did kill my father and sister, that wouldn’t have been any different either
-way.
+frustration with the rule oof law narrative myself, I always get caught in
+their damn traps tbh—not intentionally but just because they have such an
+advantage over me and because they switch up their false flags behavior
+from their real meaningful behavior constantly. One time they will act like
+they don’t want me to do something when they really do and the next time
+they will act like they will act like they don’t want me to do something
+when they really don’t. Bottom line is any non foreign superpower would
+have made more mistakes by now and this wouldn’t be happening if they
+weren’t trying to interfere/manipulate our country to begin with. And if it
+did still happen—Dusty would have been totally screwed by now. This is the
+first time anyone has ever had any real legitimate reason to even question
+him about any of what I now suspect he’s done tbh, so if he really did kill
+my father and sister now that it fits a pattern, then that wouldn’t have
+been any different if we were a communist country anyway. (He likely would
+have just gotten away with it and kept getting away with it tbh)
 
 Me personally, I like being given my fair shot at justice—even if the
 wheels of justice turn exceeding slow. I apologize what I said earlier btw,
-sometimes I just get heated in the moment.
+sometimes I just get heated in the moment and I do want to deck him in the
+face or worse. But thus far I’ve kept my composure and I plan to continue
+to be that way. Just writing this helps me understand why this case is so
+unique and gives me more patience myself tbh.
 
-To be clear, dusty is still involved he’s just not as obvious about it
-these days. I get tired of their “shows” they put on using real peoples
-lives tbh.
+To be clear, dusty is still involved with all this he’s just not as obvious
+about it these days. I get tired of their “shows” they put on using real
+people's lives and all their psychological manipulation bs tbh.
 
+Zelensky, if you are reading this. Do what you think is best deep down in
+your heart. There’s plenty of us who have your back either way. Your people
+clearly have your back. Don’t be fooled by all the bots on social media
+pressuring you either–that’s f-ing Russia’s troll farm mostly. The United
+States of America and democracies in general are still extremely strong at
+least in part thanks to you–we are a lot stronger than Putin’s cronies want
+you to believe. This has been a wake up call for all of us tbh. Don’t let
+them persuade you through guilt and shame if you can help it. But I won’t
+blame you if you feel like it’s best for your country to cut a deal with
+Putin at this time either. It’s a tough one tbh.
+
+White House, if you are reading this, keep supporting Zelensky as much as
+physically possible without starting WWIIII please. You were probably right
+about that one, that would not be the best place for us to have to fight
+WWIII but we still have got to do something in my opinion. We will get
+through this together and show these fools what democracies are really made
+of absent all this interference from dictators—and unity is critical to
+that. We could always do the same back to them I guess, technically we’ve
+now already started lol. It’s only a matter of time until the sanctions and
+everything kick in now..
+
+Putin is closing off his internet for a reason tho, all of us democracies
+need to take some cues from Putin in that regard. Putin protects his
+internet cuz he knows just how effective a tool it is to undermine other
+people’s countries.
+
+I get the sense Russia is doing this on behalf of China btw. Like it was
+meant to be some kind of trap or something. When you think about it from
+Putin’s perspective, knowing what I know now, Putin must have seen this as
+a win-win. Either they get us involved in WWIII right next to both Russia
+and China while we are already facing inflation, or else they get Zelensky
+to turn communist essentially and potentially bring some of our allies with
+him and/or undermine Joe Biden with his constituents. That explains why
+Putin did it now to me a little better. Then I assume just like in any
+dictatorship, it would have put Russia in China’s good graces as an
+“Oligarch”, only on a country-to-country level “Oligarch” for China. It’s
+all just a bunch of thugs and killers thinking they are smarter than
+everybody else if you ask me. When in reality they are just f-ing
+twisted–nobody else thinks that way for a reason–staging shit and putting
+on shows with real ppls lives only to manipulate other ppl into getting
+what you want all for your own selfish reasons. It’s like god damn, go get
+some counseling already or something.
+
+What their tunnel sounds like
+
+[reference goes here]
 
 
 Chase Gibbons  / Manager
@@ -10234,12 +10305,3 @@ Chase Gibbons  / Manager
 
 PO Box 747Logan, UT 84321
 gfic.io  
-
-[image: Mailtrack]
-
-Sender
-notified by
-Mailtrack
-
-03/14/22,
-08:41:21 PM
