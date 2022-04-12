@@ -11055,7 +11055,17 @@ still all buddy buddy with Russia. Israel is known for developing super
 advanced malware and selling it for tons of money to foreign countries. But
 regardless, I’m telling you that both our government’s malware and the
 attacker’s malware are very alike–and I’m absolutely positive these guys
-have managed to steal at least some of our trade secrets previously.
+have managed to steal at least some of our trade secrets previously. P.s. I
+do sometimes fear with all their manipulation that they may have played man
+in the middle and intercepted some of my key communications to some of our
+officials–so I do worry about that as well. Because they do do that on
+other things. But if they did do that when sharing this with our officials
+then they snuck it past me. Before I leave I plan to ask you all who are
+reading this to share parts of this that you find compelling with our
+government officials yourselves just so I can feel like I have literally
+done everything and so I can rest assured that our government has been
+notified. I think that would also be cool to see what you guys think is
+most compelling and to have it put in your own words to them.
 
 Okay so with that said, I realize it goes both ways and this shit is
 concerning to you guys in regards to my mental state as well. I want to
@@ -11099,7 +11109,7 @@ might simply mistake it for god or demons or something like that. None of
 those things are the case with me. These guys are very versatile, they
 constantly adapt as stated previously, so they are able to just adapt and
 coerce people in the way they want them to go based on whatever it is that
-that person may believe– but that doesn’t work so well when you know their
+that person may believe–but that doesn’t work so well when you know their
 ultimate goal is to destabilize our society however necessary. The brain is
 a neural network like I said, and even though sometimes I may get
 frustrated and feel like some people might be against me–I will never
@@ -11121,6 +11131,24 @@ detection sensor to my attic after hearing shit moving around up there and
 my alarm was set off this morning around 7:30am while I was asleep via that
 motion sensor in the attic. No idea what happened. I didn’t even hear it or
 know my alarm had been triggered until I woke up later.
+
+Hey you hacker people–please don’t underestimate these guys’ ability to
+even somehow implant malware into this very google docs file somehow that
+is somehow able to infect you without your even downloading it. I have
+given up on thinking I might know what is hackable and what is not at this
+point. These guys have completely blown me away with their capabilities
+time and time again. I honestly can’t even think of a better way to share
+this info without the possibility of them somehow jerry rigging something
+or other to potentially pose a threat to other people’s devices anymore.
+Github markdown readme maybe? They got so many 0days–it’s insane. I’ve been
+meaning to move everything to github anyways, for the version history. But
+yea, I just don’t want them to use me to further destabilize our society so
+I’m just trying to be extra cautious that’s all. I have no knowledge of
+them being able to do what I just said btw, I just fear the worst and try
+to use my intelligence and then I hope for the best that’s all. I work on
+moving all this to github just to be safe.. (For real this time, sorry guys
+I have a huge backlog of things that can be done–it’s all a matter of what
+takes the most priority)
 
 
 Chase Gibbons  / Manager
