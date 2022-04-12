@@ -10998,14 +10998,129 @@ honest. Don’t be afraid to stand up for what is right. Have a little
 integrity. And utilize common sense. But yea, that’s really all there is to
 it.
 
-Like Mike Lee for instance. How the hell does he have so much money to air
-all these ads literally like months and months before anybody else and he
-airs them like every single commercial break? Just sayin/playin. 😉I’ll
-refrain from giving you my $0.02 on that one at this time lol. 😂🤙
-
 What’s probably better anyways is if we all team up and use our own unique
 super powers to compliment each other and fight back together to retain our
 freedom. What is your super power?
+
+As of March 22, 2022Status Update
+
+I’ll try to keep it short.
+
+I went to the doctor today and they didn’t say anything about my drug test
+so I’m assuming that was another attempt from the attackers at discrediting
+me and/or another false flag operation. Meaning the attackers didn’t tamper
+with my drug test that I’m aware of after all. Keep in mind though that the
+attackers always do shit that is like uncomfortable for both parties, so
+it’s possible the hackers did mess with my doctor’s systems and my doctor’s
+office figured it out–idk–probably not–but it’s possible. If that did
+happen would they want to say anything about it to me? Probably not. But
+for now I’ll just assume that was another false flag operation on the
+attackers part, my doctor’s systems are NOT hacked, for the sake of not
+making them look bad, and yea my drug test was as expected. But to be
+clear–DO NOT let that make you think for even a second that these guys
+don’t have the capabilities of hacking anybody and everybody–because they
+do–and they pretty much already have.
+
+I didn’t mean to come off wrong on the investigation assumptions piece, to
+be clear–I have no insight into what the police are doing whatsoever beyond
+my intuition–that was just both an opinion and a warning just incase they
+are digging deeper into some of the people around here. Like I just want
+people to do the right thing that’s all. I am pretty confident that the
+feds are aware of what is going on, and i’m pretty confident that they are
+looking into some of this stuff because for one they have access to this
+information just like you do and for two because this is all a pretty
+freaking big deal if I am right about even half of it, especially once it
+begun involving things like our most advanced fighter jet aircraft taking
+part in an assault against me to send our government a signal in regards to
+the war in Ukraine–I would think that would be at least worth them looking
+into how our own military might be rebelling like that and whatnot. And I
+can totally see how in order for these guys to have gotten this far, it
+would almost have to be more widespread around the broader population
+around here, etc, etc. Plus I share this info with my elected
+representatives regularly. And I even started following anonymous on
+twitter lately and presented them with this information as well, because
+they are known to help people like me who are being gangstalked; and plus,
+based on some forums I’ve read, anonymous is in fact at least loosely
+intertwined with the feds–which is a good thing in my view. It’s kinda like
+how Russia does it with supporting their local hackers. But I don’t think
+anonymous looked into more than just my network and just briefly and
+recently–I provided them this info because they specifically stated they
+were going to start going after Russian hackers and so I told them I have
+an in to some Russian hackers. And to be clear, it might not even be the
+feds who I suspect I’ve seen on my computer alongside my brother and the
+Russians malware previously–it may be our actual military. And one more
+thing I need to clear up, it’s possible Russia got their malware from
+Isreal and not from our government, and it’s possible that’s why Isreal is
+still all buddy buddy with Russia. Israel is known for developing super
+advanced malware and selling it for tons of money to foreign countries. But
+regardless, I’m telling you that both our government’s malware and the
+attacker’s malware are very alike–and I’m absolutely positive these guys
+have managed to steal at least some of our trade secrets previously.
+
+Okay so with that said, I realize it goes both ways and this shit is
+concerning to you guys in regards to my mental state as well. I want to
+give you guys the peace of mind that I am now confident they can’t just
+completely take over my mind and go out and make me like start shooting
+people or anything like that. I think that happens more to people who they
+are able to slowly convince that either it’s like the devil or demons or
+something doing this all to them–and not a series of microchips + a foreign
+adversary + a murderous brother. They may also be successful in coercing a
+target individual to go lash out against the broader society to people whom
+just aren’t as intelligent as I am and/or people who aren’t able to get as
+far as I have gotten in figuring all this stuff out. (Including who the
+real bad guys are and why they may actually benefit from doing this shit to
+people within our country, etc, etc) Most people aren’t as technically
+savvy as I am either. And even with those people who they are able to “take
+over their minds” they don’t really take over their minds like a first
+person shooter game, it’s more like they are able to slowly convince them
+over time that the world is against them, their government is against them,
+and stuff like that to where ultimately they end up radicalizing the
+individual and pushing them to do something that ultimately contributes to
+undermining our country vs actively controlling them through it. If that
+makes sense? I meant for this section to make you feel better, I know it
+probably didn’t hit the mark, but my point is that if nothing else just
+know that I know what these guys want more than anything is to undermine
+our country and to discredit me and whatnot–and so I am extremely resistant
+to doing what it is they may want me to do. If I did that then I’d be no
+better than my brother and I’d actually undermine everything I’ve been
+fighting for previously. Plus, they can’t control me. They can try. They do
+try. But they have failed and they will continue to fail. In addition, have
+comfort in the fact that people are watching over me already is what I was
+getting at as well. If I fell for these guys’ attempts to undermine our
+society in such a gruesome manner–that would be the worst possible outcome
+in my mind–even beyond just getting killed myself. However to be clear, I
+may still fall for their attempts to undermine our society without knowing
+it in other ways, like for instance maybe they want me to share this
+information publicly to undermine our allies faith in us, etc, etc. But
+what I can promise you is I won’t fall for their attempts to undermine us
+in the way we all may be thinking in the back of our minds. Some people
+don’t even know who or why this is even being done to them, etc, and others
+might simply mistake it for god or demons or something like that. None of
+those things are the case with me. These guys are very versatile, they
+constantly adapt as stated previously, so they are able to just adapt and
+coerce people in the way they want them to go based on whatever it is that
+that person may believe– but that doesn’t work so well when you know their
+ultimate goal is to destabilize our society however necessary. The brain is
+a neural network like I said, and even though sometimes I may get
+frustrated and feel like some people might be against me–I will never
+forget who is the one who is pulling the strings behind the scenes and I
+will never forget that they are trying to use me to further destabilize our
+country. What I can promise is I will never lose my moral compass and I’ll
+always try to do the right thing. What I can’t promise however is like I
+might not be able to stop them from using me to get to more of our hackers
+or something like that–even though I’ve been trying to even stop shit like
+that–I assure you.
+
+That’s enough for today, while I have more I want to say, I’ll save it for
+a day when I have less to talk about. I need to keep these shorter going
+forward. I also need to take all this info and create a nice organized
+summary which simply refers back to these bigger docs for brevity reasons,
+and make it easier for people reading to soak in all the key points without
+getting into all the details, etc. One more thing, I added a motion
+detection sensor to my attic after hearing shit moving around up there and
+my alarm was set off this morning around 7:30am while I was asleep via that
+motion sensor in the attic. No idea what happened. I didn’t even hear it or
+know my alarm had been triggered until I woke up later.
 
 
 Chase Gibbons  / Manager
