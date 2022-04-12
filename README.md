@@ -3350,13 +3350,15 @@ something like that inside my ear.
 As of December 30, 2021
 
 So I’ve been thinking, all this stuff that has been happening to me, all
-this hacking and whatnot, it would almost have to be a hostile foreign
-government who is behind the bulk of all this given all their capabilities.
-Maybe my brother hired Russia or something on the dark web to do his
+this hacking and whatnot, you would think it would almost have to be
+something like a hostile foreign government or specialized organization for
+hire who is behind the bulk of all this given all their capabilities.
+(Someone core entity who also seems to other people—making it harder to
+track) Maybe my brother hired Russia or something on the dark web to do his
 bidding for him right after he hacked me initially?
 
 I recall telling my manager around 2019 that it had appeared as though
-Dusty had hacked me then it appeared as though he had now sold my
+Dusty had hacked me then it appeared as though he had subsequently sold my
 information on the dark web because I had a case of credit card fraud and I
 got a notice that some of my information was being sold online shortly
 after Dusty originally hacked me. (I assume Dusty would have done that to
@@ -3369,13 +3371,11 @@ government or highly capable specialized organization hired by Dusty. I
 have gotten the sense when something key happens or I tried talking back to
 the hackers through my notes previously that their official response is
 delayed, as if they have to relay the info back to someone else before
-deciding what to do. I suspect Dusty might only be in contact with them
-something like once daily or less. Dusty himself recently said buying
-exploits on the dark web is a good way to get hacked, maybe he’s right, but
-what about buying a hacker/hitman/gangstalking organization or foreign
-government to do all the hacking and whatnot for you on the dark web? That
-would make sense why they are so brazen and why they won’t stop for
-anything too.
+deciding what to do. Dusty himself recently said buying exploits on the
+dark web is a good way to get hacked, maybe he’s right, but what about
+buying a hacker/hitman/gangstalking organization or foreign government to
+do all the hacking and whatnot for you on the dark web? That would make
+sense why they are so brazen and why they won’t stop for anything too.
 
 Idk, I’m still trying to figure it all out. All I know is they seem to show
 signs of my brother ultimately being behind all this again and again but
@@ -3388,91 +3388,110 @@ have)
 
 They are so sophisticated in how they seemingly don’t constrain themselves
 to just one social group either. Like they seem to span different social
-groups either via taking advantage of rumors or else they really do have
-like undercover people who live double lives or who do only this for a
-living.
+groups either via taking advantage of rumors or via hiring different hitmen
+or else they really do have like undercover people who live double lives or
+who do only this for a living, deliberately across different social
+classes. (Which again makes it hard to track)
 
-I just want to point out that at Rent Dynamics we also hired Russian
-contractors for some of our development needs previously, that could
-theoretically play a factor in all this if it is Russia as well; however,
-it’s hard for me to believe DSR, the Russian company we hired, is now doing
-all this to me in and of itself. It would have had no real reason to tmk, I
-was nice to DSR, but I did express concerns about hiring the Russian
-contracting company in the first place given what I had learned when
-working at Utah State University as an intern including how Russia and
-China would constantly try and hack everything at the university. However
-since then I’ve totally calmed down on everything Russia and I even had one
-of the DSR people on my team myself.
+I just want to point out that at Rent Dynamics we hired Russian contractors
+for some of our development needs previously, that could theoretically play
+a factor in all this if it is Russia as well; however, it’s hard for me to
+believe DSR, the Russian company we hired, is now doing all this to me. It
+would have had no real reason to tmk, I was nice to DSR, but I did express
+concerns about hiring the Russian contracting company in the first place
+given what I had learned when working at Utah State University as an intern
+including how Russia and China would constantly try and hack anything and
+everything at the university. However since then I’ve totally calmed down
+on everything Russia and I even had one of the DSR people on my team.
 
 But whichever foreign power/specialized organization/gang/organized crime
-organization this is–and however they came across me–I really don’t think
-they are just trying to frame my brother Dusty either cuz Dusty seems to
-play right into everything that’s been going on lately himself–to say the
-least. Like it seems like a partnership more than an attempted framing of
-Dusty.
+organization this is–and however they came across me/wanting to attack
+me–I really don’t think they are just trying to frame my brother Dusty.
+Because Dusty seems to play right into everything that’s been going on with
+me lately himself–to say the least. Like it seems like it’s a partnership
+more than an attempted framing of Dusty.
 
-Anyways, I’m just going to be honest as always, what I’m experiencing now
-is what one might expect to experience if a hostile foreign government were
-realistically trying to hack a person’s mind through one or more microchips
-using AI to encode/decode the mind in stages, and to map it all out.
+I guess Dusty could be in on it from day to day, running operations, but
+you would think someone would know about that if that’s really all he’s
+doing at his Ogden recording studio. I guess he could just hire a bunch of
+different people off the dark web and do his music stuff; but then who is
+coordinating it all? That would have to be all dusty does if he really does
+coordinate it all from day to day, and it would have to be a decent chunk
+of all he’s ever done to build up that much capability over his lifetime.
+If Dusty really is coordinating it all on a day to day basis, why hasn’t he
+been caught yet? That’s all I’m saying. That’s why I think it might be a
+hired specialized entity or country, with just mere occasional input from
+dusty.
 
-First I suspect they brute forced my brain by emf/ef/rf-ing me, in part to
-try and make sense of all the different electrical signals within my
-brain/nervous system on a high level, that initial brute forcing lasted a
-period of 2-3 months. I suspect it took that long because I suspect there
-were some variances in their AI due to any variances with my prescriptions
-from day to day. Next they started tapping into my eyes somehow, making my
-eyes either go completely black when they were wide open, or else making
-them begin to just show signs of something going on between the feed of my
-eyes to my brain at nighttimes while they were EMFing me and still getting
-through, it’s hard to explain, that lasted for a period of 2 nights thus
-far at least. Since then they seem to have been targeting me while I’ve
-been awake now, in particular, they keep targeting me when I’m standing up
-peeing now, as if to try and get a signature on whatever happens in your
-brain when you stand up and pee. (You can feel it when they are targeting
-you, they use infrasound and EMF, both of which you can actually feel and
-they always target my head) They seem to be like trying to stop me from
-peeing to be even more precise.
+Anyways, I’m going to be honest as always, what I’m experiencing now is
+what one might expect to experience if a hostile foreign government or some
+highly capable entity were realistically trying to hack a person’s mind
+through one or more microchips using AI to encode/decode the mind in
+various stages, and to map it all out.
+
+First I suspect they brute forced my brain by emf/ef/rf-ing me, in part I
+suspect to try and make sense of all the different electrical signals
+within my brain/nervous system on a high level, that initial brute forcing
+lasted a period of 2-3 months. I suspect it took that long because I
+suspect there were some variances in their AI due to any variances with my
+prescriptions from day to day. Next they started tapping into my eyes
+somehow, making my eyes either go completely black when they were wide
+open, or else making them begin to just show signs of something going on
+between the feed of my eyes to my brain at nighttimes while they were
+EMFing me and still getting through, it’s honestly hard to explain, but
+that lasted for a period of 2 nights thus far. Since then they seem to have
+been targeting me while I’ve been awake now, in particular, they keep
+targeting me when I’m standing up peeing now, as if to try and get a
+signature on whatever happens in your brain when you stand up and pee. (You
+can feel it when they are targeting you, they use infrasound and EMF, both
+of which you can actually feel and they always target my head) They seem to
+be like trying to stop me from peeing to be even more precise.
 
 I can try and delay their overall process of hacking my mind by turning off
-literally all my breakers anytime I have to pee which makes it so I can pee
-in peace–at this time at least–but I assume this process will continue on
-in stages until they are ultimately able to fully map out my whole brain
-using AI. I just don’t know what all stages are left or what awaits for me
-when they get there. However the thing is–I really don’t want to stick
-around to find out.
+literally all of my electrical breakers anytime I have to pee which makes
+it so I can pee in peace–at this time at least–but I assume this process
+will continue on in stages until they are ultimately able to fully map out
+my whole brain using AI. I just don’t know what all stages are left or what
+awaits me when they get there. However the thing is–I really don’t want to
+stick around to find out.
 
 My gut tells me there is definitely a microchip involved here–at least one.
 I get the sense that the microchip is likely powered by my nervous system
 and not reliant on a battery or electrical field. But I’m still narrowing
-everything down. I’ve also tied some of the noise the suspected microchip
-makes to whenever I begin to move around or exert myself physically then it
-will make some noise, I figured that out just yesterday. But it also seems
-to be able to make noise when I was just driving down the freeway in my
-loaner car previously, which is when I initially started to suspect a
-microchip because it started beeping so freaking much at the time, meaning
-it could also have remote activation or tracking capabilities. One thing I
-might do is try to tap into it myself using RF/HF signals, via something
-like the following, or at least listen to the signals being sent in/out
-myself:
+that down. I’ve also tied some of the noise the suspected microchip makes
+to whenever I begin to move around or exert myself physically then it will
+make some noise, I figured that out just yesterday. But I’m sure it’s
+tunable and could be dependent on the surrounding environment. The
+suspected microchip also seems to be able to make noise when I was just
+driving down the freeway in my loaner car previously, which is when I
+initially started to suspect a microchip because it started beeping so
+freaking much at the time, meaning it also seems to have remote tracking
+capabilities. One thing I might do is try to tap into it myself using RF/HF
+signals, via something like the following, or at least listen to the
+signals being sent in/out using something like the following myself:
 
 https://www.amazon.com/gp/product/B01H3T2U7G/ref=crt\_ewc\_title\_dp\_1?ie=UTF8&psc=1∣=A2JO7YP9I9Y3D6
 
 https://worldbuilding.stackexchange.com/a/183591
 
 But I think my best bet for right now is honestly to trust my instincts and
-run. Nothing else I’ve done has worked more than just slowing them down
-slightly thus far. Maybe I should stop trying to get evidence on them/slow
-them down and start trying to save myself. I’ll be able to find out more
-key info anyways at the end of the day if I run as well.
+run. Nothing else I’ve done has worked more than just slowing these guys
+down at best thus far. Maybe I should stop trying to get evidence on
+them/stop trying to slow them down and start trying to save myself. I’ll be
+able to find out more key info about this mysterious entity anyways at the
+end of the day if I run as well.
 
-I’d like to get away from my brother Dusty anyways–he’s scary.
+I’d like to get away from my brother Dusty anyways–he’s scary. Like he
+doesn’t have a conscience. So he does fucked up stuff to people for fun. He
+might have schizophrenia cuz he mainly seems to target his family that I’m
+aware of—even if it is only through hired guns—that only makes him even
+scarier.
 
-The only questions that remain is when to leave, how I’m going to fund it,
-when my passport is going to show up in the mail, what I’m going to do with
-my house and all my current responsibilities, where I plan to initially run
-to, where I’m going to reside when I get there, and then what I’m going to
-do once I’m there.
+Regardless, the only questions that remain is when to leave, how I’m going
+to fund it, when my passport is going to show up in the mail, what I’m
+going to do with my house and all my current responsibilities, where I plan
+to initially run to, how I’m going to get there, where I’m going to reside
+when I get there, and then what I’m going to do once I’m there.
 -- 
 
 Chase Gibbons  / Manager
