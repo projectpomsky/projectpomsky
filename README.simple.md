@@ -11686,9 +11686,86 @@ my dog too btw, so that message from that chick literally made no sense–and
 I rarely even used that account–her english appeared broken as well) Russia
 likes traps it seems.
 
-Please don’t forget to read
-https://docs.google.com/document/d/1KtnfL3WqWM2PGLCSWt1m4RCGprRhlCzhZkuw0psA3-4/edit#heading=h.5pj2htfgtk07
+Keep in mind our democracy was designed during a time when dictatorships
+and monarchies were the norm.
 
+Please don’t forget to read
+https://docs.google.com/document/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAzWHylE/edit#heading=h.5pj2htfgtk07
+
+
+To be clear, I think they might be planning on targeting me again over the
+next few days. Just an incling of mine, one of those situations where there
+might be an opportunity for them.. It’s honestly a nightmare having to live
+like this having to think about what they might have staged and/or what
+they might be planning at any given time—but hey it keeps me alive.
+
+Oddity at Doctors Office the Other Day
+
+So I went to see the doctor the other day to get my prescription refill as
+usual. I tried setting my appointment as quickly as possible to try and
+avoid the harassers from being able to mess with either my sleep or
+corroborate a poisoning beforehand. I opened up to the doctor about what
+had been going on lately, in particular with the jet that targeted me
+recently and how I had now determined it’s not just my brother it’s
+actually Russia. It had been about a year since I started seeing this
+doctor and given the extravagant nature of what has been going on in my
+life recently he decided to issue another drug test just to be safe, only
+this time he for whatever reason decided to have it sent off site to hyrum
+to be processed. I took the drug test and went home. Starting around 3:15pm
+and lasting until around 4:15pm that same day the attackers started
+“rubbing something in” to me or giving me signals indicative of them
+rubbing something in via their directed energy weapons. In particular, they
+were clearly acting like they were happy and they started targeting my
+private area with their directed energy weapons. Knowing how they operate
+and how they’ve consistently tried undermining me with my doctor
+previously, I couldn’t help but assume 1) they clearly have access to my
+doctors offices’ systems, and 2) they either used their access to my
+doctors office systems to change up some records or else they may have
+targeted me with something right before I went in. The reason I didn’t call
+immediately is because they let off at 4:15pm, so I figured if anything
+happened the doctor’s office likely cleared it up by then. Again, I didn’t
+want to overreact but I did take note of the timing in which they started
+rubbing something in to me that day. To be clear, I still don’t know the
+results of that test—I know what the results should be. But I do recall
+feeling a little funny right when I got in there that day. But the results
+shouldn’t be anything extraordinary I know that. I’ll let you know what I
+find out when I see the doctor again. But this is the fundamental issue
+I’ve been complaining about with these guys if my worst fears are realized
+is that they keep setting up pretexts and poisoning me without my consent.
+And now I’m scared they are going to try and use this as a pretext to try
+and kill me before I can get in to see the doctor again. If anybody could
+be capable of doing what I allege—it’s Russia. And Russia is whom I’ve
+alleged has been targeting me, as laid out in this document. I’ve now sent
+a note to the doctor asking them to dig into this further and in
+particular, to check their systems in regards to what may have transpired
+during the times of 3:15pm and 4:15pm this last Tuesday. I now fear they
+may have just stopped rubbing it in around 4:15pm that day to avoid getting
+caught essentially–which is why I’m writing this now. To be clear as well,
+it wasn’t my hat that was giving me hives—it was my prescriptions. They
+disabled my alarm and broke into my room one night leading up to when they
+knew I was getting close to having to refill my prescriptions while I was
+sleeping and they tampered with my prescriptions—as shown here.
+
+
+
+
+
+Notice the timing too. It’s as if they did it in anticipation for my
+upcoming doctors appointment. So since then I’ve been getting hives daily.
+It’s so hard to figure out what the heck it’s from. Because they have put
+poison shit literally everywhere in the past–most of which i still haven’t
+even been able to figure out what it was. So if anything, if there is some
+substance other than what there is supposed to be in that drug test–that is
+the first substance we will have gotten definitive proof of their poisoning.
+Anyways, just figured I’d give you guys a heads up. I’m only one person you
+guys. I can’t win against a foreign intelligence agency on my own. All I
+can do is attest to what happens either directly to me or directly in front
+of me, and use my intuition from there to try and gleen the most likely
+result. I don’t do drugs and I haven’t for a long time–it would be lonely
+doing them all by my lonesome anyways. Like I said I still don’t even know
+the results. Plus what would be the point of doing drugs when I am in a
+life and death situation anyways? It would only put me at that much more of
+a disadvantage as a result.
 
 Chase Gibbons  / Manager
 435-999-4722
