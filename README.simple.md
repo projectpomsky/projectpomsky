@@ -1,5 +1,4 @@
-Notice
-
+Notice 
 
 As of March 10, 2022
 
@@ -7,11 +6,9 @@ As of March 10, 2022
 What Putin is Doing
 
 
-Final Answer
+Final Answer 
 
-
-References
-
+References 
 
 As of March 12, 2022
 
@@ -19,12 +16,9 @@ As of March 12, 2022
 As of March 14, 2022
 
 
-
 Notice
 
-
 To whom it may concern,
-
 
 I temporarily pulled the previous content located in this folder out of
 fear this information might have gotten into the wrong hands. More
@@ -32,20 +26,16 @@ directly, I pulled it out of fear that a certain someone might be trying to
 use my own words to try and divide the US and it’s strategic alliances
 rather than to try and bring us together.
 
-
 If this ever goes to court then it’s best if not everyone sees it
 beforehand.
-
 
 And to be clear, the opinions laid out are/were all my own. The facts laid
 out are/were all personal testimony as to what happened either directly to
 me or directly in front of me.
 
-
 I do not give anybody consent to reference any of my content contained
 herein or previously contained herein in any public media articles or
 public appearances or otherwise, at this time, unless otherwise agreed to.
-
 
 Just know that at the end of the day it’s my information that I worked
 extremely hard on, a lot of which is pretty freaking personal and has
@@ -54,11 +44,9 @@ hometown of Logan; and therefore I can do what I want with my own
 information but I’d appreciate you not actively trying to jeopardize our
 safety.
 
-
 I’ll be re-sharing the previous content to those whom I trust again
 shortly. Everyone else I shared it with previously has been perfectly
 honorable btw..
-
 
 If you want to request access to the previous information in this folder,
 request access at the following link–just do not use it to divide our
@@ -70,19 +58,15 @@ for now you still have got to request access–I’ve got to determine how the
 info may be used both for good and for evil to decide whether or not to
 share it publicly again)
 
-
 https://docs.google.com/document/d/1KtnfL3WqWM2PGLCSWt1m4RCGprRhlCzhZkuw0psA3-4/edit#heading=h.6lpjf7x8jzj
 
 
-
 My apologies for any inconvenience, I appreciate your understanding.
-
 
 #UnitedWeStand #DividedWeFall #IStandWithUkraine #NobodyIsPerfect
 #PutinIsEvilAsHell #BewareOfPsychologicalManipulation
 #PsychologyIsAPowerfulTool #NeverGiveUp #WeAreAllInThisTogether #Allies
 #WeGotThis #ActWeakWhenYouAreStrong #ActStrongWhenYouAreWeak
-
 
 Thank you,
 
@@ -90,7 +74,6 @@ Chase Gibbons
 As of March 10, 2022
 
 [Opinion]
-
 
 I pulled all the content from this original google drive folder which was
 open to public viewing yesterday. I don’t know if it was the right move,
@@ -113,7 +96,6 @@ accountability for once because everyone would know the truth; and maybe
 all this would have been further looked into and further legitimized by the
 American public.
 
-
 So I’m torn on the subject but the last thing I want is to be used by these
 guys to further their information warfare campaign against us and to cause
 strategic divisions amongst our allies at such a critical time. These guys
@@ -127,11 +109,9 @@ the highest levels of our government–which could also prove to be
 undesirable in my view. So it’s a tough one tbh. I don’t want to undermine
 our country but I want people to know the truth.
 
-
 What Putin is Doing
 
 [Opinion]
-
 
 Do you want to know what Putin is really doing? People talk about well
 Putin didn’t plan for occupying Ukraine long term, he’s clearly going to
@@ -157,10 +137,8 @@ to help Ukraine as much as we possibly can. it’s actually been really cool
 to see all the different ways everyone has jumped in to try and help–me
 personally I’ve been helping anonymous where I can, etc)
 
-
 But yea, you’ve got to understand gangstalking to understand how this all
 is ultimately planned to play out.
-
 
 Essentially in gangstalking the attackers ultimately end up rigging it to
 where it literally feels like everyone is against you, just due to the
@@ -193,7 +171,6 @@ being faced with a hard road and an easy road–but the easy road is a trap
 every fucking time–it’s like selling your soul to the devil pretty much at
 best–but it sure is tempting nonetheless.
 
-
 That has got to be Putin’s plan for Zelensky, which is to get him to turn
 on the West essentially. To get Zelensky to work out a deal with the devil.
 That way all Zelensky’s citizens become a non issue for Putin and that way
@@ -211,7 +188,6 @@ us or him–this is everyone’s entire future we are talking about here after
 all. Nobody wants to live under a brutal dictator/organized crime mafia
 ring for the rest of eternity. Also–do something about the Russians now
 targeting our hackers please. If we lose them we will lose ourselves.
-
 
 The shit with the jet airplane is just an attempt for Putin to manipulate
 our president into being submissive if you ask me. If you let him, guess
@@ -242,7 +218,6 @@ in my opinion, to ensure people don’t continue to get radicalized. Because
 that’s what it is–radicalization–just in a slightly different slightly
 easier to reach form, as compared to full blown terrorist radicalization.
 
-
 In a way Putin is targeting our executive branch with his psychological
 manipulation just as much or more than he targets everyone else. It would
 really be wise for everyone making decisions in our government and our
@@ -250,7 +225,6 @@ allies government’s to read/listen to a book or two on “psychology and
 manipulation” btw before determining how to proceed and protect ourselves
 going forward. (i.e. Don’t let their psychological mind control games
 defeat you)
-
 
 I fundamentally now believe that “Hitlerism” is very much rooted in
 psychology. It’s about people realizing the power of
@@ -275,9 +249,7 @@ they can, but conversely that means if Zelensky ever decides to join Putin
 to save his people then he could easily bring other countries with him–I
 promise you–it’s psychology.
 
-
 Two more things I think are important for anyone reading this to know.
-
 
 First, how to accomplish the “thinking 2-3 steps ahead” illusion. The
 Russians seem to be smart and seem to have the ability to think 2-3 steps
@@ -303,7 +275,6 @@ it to further exploit him? I’m just giving an example of how their thinking
 into play here as well though, information is power and it enables you to
 do this reflexive control theory stuff a lot more effectively, the more
 information you have the better.
-
 
 Secondly I want to give you a quick example of how they exploit
 vulnerabilities in anything and everything, and how it’s possible for you
@@ -349,7 +320,6 @@ vulnerabilities—all of which can be exploited–and it doesn’t take the most
 powerful country in the world to find them and to exploit them either—it
 just takes a certain mindset is all.
 
-
 Just wanted to share some lessons learned in case it might help anybody in
 their deliberations. These are all my own personal opinions based on my own
 personal experiences with these guys and how they operate, just know I’m
@@ -365,19 +335,15 @@ although they will adapt and they will continue these same psychological
 baiting tactics each step of the way regardless of what we choose to do. I
 think it will bring us all closer together too—which is key.
 
-
 Final Answer
 
-
 (see google docs comment on photo as well)
-
 
 I think if we want to have a country we’ve got to help Zelensky/his people
 in Ukraine and soon even if it means a proxy war with Russia. We really are
 to that point. That will also help in ridding ourselves of Russian
 assets/proxies/influence. The alternative could very well ultimately prove
 defeat. (References hidden for now)
-
 
 I decided to re-post all this new less sensitive stuff here to try to help
 everyone make their own decisions accordingly, I didn’t want to come off as
@@ -386,7 +352,6 @@ isn’t always pretty but it’s best if we all know both ourselves and our
 enemies so we can make the best decisions possible and so that we can all
 know what is truly at stake.
 
-
 The real question is do you want to be known for being responsible for a
 tyrant possibly defeating the free world to create a new world order
 without so much as a fight? Or do you want to be known for fighting for
@@ -394,16 +359,13 @@ freedom–regardless of what people may say later? That’s the real question.
 My brother hasn’t pulled the nuke card on me yet, I don’t think Putin will
 either.
 
-
 The tide is totally in our favor right now–we’ve got to make the most of
 it. Shit I’ll even put my money where my mouth is and I'll even go help
 fight. (Once i drop the microchip)
 
-
 I’ve now seen evidence Russia could indeed be targeting our hackers now as
 part of a “spread the word to Russians” campaign. (False flag/Reverse
 psychology operation) See references below.
-
 
 Please you guys–we are running out of time. They are putting the pressure
 on Zelensky to fold. He won’t fold if we just stand up to these Russian
@@ -418,10 +380,8 @@ but at least this way our future generations will have a chance at living
 free. We need to come together. The only way we are ever going to come
 together at this point is if we stand up to Putin.
 
-
 I think the Russians are trying to make Joe Biden be the “fall guy” for
 Trump tbh.
-
 
 The Russians are literally banking on us not sending those migs. We need to
 make some concessions to our allies and get them the damn jets.
@@ -439,7 +399,6 @@ guys a signal about our military and the jets the other day—now I really
 need you to believe me about this. I feel highly confident in this final
 determination of Russia’s true intent btw.
 
-
 P.s. You guys, do you want to know my ultimate hope? My ultimate hope is we
 defeat the kremlin and free all the people under its control. The kremlin
 only knows negative reinforcement, they do not know positive reinforcement.
@@ -451,18 +410,14 @@ previously.
 
 🤞🤞🤞
 
-
 Last thought, if we don’t act soon we may never be free.
-
 
 #IStandWithUkraine #AmericaStandsWithUkraine #TheWorldStandsWithUkraine
 #TruthIsStrangerThanFiction #FightForFreedom
 
-
 Thank you,
 
 Chase G
-
 
 🙏🙏🙏
 References
@@ -514,7 +469,6 @@ All those people who died for freedom will have died in vain.
 
 
 
-
 Fixed some stuff in this illustration including the “Probability of
 Overcoming Defeat Overtime” chart, I changed it to make it more accurate by
 beginning it’s decline once Trump took office, and I made it so the top
@@ -536,17 +490,13 @@ that–then we will most definitely regret it later–mark my words.
 
 
 
-
 Link to request concessions by our government on mig fighter jets to
 Ukraine:
-
 
 https://twitter.com/intent/retweet?tweet\_id=1502153102639591426
 
 
-
 As of March 12, 2022
-
 
 I’m doing as well as I can be given the circumstances btw. I could use some
 help disabling this damn microchip like I said and then getting the hell
@@ -557,7 +507,6 @@ means I don’t have to worry about making mistakes nearly as much. It sucks
 they are so far ahead of us and that I’m at such a disadvantage but beyond
 that, I still enjoy it. Take that Russia. The very nature of you coming
 after me is enjoyable to me.
-
 
 Russia is in its final stages of targeting our society and defeating us
 from within. When you think about it from the perspective I’ve laid out,
@@ -576,7 +525,6 @@ also why it’s best for them to piss the whole world off at this time and do
 things that are otherwise unthinkable. Because their real goal is to
 catalogue all of the resistance.
 
-
 I got a vibe from the hackers that this is what Ukraine is really all
 about–before I ever started telling you all about it and before I started
 digging into it further myself. They legit act like they have already
@@ -584,11 +532,9 @@ defeated us to me. And they warn me whenever I’m about to break one of
 Russia’s laws as if I’m now governed by Russia. One of these days, anyone
 who doesn’t fight back is going to regret it for years to come.
 
-
 https://1920.in
 
 https://twitter.com/i/status/1502799750814482438
-
 
 One last thing, I think it would be wise if our military reported some of
 their NSA exploits that the Russsians are now using to defeat us to the
@@ -607,14 +553,12 @@ pay dividends in the long run. And it wouldn’t be risking starting a
 nuclear war or anything–if anything–it would potentially save the free
 world in my opinion.
 
-
 P.s. I opened the original folder back up again for now—please don’t make
 me regret doing so. I still don’t want anyone referencing any of it
 publicly however—without my consent—nor using it to undermine our alliances
 or unity. I’ll be honest. I don’t know what is the best route to take in
 all this. The whole ordeal with my brother seems like it may never goto
 court unless we reign Russia in first anyways.
-
 
 I’m know I’m not qualified to even come close to trying to make a call on
 something of this magnitude really, and I realize I clearly don’t have all
@@ -642,7 +586,6 @@ segments of our society for some time—not just ours but Europe's too—all of
 our democracies tbh—and I would hope our governments would realize the
 significant consequences of them doing so.
 
-
 I’m therefore scared for the free would if we don’t get involved at this
 point tbh. Russia knows we have the advantage in the conventional military
 arena—it also knows they have the advantage in the shadow war arena. That
@@ -659,7 +602,6 @@ Ukraine, Russia is now closing in on Kiev. I guess on the other hand tho,
 trump never got involved with the Kurds but this one feels a little
 different.
 
-
 Anyways, you don’t have to worry too much about me btw, I should be fine
 regardless of what happens. I’m fighting for my country and for freedom
 after all, what could be better than that? (Beyond not having to have to
@@ -670,21 +612,16 @@ well. And I realize how many lives are on the line. But if I’m right about
 Russia anyways, then that many lives are likely on the line anyways. And
 freedom is worth quite a bit.
 
-
 https://drive.google.com/drive/folders/1N4w5q-SJ-2aZXt4iiajGkpBJEa9gHYnU
 
 
-
 As of March 14, 2022
-
 
 My brother is a cold blooded killer you guys. I don’t know if he ever
 deserves being forgiven. I think that’s just wishful thinking on my part.
 I’m pretty sure they just made another attempt at my life.
 
-
 I’m fine. I just need to get out of here.
-
 
 It’s scary cuz they literally think of ways to kill me that they can cause
 plausible deniability and they wait for times to kill me when think they
@@ -697,12 +634,10 @@ tunnel to get in my house and take pictures of my keys when I leave them
 anywhere so that they can then 3D print my various keys as well, including
 the keys to any safe I buy.
 
-
 I would leave but I haven’t been able to disable the microchip yet. So why
 risk going somewhere I am unfamiliar with when I know they will just follow
 me there? That’s opening myself up to another situation where they could
 just kill me and get away with it.
-
 
 To be clear, I am grateful for everybody’s help. I’m just trying to point
 out that we clearly have some problems in our country that need to be
@@ -716,10 +651,8 @@ them interfering with our social media and being behind QAnon previously,
 and based on my brother’s desire to get rid of me, etc. And yet they are
 completely determined to kill me now.
 
-
 It’s as if we already don’t have freedom of speech in some regards–which is
 just infuriating tbh.
-
 
 To be clear, Dusty does deserve being locked up for the rest of his life in
 my opinion–regardless of what I may say at any point in the future. He’s
@@ -729,14 +662,12 @@ thinking–Dusty really deserves the death penalty tbh–maybe life in
 prison–whichever he wants less is what he truly deserves. Plus I really
 don’t think he’s ever going to do the right thing at this stage.
 
-
 One last thing, I was watching this youtube video just barely made by
 Alexei Navaly, one of the guy’s Putin locked up fairly recently, (
 https://www.youtube.com/watch?v=T\_tFSWZXKN0) and the hackers started
 prohibiting my internet access as soon as it got to the part where it was
 explaining how Putin’s palace was funded through bribes, etc. I took two
 takeaways from it.
-
 
 
  1.
@@ -763,19 +694,16 @@ our allies’ countries and it’s about democracy itself. I just don’t want t
 see us continue making the same mistakes nor get defeated is all. In a way,
 we all rise and fall together.
 
-
 I have since changed my mind on intervening in Ukraine with the jets. See
 this video:
-
 
 👇👇👇🤙
 
 https://www.youtube.com/watch?v=xguam0TKMw8
 
-
 Someone should show Trump supporters this video. It’s clear if we get along
-we are a lot less likely to have anyone challenge us.
-
+we are a lot less likely to have anyone challenge us. Biden needs to work
+on the inflation part of it as well.
 
 We need to watch inflation closely to avoid falling out of our dominating
 status and we need to avoid getting involved in wars to avoid another
@@ -794,13 +722,11 @@ cannot fight another world war right next to Russia and China, so I’ll
 admit I was most definitely wrong on that one. It really is a battle of
 good vs evil.
 
-
 Ukraine is doing pretty darn well without the fighter jets all else
 considered. No use giving them jets and risking starting another world war.
 However I will say–we should condition Russia to talk to us diplomatically
 rather than constantly sending us “signals”. The “signals” are complete bs
 tbh. Talk to our faces and quit being scared. Just sayin.
-
 
 Again just wishful thinking on my part that we will ever be able to truly
 stop Putin’s mafia’s aggressions. So my apologies for my having a lack of
@@ -810,14 +736,12 @@ whole government is essentially a mafia that operates globally. It’s nuts.
 I’ve been encouraging anonymous to make sure they remain anonymous when
 targeting Russia lately for this reason.
 
-
 Anyways, if you’ve learned one thing about me throughout all of this it’s
 that I am extremely honest. I say what I think at the time for the most
 part. Some of it is right, some of it is wrong, but the overall theme of
 what I say is normally at least pointed in the right direction especially
 if I’ve maintained the same viewpoint overtime, and I really do just want
 to try and do what’s best for both my family and my country.
-
 
 We really are all in this together as democracies anyways. Like Putin has
 been undermining all of our democracies in similar ways, and while it may
@@ -826,28 +750,22 @@ freedom and it can be easy to take it for granted sometimes, but at the end
 of the day we shouldn’t. Because freedom is everything. I can’t imagine a
 world led by someone like Putin tbh. I wouldn’t want to play a part.
 
-
 I hope my feedback has helped. I noticed we are working on passing a law in
 congress to make it required for businesses to report when they’ve been
 hacked to the government–which is a huge step in the right direction as
 well.
 
-
 I can’t imagine having a high level government job, that must be so
 stressful. But you guys are honestly doing a really good job at it, all
 things considered. It’s definitely a balance though that’s for sure.
-
 
 One last thing, and I’m sure we are researching it ourselves. But these
 guys have taken infrasound and electromagnetics and nanotechnology to the
 next level. We should look into doing all that ourselves.
 
-
 https://www.youtube.com/watch?v=m\_SqYNWgs58
 
-
 Part 2
-
 
 You guys, if my brother Dusty manages to give me cancer, like I suspect
 he's been trying to do–I’m going to have a really hard time restraining
@@ -856,25 +774,7 @@ But like no seriously–sometimes I want to deck him so fucking hard it’s not
 even funny. I realize that’s not in my best interest to ever go after him
 if I want this case to ever be prosecuted. But I just found more poison
 shit in my hat for instance. It gave me hives every fucking day I put my
-hat on only I didn’t narrow it down to my hat until just today. I got so
-much evidence left over from just his attacks against me. Idk, it’s no
-wonder why he was so scared when I tried going down to his recording studio
-after the first time he poisoned me–he was scared I was going to give him a
-taste of his own medicine–quite literally. One of these days Dusty better
-fucking be prosecuted is all I have to say. Because at this rate, he’s
-attempted to poison me like 40+ times or more–and he’s still not locked
-up–those are pretty good odds if you ask me. I try to be better than that
-but if he’s going to kill me anyways, it’s kinda like self defense in a
-way–assuming again that he succeeds in giving me terminal cancer. Just a
-warning to all, if I get cancer in the near future and you think it’s best
-for Dusty to stay free then I need someone to let me know cuz this shit is
-getting ridiculous. No citizen should be able to poison people like that
-without getting caught and he poisons me and my family repeatedly. And he
-even sends a damn jet airplane out to emf me. Last I checked nobody is
-supposed to be above the law. Things like this alone could cause complete
-breakdowns in our society. Joe Biden was left with a lot of work to do
-that’s for damn sure.
-
+hat on only I didn’t narrow it down to my hat until just today.
 
 You have no idea how much patience and faith in law enforcement it takes to
 not retaliate in any way. I’ve given Dusty the benefit of doubt repeatedly
@@ -885,19 +785,67 @@ become aware of all these things and take actions to avoid it. So
 essentially them coming after me to begin with has been and will ultimately
 prove to be the seed of their own demise.
 
+Part 3
 
-Chase Gibbons  / Manager
-435-999-4722
+K so I just thought of something. I could be off but I feel like it
+actually fits quite well. What if this whole ordeal is actually meant to
+convince you all that democracy is actually sub-par to communism? Like
+seems how they keep doing this shit that is pretty obvious its them doing
+it but given the way our laws are structured, it makes it a lot harder to
+bring charges against or prosecute? What if they are really just trying to
+convince the broader population not only that communism is better but that
+communism is already inevitable for us essentially? Hear me out. I thought
+of this because for one, I realized the timing of when Dusty went missing
+previously, it was right after I called him out for essentially flipping
+his political affiliation right when he started coming after me. If this
+really is/was their goal then that would make sense because they know that
+as soon as you know my brother is playing you in regards to his political
+affiliation then that would be counterproductive to what they are trying to
+do. In addition, it fits in the sense of my family’s past history and just
+the notoriety of it all. It makes it so they could try and manipulate a
+large audience into losing faith in things like our freedom from search and
+seizure, right to stay silent, our democracy in general, etc, etc–all at
+once. It also fits in that I think that’s what they were trying to do in
+sharing this with Ukraine tbh. Now that’s some psychology for you.
 
+I specifically recall them being touchy about both political affiliation
+and the time I said I prayed–which I did but they didn’t like it as if
+their really trying to target you.
 
-PO Box 747Logan, UT 84321
-gfic.io  
+Let me give you my counter arguments to that just incase that is what they
+are ultimately trying to do. First, this wouldn’t be happening if a foreign
+country weren’t trying to interfere with our politics. It also wouldn’t
+happen with so little concrete evidence if it were being carried out by
+anyone else besides a sophisticated foreign government. There would most
+definitely be more mistakes made by anyone who doesn’t have all the
+resources these guys have. Which disqualifies the notion of communism
+potentially being better than democracies based on what’s happened here
+right away in my view. That would be like us corrupting some foreign
+communist leader and having him convince his people that democracy is
+better. Second, imagine if the person with the best relationship with the
+boss/leader always won in cases like this–that would mean I would be
+completely and totally screwed. I wouldn’t even have a chance I mean. It
+would mean people like my brother could kill whomever they wanted without
+repercussions essentially–not based on what they know but based on who they
+know and how corrupt they are. Third, I’ll just say that the first officers
+I spoke to about all the EMF stuff I think actually did mainly just take my
+word for it and I think they were able to get some kind of warrant based on
+my word alone. So it’s not impossible in a democracy to do things like that
+I don’t think.
 
-[image: Mailtrack]
+I’ll admit, I can do a better job myself at not feeding into this potential
+narrative myself, I always get caught in their damn traps tbh—not
+intentionally but just because they have such an advantage over me and
+because they switch up their false flags behavior from real meaningful
+behavior constantly. Bottom line is any non foreign superpower would have
+made more mistakes by now and this wouldn’t be happening if they weren’t
+trying to interfere in our country to begin with. And if it did still
+happen—Dusty would have been totally busted by now.
 
-Sender
-notified by
-Mailtrack
+Me personally, I like being given my fair shot at justice—even if the
+wheels of justice turn exceeding slow. I apologize what I said earlier btw,
+sometimes I just get heated in the moment.
 
-03/14/22,
-05:36:49 PM
+To be clear, dusty is still involved he’s just not as obvious about it
+these days. I get tired of their “shows” they put on using real peoples
+lives tbh.
