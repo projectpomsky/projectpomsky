@@ -73,6 +73,72 @@ More on the Microchips
 My superpower💪 === Ability to see through people 👓
 
 
+As of March 22, 2022
+
+
+Status Update
+
+
+Hacker People
+
+
+My Brother
+
+
+As of March 24, 2022
+
+
+Doing the Unthinkable
+
+
+Russia is Root of ALL Our Problems
+
+
+As of March 26, 2022
+
+
+Gangstalking
+
+
+If It Helps
+
+
+As of March 28, 2022
+
+
+I’m Now Out of Time
+
+
+As of March 30, 2022
+
+
+Be on the lookout for possible Russian EMF satellite targeting US
+
+
+As of April 2, 2022
+
+
+As of April 3, 2022
+
+
+As of April 7, 2022
+
+
+Recent Triggered Alarms
+
+
+As of April 8, 2022
+
+
+My Own Personal Trust’s New Amendment
+
+
+Busted For Changing What I Wrote Just Barely
+
+
+As of April 10, 2022
+
+
 
 Notice
 
@@ -1695,18 +1761,18 @@ I’ll try to keep it short.
 
 I went to the doctor today and they didn’t say anything about my drug test
 so I’m assuming that was another attempt from the attackers at discrediting
-me and/or another false flag operation. Meaning the attackers didn’t tamper
-with my drug test that I’m aware of after all. Keep in mind though that the
-attackers always do shit that is like uncomfortable for both parties, so
-it’s possible the hackers did mess with my doctor’s systems and my doctor’s
-office figured it out–idk–probably not–but it’s possible. If that did
-happen would they want to say anything about it to me? Probably not. But
-for now I’ll just assume that was another false flag operation on the
-attackers part, my doctor’s systems are NOT hacked, for the sake of not
-making them look bad, and yea my drug test was as expected. But to be
-clear–DO NOT let that make you think for even a second that these guys
-don’t have the capabilities of hacking anybody and everybody–because they
-do–and they pretty much already have.
+me and/or another false flag operation the other day. Meaning the attackers
+didn’t tamper with my drug test that I’m aware of after all. Keep in mind
+though that the attackers always do shit that is like uncomfortable for
+both parties, so it’s possible the hackers did mess with my doctor’s
+systems and my doctor’s office figured it out–idk–probably not–but it’s
+possible. If that did happen would they want to say anything about it to
+me? Probably not. But for now I’ll just assume that was another false flag
+operation on the attackers part, my doctor’s systems are NOT hacked, for
+the sake of not making them look bad, and yea my drug test was as expected.
+But to be clear–DO NOT let that make you think for even a second that these
+guys don’t have the capabilities of hacking anybody and everybody–because
+they do–and they pretty much already have.
 
 I didn’t mean to come off wrong on the investigation assumptions piece, to
 be clear–I have no insight into what the police are doing whatsoever beyond
@@ -1742,7 +1808,17 @@ still all buddy buddy with Russia. Israel is known for developing super
 advanced malware and selling it for tons of money to foreign countries. But
 regardless, I’m telling you that both our government’s malware and the
 attacker’s malware are very alike–and I’m absolutely positive these guys
-have managed to steal at least some of our trade secrets previously.
+have managed to steal at least some of our trade secrets previously. P.s. I
+do sometimes fear with all their manipulation that they may have played man
+in the middle and intercepted some of my key communications to some of our
+officials–so I do worry about that as well. Because they do do that on
+other things. But if they did do that when sharing this with our officials
+then they snuck it past me. Before I leave I plan to ask you all who are
+reading this to share parts of this that you find compelling with our
+government officials yourselves just so I can feel like I have literally
+done everything and so I can rest assured that our government has been
+notified. I think that would also be cool to see what you guys think is
+most compelling and to have it put in your own words to them.
 
 Okay so with that said, I realize it goes both ways and this shit is
 concerning to you guys in regards to my mental state as well. I want to
@@ -1809,6 +1885,8 @@ my alarm was set off this morning around 7:30am while I was asleep via that
 motion sensor in the attic. No idea what happened. I didn’t even hear it or
 know my alarm had been triggered until I woke up later.
 
+Hacker People
+
 Hey you hacker people–please don’t underestimate these guys’ ability to
 even somehow implant malware into this very google docs file somehow that
 is somehow able to infect you without your even downloading it. I have
@@ -1825,8 +1903,1598 @@ them being able to do what I just said btw, I just fear the worst and try
 to use my intelligence and then I hope for the best that’s all. I work on
 moving all this to github just to be safe.. (For real this time, sorry guys
 I have a huge backlog of things that can be done–it’s all a matter of what
-takes the most priority)
+takes the most priority) Or perhaps more realistically–be careful when
+clicking on any links located in the google doc file to sites that aren’t
+well known. So like that link to 1920.in for instance. I swear to god that
+one is a trap. They can do shit like this just from you visiting a website:
+(Again, be careful)
 
+http://samy.pl/webscan/
+
+https://samy.pl/natpin/
+
+That samy guy is good btw. And that’s without any super sophisticated 0days
+just found on the internet by me one day when looking around recently–I
+actually found it by digging deeper into one of the rf hacking youtube
+videos I shared previously–and these guys actually have 0days–seemingly a
+lot of them–I assure you. If I weren’t completely gangstalked and whatnot
+right now–I’d work on developing some sort of tool for the average
+person/hacker to be able to tell whether or not they are hacked using
+everything from scanning of internal and external networks to port
+monitoring to arp monitoring to packet monitoring and replay functionality
+to machine learning to easy setup without having to be a freaking security
+expert to behavioral analysis to–you know just like a kick ass all
+encompassing intrusion detection/prevention system geared towards the home
+user–without dollar signs being the motive behind it like every other
+vendor does–in reality the motive behind it would be straight up freedom
+and to help save our country. I could still charge for it but the
+difference is every other company who develops something that nice ends up
+only targeting huge corporations with their products–leaving us normal
+people exposed–and us normal people is who Russia primarily seems to be
+trying to corrupt and manipulate–in addition to all the corporations but
+they get in through people like us. But yea, it’s on my bucket list ;)
+
+My Brother
+
+If you want to go into the belly of the beast and if you want to attempt to
+hack my brother, his name is Dustin Timothy Bay and he lives at 3655 S 635
+W Ogden, UT 84405. Not suggesting you should–just sayin. I only say this
+because like I just found out even my yubikey can technically be hacked
+which just makes it so like literally everything can be hacked–I’m not
+saying they have succeeded in hacking my yubikey cuz apparently it can take
+up to 10 hours of them having access to your yubikey per account to hack
+but that was my main last hope and finding that out just barely is just
+devastating. It means if they did so then all my stuff I worked so hard to
+prevent them from accessing–they could still access. And it just makes it
+so literally everything is so heavily weighted towards the hackers over the
+hackees in every single case–even that much more now. Even a super skilled
+hacker can be hacked regardless of their defenses is what I’m saying. And I
+promise you these guys got some really good malware. Multiple 0days if I
+had to guess–and that’s not even exaggerating. They are working on behalf
+of Russia too based on everything I have found, which is also a pretty big
+incentive I might add. Plus you might help save our country like
+for-real–and I know I would appreciate no longer being gangstalked anymore
+that’s for damn sure. But yea, be super careful and use like layers and
+layers of anonymity if you do. Last I was aware of he uses Macs. Just fyi..
+If I weren’t in this position that;s what I’d do–cuz it’s like you not only
+get access to all his automated 0day malware but you get access to
+everything he has gotten access to previously–which is a lot I’m telling
+you. It’s like you jump from a small fish to a megalodon in the ocean just
+like that. He probably tries to keep his most valuable stuff pretty hidden
+and out of sight tho. I cannot be held liable if you do, I'm just
+fantasizing that’s all.. :)
+
+As of March 24, 2022
+
+They “baked” me again last night. I can feel the “sun burn” on the lower
+part of my body which wasn’t protected by lead as I slept. They are trying
+to give me cancer. They seem to want me to go after my brother. Probably
+because he knows he’s fucked at this point.
+
+I didn’t realize it was the NATO meetings today or I would have waited to
+say that.
+
+Doing the Unthinkable
+
+[Brainstorming]
+
+Seems how someone seemingly shared this with some of our allies, might as
+well make the most of it.
+
+Alright guys here is the situation as I now see it.
+
+Things are kinda going the way I thought. Zelensky is now questioning
+whether or not NATO can “maintain world peace”--and I don’t blame him.
+
+There’s a few ways I can see us looking at this. For one, we’ve got to
+realize we can’t trust everybody anymore because Russia and China have
+gotten a head start on us in doing shit the easy way, the incremental way.
+(i.e. they’ve been corrupting our citizens incrementally–which is a lot
+less traumatic than like a full blown war–but ultimately it is just as
+effective long-term as full blown war nonetheless) As for me I mean I’m
+totally trying to do what’s right, I’m not an actor, I’ve never been an
+actor, but even still they may manipulate me in ways which make me respond
+in ways meant to manipulate you in ways of their choosing. So we got to
+look out for that. That could be the same thing that’s happening to
+Ukraine, idk. I get the sense it is a very similar situation playing out
+with Ukraine where they are essentially “gangstalking” Ukraine, and Ukraine
+isn’t acting, but even still Ukraine’s reactions are going to be
+predictable from the attackers perspective. And they are simply exploiting
+their reactions to show the world NATO can’t keep us safe using reflexive
+control.
+
+So what do we do about it?
+
+Well like I said we are behind. The best thing would have been to
+incrementally corrupt the communist leaders and whatnot as well a long time
+ago. And just to be clear I can’t be the one who comes up with the ultimate
+solution because whatever I come up with they’ll just begin to watch out
+for and block. But I do want to use this opportunity to at least come up
+with some ideas.
+
+Alright so just to get this out of the way, Russia has some of the most
+advanced electromagnetic control weapons on the planet and they are able to
+essentially make us all be more docile or more aggressive using their
+electromagnetic control weapons without us even knowing it–so we need to
+watch out for that. I’m not even exaggerating. (Elaborate on previous video
+shared here and how all our cells can be impacted using electrical signals)
+
+What they are tapping into is literally like evolution on a cellular level.
+It impacts how all our cells function. We are fundamentally energy and the
+particles in us are mostly made up of air and the electromagnetic
+properties of electrons and protons within our atoms. That’s something my
+brother actually taught me previously. (I probably didn’t say it correctly
+but hopefully you get the point) Bottom line is Russia also now has this
+extremely effective long range mind control weapon–that has been proven to
+be able to impact people’s desires to even want to live or not from what I
+gather. And during a trial run previously some organization in Canada
+actually tracked it being used against certain citizens within the US and
+Canada from across the globe. And therefore we just need to be cognizant of
+the potential that Putin is directing these electromagnetic fields at our
+populations on purpose, particularly anybody who is hacked, and
+intentionally sending these waves our way to make us feel down and/or feel
+like not wanting to fight back. These Russians love mind control that’s for
+damn sure–and that’s one form of mind control that can be used on a broad
+level.
+
+But yea, in my view, we first define the problem and the constraints.
+Here’s a preliminary attempt at me doing so. We need to figure out how to
+deal with the existing corruptees in our countries without tearing
+ourselves apart, we need to figure out how to close off all the ways the
+Russians are getting in to manipulate and corrupt more and more of our
+citizens, we also need to figure out how we can effectively exploit them
+back, we need to figure out how to best combat the present threat to the
+global order, (aka how to save Ukraine) we need to figure out how to remain
+united despite the inevitable reflexes Ukraine is going to go through, we
+need to figure out how to do so in a way that doesn’t make communism look
+like the saving grace, and we need to figure out how to then make sure this
+never happens again.
+
+As for closing off ways they are getting in, we have become a little too
+open and they are exploiting that fact, if you picture a bell curve with
+total communism on the left and total freedom on the right we need to go a
+little more to the center. Or at very least we need to do more to make it
+harder for ppl to create new social media accounts without any real
+verification. Or else we need to make laws that require companies to make
+their platforms so that strategic adversarial abuse is not possible.
+
+When you think about it–they have to corrupt literally everybody whereas we
+just have to corrupt a small few. But the problem is if they have corrupted
+even one person who is critical to a certain vote for instance, then they
+can throw off that whole vote in their favor.
+
+Technically we are a lot alike on the levels lower than the main heads of
+state. Like I’m sure a lot of Russian companies also hold votes and whatnot
+and could theoretically be corrupted in the same ways as our companies–vote
+or no vote–everybody likes money and doesn’t want to go public with the
+fact that they’ve been hacked/exploited. And if we corrupted a bunch of
+their companies then we could theoretically get to a point where we could
+begin to impact their heads of state–but targeting oligarchs might be a
+quicker path. The only problem is time. They have a head start on us and it
+takes time. So that won’t work right now, but it is a valuable lesson for
+the future.
+
+Media is key in both societies and I have seen how we’ve been going after
+their media lately which is a plus.
+
+One idea I have is to start treating them like the alliance they are and to
+start punishing them accordingly. China, Russia, Iran, and North Korea. For
+the actions of one we punish all of them.
+
+We need to exploit communism. How might we exploit communism? And in short
+order? While staying united? And maintaining our reputation in the world?
+
+The only way out right now that I can see is if we go to war. That will
+keep us united. That will avoid the world from losing faith in whether or
+not we can keep it safe. Plus we have an advantage if we go to war with
+them in that our conventional military is better than theirs. It will make
+it so people actually want to fight. It will make it so all the proxies
+won’t want to support Russia anymore–or else they’ll be forced to choose.
+The “safe” way in this case is a losing way. We are too behind already. We
+can’t win going the “safe” route at this stage. We can’t lock up half our
+population after all–that would rip us apart. We need to figure out a way
+to get the proxies to not want to be proxies regardless of cost any longer.
+We’ve got to change up the game to what we know best and tilt the board in
+our favor by making them fight our more dominant military vs allowing them
+to continue exploiting our citizens. Yea theoretically it could end in the
+end of the world but I don’t think China would allow that. This is just me
+brainstorming, please work with me..
+
+We’ve got to do what’s never been done before and goto war against a rival
+nuke holder to get out of this mess we are in—regardless of whether it is
+on the other side of the planet or not. World war is world war—it takes
+place globally. Plus if we are really all “one” under nato, that means this
+really is all taking place at our doorstep already.
+
+I can’t say that we will still be the top country once the war is over due
+to potential inflation, but I do think we will have a lot better odds at
+still being one of the top countries. Whereas if we continue on the path we
+are on—I have no doubt the communists will ensure we are nowhere near the
+top country when it’s all said and through. I’d much rather have a Britain
+style ending to global dominance vs some other global power’s ending whose
+ending came about from straight up defeat by a completely different
+ideology.
+
+It really is democracies vs communism. Do you really think if the
+communists win they will allow a single democracy that is not just a puppet
+democracy going forward? Yea right. Communists are ruthless. They are
+murderers. They side with criminals. They seek power and world domination.
+Maybe we should start being just as aggressive as they are.
+
+When you think of our global order in the future, say 200-2k years from
+now, what do you picture? Do you picture more like the dune type emperor or
+do you picture something else? Those types of questions are being answered
+right now. Because either the communists will win and we will likely remain
+communist for pretty much forever or else democracies will win and with any
+luck, we will implement new laws and education and whatnot which ensures
+not only that foreign agents can’t be elected president, we will teach all
+our citizens up on psychology and manipulation so we will be able to see
+through all their manipilation going forward, (it’s not just about
+nazi-ism–it’s about psychology and manipulation and exploiting weaknesses,
+etc) with any luck we will forever remember just how close we came to
+losing our freedom and we will hopefully then have enough precedent to
+truly ensure this never happens again. We would also win over some of the
+existing smaller communist societies or just do away with them altogether
+this time seems that’s what they want to do with us. (By do away with them
+I mean force democracy upon them to prevent them from trying to take over
+the world ever again–by them doing away with us I mean they legit want to
+do away with us) And then you might picture some highly intelligent alien
+democratic order in the future from now, what movie shows that future
+instead? I know there’s at least some movies that show democratic orders in
+the future, I’m just not good with movies and I’ve seen dune recently. Oh I
+think Star Wars, some of those sects have democratic orders. Even on dune
+the good guys were I think democracies.
+
+This really is good vs evil. And we really might have to consider doing the
+unthinkable at this stage.
+
+Joe Biden even actually finally said it today–Putin has his eyes on us. And
+I guarantee you Putin is working on behalf of China because Russia is in no
+position to lead the world order going forward. Nobody uses their currency.
+Best case for them is they become China’s “Oligarch” or a China ally with
+special privileges as I said.. Even though Russia is pretty much the
+mastermind behind all of this.
+
+https://www.c-span.org/video/?518970-1/president-biden-meeting-eu-council-president
+
+
+What might be best is to divide their “shadow alliance” to get a leg up in
+this “shadow war”. You know, the alliance among Russia, China, North Korea,
+and Iran. Divide them like they are trying to do to NATO currently. One way
+to do this is to point out the fact that best case scenario Russia will
+still only be China’s bitch. (Excuse my language–just making a point)
+
+We could also exploit the fact that the right in our country literally
+hates China, thanks in part to Russia and their little “good cop, bad cop”
+skits.. So just informing the right that they are really working on behalf
+of China would be huge. (i.e. Make them regret their past manipulations of
+our people lol)
+
+All I’m saying is if we are going to act we might as well do it while
+Ukrainians are still with us. Because they are pretty badass and they are
+truly legendary. If they get defeated then morale is going to plummet
+across the world big time. I really do feel they are completely genuine as
+hell and they are fighting this war for freedom for all of us right now.
+
+P.s. Some people have already been corrupted–on all sides and likely within
+key positions within all of our countries–please remember that. The average
+joe who has been corrupted isn’t the worst person in the world either, they
+just were exploited and forced to choose between either their own well
+being or else the well being of the group–and they just so happened to put
+themselves first that’s all. That’s why we could all learn quite a bit from
+Ukraine tbh. We need to stop putting ourselves first and it would break the
+spell. We need to lead by example with NATO and put NATO first and our own
+countries second–not just in words but in actions. You can tell this is
+what Russia fears the most because there has even been a new right-wing
+talking point that has surfaced recently about the “new world order”--which
+is completely not based in fact. That video I shared previously about
+changing world orders and China being next is actually based in fact. I
+think the right is referring to NATO being the new world order or
+something. Which just doesn’t make any damn sense. NATO has been around for
+decades. Again, they are accusing others of that which they plan to do
+themselves.
+
+We need to start thinking of our countries and our people like they are
+computer systems that need protected. And propaganda and misinformation and
+whatnot as viruses that need to be exterminated. That’s how Russia and
+China view their countries and their people from what I gather. (Except we
+shouldn’t go as far as they have gone–like they could care less about their
+people) But the protection part is key because society as a whole is very
+much like a computer network or information system.
+
+Russia is Root of ALL Our Problems
+
+Russia can even use its secret electromagnetic weapon to start wildfires
+from across the globe apparently. 🔥 🔥 Supposedly they can even use it as
+a kind of shield. (Not sure how effective it is tho) Have you ever wondered
+whether someone is deliberately starting some of these wildfires in
+California/the western US? I have. The fires in California even affect us
+in Utah like hardcore. I’m telling you guys that Russia is at the root of
+all of our problems as a country. From all these mass shootings to funding
+organized crime to funding terrorists to gangstalking our people to
+silencing our whistleblowers to likely some of the planes/helicopters that
+crash to corrupting our people to dividing our people to corrupting some of
+our military to starting wildfires to placing bombs in parks to providing
+hitman for hire services to the insurrection—Russia has played a role in
+all of it. What is even left that has been an issue lately? Hurricanes? Who
+the fuck knows whether their secret global electromagnetic weapon is
+partially responsible for those as well. There seems to be a lot more
+hurricanes that hit us than any other country lately I will say that. We’ve
+got to get to the root of some of these issues otherwise we’ll just keep
+having to endure more and more hardship.
+
+They finally admitted it. Russia has implanted malware into some of our
+systems. I just saw them admit it. Thank you. Yea it sucks but the first
+step to solving any problem is recognizing the fact that it exists.
+
+You guys–Russia is planning something big–I just know it. When the threat
+of nukes stops countries from responding with their conventional militaries
+in times of conflict–that means we have got to invest more in non
+conventional military techniques–just like Russia has apparently been doing
+for a long time. Cuz otherwise we are left almost completely defenseless
+and unable to maintain world order.
+
+As of March 26, 2022Gangstalking
+
+Alright so imagine this.
+
+Seriously imagine this and think about each of these things next time you
+are doing the same thing yourself.
+
+It’s difficult for me to look and behave normally these days for the
+following reasons.
+
+Okay so imagine the prospect of getting in the shower. You’ve got to get in
+the shower. To most people, it’s no big deal. To me—it is a huge freaking
+deal as with everything. Imagine using your body wash not knowing whether
+or not there is some substance added in there meant to do harm to you and
+which gives you hives. Same for your shampoo. Same for the very water
+coming out of the spout itself. Same for the bathtub itself. Same for the
+floor leading up to the bathtub. Imagine doing everything in your power to
+ensure you don’t have to worry about all this shit going forward only to
+have every single thing you do be countered and them getting past your most
+stringent countermeasures regardless of what you do. They are trying to
+make me look like I don’t shower with this one—by making it difficult as
+hell to shower and by putting poison shit in all my body washes, etc, to
+where I am actually negatively reinforced whenever I do shower unless I do
+literally everything right including buying brand new soap and body wash
+right before I shower or else using brand new soap and body wash that is
+clear that it hasn’t been tampered with previously. I’ve been buying the
+personal ones lately, but even with a lot of those, there’s no seal.
+Meaning they can still tamper with brand new body washes before I ever use
+them–even if I store them in my safe.
+
+Imagine brushing your teeth and having it hurt your teeth more than it
+helps. This one has a direct link back to my brother–he was accusing my mom
+of something similar but in reality he was telling me what he was going to
+do to me come to find out. This one is meant to get me not to brush my
+teeth or else face potential tooth loss if I do. (Unless I buy brand new
+sealed toothpaste and toothbrush each time which I’ve been trying to do)
+
+Imagine putting everything in your brand new 3rd safe you just bought. Safe
+right? Wrong. They use their tunnel to get in and take a picture of my keys
+when I’m busy in the other room and then they are able to 3d print keys to
+access my safe while I’m away. And if I buy a combination safe they’ll just
+use their x-ray vision to watch the combination.
+
+Now imagine the prospect of trying to find new fresh clothes and having to
+worry about them tampering with those as well and putting this shit on them
+that makes you break out in hives.
+
+Imagine the prospect of taking a nap. Most people it’s no big deal. To me
+if I take a nap without completely locking myself in my room and faraday
+cage and triggers in place to tell whether they got in or not while I’m
+asleep—then it’s a potential death sentence for me. They will use their
+electromagnetic energy weapon to change the polarity of my brain to sedate
+me then they’ll come get access to my prescriptions right out of my pocket
+and tamper with them via their tunnel—and that’s assuming they’ll even
+allow me to fall asleep elsewhere in the first place. Sometimes they
+deliberately try and make me fall asleep–other times they deliberately try
+and keep me awake. Just depending on what it is they are trying to do at
+the time and how exposed I am, etc, etc.
+
+Imagine the prospect of using the restroom. Having to dodge their
+deliberate attempts to target you whenever you use the restroom as if they
+are trying to condition you not to eat anymore just so that you don’t have
+to deal with their harassment when using the restroom as often. I think
+they specifically target me while using the restroom both for the trying to
+make me skinny reason and because that’s one of the reasons one wakes up at
+nights randomly. So them getting the signatures of my brain needing to use
+the restroom further ensures they won’t get caught when sedating me and
+tampering with me during the nighttimes going forward essentially.
+
+Imagine getting ready to leave the house. No big deal right? Wrong. Huge
+freaking deal. I’ve got to make sure literally everything is in place, and
+half the time I encounter something or other that suggests they have
+compromised another one of my countermeasures making it so I have to then
+reset my phone or reset my network or reset my security system or buy a new
+one just to have even like 50 percent confidence that they won’t get in my
+house while I’m away, etc, etc.
+
+Imagine trying to do everything in your power to keep them off your devices
+only to fail every single time. Their malware I swear doesn’t even go away
+when completely resetting the operating system. And whenever I do have a
+new computer or what have you then they can just use their x-ray vision
+and/or electromagnetic technology to view my keypresses/view my screen, and
+when paired with their tunnel they can just get in and tamper with the
+hardware directly in person–which no hardware can be immuned from direct
+physical access.
+
+Imagine doing everything in your power to disable their damn microchip(s)
+to no avail.
+
+Imagine going to sleep at night. No big deal right? Wrong. I’ve got to
+sleep in a faraday cage. I’ve got to make sure my whole freaking house is
+locked down. I’ve got to make sure I am literally locked into my room with
+triggers on the door to let me know if they get in while I’m asleep. I’ve
+got to make sure I am protected from their emf’s, gas, and infrasound–which
+is impossible to be fully protected from all 3 btw. They’ll even put their
+poison shit on the sound proof foam to where if I fall asleep surrounded in
+sound proof foam then I’ll wake up with this strange substance on my hands
+and arms and on any exposed skin essentially, which can give me hives as
+well. I’ve got to make sure they can’t access anything of value like my
+prescriptions, vape juice, etc, etc, while I’m asleep, I’ve got to try and
+make sure they can’t make me sleep indefinitely nor keep me awake by
+protecting myself sufficiently. I’ve got to make sure my home security
+alarm is on and not hacked so they don’t tamper with other parts of my
+house while I’m asleep. Lately they’ve even been triggering my home
+security system intentionally to make it so it actually frustrates the
+police. I’ve got to make sure my regular alarm clocks are on and not
+connected to the internet otherwise they can just disable them through all
+their hacking while I’m asleep. I’ve got to make sure they haven’t added
+any new hardware to anything which doesn’t connect to the internet by
+default which makes it so it is connected to the internet for their
+tampering. I’ve got to make sure I block all air gaps that sound can travel
+through without suffocating myself, etc, etc.
+
+Imagine the prospect of getting a new place to get away from their tunnel,
+etc. No big deal right? Wrong. Huge freaking deal. For one they are all
+over whatever it is I do. They rigged my whole rental house just in
+anticipation of me possibly staying there before I rented it out again
+previously. Plus if I rent any place out myself, I’m going to need advanced
+locks in place just to keep them out—and not every landlord will be cool
+with that. Just renting a place out seems like a huge challenge to me tbh.
+They aim to essentially rig the whole place before I even officially rent
+it out.
+
+I guess I need to find a roommate is what I need. Someone renting just like
+a single room out. And to disable their damn microchips still. But even
+then they can just start EMF-ing me and make nobody want to be my roommate.
+My brother has a history of doing shit like this to deliberately isolate
+me. It’s as if he’s been planning on having me be his fall guy for at least
+7 years. God it’s hard to do the right thing in this world.
+
+Just while it’s on my mind, it’s very possible that they actually used a
+satellite to superheat me right above where I sleep and then they just
+instructed the jet to fly over while they used the satellite to heat me
+previously, hence setting it up to where if investigated then I’ll look
+like the crazy one myself–when in reality the pilot is indeed colluding
+with Russia. This is how they are able to get away with literally
+everything. So from now on if I say oh a jet airplane emf’d me last night,
+you can believe the part that a jet airplane deliberately flew over me–but
+start looking for other ways in which the emf itself happened. Same goes
+for if I say this guy was acting all suspicious outside my house then when
+I got home it smelled like weed. In reality that guy was acting all
+suspicious outside my house and it did smell like weed when I got home
+however it was specifically set up to make me look bad and it smelt like
+weed in my home likely due to some gas or some capability they added to my
+furnace previously. It was meant as a false flag in that case. So what I’m
+getting at is they never make it simple or straightforward–they always
+deliberately make it look like it’s someone it’s not when in reality
+everyone is in on it whether they realize it or not but they all only know
+their part. (Besides the hackers–the hackers know everything)
+
+I am confident they have a tunnel btw, I’m going to be renting out a ground
+penetrating radar soon to find their tunnel seems they can’t hide their
+tunnel just cuz they know I’m going to be searching for it. Finding their
+tunnel will also make it so I don’t have to bother renting another place
+out. It will also lead us directly to the culprit if found.
+
+Imagine the prospect of leaving your car and the possibility of them
+getting inside it whenever they choose. I often leave my phone recording
+these days in my car whenever I have any food or anything in there that I
+don’t want them tampering with while I have to run into some other store
+real quick—but even then all my phones are hacked so they can still
+technically get passed it.
+
+Imagine everytime you go to eat a piece of candy that you didn’t finish
+previously risking them having put something on it meant to harm you in
+some way. Imagine everytime you go to go to the doctor anything you touch
+you risk them potentially contaminating you with something meant to
+discredit you if given a drug test at the doctor. Imagine anytime you go to
+do any of your prescriptions or inhaler or vape juice you risk getting
+cancer. This is meant to either discredit me or give me cancer.
+
+Imagine anytime you go to sleep you risk getting cancer through their
+targeting of you with cancer causing directed energy weapons all night.
+This is meant to make me afraid to fall asleep.
+
+It’s all designed to discredit me. From keeping me up at nights to making
+me sleep forever when I do sleep even if I’m not tired to making it a bad
+experience for me to shower to making me afraid to brush my teeth to making
+it a bad experience for me to use the restroom to making it scary for me to
+fall asleep to making it difficult for me to do literally anything to all
+their false flag operations and continuous shenanigans, etc, etc. They are
+extremely serious about discrediting me. I’m surprised they haven’t
+discredited me more than they have tbh. They actually haven’t really
+succeeded in discrediting me at all thus far. But they try that’s for damn
+sure.
+
+I could go on btw. But just know this is just the gist of it. The three
+critical pieces to enable them to do all this is all their hacking, their
+tunnel, and their microchips–oh and all the Russian proxies/their use of
+psychology. If i can counter any one of those things it would honestly make
+all of the difference.
+
+I hope Russia hacks us tbh. Then maybe we’ll start taking hacking more
+seriously. Regardless–from now on we need to keep hacking Russia and other
+adversaries ourselves either way. Worst case we’ll just come across some of
+their secret weapons and we will be better for it.
+
+
+That my friends, is what it is like to be gangstalked and there is
+currently no way out. They microchipped me before it ever even officially
+started and the microchip is the whole reason I haven’t taken off and
+gotten the fuck out of here. I still can’t fucking believe it tbh. I still
+can’t believe my mom set me up for getting microchipped either–knowingly or
+unknowingly. It’s not my mom tho it’s my brother. But my mom could
+definitely act a little more motherly and like she is concerned about my
+well being even if it risks her own well being that’s forsure. Dusty is her
+freaking son after all, and she’s already lived a whole life whereas I
+haven’t. Like some people only care about themselves I swear. You would
+think she would realize I didn't do anything and I was friends with Dusty
+up until the point when he started coming after me so nothing she doesn't
+do is going to stop him from going after herself, any of her other children
+or grandchildren–the only way to stop him is if others actually help. This
+is only going to get worse if others don’t help. One thing I’ve learned
+forsure throughout all this is I got my willingness to stand up for what's
+right from my father. Some of my other siblings have that mentality as
+well–but not all of them.
+
+P.s. The hackers are the only ones who know literally everything–everyone
+else seems to only know their part in it and that seems deliberate. They
+literally treat everything like they are securing a computer system. (i.e.
+they apply the “minimum necessary rule” to even their criminal operations)
+All you have to do to get to the bottom of this is arrest my brother.
+Seriously, arrest my brother and then offer him a deal to get less jail
+time and I’m sure he could tell you literally everything. Dusty doesn’t
+have much to lose himself so I’m sure he would talk under the right
+circumstances. Like he doesn’t have kids he’s got to worry about being
+retaliated against or anything like that. If he did he wouldn’t be doing
+all this shit to begin with. My brother literally is the key to all of
+this. If you can force him to turn on all these people we’d be set. The
+hackers have even indicated to me he’s the leader of this sect so you
+should really pursue Dusty on murder of my family charges if nothing else.
+He's also likely critical to both the nanotechnology and
+infrasound/ultrasound. I don't even want to know how many people he's
+murdered or manipulated others into murdering at this point tbh.
+
+
+If It Helps
+
+I specifically recall my brother Dusty frantically waiting for a package
+when we lived at our dads house previously while my dad was still alive.
+Asking everyone if they had seen a package or not.
+
+Seriously you guys he’s a serial killer–he fully intends to kill me. He has
+been making my life miserable daily until he does. In part to avoid him
+going to jail later because I’m the best person to testify against him as
+I’ve been saying this whole damn time. If you guys still aren’t all over
+him by now then it looks like he’s going to get away with murdering his
+whole family. I’ve done literally everything in my power to help you guys.
+Yea it got more complex when the Russia part came up but it’s the truth. It
+makes the most sense. He sought out Russia to lessen the chances of him
+personally getting busted himself. It is what it is. Now it’s just a matter
+of what if anything our law enforcement is going to do about arguably the
+most ruthless notorious criminal mastermind killer in all of Utah. This has
+got to be one of the biggest cases in all of Utah. This isn’t gang on gang
+crime–it’s my brother killing his whole family and likely many others–and
+colluding with Russia in the process. And hacking our whole damn
+infrastructure. Like what else do you want? My brother is the guy you hear
+about who is behind causing others to go on shooting rampages. One of the
+email addresses they spoofed previously on my account actually linked back
+to another shooter in Logan. (The heavyhorned@yahoo.com one–I figured you
+guys would do your own investigation on it tho and I could be wrong but
+regardless this shit is super concerning) My brother is also the guy you
+hear about when you hear about people getting microchipped. Like one of
+these days you are going to regret not arresting him sooner. I’ll be gone
+and you all will have literally no chance at ever successfully prosecuting
+him at that point.
+
+I could use your help in getting this all to stop–please. And getting this
+damn microchip out of my ear. Everyone else is too afraid to help which
+should tell you something about this case’s authenticity. Like seriously
+please go harder on him before it's too late. Plus, arresting my brother
+will only help you with Russia. Like I don’t even see the downfall of
+arresting him at this point. Worst case you can just say it was a good
+intention or whatever and there’s nothing he can do about it. But I promise
+you–you won’t regret it.
+
+These are the kind of memories my brother is so afraid of with me. He’s
+gangstalking me to try and discredit me. He’s made all the people he’s
+killed lives this miserable right before he killed them. Like seriously–I
+didn’t do anything wrong. Just cuz I care about our country doesn’t make me
+a bad person either. At least I’m honest unlike my brother. Plus, I have a
+really good memory.
+
+
+As of March 28, 2022 I’m Now Out of Time
+
+I’m now out of time you guys. The attackers have managed to add something
+to my water which gives me hives just by exposure to it–and that’s not even
+me drinking it. Which explains how all my clothes and whatnot give me hives
+lately as well. And I honestly don’t trust it. Like it giving me hives
+could be the least of my worries. And so that means I can no longer even
+shower if I stay here. It also means likely for the past 2-3 weeks I’ve
+been exposed to one of their poisons without being able to ever fully wash
+it off.
+
+Alright so I took a sample of my water today. I pretended like I was
+getting in the bath then I took a sample of my water and put it in my
+security deposit box along with my other important items. However, with
+that said, I ended up taking a picture of what was in my security deposit
+box so incase they get in there and steal something then I’ll have proof
+but I now get the sense they are trying to get access to my keys to take a
+picture of my security deposit box keys then they plan to 3d print a
+duplicate key and create a fake ID of me so that they can then get access
+to my security deposit box and tamper with all my evidence without my
+consent. I’m pretty sure I heard someone in my house earlier and I think
+that is what they were up to–they were trying to get access to my keys I
+left in the other room to take a picture of my keys again is what they were
+doing. (Only this time they were targeting my security deposit keys)
+
+The problem is I store stuff like some of my backups and whatnot in my
+security deposit box, along with this water sample from today and whatnot.
+So theoretically they could get in there, erase my backups, replace the
+water, without them really ever even technically “stealing” anything.
+Meaning they can tamper with all the evidence and it would be hard to even
+know they did.
+
+How can I possibly keep anything safe from these guys? Like seriously? How
+can I keep anything from them? I wouldn't be surprised if they even went so
+far as to hack my bank's camera systems so that there is no trace for when
+they do go in there and access my security deposit box illegally. They hack
+literally everyone else so why wouldn’t they hack them too? If they haven’t
+hacked my bank already then it is definitely now a target. Cache Valley
+Bank on 100 N is the bank I’m referring to.
+
+I told you these guys constantly evolve based on the latest intel. It's not
+fun to go up against any entity like this, that’s for damn sure. Russia’s
+whole performance in Ukraine is exactly that–a performance. They haven't
+even taken out Ukraine’s internet as if they want the whole world to see
+their atrocities. None of what Russia is doing in Ukraine or anywhere else
+for that matter can be taken at face value. Why would they not try to keep
+all their atrocities hidden? My answer to that is because they want people
+to react because they are actively cataloging all of the resistance–like
+I’ve been saying. But then again, my brother would know a hell of a lot
+more than I do..
+
+My constraints for keeping shit safe/secret are as follows. Essentially
+they have my home and car rigged to be able to “watch” me and they do so
+literally 24/7 these days–using infrasound and electromagnetics and
+nanotechnology primarily–and then they “listen” to whatever the hell I do
+or say 24/7 too–using any microphone around that they have hacked. Their
+damn microchips themselves might act as a microphone too, idk, I haven’t
+figured that part out yet. I know it can act as a standalone GPS device
+somehow.
+
+Plus, any key I have they can just take a picture of and 3D print a copy of
+it. Any ID I have they can just forge it. Any combination I have they can
+just “watch” me use it and then simply replicate it later. Any friend I
+might give a key to they can just do the same with them–like believe
+me–nobody is as secure as I am after all this and they still get through.
+I’d almost have to give it all to the police or something before they
+tamper with it.
+
+And even then I can’t give the police things like my dog’s ashes to keep
+safe.
+
+I hope the police will take my evidence from me and treat it with the level
+of importance it deserves. Whatever substances they use aren’t going to be
+easy to trace, just because that is how they operate, but ideally we’d
+simply store everything until a later date when we actually have a better
+idea of what to test for exactly.. (Like I was doing)
+
+As of March 30, 2022Be on the lookout for possible Russian EMF satellite
+targeting US
+
+Be on lookout for a Russian satellite targeting the following address in
+the US with an emf:
+
+1235 Smithfield Canyon Rd
+
+Smithfield, UT 84335
+
+United States
+
+https://maps.apple.com/?address=1235%20Smithfield%20Canyon%20Rd,%20Smithfield,%20UT%20%2084335,%20United%20States≪=41.848250,-111.806250&q=1235%20Smithfield%20Canyon%20Rd&\_ext=EiYpwH+pRgDsREAxozWkZPzzW8A5PlXPoibtREBBuXw80DbzW8BQAw%3D%3D&t=m
+
+
+They have no other real good way to emf me here really so I’m assuming they
+could be using a Russian satellite to do it just now. I’ll be here the rest
+of today and part of tomorrow.
+
+This is how I think they must have busted them the first time cuz I
+remember seeing a black hawk helicopter fly over my house when they were
+still investigating it with the first detective Escobar and shortly after
+that their investigation concluded.
+
+It’s not nearly as bad only having the satellite emf me and only having to
+protect from one direction really tho that’s for sure.
+
+If I’m right about the satellite then we should de-orbit the damn thing(s).
+I read we have the capabilities to do so now. (Without creating a bunch of
+space junk) Or something. Maybe not deorbit it cuz that would start a space
+war but we should definitely do something is all I’m saying.
+
+Last I checked we aren’t experimenting on Russian citizens and murdering
+Russian people with our satellites—so they shouldn’t be allowed to do so
+with theirs either.
+
+Also, arrest my brother already please. It really is the least you could
+do. You won’t even piss off Russia by doing so cuz he’s an American
+citizen. He’s caused enough grief in this world as is already. Keep in mind
+tho they have advanced insight into what the police are doing—but I’d
+suggest you arrest him before he bounces to Russia—that’s what I’d do if I
+were you.
+
+Actually sorry this may not be a satellite it may just be them stroking the
+atmosphere to create infrasound that goes my direction. My bad. Can you
+imagine having nothing better to do than to see how much you can annoy your
+brother each and every day? Like what a life right? What a life that must
+be. No wonder no girls like my brother.
+
+The damn microchips are the key to it all. Without those they couldn’t
+precisely locate me to do all this shit to me. They have to have precise
+location of your head in particular to be able to do all this to you. Be
+careful in getting your vaccinations folks—like seriously—be careful. I’m
+not advocating not getting them, I'm just saying be careful when you do. If
+the needle is bigger than you remember—run the hell out of there. And if
+you think you might be hacked or if you think whomever sets up your
+appointment for you might be hacked—then set up another appointment and in
+person next time or just go in and get your shot randomly in person and at
+a random location—not smith's marketplace in Logan—it’s simply not worth
+the risk of having some corrupt Russian proxy nurse inject you with these
+damn things—I assure you. There’s no real good way of getting them out once
+they are in you either. Speaking of that, I’ve been meaning to get you the
+nurse's name who did this to me. I’ll get you those records soon...
+
+I aim to bring every single one of these guys to justice—my brother
+especially. This whole Ukraine ordeal has only helped in making that
+actually plausible. Thank you Ukraine for your help, I’m sorry Russia
+dragged you into this too.. I feel for you. Together we will make it
+through.
+
+I think I need a shield you guys. An ef/rf/emf shield. Kinda like my
+infrasound jammer but an electromagnetic field jammer—an all in one device.
+I’ll even have to patent it one of these days lol. I’ve been learning more
+and more each and every day. Like for instance, I think their mobile car
+crew and neighborly emfs are actually hooked up to some kind of an antenna.
+So they just pump a bunch of oscillating amplified electricity into a
+directional antenna is how the emf/ef/rf ones work I think. (The non
+satellite versions) Then I read something about them stroking the
+atmosphere just right to create the infrasound, but they’ve also shown me
+they use these advanced algorithms and can create crazy sound effects from
+literally any speaker system as well. Is it sine wave Algorithms?
+Algorithms that build on each other to where the sound waves literally like
+build up and start resonating and bouncing off of literally everything in
+my whole room—including other sound waves—it’s nuts. They’ve even done it
+from my own speakers previously when they hacked my phone when I was
+playing my own infrasound to try and counter them—they ended up using my
+own speakers against me. But yea, either I need some type of specialized
+shield emitting device or I need to just figure out a way to disable these
+damn microchips…
+
+I wish I had some device where I could actually visualize all these
+different waves they are producing and precisely where they all originate
+from. Something like that probably costs hundreds of thousands of dollars.
+
+P.s. I’m working on moving all this content to git including the version
+history up to this point. Have you seen that spycraft show on Netflix? I
+just started watching it. That’s exactly the type of shit they are doing to
+me—like to the T. Just everything about that show is what they are doing to
+me—it’s nuts. You would think I’m a government agent or I run a government
+embassy or some shit. Sometimes they make me feel like I am Superman or
+something. Cuz who else besides Superman would warrant this much time and
+effort and sophistication? That’s all I’m saying. I even bought a Superman
+necklace/dog tag since as a result. ;) (it doubles as a way to throw off
+some of their targeting of my head with electricity whereas it’s made of
+metal)
+
+
+P.s. If anybody asks—anonymous has no ties to the us government. Putin is
+trying to blame the anonymous hacks on the us government. He’s even setting
+them up to frame them for killing Russian citizens. This is what Russia
+does regularly. Regardless, it’s essential to keep any link between
+anonymous and the US government ambiguous. To be clear, I don’t even know
+whether anonymous really does have ties or not to the US government—I just
+know how the game is played so to speak just from me watching how Russia
+does it—that’s all. The whole reason it works for Russia is because they
+never admit it—even tho we all know their hackers really do have ties to
+the Russian government—literally everyone in Russia will become a Russian
+agent if their government so chooses it will help Russia—Russia monitors
+everything after all. Plus I can see Russia is setting up the ground work
+in various forums, social media sites, etc—to both make that link and to
+frame anonymous for doing horrendous things. I personally think anonymous
+and the US government should have at least loose ties—for dicey situations
+just like this—but if so—never admit it. Russia is now trying to do what I
+said recently which is to hold all parties accountable when any singular
+party does something “wrong”. And they are putting in the ground work to be
+able to do so successfully. (Via their planting such ideas that anonymous
+and our government are one in the same in our information ecosystem, aka
+using communications warfare) So it’s important we counter that notion at
+this time anyway. There is seriously something up with Russia and our
+hackers like I said. They could be banking on this link they are setting up
+between anonymous and the US government. To be clear, I’m not even a member
+of anonymous. I made a video just for fun but anyone can do that and plus I
+never promoted it. In reality, my scope of anonymous consists of me just
+reaching out to them and giving them my opinion on various subjects, asking
+for help, similar to what I did with our government once my bro started
+trying to kill me. Like that doesn’t make me an anonymous member or a US
+agent does it? I don’t think so. Plus neither ever even actually talks back
+to me–they only listen. (I think, which is honestly smart–kinda like these
+Russian hackers never actually talk back to me–signals are the key–quick
+side note, wanna know how the Russians do “talk” to me? By changing songs
+up in my playlist, or at least they used to before I first reported it–I
+would say I miss those times but everything they do is psychological in
+nature so I really don’t) Anyways, my bro must actually be pretty high up
+in the kremlin tbh cuz it’s as if they are trying to use ME and this very
+document to start a war in a way. My bro seems to have access to some
+pretty high level stuff too. Russian satellites and whatnot, he almost
+seems to drive some of their operations around here. Plus, it’s as if
+Russia’s whole ordeal has a “brothers” “theme” to it—as well as a “hacking
+theme” to it–on multiple levels. Nevertheless, I don’t want them to use me
+to start a war—not unless any war is on our country’s own terms. This shit
+is scary you guys, not going to lie.
+
+I can now see why Joe Biden is so reserved. I think it’s called “game
+theory”. Essentially it’s crucial you are not seen as the country who
+starts any war pretty much. There really is some high tech communications
+warfare going on right now as we speak—with the end game being full blown
+cyber war at the very least from what I gather. Russia is essentially
+“using” anonymous in a way to try and kick off a cyber war in my opinion.
+And Russia will happily kill its own people for that cause.
+
+Another thing we are up against right now is the January 6 investigations
+coming closer to the end. Any persons that may be criminally liable might
+be highly motivated to work against our government at this time.
+
+It’s extremely worrisome that Russia is seemingly targeting all our
+citizens with all their hacking right now too because they are able to
+essentially then mine tons of tons of datapoints from each voter to later
+use to manipulate those voters in elections if nothing else. It’s
+essentially “weapons grade” communications or psyops. There’s another show
+I watched on netflix called something like “the great hack” or something
+which was about cambridge analytica and all the illegal Facebook data they
+mined in 2016–that explains the above point in great detail. And that was
+just relating to facebook data alone. We are talking about the Russians
+possibly gaining full control of ALL of each and every person’s accounts
+plus ALL of their friends accounts–not just Facebook but everything–with
+all these Russia hacks via just sending a simple text or email–and it
+propagating to their routers and their friends routers and hacking
+literally all of their devices. And that’s even an optimistic outlook to
+all this. Worst case scenario they could legit start like either
+microchipping all the resistance or imprisoning them somehow, idk how yet;
+I don’t even know what they have planned beyond just cataloging them all at
+this time tbh. My brother would know tho ;) But it’s not just companies
+that need to watch out is what I’m getting at–it really is normal people.
+Russia exploits the fact that there is no legit intrusion detection systems
+protecting normal household networks, and they get into corporations
+through that means.
+
+As of April 2, 2022
+
+You guys this is not ideal. The damn vaccine cards don’t even show the
+nurse’s name that gave me the vaccine. If any pharmacy or doctors office
+had more than one person on duty giving vaccines then it makes it harder to
+be able to identify who microchipped who. I can say the lady who did it was
+a middle age I think blonde lady–the same lady gave me both shots. But
+these vaccine cards really should name who gave the shots to enable direct
+accountability in situations like this. Maybe if the vaccine cards required
+their names then this never would have happened cuz the nurse would have
+been too scared.
+
+https://drive.google.com/file/d/1Z3hisev1Rom25BeYQ8zlebz6EOsSFXyg/view?usp=sharing
+
+
+We really need to start emphasizing protecting our citizens in terms of
+cyber security you guys–not just corporations–I’m not joking. Russia has
+already been exploiting us since the Ukraine war started–they just exploit
+individual people directly and then use those people to exploit the
+corporations. How else do you think they get into corporations to begin
+with? Even if the corporation has stellar security–guess what? They can
+simply exploit an employee through that employee’s home network and
+threaten to give up dirt on them and get those people to do what they want
+them to do within that person’s corporation to also exploit the
+corporation. That’s by far the best way to do it from what I gather.
+Because then it also shields the Russians from direct accountability
+themselves, cuz it adds another layer. And it’s virtually fail proof.
+People are the weak link. And you guys haven’t even reported it’s been
+happening yet which is a huge green light for them to continue. Seriously
+if we got this figured out then Russia would stop their damn war in Ukraine
+in my opinion–or at very least they’d stop being so brutal. If we figured
+this out we might actually save our damn country as well tbh. Our
+adversaries getting all this data on all our citizens now could have huge
+consequences on our future for years to come. Sometimes I feel like we are
+stuck in the past or something as a country. We never think outside the
+box. We don’t seem to experiment with very many next generation warfare
+tactics/techniques–and we don’t even officially recognize next generation
+warfare techniques are being used to drastically undermine us. We just keep
+upgrading our conventional military and we never seem to adapt to the
+latest threat landscape. Nukes are essentially no good at maintaining world
+order nor is our conventional military when it’s a fellow nuke holder that
+is causing all the havoc, we should have known this a long time ago and
+started spending some of our humongous military budget on some of these
+other techniques.
+
+All this outrage Russia is causing right now is an excellent way for them
+to infect tons and tons of home networks btw. Who knows, they might have
+even come after me in part because I’d be a good benchmark for them in what
+they could realistically expect from a better-than-average home network.
+Meaning whereas they have now gotten past everything I’ve tried in regards
+to cyber security within my own home network–then the likelihood they could
+get past 99 percent of the remaining home networks is actually really high.
+I’ve tried everything you guys. Now I’m too hacked to even be able to try
+anything further tbh. Like 98 percent of the tools out there don’t catch
+shit from a foreign intelligence agency. Also, it makes it so their 0days
+can remain 0days for a hell of a lot longer if they approach it all that
+way. Just a thought..
+
+I found a way to be able to tell if they get into my safety deposit box or
+not for the time being btw. I got some single-use locks or seals that each
+have their own unique number on them then I made them even more unique by
+engraving/writing on them–just incase they could go and buy similarly
+numbered single-use locks on amazon. Then I added 2 of them to my security
+deposit box securing all my evidence. So not only do they now have to take
+a picture of my key, 3D print it, create a fake ID, hack my bank’s camera
+systems, and risk going in there, but they also have to try and recreate
+these exact same engravings on the exact same numbered single-use locks–in
+order for them to get anywhere near my evidence without facing bank robbery
+charges essentially. So yea, that’s a plus. But to be clear–I want most all
+that stuff in my safety deposit box going straight to the police if/when I
+am killed–without tampering.
+
+See here for what the single-use locks on my safety deposit box should look
+like:
+
+https://drive.google.com/drive/folders/1S6W2PAfB0ts3Gg0XTUV55\_eSJBkKBcrh?usp=sharing
+
+
+Still figuring out microchips.
+
+Still figuring out tunnel.
+
+Still figuring out water poisoning situation.
+
+Still figuring out how to ultimately protect myself from their targeting me
+at nighttimes trying to “bake” me and give me cancer, etc, etc.
+
+I can’t refinance my house at this time thanks to the attackers causing me
+to not have two recent prior pay stubs to provide the lender.
+
+Still figuring out how to get the hell out of here and where to go and how
+to get away from them.
+
+Still figuring my trustee out–I almost had a new trustee–but I think I’m
+going to find another one that is a little cheaper and a little more
+responsive. I really need to find someone who won’t be corrupted simply
+based on their religion or anything else and who knows computers and
+security.
+
+I asked Paul for money to rent out a ground penetrating radar device
+recently, still awaiting his response. I honestly feel really good about
+this one, but I don’t want to risk being delayed again until they can come
+up with some other way to get around my attempts to prove what they are
+doing to me–like what I suspect happened with the bug sweep. The delay
+essentially just bought them time to remove their devices from my home–I
+swear to god my brother has direct control over my trustee. I’ve suspected
+this time and time and time and time again for some time now. Meaning if I
+were to die–I can’t even have confidence all my evidence will actually get
+back to the police untampered. (Imagine that)
+
+Don’t you guys see how the Russians can corrupt a whole society one person
+at a time using hacking? And how they can turn supposedly “religous” people
+into accomplices to murder just like that? All out of concern for people’s
+own well-being/pocketbooks and utilizing psychology? But in reality, if
+religious people truly believed in their religion they would never let
+anyone manipulate them into being accoomplices to murder in the first place
+cuz they would realize they are going to hell as soon as they do allow
+someone to manipulate them in that way. I’m not even religious and I don’t
+even cross that line myself for fuck sakes–just out of an abundance of
+caution incase the religions are right. It’s called having morals and
+values.
+
+Screw hacking organizations–hacking individuals and households gets them
+way further towards their ultimate goals anyways.
+
+Hasn’t anyone ever heard of a conflict of interest around here? Like all I
+can say is I hope all this is just contained to Utah because if this is the
+case across the whole country then this country is honestly screwed. Our
+adversaries have managed to make corruption seemingly systemic in a matter
+of what, 5 years? Screw being great, they’ve made killing cool again. And
+people would rather just give up and go to hell vs actually trying to do
+something about it? These manipulator people literally worship satan you
+guys. Like how far from your religion can you get? I seriously don’t get
+it.
+
+In addition, the Russians are controlled by the Chinese as stated
+previously, everyone who concedes to their manipulation is essentially
+conceding to both the devil and China–just fyi. It’s the truth. China even
+helped in hacking Ukraine leading up to the Russian invasion. Plus Russia,
+China, North Korea, and Iran have had a hacking alliance since at least
+2012 that I'm aware of–and that’s how all their manipulation is done–it’s
+literally all based around hacking. Meaning any Russian asset is also a
+Chinese asset as well because they work together on hacking.
+
+Btw I’m registered as a Republican, so don’t try and excuse any misdeeds
+away in your head on you being at war against me either. I’m just more of
+an Evan Mcmullin/Mitt Romney type republican over a Donald Trump
+republican. Good luck explaining that to your maker is all I can say.
+
+If people would just be honest with themselves and be honest with everyone
+else and actively try and help people like me who are trying to do the
+right thing then this would all be over with already. I can think of a
+million different ways to secretly talk to the police or fbi absent this
+damn microchip. I know for a fact they haven’t penetrated the fbi. Meaning
+everyone who doesn't have a microchip and who isn’t being emf-d daily
+should be able to do the right thing and actually help our country without
+them having to fear repercussions. Or better yet, you can just be like me
+and just do the right thing regardless of potential foreign adversary
+repercussions–it’s a foreign adversary for christ sakes–this isn’t normal.
+Even I know there are all kinds of church gospels on that very topic–on
+doing what’s right even when it’s particularly difficult.
+
+These guys get their power through all their manipulation. Without all the
+people allowing them to manipulate them–none of this would be possible.
+Meaning anyone that succumbs to their manipulation and plays a role in any
+way is technically guilty of all the crimes these guys are carrying out
+which banks on that manipulation–including but not limited to their
+murdering of me. (And that’s just not even being involved in any direct
+way–which some are) And I promise you–they are indeed murdering me. They’ve
+likely already taken decades off of my life at the very least and they
+don’t plan to stop until they succeed–and they can’t do it without your
+help.
+
+It’s a slippery slope, that’s for damn sure. I’d rather go down knowing I
+did what’s right than go down helping satan. At least then, if the
+religions are right–then I won’t be forsaken to hell for the rest of
+eternity. And who knows, maybe I’ll even help save this country through my
+brave actions. Plus, I don’t want to let our forefathers down, I personally
+really like our constitution. Just because some of your friends might be
+corrupt doesn’t make it okay for you to be corrupt either.
+
+Being corrupt isn’t “cool” in any way. It’s more like a disease that
+spreads if left unchecked. Nobody seems to think about our children or our
+children’s children–and how what they do today will inevitably affect their
+lives and their freedom. I’d be willing to bet most people’s kids would be
+willing to do the right thing.
+
+
+As of April 3, 2022
+
+The attackers always step up their targeting of me when they know I’m
+thinking about finding another trustee or redoing my own personal trust
+like I am now thinking again just fyi.
+
+
+
+As of April 7, 2022
+
+I just wanted to add an additional thought to one of my recent posts real
+quick, because I really do feel it is really important for our country and
+our ally’s countries to recognize and look out for.
+
+Russia/my brother’s suspected targeting of our citizens themselves rather
+than actual corporations as of late, in relation to all their recent
+hacking, their suspected targeting of our citizens or home networks
+themselves as opposed to only targeting corporation’s networks gives them
+multiple added benefits/advantages such as:
+
+
+ -
+
+ the ability to stay hidden by adding an addition proxy layer for
+ investigators to have to go through in our adversary’s ultimate hacking of
+ all our corporations/infrastructure, (The investigators literally have to
+ track their way back through citizens’ computers and find the malware on
+ those computers and then track that back to any command and control server
+ which could be behind all kinds of proxies and whatnot itself–plus, all
+ their hacking of individuals is also how they apparently communicate with
+ their targets by creating and utilizing learned signals over time–which
+ would be a lot harder to pull off in the context of them just targeting an
+ individual organization)
+ -
+
+ plus it gives them the ability to hack a person’s whole social network
+ at a time and develop a profile of each person individually through their
+ friend networks, (essentially building an “influence” database)
+ -
+
+ perhaps most importantly it gives them the ability for their 0day
+ malwares to remain 0day malwares for a lot longer durations of time,
+ (whereas most if not all home networks DO NOT have the capability to truly
+ detect and report NEW 0day malwares of the caliber any foreign adversary is
+ using to the rest of the world–which is huge in and of itself–it
+ essentially allows their malware to remain effective for much longer
+ periods of time and it therefore allows them to use their 0days against a
+ lot more people)
+ -
+
+ plus exploiting citizens themselves over corporations gives them the
+ ability to actually exploit things within corporations that require direct
+ human intervention, (i.e. corrupting people rather than just robots allows
+ them to do a bunch more stuff than they could otherwise do; it honestly
+ makes me think of edward snowden for some reason and it makes me question
+ whether or not they got him to somehow give up all our secrets by first
+ exploiting him somehow–it’s definitely a possibility)
+ -
+
+ and then targeting our citizen’s home networks themselves rather than
+ corporation’s networks also gives them the ability to be able to actually
+ manipulate all our citizens later in our elections through the social
+ profiles they create on each person–either as candidates or as voters–which
+ is also huge from an adversarial point of view. (Because they are then
+ forming both a “prospective candidate” and/or “prospective voter” profile
+ on each person rather than just a “corporation” profile essentially–it goes
+ back to the cambridge analytica type manipulation except on steroids in
+ this case essentially–because their access to any person’s data literally
+ has no bounds in this case)
+
+
+We really need to look out for our adversaries specifically targeting our
+citizens in regards to hacking is all I’m saying. Because I’m pretty sure
+that is what they are now doing and have been doing for a while now–they
+are honestly seemingly corrupting our whole society and just think–they
+could be gathering data now that they could then turn around and use to
+gain influence over candidates potentially decades from now–which just
+creates a wicked feedback loop–and they do it all in ways that are all
+super difficult and time consuming to investigate and prove. Moral of the
+story is targeting home networks is a heck of a lot easier than targeting
+organizations from their point of view. And it’s a lot more discrete too..
+And as a home user it’s almost impossible to stop because nobody really
+offers or utilizes services capable of detecting or stopping it on a
+non-corporation level.
+
+This gets to the root of why I’m ultimately so concerned for our country
+tbh. It gets to how our adversaries I think have been corrupting our people
+to begin with. (Well this and all their social media communications warfare
+manipulation, well that and a certain leader that may or may not have been
+a Russian proxy–or a certain leader who at very least was unknowingly
+helpful to our adversaries strategy of isolating and dividing us as a
+nation to begin with) Literally everything else spawns from this root. My
+brother wouldn’t even be able to do any of this to me without all that
+pretty much–or at least he wouldn’t be nearly as effectively without their
+seemingly strategic targeting/manipulation of our social networks I
+wouldn’t think.. It’s scary. Some people don’t see how hacking can be such
+a big deal–but it really is–and this is how.
+
+I really hope if nothing else than I really hope someone will look into
+this notion and take it seriously because doing so really could make all
+the difference in this world.
+
+Recent Triggered Alarms
+
+As for the most recent triggered alarms–it seems as though the attackers
+strategy is now to wear down the police by triggering multiple false alarms
+deliberately at my home. I apologize you guys. They did it right after my
+phone died tonight too to where I couldn’t tell dispatch not to send the
+police and I was only informed oof it when I got home when my base station
+told me essentially. Regardless, to hopefully prohibit the attackers from
+wearing you guys out gooing forward I have now changed up the settings to
+only send me an alert whenever any of the motion detectors are triggered.
+My apologies again. I know that’s what they are doing too. It’s like even
+with a working functional alarm system they will still exploit it to make
+it as good as useless pretty much.. But I think I figured out a decent
+middle ground to where if my alarm is triggered now–it should legit mean a
+door has been opened–unless they hack the door sensors themselves. They
+triggered the one in my attic of all places. I only added it up there cuz I
+kept hearing noises up there. Idk if they got direct access to my attic
+from their suspected tunnel or not tbh, it could just be them pointing
+their directed energy weapons at it causing the wood to creek, as I
+suspected previously, and they could possibly even trigger the motion
+sensor that way, idk. They like to play games like that, but I refuse to
+let them. It’s just whatever.
+
+
+
+Actually you know what? I don’t want to give them any possible leeway to be
+able to toy with the police going forward, so I just turned all my sensors
+to only send me a secret notification on any sensor being triggered going
+forward now instead, seems how that is the second time they’ve made the
+police come to my house now in like 2 weeks. Unlike them, I actually care
+about the police’s time and so I’d prefer just to put an end to their
+toying around with everyone right now. If they have a tunnel the police
+will never catch them until I find their tunnel anyways, plus I really just
+need something to notify me when they get in here that I can then use to
+report back to here afterwards anyways, seems their “signature” is very
+much like poisonings and whatnot anyways. (Seems they have yet to like
+straight up shoot me or anything, they have pulled a gun on me once but
+they haven’t shot me–yet–I don’t think that’s how they roll) My security
+system more is just useful as like a historical logger for me more than
+anything–and as a deterrent I would hope.. It really is them triggering my
+alarm however–it’s just they come in my house literally like daily anyways
+without my permission through one means or another from what I gather–or at
+least they try to come in daily–but my goal is just to keep them out
+without them exploiting anything including the automated alarm triggers to
+police dispatch–that’s my goal anyway--and so I’ve got to just adapt and
+overcome and evolve to all their latest shenanigans myself. My apologies
+again regardless however. Thank you for your understanding.
+
+
+
+
+As of April 8, 2022
+
+Added pic of aforementioned led and/or led cap I have referred to in this
+document a couple times previously–just incase my brother gives me cancer
+and then tries to blame it on my references to led above. (Especially
+whereas there is literally zero other potential sources of cancer I’ve ever
+been exposed to as a software engineer by trade) Last I checked the led
+vests/led caps themselves that the doctor’s office makes you wear for
+x-rays DO NOT give you cancer themselves–what I have used to protect myself
+from their x-rays/emfs is no different. Therefore all I’m saying is if they
+do succeed in giving me cancer–DO NOT buy it. Because Karie didn’t even
+have any cancer in her family either and she’s the healthiest person I’ve
+ever known–not even exaggerating. I only share what like ¼ of her dna given
+she was from a different mother anyways. And my fathers family also has no
+history of cancer nor does my mother’s family. Plus I wouldn’t need one of
+these led caps if they weren’t emf-ing me all night every night to begin
+with anyways. My brother is literally quite desperate at this point from
+what I gather, he’s literally giving up a lot of Russia’s secrets whether
+he is intending to or not and he really has no way out at this point. He is
+seemingly looking for any possible way out at this point that also
+accomplishes his “getting rid of a key witness that could totally get HIM
+locked up for the rest of HIS life for all HIS past murders” plan. (Meaning
+he’s looking for a way to kill me right here in Logan at the young age of
+33 and still get away with it despite him knowing him doing so is like the
+redest of red flags possible given my family’s already questionable death
+history and given all our family’s medical histories not aligning with
+cancer whatsoever essentially–if Dusty succeeds he and Cindy will be the
+only potential “suspects” left–quite literally–and therefore they will have
+outed themselves at that point in my view)
+
+My father died here in Logan, my sister came to Logan to die after a tough
+battle with non-hodgkins lymphoma. (which normally only happens in older
+people I heard, and it normally is the most easily overcome cancer) And
+Dusty knows damn well that if he kills me here in Logan he is completely
+and totally f-cked and yet I do get the sense that he’s risking it
+nonetheless because he’s already given up so much of Russia’s secrets
+already that he barely even has a choice–and he’s already spent so much
+time and money on me already–but what he doesn’t get is it’s already too
+late. He’s already managed to tear apart his new “family” whether he meant
+to or not. One would be forgiven to think that was his goal this whole
+time, because I personally can’t think of a better way for him to get all
+this info out to the general public and to our government which will allow
+them to counter it. But regardless, Dusty is a killer and he needs to be
+held to account for what he has done/what he continues to do to this day.
+And unlike Karie–I personally plan to be extremely vocal as hell through
+this whole process regardless of what Dusty does to me–as vocal as I
+possibly can be tbh–and I plan to document what Dusty has done to me to the
+bitter end so that you all can see exactly what my brother has done to his
+family and what he continues to do to us–so that way it will become as
+serious to YOU as it is to ME. And so that way nobody ever forgets just
+what Dusty is capable of and that way Dusty will be truly exposed for what
+he really is once and for all. I plan to leave no doubt in anybody’s mind
+just how much Dusty belongs in prison before I die if he does succeed in
+giving me cancer. And I plan to get all his little helper buddies locked up
+too. It really is the least I can do for all they have done to me.
+
+https://drive.google.com/file/d/1GQETUK2q4ILnbPF4LL6nRBOnb\_C9XDc8/view?usp=sharing
+
+
+Steel works about just as well as led to block the entire electromagnetic
+spectrum btw, because steel essentially contains led, and I also use
+steel–again don’t let them try and tell you that any steel or anything else
+I’ve done to try and protect myself–don’t let them blame me for their
+killing of me essentially. Just figured I’d call it out now while it’s
+still “early”. Plus Dusty has indicated to me that he likes to kill people
+or “people tend to die” in the ways that they fear the most previously, and
+for whatever reason Dusty believes I fear cancer the most–and we shall let
+him believe that.
+
+Unlike Karie I know damn well who is doing all this shit to me and now I
+know who apparently did it to them to and I therefore shall use any and all
+precious time I have left on this earth devoted towards making sure anyone
+and everyone knows the truth–so as to prevent Dusty from harming anybody
+else including but not limited to any other family members. (Meaning cancer
+might actually prove to be a good way for me to die in this case–cuz it
+buys me precious time to take you all along for the ride and to finish
+documenting everything from A to Z–it essentially is one of the best ways
+to ensure Dusty and his cronies are held to account essentially) And if
+that’s what I have to do to protect everyone else then that’s what I’ll
+gladly do.
+
+My Own Personal Trust’s New Amendment
+
+P.s I signed an amendment to change up my own personal trusts trustee to my
+other brother Michael Thompson today. Because Mikey is best suited to
+handle the aftermath of what Dusty is doing to me–as a former police
+officer himself. I still got some work to do on my trust documents however,
+to make sure they are easy to read, fully lawful no matter what, and easier
+than my dad’s was to understand. But changing the trustee from someone I
+fear Dusty might have influence over to someone I know he doesn't have
+influence over was a huge step in the right direction. I still need to
+spend more time on it and better plan out who I really want to leave
+everything to. And even add specific bequests and whatnot to it including
+adding like the giving all remaining evidence to the police if I haven’t
+already done so part. My father always liked Michael anyways.
+
+https://drive.google.com/drive/folders/1-YJGVw4Lj462hNF92ntszSPOM5rPTgL-?usp=sharing
+
+
+
+Busted For Changing What I Wrote Just Barely
+
+K so I just caught them deleting part of what I had originally written. I
+essentially stated that Dusty has essentially poisoned me 50 or more times
+now so anything I may have done to accidentally expose myself to cancer is
+completely insignificant to what they have deliberately done anyways. And I
+went on to say that Dusty has got to have direct access to like a Russian
+biolab or something just given how they always evolve the method of
+delivery of their poisons and their poisons themselves based on their
+latest intel. So yea, I’m accusing Dusty and Russia of using bioweapons
+right here in the United States and they didn’t seem to like that, so they
+deleted that part of what I wrote and in proofreading it again one more
+time after a small break, I caught the fact that that part was now missing.
+But the only reason they wouldn’t like that part is because it is the truth
+and they are scared how it might impact them. The facts are no person just
+buying something off the dark web could ever have the sheer variety of
+poisons they’ve used against me at their disposal, and they for damn sure
+wouldn’t be able to tweak the delivery method or base substance used within
+the poison time and time again. Like most recently they tweaked it to make
+it work through just simple exposure when injected into my house's water
+pipes somewhere and so it would get on me and stay on me whenever I took a
+bath. (Like that has got to be some serious chemistry involved) And YES I
+am indeed now 100 percent confident it was my bath water that was giving me
+hives for weeks recently btw. And just like a few more quick examples, they
+got poisons that are seemingly meant to kill fastly, they got poisons that
+are seemingly meant to kill slowly or give people cancer, they got poisons
+that are seemingly meant to discredit people like by causing all these
+strange abscesses before I stopped drinking my water and they even changed
+out the delivery base substance numerous times previously like when they
+found out I was able to actually wash their poison off with rubbing alcohol
+previously. They legit changed the base of the poison out to no longer wash
+off with rubbing alcohol. I will not say how I ended up getting that
+particular variation off at this time, just to prevent another iteration of
+it. But yea, hopefully you get my point. Dusty totally has seemingly direct
+access to some biolab of some form meant to create poisons for purposes of
+killing people and they are using those poisons right here in Logan, UT. To
+be clear, I no longer believe my brother is just getting this shit off the
+dark web. As you have seen throughout this journey, if you have read along,
+I now fully believe Dusty is indeed working with Russia and/or China and I
+believe he is likely funded by a Russian oligarch with his main objective
+being to destabilize this local region of our country from within. But I am
+fairly confident he has direct ties to the Russian intelligence services.
+
+I also had stated something just barely that they deleted about how I
+probably need to get a yearly check-up soon just given all the poisons
+they’ve subjected me to and continued to subject me to overtime, and that I
+was honestly surprised that my body has held up for this long just given
+how they have now poisoned me literally over 50 separate times in one form
+or another.. (Whether it be on a door knob, on multiple door knobs, in my
+car on my shifter, in my car on my arm rest, on my car’s door open handle,
+in my car on the steering wheel itself, directly on my dog previously,
+directly seemingly injected into my dog previously when at medvet, in my
+house within my shelter on the sheets, on my pillow case, on my sound
+proofing I surround myself with to try and stop their infrasound, on light
+switches, injected into my water pipes–that one they can deliver numerous
+different poisons overtime, etc, etc. And all that was just off the top of
+my head. Again--I’m not even exaggerating--they’ve likely poisoned me
+closer to 100 or more times tbh--50 is an extremely conservative estimate
+to say the least. It’s more like 50 times where it was immediately
+physiologically/psychologically disruptive to me. I also stated there IS
+MOST DEFINITELY still residual poison pretty much everywhere in my home
+from their past attempts. Just in trying to prove the point that any other
+source they could possibly blame me get cancer from is just complete bs. On
+my candies, on my floor, on a thorn bush spike, in my lotion, body wash,
+etc, etc. Like if nothing else people need to be extremely careful when
+going through my house when I die. Like I’m saying that from the bottom of
+my heart knowing what these guys are capable of and how lucky I am to even
+still be alive right now first hand. They rarely clean up after themselves
+in my home at least—they always just add more and more. I got pics even—but
+trying to live through all this hasn’t been the easiest either. (I.e. I
+still got to clean my house up more myself) Bottom line is you guys have
+got to believe me on this one or you will risk getting exposed yourself.
+
+You guys I really do think dusty is already on the higher end of that
+poisoners spectrum in terms of people he’s likely responsible for killing.
+That’s what my gut tells me anyways—even tho it pains me to say it. Bottom
+line is they’ve likely already killed me. Now it’s time for me to get them
+locked up for the rest of their lives.
+
+They are now playing the sounds of turbo suffering to me again as if to try
+and punish me for re-pointing out the fact that they seemingly have access
+to a biolab. And I didn’t even mention the numerous different types of
+gasses they have used..
+
+Regardless, I think it's about time for a yearly exam. I’ll explain later.
+
+At the end of the day if I had to choose only one item I could end up
+contributing to these guys getting busted for it would likely be this. In
+reality I hope I can and have contributed on all fronts. But all their
+hacking is essentially their discovery/corrupting mechanism whereas all
+their poisonings are essentially like their method of enforcement. Their
+poisonings are really their way of doing away with what they view to be
+problematic or uncooperative people in a secretive manner. And I just
+really don’t think anybody around here nor anybody anywhere in the world
+should have to live being worried about foreign adversaries and foreign
+proxies doing shit like this to them. They are essentially giving whomever
+they choose the death penalty in their attempts to defeat us from within
+without allowing them any court case or anything–which is partly why I feel
+we haven’t caught on to all this fully before now. I’ve been leveraging the
+fact that my bro is in a tight spot given he’s already killed my father and
+my sister and using that to buy me time essentially. The poisonings are
+likely at least partly why a lot of people are too scared to ultimately
+cooperate with law enforcement these days in regards to all this Russia
+stuff too. So without the poisonings our adversaries whole plan pretty much
+falls apart from what I gather.
+
+Sometimes I feel as though everything I’m doing now in terms of bringing
+all of this to light in regards to my brothers misdeeds and whatnot, I feel
+like all this was honestly meant to be my true purpose in life; therefore
+I’m cool with whatever happens to me as a result of all their poisonings
+just so long as you guys take this seriously and you do what is in the best
+interest of our country rather than any one political party or entity and
+you do your best to try and put an end to it and you do your best to punish
+those involved including my brother and you do your best to set up all of
+our children for a great future and ensure they don’t have to worry about
+all this themselves going forward.
+
+Thank you,
+
+Chase G
+
+
+As of April 10, 2022
+
+Added all signed copies of my own personal trust and its amendments here:
+
+https://drive.google.com/drive/folders/1zIiOn0GE\_XH8C7qF6TNbWhZ3D2U5swZJ?usp=sharing
+
+
+I’ve been working on a newer version that I can feel confident it will
+actually hold up in court as you can see here:
+
+https://drive.google.com/drive/folders/1-YJGVw4Lj462hNF92ntszSPOM5rPTgL-?usp=sharing
+
+
+I’m still working out the exact beneficiaries and whatnot btw. I want to
+combine the one “Chase Wade Gibbons Revocable Trust” and “Pour Over Will”
+essentially with a clause I found in another will template I found which
+assigns a digital executor. I also changed it up to make it so there will
+now be two trustees instead of just one so as to try and further prevent
+any targeting and/or potential corruption. I’m also thinking about just
+doing any of the charity donations as part of my will itself and leaving
+them out of my trust. Technically I could just do everything in a will I
+think. It’s already complicated enough as is anyways. Right now I got a
+pour-over will created by Hansey Law Offices that I’ll also add the signed
+version to the above folder and give it to people personally given the
+nature of the hacking threat I am faced with. But tbh, the trust Paul set
+up for me was completely bogus and I liked that Hansey guy because he was
+essentially representing someone against Paul when I first met with
+him–however as with everything lately I think Jones Simkins and that Hansey
+guy might have just used the fake trust Paul setup for me as evidence
+against Paul that caused Paul to settle with them and since then the Hansey
+guy has acted like Paul’s not so bad after all. I find it odd especially
+whereas like I specifically brought up to him afterwards that I read if I
+were going to make any charitable donations to any business entity as part
+of my trust/will then I’m actually supposed to include their charityId
+number, as you can see in some of those draft wills THAT I PUT TOGETHER
+MYSELF–however Hansey never even said anything about it after he seemingly
+settled with Paul with his other client and not only that–he kept Paul’s
+original trust in place and just created a generic “Pour Over Will” for me
+and pretty much sent me on my way. And that’s concerning because it means
+my charitable donations to entities like the CACHE COUNTY SHERIFF'S
+DEPUTIES ASSOCIATION, INC. might have proved completely invalid. Meaning
+they still to this day wouldn’t have gotten anything despite me supposedly
+being surrounded with all these “experts” and despite this being like my
+ninth iteration of thee trust Paul setup for me while trying to rely on
+anyone around here’s guidance. This tenth iteration I’m doing my own
+research and I’m doing away with the trust Paul setup for me. Plus it’s
+just concerning because its like again somehow Dusty somehow exerted his
+influence over these people to get them to settle their own fueds at my own
+expense–because Dusty is completely fixated on me cuz he knows I could
+result in him being locked up for the rest of his life. It’s just whatever,
+I feel like that Hansey lawyer settling his case with Paul and Paul’s old
+employer who fired him for “not putting his clients interests first” likely
+just used the evidence I provided him, (i.e. the phony trust paperwork Paul
+created for me) and he used that to gain leverage over Paul to get Paul to
+settle but then whatever Paul and Dusty is hiding from me seems to have
+made it so they not only settled but now none of them want the truth to
+come out essentially cuz otherwise I’d think that hansey lawyer would
+realize things like how scary it is that the trust document Paul created
+for me it doesn’t even include a severability clause. Meaning if one part
+of that trust Paul set up for me was deemed to be invalid in court–then the
+whole thing could be deemed invalid and thrown out.
+
+So now I added my own severability clause in the latest amendment I just
+did but even still that trust Paul setup has been such a nightmare for me
+that I still don’t trust it tbh. And it’s not intuitive at all either. I’m
+still not convinced it would actually stand up to legal scrutiny which I
+fully suspect Dusty will exploit if given the chance.
+
+Compare this: (Paul/Hansey’s version – Even with my new severability clause
+I just barely added because otherwise it had no hope for standing up in
+court whatsoever)
+
+https://drive.google.com/file/d/1w3MAAa5ZL9\_VXvKcekeuzmTjnqvtRwtC/view?usp=sharing
+
+https://drive.google.com/open?id=1DPheTyRiKmxoQ2sNgWDz9ExcEuaBZgdi&disco=AAAAW3m27AM
+
+
+To this for instance: (My version)
+
+https://docs.google.com/document/d/1vlVR7AJtsfKNufqPKjGkZyPQ5eD6CLVR/edit?disco=AAAAX17M-Vw
+
+https://docs.google.com/document/d/1vlVR7AJtsfKNufqPKjGkZyPQ5eD6CLVR/edit?disco=AAAAX17M-V4
+
+https://docs.google.com/document/d/1vlVR7AJtsfKNufqPKjGkZyPQ5eD6CLVR/edit?disco=AAAAX17M-V8
+
+You guys I’m not even exaggerating–Paul has never taught me anything even
+remotely useful about taxes over 10 years–as if deliberately.
+
+I’m not stupid you guys. Sometimes I’m just too trusting I guess given the
+fact my brother is the monster he is and given the fact others actually let
+my brother manipulate them into doing some pretty dark shit.
+
+
+
+One thing I ran into just barely is the mess of trying to transfer my
+shares of GFIC into my own personal trust. It turns out you got to go based
+on the operating agreement. And the operating agreement is shown here:
+
+https://docs.google.com/document/d/14S-9txhHPDYbSknrtlmVlFZ3X622Gr\_h/edit?usp=sharing&ouid=117949522585689688012&rtpof=true&sd=true
+
+
+
+What I discovered is I have the right to be paid compensation of my
+choosing for being a manager of GFIC. I also have the right to amend that
+operating agreement. I also have the right to essentially transfer the
+titles of anything in GFIC into my name. And all my assets are in GFIC
+pretty much. So yea, that was a shocker.
+
+As for how I’m supposed to transfer GFIC and it’s assets to whom I want it
+to goto if/when I die, well ideally as shown here:
+
+https://drive.google.com/file/d/1frhYLzLnpl5ze1nCEKIFQHZDgSTlnFUj/view?usp=sharing
+
+Meaning I should have already made whomever I was going to designate my own
+personal trust’s trustee a member just like my father did with us. Then I
+would need to change up the operating agreement to make it so the persons I
+choose can and will indeed become a managing member upon my passing. Doing
+so allows you to split up the taxes over a number of years and save on
+estate taxes that way essentially, by making it not all a lump sum in one
+year–which puts it all in a lower tax bracket. The problem however is Paul
+never teaches me anything about taxes–he seemingly deliberately doesn’t
+ever teach me anything about taxes for whatever reason–he never has
+either–even though I’ve had a relationship with him as my
+accountant/trustee for over ten years now and I talk to my accountant more
+than anybody. And so as with everything else in life I’ve found out if I
+want something I’ve just got to do it myself/learn it myself. And this is
+how pretty much my whole life has gone thus far thanks in large part come
+to find out because of my serial killer brother–who only gets joy when
+manipulating or doing harm to others; it’s become difficult for me to trust
+anybody really anymore and for good reason cuz Dusty’s already corrupted so
+many people around me.
+
+I think I figured out the exact recipe my brother and Russia have been
+using to systematically corrupt more and more of our country btw.
+
+Read this ticket I just created on the new Evony game I’ve been playing.
+It’s a lot like Age of Empires mixed with a puzzle game but it’s on your
+phone. Essentially my bro and his gangstalking crew try to make anything
+that is enjoyable to me no longer enjoyable to me. They really do spend all
+their time on doing just that to me. But see if you can see the pattern
+from this explanation of mine:
+
+P.s. They got me again. This time through my open easter egg candy. It
+essentially makes all your joints feel like there is sand in them out of
+nowhere. It was very similar to the poisons they used to use on me only
+this time they did it through consumption rather than through skin
+exposure. Same effect tho. I assume it’s something meant to give me
+non-hodgkin's lymphoma tbh.
+
+I wish someone would actually truly help me not get murdered.
 
 Chase Gibbons  / Manager
 435-999-4722
