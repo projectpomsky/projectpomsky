@@ -8846,6 +8846,10 @@ could tell I think they might be using similar 0days as our own military
 themselves. (Yet another conflict of interest) Plus I got a ton to do
 already as is myself..
 
+(I didn’t recently provide my email address to sirius xm btw, just noticed
+this just now–sirius xm is hacked if you ask me–and it’s technically
+critical infrastructure)
+
 Chase Gibbons  / Manager
 435-999-4722
 
