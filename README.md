@@ -2142,10 +2142,10 @@ constantly trying to kill me/frame me. But devoting my whole life to my
 brother is the only way I’ll ever get a smoking gun on him and get him to
 stop, whereas he appears to devote his whole life to me regardless of what
 I do essentially. (Or else he pays someone to devote their whole lives to
-me) It’s an almost impossible position to be faced with. I’m in this
+me) It’s an almost untenable position to be faced with. I’m in this
 position because I am smart and observant myself at the end of the day–but
 Dusty uses that fact against me. I’ve never been smarter than my brother. I
-really need someone to help guide me through all this safely.
+really need someone to help guide me through all this and safely.
 
 Dusty never stops you guys. He has all the information too through all his
 hacking, like I don’t have 1/1000th of the information on him as he has on
