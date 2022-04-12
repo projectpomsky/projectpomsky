@@ -1502,6 +1502,8 @@ was going to do to her?
 
 Dusty had time off before/after Karie’s death.
 
+Dusty demonized Karie both before and after her death.
+
 
 ~2016
 After Sister’s Death
@@ -1560,7 +1562,10 @@ house something like 2 weeks after my dad’s death, etc, etc.
 
 2018
 
-Dusty gets fired from his job as a civil engineer.
+Dusty gets fired from his job as a civil engineer. (At the time, he brought
+up to me something like he was trying to implement some russian php program
+or something at his work and his work didn’t like it or something, idk–I
+know that’s supposedly not what he told my mom though)
 
 Dusty has time off starting now until arguably present day, his recording
 studio but that’s just bs.
@@ -1570,15 +1575,20 @@ I purchase one of my father’s commercial unit’s from my little sister
 Taylor. (Thereby continuing my father’s legacy)
 
 Dusty doesn’t show up for dinner with me, Cindy, and Taylor–the dinner
-meant to finalize my purchase agreement with Taylor.
+meant to finalize my purchase agreement with Taylor. Cindy starts having
+regrets even though she’s the one who convinced Taylor to sell it for an
+annuity in the first place; I recall Dusty didn’t want me to purchase it or
+something either. But I needed the extra parking.
 
 My brother Dusty begins distancing himself from everyone besides Cindy,
 from what I gather.
 
-My brother texts me saying he’s been learning psychology, and tells me how
-our mom is a narcissist and all this messed up stuff about my mom’s teeth
-and whatnot and says he’s been talking to Cindy. He recommends I read a
-psychology book myself.
+My brother texts me saying he’s been learning psychology, reading books on
+psychology, and he tells me how he’s been talking to a psychologist who
+said our mom is a narcissist and he started saying all this messed up stuff
+about my mom’s teeth and how she used to be a druggy and all this messed up
+stuff, at least part of which he said he heard from Cindy. He recommends I
+read a psychology book myself and stop talking to our mom myself.
 
 My brother begins vigorously disparaging my mom and our whole family both
 privately to our whole family and publicly, calling my mom a narcissist,
@@ -1599,14 +1609,19 @@ van go into the child abuser’s house.
 
 Last Visit/Website/Brother Hacking
 
-My brother and Tom Finn come over to my house and act all hostile to me out
-of nowhere. Dusty takes back his Christmas present he gave me the year
-before, he took my guitar, they ask if they can go in my garage for some
-reason while I was busy doing something else, etc, and that’s the last time
-I ever even saw my brother face to face. (Never gave me my guitar back, I
-ended up telling him he could just keep it a little while later after I had
-a sense he was keeping it anyways, for his birthday or Christmas or
-something like that) #garage #framingme
+My brother and his felon friend, Tom Finn, come over to my house and act
+all hostile to me out of nowhere. Dusty takes back his Christmas present he
+gave me the year before, he took my guitar, they ask if they can go in my
+garage for some reason while I was busy doing something else, (I recall Tom
+had a backpack on) etc, and that’s the last time I ever even saw my brother
+face to face. (He never gave me my guitar back and he’s been hostile
+towards me ever since; I ended up telling him he could just keep the guitar
+a little while later seems how I had a sense he was keeping it anyways, I
+told him that later on for his birthday or Christmas or something like
+that) #garage #framingme
+
+My brother goes into sleeper mode. (Which was a red flag given all that
+happened in the past)
 
 My brother Dusty asks me to do his website for his new recording studio,
 even though he was perfectly capable to do it himself. Whereas he had all
@@ -1619,7 +1634,10 @@ denied. Plus my brother has always been difficult to work with.
 
 Dusty flakes out on hanging out anymore.
 
-Dusty encourages me to use social media more.
+Dusty encourages me to use social media more. (I felt like he could just be
+trying to look for a better way to do something to me without him besing
+the only suspect given how shady and hostile he had been acting out of
+nowhere–so I didn’t take his advice)
 
 Dusty recommends a book to me called “Never eat alone”.
 
@@ -1704,6 +1722,12 @@ To be clear–I don’t have a lot of people around me these days because no
 people are better than bad influences.
 
 I discovered the hacking for the first time definitively. #hacking
+
+Dusty freaked the hell out to my mother when he found out I went down to
+his recording studio with my phone in airplane mode one day. (Now I think I
+know why, cuz he knows he’s guilty/he was up to no good at his recording
+studio and/or he thought I might try to do something similar to him as a
+result of what he did to me or something)
 
 Dusty disparages Karie. #karie
 
@@ -2222,7 +2246,7 @@ worth it, and I'm hoping someone is looking over me.
 so watch out for that. Git has version histories built into it that all can
 see)
 
-My Analysis of Timeline
+My Analysis of TimelineFather
 
 As for our father’s death, the whole reason our dad told us we had to move
 out at the time was because of Cindy threatening to leave him or something.
@@ -2284,18 +2308,50 @@ on his trust at the time–then it would have likely been to remove Cindy.
 I’m really hoping Dusty didn’t treat our father like he did Karie right
 before Karie died, or like he’s now treating me.
 
-As for Karie’s death,
+My brother had demonized our dad prior to this point, he held resentment
+towards our father both for not being there when we were little, and for
+our father “making” Dusty follow in our father’s footsteps. (Our father
+didn’t make him do anything btw) I could totally see someone like Cindy
+using psychology to amp up or leverage my brother’s resentment against our
+father as well. I therefore do think part of my brother’s motivation is
+also to ruin our father’s legacy, and to snub our father for “making” dusty
+become a civil engineer, as you will see..
+
+Sister
+
+As for Karie’s death, Dusty and Cindy both hated Karie. I was always more
+on Karie’s side, like I hung out with Karie more than I hung out with Cindy
+after my father’s death. Everyone that Dusty starts demonizing has
+seemingly died btw. It’s almost as if Dusty got smarter in this case, and
+realized it would be better for him if he weren’t even around the person.
+
+tbc
+
+Me
 
 As for my brother’s subsequent targeting of me, it all lines up–I simply
 know too much for my brother’s comfort. I am now a liability to him/them.
 When my brother blamed my mother for him being this way, he was blaming my
 mother for the fact that Dusty only really cares about himself. Dusty has
 essentially admitted a lot of this in subtle ways, ways in which only his
-victims would know the true meaning given only his victims have the
+victims would know the true meaning of–given only his victims have the
 required context. For instance, I recall shortly after first accusing Dusty
 of all this, he replied at one point “you’re smart” only to delete it
 after. Dusty enjoys having his victims and only his victims know he is
-ultimately responsible, it must make him feel powerful or something. tbc
+ultimately responsible, it must make him feel powerful or something.
+
+I suspect Dusty went into sleeper mode when I purchased Taylor’s commercial
+building from her, which Cindy did seem to be questioning whether it was
+the right thing for Taylor to do at our purchase finalization dinner that
+Dusty didn’t show up to, even though if I recall correctly, the whole
+reason Taylor wanted to sell it to begin with was due to Cindy convincing
+Taylor of the value of annuities. I recall Dusty wasn’t really happy about
+me purchasing it at the time either. I think Dusty started distancing
+himself from me at this time based on all he’s learned in the past and all
+he was planning to do. He realized it would be better for him if he didn’t
+associate with me if he were going to start coming after me.
+
+tbc
 
 Chase Gibbons  / Manager
 435-999-4722
