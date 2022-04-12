@@ -12445,76 +12445,84 @@ been exposed to as a software engineer by trade) Last I checked the led
 vests/led caps themselves that the doctor’s office makes you wear for
 x-rays DO NOT give you cancer themselves–what I have used to protect myself
 from their x-rays/emfs is no different. Therefore all I’m saying is if they
-do succeed in giving me cancer–DO NOT buy it. Because Karie didn’t even
-have any cancer in her family either and she’s the healthiest person I’ve
-ever known–not even exaggerating. I only share what like ¼ of her dna given
-she was from a different mother anyways. And my fathers family also has no
-history of cancer nor does my mother’s family. Plus I wouldn’t need one of
-these led caps if they weren’t emf-ing me all night every night to begin
-with anyways. My brother is literally quite desperate at this point from
-what I gather, he’s literally giving up a lot of Russia’s secrets whether
-he is intending to or not and he really has no way out at this point. He is
-seemingly looking for any possible way out at this point that also
-accomplishes his “getting rid of a key witness that could totally get HIM
-locked up for the rest of HIS life for all HIS past murders” plan. (Meaning
-he’s looking for a way to kill me right here in Logan at the young age of
-33 and still get away with it despite him knowing him doing so is like the
-redest of red flags possible given my family’s already questionable death
-history and given all our family’s medical histories not aligning with
-cancer whatsoever essentially–if Dusty succeeds he and Cindy will be the
-only potential “suspects” left–quite literally–and therefore they will have
-outed themselves at that point in my view)
+do succeed in giving me cancer–DO NOT buy it. I’m not too worried tho cuz
+their poison shit is everywhere in my house to this day there is residual
+traces of it everywhere they’ve ever put it pretty much. But yea, Karie
+didn’t even have any cancer in her family and she’s the healthiest person
+I’ve ever known–not even exaggerating. Plus karie was from a different
+mother anyways. And my fathers family also has no history of cancer nor
+does my mother’s family. Plus I wouldn’t need one of these led caps if they
+weren’t emf-ing me all night every night to begin with anyways—that’s my
+point.
 
-My father died here in Logan, my sister came to Logan to die after a tough
-battle with non-hodgkins lymphoma. (which normally only happens in older
-people I heard, and it normally is the most easily overcome cancer) And
-Dusty knows damn well that if he kills me here in Logan he is completely
-and totally f-cked and yet I do get the sense that he’s risking it
-nonetheless because he’s already given up so much of Russia’s secrets
+My brother is literally quite desperate at this point from what I gather,
+he’s literally giving up a lot of Russia’s secrets, whether he is intending
+to or not, and he is bringing all this about our family’s shady death
+history to the forefront. He is seemingly looking for any possible way out
+at this point that also accomplishes his “getting rid of a key witness that
+could totally get HIM locked up for the rest of HIS life for all HIS past
+murders” plan. (Meaning he’s looking for a way to kill me right here in
+Logan at the young age of 33 and still get away with it despite him knowing
+him doing so is like the redest of red flags possible given my family’s
+already questionable death history and given all our family’s medical
+histories not aligning with cancer whatsoever essentially–if Dusty succeeds
+he will have outed himself at that point in my view)
+
+My father died here in Logan, my sister came to Logan to die after a long
+tough battle with non-hodgkins lymphoma. (which normally only happens in
+older people I heard, and it normally is the most easily overcome cancer)
+And Dusty knows damn well that if he kills me here in Logan he is
+completely and totally f-cked and yet I do get the sense that he’s risking
+it nonetheless because he’s already given up so much of Russia’s secrets
 already that he barely even has a choice–and he’s already spent so much
 time and money on me already–but what he doesn’t get is it’s already too
 late. He’s already managed to tear apart his new “family” whether he meant
 to or not. One would be forgiven to think that was his goal this whole
 time, because I personally can’t think of a better way for him to get all
 this info out to the general public and to our government which will allow
-them to counter it. But regardless, Dusty is a killer and he needs to be
-held to account for what he has done/what he continues to do to this day.
-And unlike Karie–I personally plan to be extremely vocal as hell through
-this whole process regardless of what Dusty does to me–as vocal as I
-possibly can be tbh–and I plan to document what Dusty has done to me to the
-bitter end so that you all can see exactly what my brother has done to his
-family and what he continues to do to us–so that way it will become as
+them to counter all of it. But regardless, Dusty is a killer and he needs
+to be held to account for what he has done/what he continues to do to this
+day. And unlike Karie–I personally plan to be extremely vocal as hell
+through this whole process regardless of what Dusty does to me–as vocal as
+I possibly can be tbh–and I plan to document what Dusty has done to me to
+the bitter end so that you all can see exactly what my brother has done to
+his family and what he continues to do to us–so that way it will become as
 serious to YOU as it is to ME. And so that way nobody ever forgets just
-what Dusty is capable of and that way Dusty will be truly exposed for what
-he really is once and for all. I plan to leave no doubt in anybody’s mind
-just how much Dusty belongs in prison before I die if he does succeed in
-giving me cancer. And I plan to get all his little helper buddies locked up
-too. It really is the least I can do for all they have done to me.
+what Dusty is capable of and that way Dusty will be truly be exposed for
+what he really is once and for all. I plan to leave no doubt in anybody’s
+mind just how much Dusty belongs in prison before I die if he does succeed
+in giving me cancer. And I plan to get all his little helper buddies locked
+up too. It really is the least I can do for all they have done to me.
 
 https://drive.google.com/file/d/1GQETUK2q4ILnbPF4LL6nRBOnb\_C9XDc8/view?usp=sharing
 
 
 Steel works about just as well as led to block the entire electromagnetic
-spectrum btw, because steel essentially contains led, and I also use
-steel–again don’t let them try and tell you that any steel or anything else
-I’ve done to try and protect myself–don’t let them blame me for their
-killing of me essentially. Just figured I’d call it out now while it’s
-still “early”. Plus Dusty has indicated to me that he likes to kill people
-or “people tend to die” in the ways that they fear the most previously, and
-for whatever reason Dusty believes I fear cancer the most–and we shall let
-him believe that.
+spectrum btw, because steel essentially contains led/iron, and I also use
+just regular steel/iron to block all their direct radiation against
+me–again don’t let them try and tell you that any steel or led or iron or
+anything else I’ve done to try and protect myself–don’t let them blame me
+for their killing of me essentially. Just figured I’d call it out now while
+it’s still “early”. Cuz I know that is precisely how they think. Believe
+me, I’m not dumb. But you never know what these people might be creating as
+a pretext for for like the fiftieth time, I assume it will follow the same
+pattern as the last forty-nine times however.. Plus, Dusty has indicated to
+me that he likes to kill people or to be more precise he said to me right
+after karie died that “people tend to die” in ways that they fear the most,
+and for whatever reason Dusty believes I fear cancer the most–and we shall
+let him believe that.
 
 Unlike Karie I know damn well who is doing all this shit to me and now I
-know who apparently did it to them to and I therefore shall use any and all
-precious time I have left on this earth devoted towards making sure anyone
-and everyone knows the truth–so as to prevent Dusty from harming anybody
-else including but not limited to any other family members. (Meaning cancer
-might actually prove to be a good way for me to die in this case–cuz it
-buys me precious time to take you all along for the ride and to finish
-documenting everything from A to Z–it essentially is one of the best ways
-to ensure Dusty and his cronies are held to account essentially) And if
-that’s what I have to do to protect everyone else then that’s what I’ll
-gladly do.
+know who apparently did it to them too and I therefore shall use any and
+all precious time I have left on this earth devoted towards making sure
+anyone and everyone knows the truth–so as to prevent Dusty from harming
+anybody else including but not limited to any other family members of mine.
+(Meaning cancer might actually prove to be a good way for me to die in this
+case–cuz it buys me precious time to take you all along for the ride and it
+buys me time to finish documenting everything from A to Z–it essentially is
+one of the best ways to ensure Dusty and his cronies are held responsible
+for what they have done essentially) And if that’s what I have to do to
+protect everyone else then that’s what I’ll do.
 
 I can’t believe Dusty actually thought he could kill his whole family and
 get away with it tbh. Like he’s smart, book smart, but he lacks common
@@ -12537,6 +12545,44 @@ already done so part. My father always liked Michael anyways.
 
 https://drive.google.com/drive/folders/1-YJGVw4Lj462hNF92ntszSPOM5rPTgL-?usp=sharing
 
+
+
+Busted For Changing What I Wrote Just Barely
+
+K so I just caught them deleting part of what I had originally wrote. I
+essentially stated that Dusty has essentially poisoned me 50 or more times
+now. And I went on to say that Dusty has got to have access to like a
+Russian biolab or something just given how they always evolve the method of
+delivery and the poison itself based on their latest intel. So yea, I’m
+accusing Dusty and therefore Russia of using bioweapons right here in the
+United States and they didn’t seem to like that. But the only reason they
+wouldn’t like that is because it is the truth. The facts are no person just
+buying something off the dark web could have the sheer variety of poisons
+they’ve used against me their disposal, and they for damn sure wouldn’t be
+able to tweak the delivery or base substance time and time again. Like most
+recently they tweaked it to make it work through just simple exposure when
+injected into my houses water pipes somewhere when I took a bath. And YES I
+am indeed now 100 percent confident it was my bath water that was giving me
+hives for weeks previously. And just like a few more quick examples, they
+got poisons that are seemingly meant to kill fastly, they got poisons that
+are seemingly meant to kill slowly or give people cancer, and they even
+changed out the delivery base substance previously when they found out I
+was able to wash it off with rubbing alcohol. They changed it to no longer
+was off with rubbing alcohol. I will not say how I ended up getting that
+one off to prevent another iteration at this time. But yea, Dusty totally
+has seemingly direct access to a biolab of some form meant to create
+poisons for purposes of killing people. I no longer believe he is just
+getting this shit off the dark web. As you have seen throughout this
+journey, if you have read along, I now fully believe Dusty is indeed
+working with Russia and I believe he is funded by a Russian oligarch with
+his main objective being to destabilize this local region of our country
+from within.
+
+I also had stated something about how I need to get a yearly check-up given
+all the poisons they’ve subjected me to, and that I was honestly surprised
+that my body has held up for this long given they have now poisoned me
+literally over 50 separate times in one form or another.. (Again--not even
+exagerating--likely closer to 100 tbh--50 is a conservative estimate)
 
 Chase Gibbons  / Manager
 435-999-4722
