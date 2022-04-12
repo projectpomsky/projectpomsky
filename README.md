@@ -3743,6 +3743,15 @@ passing, and act like he actually cares about me) Just wanted to throw that
 out there—I’m not even joking or exaggerating—they infrasound me daily and
 they’ve tried staging my death numerous times already..
 
+If I were you—I’d actually try real hard to do something about my brother
+before that actually happens. Because my brother could theoretically
+completely fuck up this entire case that way. And then you’ll have a serial
+killer still on the loose for likely years to come.
+
+Another mysterious strange clear somewhat thick substance on my hallway
+floor today I found after I got home that wasn’t from anything I did.. (And
+I live alone) It wasn’t there when I left either.
+
 Some (but not all) Dusty gangster references:
 
 https://drive.google.com/drive/folders/1PGc6ncUsAUuftYDLFpFFT16\_dhREfD8I
