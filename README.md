@@ -8846,9 +8846,23 @@ could tell I think they might be using similar 0days as our own military
 themselves. (Yet another conflict of interest) Plus I got a ton to do
 already as is myself..
 
-(I didn’t recently provide my email address to sirius xm btw, just noticed
-this just now–sirius xm is hacked if you ask me–and it’s technically
-critical infrastructure)
+(I didn’t recently provide my email address to sirius xm btw, the last
+thing I want is sirius xm right now, I just noticed this just now–sirius xm
+is hacked if you ask me (not just from this but from all i’ve experienced
+previously)–and it’s technically critical infrastructure. The longer these
+remain hacked–the more screwed we become because they gain access to
+critical operational information that isn’t going to change anytime soon.
+It’s as if Russia and China finally got access to some of our most closely
+guarded technology and while we used it responsibly–they don’t. Want to
+know how they likely got access to this? I’d be willing to bet they got
+access to it using psychology–i.e. as part of their psychological
+manipulation campaign against our country, by turning us against each
+other, exploiting conflicts of interest to where they made it so it was in
+somebody’s best interest to give them access to it and that certain someone
+cared more about themselves than everybody else–or just from the toxic
+divisions lately leading to someone giving them access to it for free–or I
+guess they might could have re-engineered it but I doubt it–things like
+these are compiled in ways to be difficult to re-engineer)
 
 Chase Gibbons  / Manager
 435-999-4722
