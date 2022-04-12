@@ -12855,11 +12855,11 @@ multiple added benefits/advantages such as:
  manipulate all our citizens later in our elections through the social
  profiles they create on each person–either as candidates or as voters–which
  is also huge from an adversarial point of view. (Because they are then
- forming both a “prospective candidate” and “voter” profile on each person
- rather than just a “corporation” profile essentially–it goes back to the
- cambridge analytica type manipulation except on steroids in this case
- essentially–because their access to any person’s data literally has no
- bounds in this case)
+ forming both a “prospective candidate” and/or “prospective voter” profile
+ on each person rather than just a “corporation” profile essentially–it goes
+ back to the cambridge analytica type manipulation except on steroids in
+ this case essentially–because their access to any person’s data literally
+ has no bounds in this case)
 
 
 We really need to look out for our adversaries specifically targeting our
@@ -12886,7 +12886,8 @@ nation to begin with) Literally everything else spawns from this root. My
 brother wouldn’t even be able to do any of this to me without all that
 pretty much–or at least he wouldn’t be nearly as effectively without their
 seemingly strategic targeting/manipulation of our social networks I
-wouldn’t think..
+wouldn’t think.. It’s scary. Some people don’t see how hacking can be such
+a big deal–but it really is–and this is how.
 
 
 
