@@ -8474,9 +8474,17 @@ Putin—and we’ve got to stay united—regardless of what happens.
 I just heard the ruble is now worth less than a penny. 😂🤣😁😁😁🥲😅😊
 
 Now if only we can keep the Russian oligarchs off of bitcoin.. Anonymous is
-awesome btw, they’ve been tearing it up against Russia lately. And it’s
-even a global coalition of anonymous hackers. There may still be hope after
-all. 🤞🤞🤞
+awesome the last few days at least btw, they’ve been tearing it up against
+Russia lately. And it’s even supposedly a global coalition of anonymous
+hackers. There may still be hope after all. 🤞🤞🤞
+
+The Russian hackers just indicated to me they do indeed know exactly where
+Zelensky is at just fyi. It’s such a twisted game they play. Even the
+people they kill they rig their murders to advantage them in some way,
+above and beyond the person just losing their life. Everything Putin/Dusty
+does is some kind of fucked up show these days I swear—the hardest part is
+seeing through it all. Everything they do is meant to get a leg up on
+you—which is why they are perfectly fine with lying to your face.
 
 
 -- 
