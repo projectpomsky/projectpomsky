@@ -3676,7 +3676,42 @@ life would be really really tough. But I'll likely always fear when he gets
 out for anything less than that. These are all my honest/genuine emotions.
 
 I have little doubt he’s going to end up sending at least one person to
-follow me wherever I end up..
+follow me wherever I end up btw, likely multiple..
+
+I have a hypothesis on Dusty’s motive. He legit thinks our dads money is
+“his” money as he said—you know, cuz dusty I think killed our dad. So Dusty
+doesn’t want anybody to be able to enjoy “his” money that Dusty doesn’t
+approve—even if that means killing them or in my case trying to do mind
+control on me and completely take over my mind before I ever get to truly
+enjoy my inheritance or else just to frame me if he ever truly can control
+my mind. (Whereas I’m a particular inconvenience to him because I caught
+him in the act, so if he straight killed me he knows the police would be
+all over him) The timing for dusty to turn on me was pretty precarious too.
+Right when I bought one of my dads commercial buildings from Taylor. It’s
+as if dusty does whatever Cindy wants or something. (When in reality—I even
+told Taylor like let me know if you ever change your mind and we can work
+some partnership out or something) But the only person Dusty seemingly
+approves of having “his” money is Cindy and Cindy’s daughter Taylor. Either
+that or dusty just doesn’t like any of us continuing our fathers legacy
+period. What’s a bigger slap in the face to my father than creating a 3d
+land survey of death using infrasound anyways? Dusty always hated our
+father for “making” him follow in his footsteps as a land surveyor and
+civil engineer. And so what does he do? He seemingly creates or somehow
+buys this like triangulating infrasound sonar I described above, only using
+sound which dusty has always been into, which essentially allows dusty to
+map out any building in real time to find his victims. Like that’s as big a
+slap in the face to any parent I could ever possibly even think of. (Well
+besides killing them)
+
+Dusty is very childish/rebellious at heart. It’s like he never fully
+matured. Just being honest. He never lets anything go either. He’s very
+cold and calloused, these days anyways. He thinks he gets whatever he
+wants. There are no if ands or buts about it. And he’ll do some extremely
+shady things to make that happen. All he cares about is himself, he thinks
+he’s a gangster.
+
+
+-- 
 
 Chase Gibbons  / Manager
 435-999-4722
