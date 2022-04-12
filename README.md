@@ -2634,27 +2634,37 @@ As of December 17, 2021
 I woke up with my right arm burning today. (Which was the side I was laying
 on in bed) They may have gotten in my house again, I read in gangstalking
 it’s common for them to use tunnels. I also read it’s common for them to
-use microchips. Not saying that’s what they are doing though. I do suspect
-them putting something on my bedding is what may have contributed to my
-loss of hair on my legs previously and my arm burning this morning
-though–well that and/or all the emf stuff.
+use microchips. Not saying that’s what they are doing though. If they were
+going to use a tunnel then now would be about that time when they would use
+it though, assuming I am indeed being gangstalked, because it’s all about
+making it seem more and more far-fetched as time goes on. But yea, I do
+suspect them putting something on my bedding is what may have contributed
+to my loss of hair on my legs previously and my arm burning this
+morning–well that and/or all the emf stuff.
+
+https://drive.google.com/drive/folders/17bzBc6v8X\_Oijsj2hLYF4LJavrScWmaU?usp=sharing
+(Notice how the missing hair coincides with where my bare legs would touch
+my bedding on any given night)
 
 Again sometimes they’ll do false flag operations. Or operations
 specifically intended to make me look bad knowing I’ll likely report what
 happens to me.
 
-If you really wanted to get to the bottom of all this, you’d have a sincere
-talk with that child abuser guy who has been in on it since the very
-beginning–and you’d find out everything he knows–and you wouldn’t let him
-mislead you. That eagles incident is pretty damning after all, not to
-mention everything else I can link back to him and how I can link him back
-to my brother through all the hacking, eagles incident, kid coming over
-repeatedly on key dates to intimidate me, etc, etc. (At least preliminarily)
+To get to the bottom of all this, you could try having a sincere talk with
+that child abuser guy who has seemingly been a part of it since the very
+beginning—at least in regards to what’s been happening to me anyway–and if
+you are able to find out everything he knows without letting him mislead
+you at all then I think you could honestly find out a lot. Just a thought.
+That eagles incident is pretty damning after all, not to mention everything
+else I can link back to that guy and how I can link him back to my brother
+through all the hacking, eagles incident, kid coming over repeatedly on
+dates that only someone who is deeply familiar with me would know, all the
+intimidation, etc, etc. (At least preliminarily)
 
-Not only do they fine tune their attacks to the individual–they fine tune
-their attacks to the individual circumstances at the time of that
+Not only do they fine tune their attacks to the individual–they seem to
+fine tune their attacks to the individual circumstances at the time of that
 particular individual. I have no doubt they could figure out a way to
-attack anybody through all their hacking and intel.
+attack any person through all their hacking and intel.
 
 https://drive.google.com/drive/folders/17bzBc6v8X\_Oijsj2hLYF4LJavrScWmaU?usp=sharing
 
@@ -2668,38 +2678,110 @@ this if all my breakers had been on like normal for the full month of
 November)
 
 It’s as if someone is somehow somewhere drawing from my power or
-something.. (attic or garage maybe? neither were covered in bug sweep)
+something.. (Attic or garage or electrical meter maybe? None of which were
+covered in bug sweep—I don’t think the guy even really bug sweeped my water
+heater tbh)
 
 https://drive.google.com/file/d/1D0GBUhN7OuX4ylzVuDL1PS2t0lnAX7Xw/view?usp=sharing
 
 As of December 20, 2021
 
 I’m breaking out in hives today on my back. See what I amended above under
-the “as of November 12, 2021” heading for more info. I’ll quote it here:
+the “as of November 12, 2021” heading for more info. I’ll add a similar
+but more elaborate quote of what I put above here:
 
  -
 
  as of 12/20/2021— I suspect they’ve now moved back to external
- poisonings which don’t wash off with rubbing alcohol/apple cider vinegar
- and which aren’t immediately apparent you’ve been attacked–but have a
- similar texture to them — so a better description of their overall pattern
- is that they will always fine tune what they are doing at any given time
- using all their intel gleaned through all their hacking. (So what they are
- doing constantly changes based on their latest intel—a lot of times they’ll
- change up what they are doing just to try and make me look bad or to try
- and make a statement I have made previously prove false, like going back to
- external poisonings after I said in general they seem to be going from
- external to internal over time) Now that is something I can say
- definitively that they won’t be able to then turn around and try and make
- me look bad about, is their methods are always changing based on their
- latest intel essentially, to best suit them.. And they constantly exploit
- the latest vulnerabilities both in the digital and physical realm. (See
- photos of my back and neck)
+ poisonings which won’t even wash off—not even with rubbing alcohol or apple
+ cider vinegar—and which aren’t immediately apparent you’ve been
+ attacked–but have a similar texture/feeling when they are on your hands.
+ (So now I got to figure out what in the hell will successfully wash off
+ this new substance and all the chemistry or whatever involved with soaps
+ and different kinds of oils, etc, etc—if I want to freaking get it off me
+ fully–read the bullet points below–I guess it’s in my best interest not to
+ research this or continue trying to get it off me at his point)
+ -
+
+ A better description of their overall pattern is that they will always
+ fine tune what they are doing or evolve what they are doing at any given
+ time using all their intel gleaned through all their hacking. (So what they
+ are doing constantly changes based on their latest intel—a lot of times
+ they’ll change up what they are doing just to try and make me look bad or
+ to try and make a statement I have made previously proven false, like going
+ back to external poisonings after I said in general they seem to be going
+ from external to internal over time—what I should have said is they always
+ evolve what they are doing based on their latest intel) Now that is
+ something I can say definitively that they won’t be able to then turn
+ around and try and make me look bad about, is their methods are always
+ changing based on their latest intel essentially, to best suit them and to
+ best suit the picture they are trying to paint or whatever their end game
+ is.. They also constantly exploit vulnerabilities as well—both in the
+ digital and the physical realm.
+ -
+
+ By exploiting vulnerabilities in the physical realm I mean for instance
+ they’ll start emf-ing me until I figure out a way to block it successfully,
+ then they’ll use like a different type of emf like ef or rf which goes
+ right through the existing defenses I have in place, or else they’ll
+ reposition their attacks at that time to maybe come in at another angle
+ that I hadn’t covered all that well, and once I figure out how to block all
+ that then they’ll start infrasounding me instead which requires a whole
+ different approach to try and block out, etc—all with the intent of having
+ a continuous ongoing pressure or torture (It’s an intelligence game of my
+ brothers like I said, it requires knowledge of all sorts of different
+ things to advance on to the next stage and I am being forced to play for my
+ life essentially—and I never even signed up for this to begin with—and it
+ keeps getting harder)
+ -
+
+ I can now see it. My brother is essentially forcing me through these
+ steps making me learn these things to frame me, only he’s doing it by
+ actually doing these things to me—knowing his search history will never be
+ found and mine will. But that would only help him for future murders
+ essentially.. (Cuz I just searched how to get wax off my skin starting just
+ yesterday or the day before when I woke up with hives and I noticed I had a
+ waxy substance on my hands yet again that wouldn’t come off for days
+ starting when I said I suspect they were still getting in my house—which is
+ why I said that..) I guess framing me is yet another way for him to dismiss
+ all my allegations against him. Now I almost have to be able to prove all
+ this and definitively. Then he poisons me every time I go out to
+ essentially reinforce me to stay home and therefore not have anyone who can
+ vouge for me. It’s reverse psychology but he’s essentially been
+ conditioning me to frame me. This is a fucking nightmare tbh.
+ -
+
+ See photos of my back and neck
  -
 
 
  https://drive.google.com/drive/folders/17bzBc6v8X\_Oijsj2hLYF4LJavrScWmaU?usp=sharing
 
+ -
+
+ Signing off for now, now that I think I have figured out what my brother
+ is ultimately up to. Now I’ve got to ponder on how I can best defend
+ against being framed going forward, whereas someone who is attacked will
+ likely have similar search history as the attacker and whereas my brother
+ is like extremely good at hacking and hiding all his digital stuff and
+ hiding stuff in general from what I gather. I think the best way to defend
+ against it is to entrust that’s really what he’s ultimately trying to do
+ and just ignore it whenever I am poisoned/whenever I do have some strange
+ substance on my hand out of nowhere. If I die from it then I dunno, I guess
+ so be it–but even then he could blame me for it. #mindfuck
+ -
+
+ My brother is smart you guys, I just wish he wouldn’t drag me into all
+ this let alone try and frame me using all his Charles Manson psychology
+ tactics–I don’t want to learn all that his psychological mind games just to
+ combat him either. I don’t know what to do. I need to find a roommate and
+ asap I guess. No wonder he told me I’d regret not having people around me
+ previously.. (But the thing is, he’s kinda helped make it that way for me
+ in numerous different ways especially as of lately–I swear he thinks he’s
+ god)
+ -
+
+ Anyways, Happy Holidays all. ✌️
 
 
 
