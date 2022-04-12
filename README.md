@@ -4588,3 +4588,6 @@ Now that right there would explain everything.
 
 I therefore plan to move somewhere where I will be of no use to Russia or
 my brother.
+
+I suspect everything else is just a cover story or false flag operation
+pretty much.
