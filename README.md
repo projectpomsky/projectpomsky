@@ -3006,12 +3006,13 @@ on any given night. (I sleep less when I have more protection)
 
 I also have reason to suspect I may have actually been microchipped
 previously, likely when getting my second covid shot in May if so. There’s
-records of me having heart aches right after that time. I recall the second
-needle seemed a lot bigger than the first too. My mom had gotten the
-appointments for me when I couldn’t find any appointments myself. (Avoid
-smiths marketplace pharmacy for shots) I now suspect the microchip could be
-how they know where I’m at at all times, how they know exactly where to
-point the EMF, etc, etc.
+records of me having heart aches right after that time—although I couldn’t
+get my Kardia mobile to show my heart beating irregular at the time—that’s
+when I bought it actually. I recall the second needle seemed a lot bigger
+than the first too. My mom had gotten the appointments for me when I
+couldn’t find any appointments myself. (Avoid smiths marketplace pharmacy
+for shots) I now suspect the microchip could be how they know where I’m at
+at all times, how they know exactly where to point the EMF, etc, etc.
 
 My brother has always been into nanotechnology too which is scary. He also
 started trying to tell me how important it is to have rich friends or
@@ -3188,53 +3189,84 @@ They are blasting me with radiation nightly—like that one isn’t even
 questionable anymore. What are you going to do when I get cancer or
 something bad happens to me? Just say oh well and go on with your daily
 lives? Like I don’t get why more people aren’t completely outraged by all
-this.
+this. I get it’s scary and hard to prove but still—I also get the sense
+most people do believe me to a certain degree.
 
-Tbh if I had to guess the name of my brothers gang, I’d guess MS13. I’d
-guess my brother after he got fired from his job as a civil engineer got
-pulled into a gang by Tom Finn while my brother was down, and maybe dusty
-shared some of his shady past in regards to our family with Tom at the
-time, and it was like a match made in heaven. And now you’ve got a genius
-expert hacker practically running MS13 and calling the shots daily. (I mean
-it would make sense, if my brother is in a gang he’s likely a killer, who’s
-to say he wasn’t already a killer? You guys should have seen the way dusty
-started talking previously when he was disparaging our whole family—I’ll
-have to share all my gang references soon..)
+Tbh if I had to guess the name of my brothers gang off the top of my head,
+I’d guess MS13. I’d guess my brother after he got fired from his job as a
+civil engineer got pulled into a gang by Tom Finn while my brother was
+down, and maybe dusty shared some of his shady past in regards to our
+family with Tom at the time, and it was like a match made in heaven, or
+hell I should say. And now you’ve got a genius expert hacker practically
+running MS13 and calling the shots daily. (I mean it would make sense, if
+my brother is in a gang he’s likely a killer, who’s to say he wasn’t
+already a killer? You guys should have seen the way dusty started talking
+previously when he was disparaging our whole family—I’ll have to share all
+my gang references soon..)
+
+An alternate hypothesis of mine is dusty knew I knew the truth so after he
+initially hacked me—he went seeking help from someone that he could
+convince to actually help him against me. And that someone could have even
+been Russia. (I had looked into their social media troll farms in regards
+to our elections previously) But that doesn’t account for him talking like
+he were in a gang, posting shit about Ogden gangster, Tom Finn, etc, etc,
+all around that same time.
+
+Or maybe he just found some fellow crooked dark web people and told them
+straight lies about me, (like the lies he made up when disparaging our
+whole family previously) or a combination of all three. I’m still trying to
+figure out exactly who he is affiliated with these days that’s the thing.
+Nobody knows it seems.
 
 The infrasound is coming from the neighbors btw—I know cuz whenever I hear
 a car drive by it stops for about thirty seconds—only to continue on after
-the car has driven by. Lead is the only thing I’ve found that stops it from
-messing with my heart like I shared previously—and only when I’m completely
-surrounded 360 degrees by it—but I can still hear the infrasound/subwoofer
-regardless. As for the microchips, I don’t f-ing know, I was just saying
-like these guys have no limits they won’t cross. And it sounded like a
-tracker in my ear particularly when driving a rental car this last
-week—which they likely wouldn’t have had any other tracking mechanism in
-place at the time, in addition to all the other reasons I listed above for
-why I now suspect a microchip. I could be wrong on the microchip one but if
-so it still doesn’t mean I’m wrong on everything else. Gangs will go to
-great lengths to track people—I just never knew they would do it to non
-members. (Anyone who is a perceived threat I guess—it’s all in my
-references—look it up—dusty asked me to come work with him and I denied—and
-I didn’t even know he was in a gang at the time) Again, even how he tried
-to introduce me to the gang he used plausible deniability, by talking like
-a gangster at the time.
+the car has driven by. (At least last night it did) Lead is the only thing
+I’ve found that stops it from messing with my heart like I shared
+previously—and only when I’m completely surrounded 360 degrees by it. (Like
+no gaps whatsoever can be present) I know this cuz I can still hear the
+infrasound/subwoofer through my protection.
+
+As for the microchips, I don’t f-ing know, I was just saying like these
+guys have no limits they won’t cross and I had symptoms suggesting that and
+it makes sense with all their other hacking and with my brothers passion
+for nanotechnology since he was a kid. And it sounded like a tracker in my
+ear particularly when driving a rental car this last week—which I’ve paid
+more attention to since; plus, they likely wouldn’t have had any other
+tracking mechanism in place at the time so I’m now extremely concerned
+about a microchip in particular especially if I’m going to try to leave. In
+addition to all the other reasons I listed above for why I now suspect a
+microchip. I had the same eye symptoms again last night btw—I had
+accidentally disturbed my protection while sleeping and they got through. I
+have an appointment with the doctor tomorrow. I really do sense they are
+beginning to uncrack my mind tho—like just warning everyone—which is why I
+have a newfound sense of urgency. I could be wrong on the microchip one, I
+guess we will see, but if so it still doesn’t mean I’m wrong on everything
+else.
+
+Gangs will go to great lengths to track people—I just never knew they would
+do it to non members. (Anyone who is a perceived threat I guess—it’s all in
+my references—look it up—dusty asked me to come work with him and I
+denied—and I didn’t even know he was in a gang at the time) Again, even how
+he tried to introduce me to the gang he used plausible deniability, by
+talking like a gangster at the time, distancing himself from everyone at
+the time, not denying it when I asked—but never saying it directly.
 
 I’m just trying to help ensure Logan doesn’t become a place rampant with
-gangs and corruption, and I’m trying to seek justice for my family and to
-help save other peoples lives from what I now know first hand dusty and his
-gang are capable of. I sometimes wish more people would help. I feel it
-could all come to an end sooner if so.
+gangs and corruption and people who are made into zombies to do evil
+peoples bidding essentially, and I’m trying to seek justice for my family
+and to help save other peoples lives from what I now know first hand dusty
+and his “people” are capable of. I sometimes wish more people would help. I
+feel it could all come to an end sooner if so.
 
 Dusty is smart but he’s always lacked common sense and he’s always been
 over confident in how smart he is. Like it’s stupid for him to have even
-devoted all his new gang’s resources towards coming after me to begin with.
-I was no threat to them at the time. Like what the hell did he think was
-going to happen? If anything he’s helping ensure the gang’s demise by going
-after someone who knows him so well—someone who also happens to be a senior
-software engineer himself which seems to be my brothers gang’s core
-competency. Yea I don’t specialize in security but my brother has kinda
-made me almost have to specialize in security.
+devoted all his new gang’s resources towards coming after me to begin with,
+whomever his gang may be. I was no threat to them at the time. Like what
+the hell did he think was going to happen? If anything he’s helping ensure
+the gang’s demise by going after someone who knows him so well—someone who
+also happens to be a senior software engineer himself which seems to be my
+brothers gang’s core competency. Yea I don’t specialize in security but my
+brother has kinda made me almost have to specialize in security lately.
 
 Dusty has let me know it’s him so many different times it’s not even funny.
 They all like letting you know who is responsible—they just do it in ways
@@ -3244,8 +3276,8 @@ Some of which are more easily recognizable than others.
 At least in my mind, I’m about as good a witness as you could possibly hope
 for in trying to go after a gang kingpin who specializes in technology who
 is clearly a threat to society—let alone this particular gang kingpin. I
-therefore feel it would be wise for you and Logan to try and help keep me
-alive.
+therefore feel it would be wise for you and Logan in general to try and
+help keep me alive and free from constant harassment.
 
 Like we live in the United States of America for hell sakes—not Mexico—not
 Cuba. This shit shouldn’t be tolerated here. If this continues—all of Logan
@@ -3261,20 +3293,165 @@ Yea they do things to try and make me look crazy but that’s why I’ve been
 going to see doctors, counselors, etc, to try and help counteract all that.
 If you’d like to see me do anything further just let me know. Just realize
 it’s common for anybody's hypothesis to change over time as more
-information comes in—at least the non corrupt/non biased people—plus, I try
-and base everything off of physical evidence—even if it’s just like an emf
-reader, etc. At least it’s something—if you’ve got any better ideas please
+information comes in—at least the non corrupt/non biased/non ignorant
+people—plus, I try and base everything off of physical evidence—even if
+it’s just like an emf reader, etc. At least it’s something—if you’ve got
+any better ideas on how I can get evidence on emf or infrasound then please
 let me know. I therefore really feel it’s about time more people besides me
 begin to stand up to my brother. He can’t go after all of us after all.
-Plus, I’ve gotten so much evidence on him by now, it’s just a matter of
-presenting it right. (And adding references which I’m working on)
+Being silent in a way is contributing to the violence. Plus, I’ve gotten so
+much evidence on him by now, it’s just a matter of presenting it right.
+(And adding references which I’m working on)
 
-If you guys ever charge my brother with any crimes, I’d really like to know
-about it so I can make decisions accordingly. Like even just knowing
-exactly what gang he is in could help me in getting away from them.
+I think the best way to go after them might be to do to my brother what he
+does to me in terms of creating conflicts of interest with everyone I
+affiliate with—only do that to dusty using ethical means. (I.e. threaten my
+brothers suspected helpers with something else that will make them flip,
+like their kids for instance)
+
+Anyways, if you guys ever charge my brother with any crimes, I’d really
+like to know about it so I can make decisions accordingly. Like even just
+knowing exactly what gang he is affiliated with could help me exponentially
+in terms of my ability to get away from them.
 
 Please don’t make me regret not joining him.
--- 
+
+P.s. Today I created a GRAMA request or freedom of information act request
+requesting the utility usages of nearby houses in our neighborhood. Whether
+they’ll approve my request or not, I guess we will see. But I would like to
+take a look at a few houses electrical bills lately and how they’ve changed
+compared to previous years around this same time. (Previous years when I
+wasn’t being emf-d/infrasounded by whom I suspect to be some of our
+neighbors) Of course there also can be legitimate reasons for utility bills
+to fluctuate some but the more info the better in my mind.
+
+P.s. I still haven’t gotten my onstar Lexus tracking mechanism/app working
+yet btw. I got close after going to the dealership and trying again but
+then the email with the new pin code they sent me to activate it never came
+through I suspect because the hackers play middleman with my emails. I
+still need to try again one more time. But if I’m right on the microchips,
+then they wouldn’t even need to track my Lexus.
+
+As of December 28, 2021
+
+Added comment to video.
+
+https://drive.google.com/open?id=1SVV0PWZCWpIVJgEVWsqFL0Yh7YAOQf19&disco=AAAATkozBFI
+
+Went to doctor, they cannot detect nanometers on any xray or ct-scan or
+ultrasound really is what I got out of it at least–only millimeters.
+Whereas I believe any microchip to be nanotechnology, seems how I suspect
+it would have had to have likely gone through my veins as part of one of my
+covid vaccine shots, and seems how my brother has always been into
+nanotechnology himself, the doctor gave me a referral to go to ear doctor
+next and try that–whom should have better magnification to look for
+something like that.
+
+As of December 30, 2021
+
+So I’ve been thinking, all this stuff that has been happening to me, all
+this hacking and whatnot, it would almost have to be a hostile foreign
+government who is behind the bulk of all this given all their capabilities.
+Maybe my brother hired Russia or something on the dark web to do his
+bidding for him right after he hacked me initially?
+
+I recall telling my manager around 2019 that it had appeared as though
+Dusty had hacked me then it appeared as though he had now sold my
+information on the dark web because I had a case of credit card fraud and I
+got a notice that some of my information was being sold online shortly
+after Dusty originally hacked me. (I assume Dusty would have done that to
+make it harder to ultimately trace the original hacking back to him)
+
+But even still today there’s so many different ties back to my brother
+Dusty to where that’s almost the only thing that would seemingly fit the
+bill, from what I gather at this time anyways, is a hostile foreign
+government or highly capable specialized organization hired by Dusty. I
+have gotten the sense when something key happens or I tried talking back to
+the hackers through my notes previously that their official response is
+delayed, as if they have to relay the info back to someone else before
+deciding what to do. I suspect Dusty might only be in contact with them
+once daily or less. Dusty himself recently said buying exploits on the dark
+web is a good way to get hacked, maybe he’s right, but what about buying a
+hacker/hitman/gangstalking organization or foreign government to do all the
+hacking and whatnot for you on the dark web? That would make sense why they
+are so brazen and why they won’t stop for anything too.
+
+Idk, I’m still trying to figure it all out. All I know is they seem to show
+signs of my brother ultimately being behind all this again and again but
+then again they seem to have capabilities that only a hostile foreign
+government or else some entity that specializes in only this for a living
+would realistically have. (But then again what entity would have that much
+resources and this much capability if not a foreign country? I guess I
+haven’t moved yet so we will find out just how many resources they really
+have)
+
+They are so sophisticated in how they don’t constrain themselves to just
+one social group either. Like they seem to span different social groups
+either via taking advantage of rumors or else they really do have like
+undercover people who live double lives or who do only this for a living.
+
+I just want to point out that at Rent Dynamics we also hired Russian
+contractors for some of our development needs previously, that could
+theoretically play a factor in all this as well; however, it’s hard for me
+to believe DSR, the Russian company we hired, is now doing all this to me
+in and of itself. It would have had no real reason to, I was nice to DSR,
+but I did express concerns about hiring the Russian contracting company in
+the first place given what I had learned when working at Utah State
+University as an intern including how Russia and China would constantly try
+and hack everything at the university. However since then I’ve totally
+calmed down on everything Russia and I even had one of the DSR people on my
+team myself.
+
+But whichever foreign power/specialized organization it is–and however they
+came across me–I really don’t think they are just trying to frame my
+brother Dusty either cuz Dusty seems to play right into everything that’s
+been going on lately himself–to say the least. Like it seems like a
+partnership more than an attempted framing.
+
+Anyways, I’m just going to be honest as always, what I’m experiencing now
+is what one might expect to experience if a hostile foreign government were
+trying to realistically hack a person’s mind through one or more microchips
+using AI to encode/decode the mind in stages.
+
+First I suspect they brute forced my brain and EMF’d me as a form of
+sedation in order to try to make sense of all the different electrical
+signals within my brain/nervous system on a high level, that initial brute
+forcing lasted a period of 2-3 months. Partly because there were some
+variances in their AI due to my prescriptions I suspect. Next they started
+tapping into my eyes somehow, making my eyes either go completely black
+when they were wide open, or else making them begin to just show signs of
+something going on between the feed of my eyes to my brain at nighttimes
+while they were EMFing me whenever they could still get through–that lasted
+a period of 2 days thus far at least. Since then they seem to have been
+targeting me while I’ve been awake now, in particular, they keep targeting
+me when I’m standing up peeing now, as if to try and get a signature on
+whatever happens in your brain when you stand up and pee. (You can feel it
+when they are targeting you, they use infrasound and EMF which you can
+actually feel and they always target my head) Anyways, I assume this
+process will continue on until they are able to fully map out my whole
+brain. But the thing is, I don’t really want to stick around to find out.
+
+My gut tells me there is definitely a microchip involved here–at least one.
+I get the sense that the microchip is likely powered by my nervous system
+and not reliant on a battery or an electrical field. But I’m still
+narrowing that down. I’ve also tied some of the noise it makes to whenever
+I move around or exert myself physically then it will make noise. But it
+also seems to be able to make noise when just driving down the freeway in
+my loaner car previously, which is when I initially started to suspect a
+microchip because it started beeping so much, meaning it could also have
+remote activation capabilities. One thing I might do is try to tap into it
+myself using RF/HF signals, via something like the following, or at least
+listen to the signals being sent in/out:
+
+https://www.amazon.com/gp/product/B01H3T2U7G/ref=crt\_ewc\_title\_dp\_1?ie=UTF8&psc=1∣=A2JO7YP9I9Y3D6
+
+https://worldbuilding.stackexchange.com/a/183591
+
+But I think my best bet for right now is to run. I’ll be able to find out
+more info on it that way at the end of the day. The only question is when
+to leave, how I’m going to fund it, when my passport is going to show up in
+the mail, what I’m going to do with all my current responsibility, and
+where I plan to initially run to.
 
 Chase Gibbons  / Manager
 435-999-4722
