@@ -13155,11 +13155,16 @@ into thinking I meet this definition of incapacity. (
 https://docs.google.com/document/d/1vlVR7AJtsfKNufqPKjGkZyPQ5eD6CLVR/edit?disco=AAAAX--ylzg
 ) The concerted effort comes from my trustee Paul emailing my father's
 trust lawyer out of the blue with one of my distribution requests as if I
-can’t handle my finances or something, and from the attackers hacking the
-Evony game and deliberately draining all of my resources to try and get me
-to have to spend more money in order to continue to enjoy my game, etc,
-etc. I suspect the attackers will even up my aws costs on purpose as well.
-It is in fact a direct link between my trustee and the attackers.
+can’t handle my finances or something, after accusing Paul of being an
+accomplice to murder himself and sending a distribution request to refund
+my s3 charges so that I didn’t lose all my evidence i’ve been aggregating
+in the cloud overtime, and from the attackers hacking the Evony game and
+deliberately draining all of my resources to try and get me to have to
+spend more money in order to continue to enjoy my game, etc, etc. I suspect
+the attackers even up my aws costs on purpose as well by forcing me to
+incur more bandwidth charges, etc, etc–on purpose. It is in fact a direct
+link between my trustee and the attackers–both working together towards a
+common end game. (Yet another example) This is huge you guys.
 
 https://drive.google.com/file/d/1NCWhOonf\_NFY7vxJzEn0IeYpVQpQgzjG/view?usp=sharing
 
