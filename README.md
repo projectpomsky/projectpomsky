@@ -1807,7 +1807,6 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
-​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -6239,14 +6238,6 @@ their real plan. Their real plan likely entails lots of hacking,
 manipulating key people, undermining, and defeating us from within. (at
 least in my view)
 
-Both my latest refinance stuff and my previous solar panel credit check
-came back as denied thus far btw for my credit score supposedly being under
-620 even tho my credit score was showing up as ~686 on credit karma at the
-time which I find a little odd. The solar panel guy said he’s never seen
-that happen before. I get there are sub categories or whatever under your
-main credit score but I always have paid my home mortgage on time. So I
-can’t help but ponder what the hell is going on there for instance tbh.
-
 
 This has got to be a foreign adversary I would think. Idk. It’s hard to say
 forsure as just a regular civilian myself. But no gang I’ve ever heard of
@@ -6272,7 +6263,541 @@ police even arrive for instance.
 
 If nothing else it’s good to know it’s not my own government doing all this
 fucked up shit to me—thank you.
--- 
+
+
+As of January 31, 2022
+
+The problem I keep running into is that I essentially need a tool like
+Darktrace or Cyberreason enterprise AI solution. But I’m only one
+person–they only make that stuff for like huge enterprises and it costs a
+ton of money.
+
+https://www.youtube.com/watch?v=ZIpusuGIG\_A
+
+https://www.youtube.com/watch?v=nc32nUDyxaI
+
+I looked into other ways to protect myself from an advanced persistent
+threat, and I got two ideas. One is I literally need to automate my macs
+deployment and write code allowing me to make them immutable. Meaning
+essentially I’d make it so I could easily re-deploy the whole operating
+system on them as much as multiple times per week if I had to. And then
+just have it all programmed to where it won’t take me hours and hours each
+time just to get back up to speed.
+
+The other idea is just to buy yet another router, hopefully this next one
+will be able to allow me to segregate my network a little better without
+their interference but I honestly doubt it.
+
+I really need to do something because if you look in this following video
+of my aws account taken just tonight, you’ll see they are actively scanning
+my s3 everytime I login. S3 is where I store all my backups and whatnot.
+Plus they are attempting to use my servers for malicious reasons. This is
+why I say you’ll never find their search history–because their search
+history is likely spread across an entire botnet of devices. Even if you
+find an ip, which I did as you’ll see in the following video, the
+likelihood of that ip being the attackers direct home ip is slim to none.
+One of those could be their botnet server ip tho–but even then they watch
+everything I do so they could just change it.
+
+https://drive.google.com/file/d/1w4hKO6JFN3Y2507AFlEOEU1mYsGdU3UM/view?usp=sharing
+
+
+It’s so bs they can do all this messed up stuff to me and then delete all
+my evidence across all my external hard drives, internal hard drives, and
+cloud storage afterwards–despite my best efforts to prevent that from
+happening on all fronts. (And I’m no newb either, it’s just one can only do
+so much against such a powerful adversary) But yea, their ability to
+constantly be able to destroy any and all evidence I have on them puts me
+at an even bigger disadvantage. I started creating a new cloud backup of
+all my files using google’s cloud, and not only that, I started working on
+a tool which will automatically tag all my security videos for me so I
+don’t have to dig through literally days and days of footage just to look
+for one or two videos I may have caught of these guys that might be of use
+to me. So I can instead just do a search across all my various videos taken
+across my various cameras for “people”, etc, and I can just dig through
+those. But after seeing how they are literally doing all this shit to my
+accounts anytime I’m logged in to my accounts again tonight–I think I just
+need to focus on preserving what evidence I already have and the only way I
+really know how to do that at this time is to log out of all my accounts
+and to get away from technology entirely. (To leave my whole career
+behind–which won’t be easy)
+
+My mom used to actually care that Dusty was blocking me from making a
+living. I guess I can see where she’s coming from now at least in part
+though just given how not calling Dusty out at this point is probably a lot
+safer than calling him out like I did originally. (I can see why she would
+be fearful of him at this stage essentially) But keep in mind that I only
+called him out originally cuz I suspected Dusty of trying to fill my
+prescriptions to begin with, among everything else it reminded me of, and
+therefore he was already coming after me before I ever even called him out
+to begin with.
+
+I still don’t get why Dusty is so evil towards me these days. He acts like
+it’s no big deal if I die, but if that’s the case if it’s really no big
+deal to die then why is he trying so damn hard to save himself? Of course
+he denies all this and doesn’t listen and tries to discredit me. I do still
+feel I could beat him in court however. Just by using his harsh denials
+against him essentially. And comparing that to what a reasonable unbiased
+person would think at any given time as the evidence I have obtained has
+unfolded–and comparing it to how the average unbiased person would treat me
+at the time. Most people didn’t call me crazy to my face when I showed them
+the videos of the intruders in my house for instance, like Dusty did. And
+on and on as the evidence kept piling up. Things like that will hopefully
+show the jury Dusty most definitely has something to hide. (Keep in mind I
+was at the height of my career before this all started in September–now I
+am faced with having to choose a new career entirely) Not to mention the
+fact he used to not even deny any of it.
+
+I suspect they keep re-hacking my car as if they are so scared I’m going to
+get away from them if they don’t have eyes on me 24/7 or something.
+(Meaning they seriously plan to follow me wherever I go) Everytime I go
+into the dealership they have to reset it then it acts more normal for a
+few days until they hack it again.
+
+Lastly, I’m not right about everything—I realize this—but I am right about
+the foundation of most of the things I allege in this document—including
+the fact that my brother is indeed behind the people who have been coming
+after me, he’s in on it himself, the fact that they have been coming after
+me for some time now, Dusty has shown the ability to be able to stop it on
+more than one occasion, and the fact that Dusty seemingly has
+resources/technology at his disposal that only a powerful government could
+realistically possess.
+
+Like the facts I just stated are pretty clear I hope to everyone by now.
+I’d do better if I could but I’m so outnumbered and they have such a
+technological advantage. I might could lay it all out a little better and
+follow up on some of the things I said I’d follow up on but that’s it.
+(Like more evidence of Russia, etc)
+
+Since I accused them of trying to destabilize the US I’ve received
+seemingly genuine positive feedback from the hackers that that is indeed
+why they are backing my brother btw. They don’t like me talking crap on
+Russia apparently either lol. I’m pretty good at seeing through people I’d
+say—even if my interactions with them are all digital in nature. I can
+still figure out ways to ultimately see through them using reflexive
+control tactics, etc, etc.
+
+https://youtu.be/FFNT1ixojZo
+
+One thought I had since is maybe their malware goes blue like that
+intentionally—because their real goal is seemingly to corrupt people and
+terrorize people in our society strategically and with surgical precision
+rather than just spy on ppl—with the ultimate aim of manipulating our
+country’s demise. (It’s not just Russia either, it’s also China, North
+Korea, and Iran—they are just secretive about their alliance kinda like my
+brother and Russia are secretive about their alliance—it gives them an
+strategic advantage essentially) I suspect they are even in the credit
+beruaes systems now btw. They just use their access to only change up a few
+db records at a time with the aim of quietly “persuading” certain key
+individuals in their favor—so as to avoid raising any major alarms. But
+yea, if the people they hacked didn’t even know the hackers were there then
+what good would it even be to them?
+
+I wrote another article under that same medium account you should check out
+if you get a chance. It’s called “the only way to defeat a super power” or
+something similar. In there you will find some more evidence of Russia too
+btw… (And their secret strategic alliances with other countries that I
+happened to figure out first hand) I wrote that one before the insurrection
+happened even.
+
+https://link.medium.com/ONBCBJH7hnb
+
+I think dusty must have hacked me in 2019, found out I was onto Russia in
+relation to my work, and when paired with all that was going on at the time
+in our politics anyways—he went and tattled on me to Russia to gain their
+support so he could stay out of jail essentially. Something like that
+anyway.. Reflexive control doesn’t work so well when you are using it to
+see how someone responds to whether or not they are a murderer come to find
+out lol. (Assuming they really are)
+
+I’ve been doing alright lately btw, figuring out how to hang in there for
+the time being anyway.. The secret is I think nanotechnology paired with my
+infrasound jammer and their somehow getting in my house constantly to keep
+placing their nanotechnology in new locations that can bypass my latest
+defenses. Once I figured that out then whenever I feel a sensation like
+that at night I now know what to look to remove. Of course now I say that
+who knows what they will come up with next. Their goal is to make me look
+crazy after all. So it’s crucial to them that they are able to keep doing
+so. (As if it’s normal for someone to just go completely insane like they
+are trying to make me look to begin with anyways tho, I’ve never heard of
+that happening to anybody myself) What gang uses nanotechnology anyways? No
+gang I’ve ever heard of. Dusty’s totally a foreign agent advancing foreign
+interests for his own gain nowadays. (I.e. he’s totally a traitor)
+
+https://youtu.be/FFNT1ixojZo
+
+Dusty tries to paint me as a liberal these days to get an advantage over me
+with the local authorities. (I’ll show you shortly) All I’ll say is I
+didn’t even know where I stood on the political spectrum before Trump came
+into office, I’ve heard most ppl lie somewhere in the middle of the
+spectrum anyways, I personally value our freedom, I feel we are stronger
+together, I feel being honest is better than lying just to try and get a
+leg up on someone around me, at least I’m honest, and lastly—I’m actually
+registered as Republican currently. Don’t let Dusty’s and his partner in
+crime’s manipulation get to you. I am just an average citizen who happens
+to have an evil brother and I’m trying to do the right thing for my
+neighborhood, town, and country and for my family that’s it. Doing the
+right thing is never easy. I honestly wish more people would stand up and
+do the right thing themselves tbh—regardless of party. That’s all it would
+take to bring this all to an end in my view. Even my mom said she found it
+odd Dusty is acting all Republican lately btw.. (He used to be extremely
+liberal to say the least, idk what to believe in regards to his political
+affiliation anymore, but it really doesn’t matter in my view—that’s the
+whole problem in our country right now in my view—it just means our
+adversaries manipulation is clearly working to further weaken us)
+
+https://drive.google.com/file/d/19rKydPTTTdcDmu6rNA2LscTNm6ag8Jao/edit?disco=AAAAUlFDQ\_0
+
+
+As of February 1, 2022
+
+I suspect Dusty is trying to reprogram my memories with his microchip(s) by
+demodulating and re-modulating the signals which form my dreams–in
+particular dreams relating to my father’s death as of most recently–but
+they aren’t accurate representations of what happened. (Which I believe is
+the whole point–to try and screw up my memory)
+
+I’ve been having a few different strange dreams lately. Some of which felt
+like they were repeats and felt strangely fake, and repeat/fake dreams have
+never happened to me before. (It makes sense seems how they have primarily
+targeted me at nighttimes since the beginning so they likely have a lot of
+data on my dreams, in addition to a lot of data of me typing/reading on my
+computer)
+
+This is what I didn’t want to say up above btw. Because it shows them they
+are actually getting through to my dreams. If Dusty repeats it enough even
+the best most resilient people are prone to eventually believe it.
+
+All this is the real deal you guys. Dusty wouldn’t be doing all this to me
+if I were wrong about him. It’s like reflexive control but to the
+extreme–to the point where Dusty is still reacting or reflexing to what I
+accused him of years ago. His reflexes are very genuine indeed. Don’t get
+me wrong, I love my brother. I’m impressed with my brother’s capabilities
+tbh. But I still don’t like what he is doing to me nor what he did to our
+family–I don’t like how he treats this whole world and all the people in it
+as his personal “play thing”. I wish he would have just left me alone tbh.
+He chose this path because deep down he’s into things like nanotechnology
+and mind control himself–and deep down he enjoys causing others harm and
+manipulating people–and because at the end of the day all Dusty really
+cares about is Dusty.
+
+https://drive.google.com/open?id=19rKydPTTTdcDmu6rNA2LscTNm6ag8Jao&disco=AAAAUlFDQ\_w
+
+
+—-------
+
+These guys literally deliberately hack everybody around me. Including any
+new contacts I have like when looking for a personal assistant or property
+manager earlier to help me manage things when I move–I could legit see them
+messing around with my messages I just sent in the background. Editing my
+messages I assume to try and manipulate the messages to include malicious
+commands so that they can hack pretty much anyone I talk to. (Hence making
+ppl fearful to talk to me–and making me fearful to try and talk to anybody)
+How fucked up is that? They clearly have full intent to do this to me and
+everyone around me until I am dead. But to be clear–I’m not the one doing
+it. I didn’t do anything to my brother to even deserve this. The blame
+falls squarely on Dusty and his evil organized crime crew. (You know, the
+ones who actually get joy out of causing harm to others and causing chaos
+within our society)
+
+My mom straight up failed with Dusty. Like straight up. I’m sorry mother
+but holy crap–reign in your son already. Stop acting like you are in denial
+about it. Your one son is completely and deliberately doing some of the
+worst stuff imaginable to your other son and deliberately trying to make
+your other son's life completely miserable in every possible way including
+but not limited to making your other son completely lonely and completely
+without any income whatsoever–all because your one son killed your other
+sons fucking father and sister and your other son called him out on it–and
+yet you still don’t even do a damn thing about it. Before long Dusty is
+going to make it so I don’t even have any money left in my trust
+whatsoever–money goes fast especially when you aren’t even bringing in any
+income. Hence why I’m so confused how Dusty has been able to stay afloat
+for so long without any income himself. (He owns his house outright thanks
+to our father I guess but he had a similar commercial rental payment as me)
+
+It’s not like he’s made me lose my whole trust or anything YET–it’s just
+the fact that I can see where this will lead if it is allowed to continue
+unchecked. Dusty has damaged my trust already in just a few months–that is
+a fact. Think how much he could damage it if this is allowed to continue.
+
+My personal plan to combat their latest abuses from a monetary angle is to
+start producing youtube videos on frontend programming and to start
+monetizing the videos I produce–something the hackers cannot stop me from
+doing. Something I’ve always wanted to do anyways and something I can do on
+my own time without them being able to sabotage it–provided enough effort
+upfront on my part. Plus you can make a lot of money doing that–and it’s
+all passive income as well. Meaning you make it once and it keeps earning
+money for years afterwards. I already was a speaker at the largest frontend
+programming conference in my domain recently anyways, which should
+definitely help get me on the right path at least.
+
+Dusty can put an end to all this at any fucking time and my mother damn
+well knows it. Everybody knows Dusty is a serial killer now anyways–or at
+very least knows to stay away from him just incase. (Everyone who isn’t
+already corrupted by him I mean) Just do the right thing for a change
+mother. If I heard someone who was a speaker at ng-conf recently all the
+sudden begin to allege all this–I’d stay the hell away from the person they
+are allegeding all this against that’s for damn sure–regardless of any
+smear campaigns being waged against them–even considering just the evidence
+and commentary I have actually managed to actually procure thus far in this
+very folder. It doesn’t take a rocket scientist to understand that I didn’t
+just go crazy out of nowhere. The probability of that being the case given
+all the evidence I have managed to provide is literally slim to none at
+this point–and even if that were somehow the case, I don’t see a lot of
+support from her anyways. All I’ve asked from her since this started was
+just to freaking confront Dusty about it in a real way. And yet–nothing.
+All that suggests and my mother’s actions themselves suggest my mother does
+in fact know the truth she is just scared or something. Dusty had no reason
+to hack me to begin with after all–unless he wanted to kill me or make my
+life miserable or discredit me. And my mom damn well knows Dusty is
+involved in hacking all of us including herself. The hacking goes hand in
+hand with everything else I’ve alleged. Only a hacker, or more accurately–a
+group of multiple hackers paired with people on the ground–could even do
+the shit I am describing. It’s not rocket science to understand that–it’s
+common sense with a sprinkle of dignity in my opinion. But my mom isn’t
+tech savvy so I’ll give her that.
+
+But still it’s scary because Dusty is technically rigging it to make it so
+even people like my own mother are technically at least somewhat complicit
+in what he’s been doing to me–and therefore she is at least somewhat
+complicit in whatever he plans to do to me next. (Not really but you get
+what I’m saying I hope, silence is violence in this case) As I said to
+Dusty in our last discussion–I just wish he had never gotten so into
+psychology. I wish he would find a new damn hobby. If my dad were around,
+he’d do something about it–that much I can guarantee you. Dusty is not just
+going to stop with me either–that I can also guarantee you. He enjoys it
+too much. He enjoys ripping our family apart.
+
+https://drive.google.com/file/d/1dfctvNpuHnNCdbA9kKdD\_AmEf80EiOMw/view?usp=sharing
+
+
+As of February 2, 2022
+
+The hackers keep using everything I put in this file against me. Whereas I
+can’t lie to the police–I’m going to have to be more restrictive over what
+I put in here going forward so as to avoid making my life more difficult
+going forward. The hackers are essentially conditioning me not to continue
+doing this in this way. Idk, it’s a tough call, because this is also I feel
+what would ultimately help me win a court case against my brother if
+nothing else. And also I don’t know how much they can gleen for themselves
+without me even saying anything to begin with at this stage. (I suspect
+quite a bit–and therefore it might not even matter) But all I know is they
+keep taking anything I say here and adapting what they are doing to
+essentially make my life even more difficult based on what I say in this
+file. (i,e, the latest thing I said about my ecu resetting their tracking
+capabilities–now I’ve got to figure out how to get around their suspected
+latest tracking capabilities that likely isn’t reset with an ecu reset now,
+the dream manipulation feedback I just told you–I have no doubt that did
+nothing but further encourage them is all, etc, etc, etc, etc, etc, etc,
+etc, etc, etc, etc).
+
+It’s essentially the same thing I suspect Russia is doing with the Ukraine
+matter. I don’t think Putin even knew what he was going to do to begin
+with, he was essentially just looking for a reaction and based on that
+reaction he is now deciding how to make his next move–which gives him an
+advantage. (Reflexive control theory) It makes it so however we respond as
+a country he can still make us look bad essentially–I hate psychology and
+manipulation tbh. I’m worried about our country as well tbh.
+
+Just know the abuse/torture/harrassment being waged against me will most
+definitely continue and could even get worse and worse until something is
+ultimately done to stop it–regardless of whether I say anything about the
+latest of what’s been going on and how I’ve been combatting it or not.
+That’s the overall theme of all this pretty much. But I also don’t want the
+hackers to make me into some example of what will happen to you if you
+don’t bow down to them either. (To be clear–they didn’t even give me any
+real choice–I wasn’t going to dump turbo and my brother knew that–plus I’m
+not evil by nature) The truth is what they fear the most is nobody bowing
+down to them period–in which case their powers would be useless whereas
+they simply cannot go after everyone and they would really be screwed if
+everyone became fed up enough with all their shenanigans so as to cause
+everyone to start trying to help end their crime spree. These guys strive
+through terrorizing people I have found.
+
+Just because someone robs a bank in broad daylight doesn’t make it
+right–remember that.
+
+I feel pretty confident in my conclusions at this point. I feel my
+conclusions are accurate enough to withstand the test of time at this
+point, more or less. (I feel I’m at least mostly right, it could just be
+anonymous for instance but even if it’s only anonymous I guarantee you they
+have russian members at the very least, etc)
+
+But yea, people can make their own determinations based on everything I’ve
+laid out and come to their own conclusions. I honestly hope you will do so.
+I’d like to know where if anywhere I’ve gone wrong if so as well.
+
+I will still update this when something major happens. One thing Dusty has
+taught me throughout all of this is how powerful a tool psychology really
+is and how scary it is when it is taken to the extremes and when it is used
+by the wrong hands and when it is used to divide people.
+
+I sometimes question whether Dusty really actually wants me to stick
+around. (By constantly ensuring I know that if I leave I'll be followed, or
+maybe he doesn’t care where i’m at–all he really cares about is knowing
+where I end up–the latter is probably more accurate tbh) But if that truly
+is the case it means their little graphene microchip isn’t so good at
+tracking me after all–which would be a plus.
+
+Regardless, my passport should be here now in a week or two. I’d tell you
+what I plan to do at that stage but I probably shouldn’t in order to retain
+a competitive advantage. (Big brother taught me that one) With that said
+though, I’ll let you all know if they’ve ever pushed me to the brink–I
+promise–it’s the least I could do. I really do appreciate all those who
+have been willing to help.
+
+Thank you for reading.
+
+As of February 4, 2022
+
+[**Correction–the anonymous hacking gang is actually extremely liberal in
+nature come to find out–they care about things like african american rights
+and they actually hacked the church of scientology at least in part due to
+their gangstalking practices previously. While Dusty was extremely liberal
+the whole time I knew him–he hasn’t been acting that way recently. I
+therefore don’t think all this has anything to do with anonymous anymore–I
+instead think it’s got to be some russian hacking gang/russian government
+operation that Dusty is somehow a shot caller of. The russians do do things
+like support local organized crime groups in order to further their causes
+so that way it provides them with a buffer to hide their
+involvement/funding/destabilizing activities]
+
+I’m now thinking about trying to somehow get anonymous involved in helping
+combat my brother and Russia lol–like seriously–look where being the good
+guy has gotten me up to this point–it’s gotten me pretty much nowhere and
+I’ve had no ability to fight back other than by telling you all my story. I
+suspect the hackers are even capable of censoring some of my latest
+publications somehow as of most recently. (Yet another way hackers can mess
+up your whole life and ensure the greater population never learns the truth
+of what really happened)
+
+I’ll likely be taking off sooner than later btw, although my future is very
+uncertain at this point. If I do actually manage to escape these guys’
+grasp, you probably won’t hear much from me to avoid exposing my location.
+If you do hear from me though, it will likely be in a highly encrypted and
+difficult-to-track manner. (Deliberately) Conversely if they find me again,
+I’ll likely be back sooner than later. I just plan to go on vacation at
+first anyhow, just to see what happens.
+
+Anyways, what I wanted to say is if/when I die, I’d like to be buried in
+Logan with Turbo’s ashes–regardless of where I reside at the time. Also, if
+I do actually somehow manage to outlive Dusty or else outlast Dusty’s crime
+spree–I’d like someone to somehow inform me Dusty is no longer a threat so
+that I can then decide whether or not to come back.
+
+It takes extreme patience and determination to simply let Dusty do all this
+to me and not do anything to him in return. But I do think it’s best if I
+don’t sink to his level–that could be exactly what they want from me.
+
+
+As of February 6, 2022
+
+https://drive.google.com/file/d/1AuR-EyLpd3cGYv8Yu-RyYRgTAygeYV9t/view?usp=sharing
+
+https://drive.google.com/file/d/16-6kN6itvFyk9eQkeG5wNuV52NWB6EWV/edit?disco=AAAAUln0IVA
+
+
+I got my passport in the mail–now I’ve just got to guard it with my life
+essentially..
+
+I understand I need to surround myself with people but in order for me to
+realistically do so I need to stop being harassed first and therefore I
+feel I’ll have a better chance at surrounding myself with people in a
+natural setting if I’m able to get out of here first. Otherwise I’m not
+going to be able to surround myself with anybody without being fearful of
+them getting i my house while I’m gone again, etc, etc–Dusty also
+conditions me to be scared to surround myself with other people by
+poisoning me anytime I surround myself with other people essentially, etc.
+Plus I already was pretty surrounded with people before all this harassment
+started mind you. I really get the sense dusty doesn’t want me to go
+anywhere tbh. And I get the sense Dusty likes me being under Paul for some
+reason. At the end of the day, I’ll never know just how wide Dusty’s
+influence really is until I actually leave.
+
+One of the worst things for Dusty at this point would be for me to escape
+his influence after all—especially if my life were then able to return back
+to normal. Hence why Dusty never offers to help me in any real way
+himself–even though he’s the one who is arguably the most qualified person
+who could possibly even help me with all the things I am currently facing.
+(infrasound, ultrasound, emf, nanotechnology, hacking, electrical
+engineering, ai, exploits, intrusion-detection, etc, etc) At the end of the
+day Dusty doesn’t offer to help me in any real way because he is the one
+who is ultimately doing all of this to me.
+
+You try being put through all of this. What the hell would you do? All I
+know is staying here seems like a recipe for disaster to me. The biggest
+thing in computer security is physical access, if they can get physical
+access then you are completely screwed and you will never be able to keep
+them out. And I’m telling you they got physical access here whenever they
+so choose. The video of multiple people in my house at the beginning of
+this document proves that. They’ve slowly gotten more and more access to my
+home and more and more access to my devices over time. It all started with
+“social engineering” followed by them just being outside my house at
+nights, putting their hacking devices and their feathers and whatnot out
+there, etc–now it's gotten to the point where they are able to get inside
+my house anytime they want pretty much. All because I didn’t get out of
+here to begin with.
+
+I’m sick of simply enduring all this harassment while they meanwhile
+continue to obtain more and more control over me. I tried just enduring all
+the hacking the first time around and look where that got me. I’m simply
+not willing to make the same mistake now that they are clearly targeting my
+brain itself. If they kill me while I’m gone—so be it. At least that way
+they won’t succeed in mind control. Either way it doesn’t look too good for
+our family in my view. If my mom is scared of Dusty being exposed for who
+he really is–just wait to see what happens if he is never exposed for who
+he really is–that’s all I can say.
+
+[Reference goes here]
+
+I got other things I’ve put in place that have been helping slow down
+Dusty’s latest tactics in the interim—but it’s not enough–especially given
+how Dusty’s guys can and do continue to get physical access to my home on a
+regular basis.
+
+What I want myself personally, seems how I am the one who is actually being
+put through all this and being forced to endure all of this first-hand
+myself, is I want to get to a place where I can live a completely normal
+life again without any interference–like I’ve said to Dusty since the very
+beginning. (Dusty enjoys making people die using their worst fears btw,
+including Karie which is when he first hinted at this to me; but for me
+what I have consistently told him is I just want him to leave me the hell
+alone–so what’s he do–he does the complete opposite of that) I’ve endured
+all his harassment long enough. Dusty is not going to leave me alone if I
+stay in northern Utah. Dusty simply has too many resources at his disposal
+around here.
+
+If you were monitoring Dusty’s computer right now–I guarantee you’d see him
+monitoring me. We have a real problem with hacking and our police’s
+inability to hack suspected hackers to monitor them in my opinion. What are
+regular citizens like me even supposed to do in this situation? Learn to
+hack back ourselves?
+
+Just a quick reminder, Dusty wouldn’t even deny being a serial killer nor
+being in a gang when asked repeatedly previously, he told me “he has his
+own people now” after disowning everyone previously, Dusty was
+experimenting with dark psychology on his own family members previously,
+(As evidenced by my other brother Mikey saying to Dusty at the time “your
+little experiment needs to be over”--I think Dusty instead just went the
+opposite way and took it all the way to attempted mind control over me
+personally since then–while somehow convincing my mom otherwise even after
+all Dusty had done to my mom back then), Dusty hacked and deleted all his
+messages to all of us previously, etc, etc.
+
+I think it’s time for me to do everything I can to escape Dusty’s influence
+once and for all. And the only thing I havent tried yet is to get the fuck
+away from him. At least then I’ll be making him spend more money if he
+chooses to continue to pursue me.
+
+Nonetheless, some of the wisest, least-biased people I’ve talked to who are
+familiar with this whole subject have advised me to get the hell out of
+here since the very beginning. I’ve therefore been working on doing so for
+some time now–the only difference is now I finally just about can.
+
+Still no hair regrowth on my legs btw.
+
+I doubt you’d stick around if all this were being done to you daily.
+
 
 Chase Gibbons  / Manager
 435-999-4722
