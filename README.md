@@ -4617,6 +4617,161 @@ I've got to figure this stuff out for myself for the time being and do my
 best to stay alive, out of harm's way, and try and live as best a life as I
 can in the meantime.
 
+Random Thought
+
+[Opinion]
+
+Notice how dusty takes more offense to me suggesting he might have holes in
+his brain from all the acid he’s done as compared to me suggesting he is a
+serial killer? He didn’t even take offense to being called a serial killer.
+
+I started reading up on gangs in Utah just recently and it turns out they
+are evolving to look and behave more like full fledged organized crime
+groups. Like they supposedly don’t even wear their colors all the time
+anymore, beyond maybe shoe laces or a bandana or a belt.
+
+I guess gang members take pride in being called killers. Like that’s a
+compliment to them.. (Which fits with dusty perfectly)
+
+I also read that some of the most notorious gang leaders use racketeering
+and are so well insulated that they can’t even be prosecuted/touched
+essentially. I hope that is not the case yet in Utah or with dusty. I now
+suspect dusty might be guilty of racketeering, or using official businesses
+to conduct illegal operations and/or to hide/launder illegal money. And I
+do suspect dusty of being an organized crime boss of some kind.
+
+Quick side note, now that I know what gang themed stuff looks like, I
+recall Dusty having artwork that looks just like that in his house for as
+long as I can even remember.
+
+[Artwork similar to Dusty’s artwork that can be found doing a search for
+“gang artwork” reference goes here]
+
+I also read about different gang “sets”, or groups within a gang, and about
+how each different set has its own leader. The leaders have got to be the
+brains behind the whole operation, so it would make sense to me if I were
+law enforcement to go after the leaders or even the suspected leaders.
+
+The only color indicator I’ve gotten since all this began from my brothers
+people is blue. But even that could be wrong, like it definitely hasn’t
+been completely definitive or made obvious that’s for sure.
+
+If a gang or organized crime group really has evolved to have all these
+capabilities then that’s definitely not a good sign for Utah or this
+country in my opinion. Like it’s hard to even tell these guys apart from
+what a sophisticated foreign adversary might do. (Hacking and corrupting
+people and businesses so as to make it to where it becomes in a lot of
+people's best interest for the truth to not be uncovered, having people
+across all different stereotypes working on their behalf and not all be of
+the same nationality nor all fly the same colors, hiring contractors to do
+some of their dirty work to make it harder to ultimately trace back to
+them, coordinating it all in real-time from a centralized location,
+employing cutting edge next generation weaponry, trying to hack peoples
+minds I assume to be used for nefarious purposes later—assuming they are
+able to actually pull it off, etc, etc)
+
+In researching gangstalking previously I also came across something called
+a snuff film and it being a potential result along with gangstalking. Aka a
+film created of someone getting murdered in real life which is distributed
+on the dark web to be watched by a jaded few. With all my brothers
+relentless camera hacking and whatnot, especially given how they don’t even
+technically need the damn cameras provided all their other capabilities; it
+therefore sometimes seems like a snuff film could be a definite possibility
+and even a way for them to be able to potentially monetize some of this.
+Just anything and everything they could buy or sell on the dark web is what
+they seem to be into pretty much. I suspect they could even buy a lot of
+their drugs and poisons and weapons on the dark web tbh. (Including hitmen,
+which I’ve definitely suspected them of sending contracted hitmen after me
+on at least one or two occasions—i.e. people who haven’t seemed to persist
+but were there for at least one of the direct attacks) But proving that is
+likely going to be difficult.
+
+I do suspect dusty could have plans to harm more people. But I don’t know
+any details beyond what I’ve already provided and what I will continue to
+provide going forward.
+
+As of January 7, 2022
+
+I guess my faraday cage hasn’t been working properly again. It’s tough to
+get right tbh. Any loose connections can cause the whole thing to become
+ineffective. And plus I don’t know if it’s best to have an existing charge
+flowing through it or else to have it just be grounded or a third option
+would be to have an inner layer that’s only grounded and an outter layer
+that’s charged. (So one with positive current, the other with negative
+current, to theoretically offset both positive and negatively charged emfs)
+
+When my faraday cage worked tho I could hear all the electricity flowing
+through the wire when they were trying to hit me while inside it
+previously—like there was so much electricity from their emfs that the
+electricity was even jumping this gap causing a electricity flow buzzing
+sound. That was before I ever added an existing current to it. (It was
+essentially borderline overloading 12g wire from the current it intercepted
+out of thin air) I added an existing current to it after a while cuz my
+brothers gang seemingly uses different kinds of emfs that will get through
+different kinds of defenses essentially. (So my brothers gang just pivoted
+based on their latest Intel at the time once they realized I was
+successfully blocking their emfs, they pivoted to something which would
+still get through my defenses and wouldn’t even cause electricity to go
+through the wire anymore, or maybe they just changed the angle, idk, but
+yea so then I had to try and pivot myself—and then repeat—it never ends)
+Bottom line is I shouldn’t even have to sleep in a f-ing faraday cage
+however.
+
+P.s. remember when I said they have been targeting me when I pee lately for
+my brothers attempted mind control? And how I said I had to turn off all my
+power so I could pee in peace? Guess what they did since? They somehow made
+it so even if I turn off all my power to my house, their devices still
+receive electricity somehow now. So now the only way for me to pee in peace
+is by going elsewhere. But luckily my brother still seems to be on that
+same stage of his attempted mind takeover.
+
+I do recall when I had an electrician come take a look previously he noted
+that I had more power inside in my electrical box than I had outside at my
+meter—which he found odd at the time. Like it was reading 220 outside but
+something like 230 or higher inside. (Which doesn’t make sense) And he said
+my metal shelves in my garage holding current likely meant they must be
+grounded somehow. (Even though my metal shelves in my garage are screwed
+into wood studs)
+
+I think my brothers gang uses natural satellites like that to do what they
+do however, kinda like with my ear. They did the same thing with my bbq
+grill which kinda forms a metal “U” shape to its main housing, which i
+suspect might have also acted as a satellite for one of their devices. I
+don’t know how they powered the damn thing tho unless they somehow rigged
+my whole house to become a giant electrical field.
+
+I’m going to get my faraday cage to be only grounded again and ensure it’s
+successfully blocking electrical signals effectively again then go from
+there. (By testing out putting my router in there and reading the emf on
+the exterior compared to the emf reading when my router is just sitting on
+the outside with no faraday cage surrounding it—but even that isn’t an
+adequate test cuz they use exponentially higher amounts of electricity than
+my router puts out)
+
+January 7, 2022
+
+Suspicious car/suspected break-in
+
+721MLM - UTAH - GRAY CAR - 4 Door - White younger stockier male
+
+This guy was clearly waiting for me to leave this evening when I was about
+to drive out of my cul-de-sac and I spotted him acting kinda odd parked
+right on the side of my yard towards the back like that–so I went his
+direction instead to see if he’d stay put or what, he had his hazards
+lights on parked literally right on the side of my house towards the back.
+As soon as I got behind him to flip around, he legit started driving. So I
+followed him and got his plates just incase on my way to go to get some
+food this evening. Then when I got home the first thing I noticed when I
+walked in the door was I could smell a faint smell of weed in my home–as if
+someone who had smoked weed had been in there and didn’t realize they smelt
+as bad as they did. (Probably cuz they were high lol) I had totally even
+forgotten about that guy by the time I got home though pretty much–but
+yea–I didn’t smoke any weed–it wasn’t me. They must have a key or something
+to my top notch locks even.
+
+Still not sure if he was in my home or if the smell just came through a
+window or something–but with everything else that’s been going on lately–I
+wouldn’t doubt it.
 
 Chase Gibbons  / Manager
 435-999-4722
