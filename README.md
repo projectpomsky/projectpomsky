@@ -10802,13 +10802,16 @@ at what they do.
 
 You guys I think these guys worship satan. Isn’t there some reference to
 brothers in regards to satan? Maybe that’s why both my brother and Putin
-are both going after their brothers. There’s a ton of other parallels to
-satan I can think of too. The perfect circle of black feathers left in my
+are both trying to kill their brothers. There’s a ton of other parallels to
+satan I can think of too. The perfect circles of black feathers left in my
 yard previously. Their obsession with fireworks seemingly used as some kind
 of a ritual prior to their killings, etc, etc. You guys seriously need to
 arrest my brother before he kills anybody else. And we seriously need to
-take out the kremlin before they bring about the apocalypse. I no longer
-think China is directly involved.
+take out the kremlin before they bring about the apocalypse.
+
+I no longer think China is directly involved. I suspect Russian proxies may
+have rigged that chinese plane to try and frame us and to try and push
+China more towards Russia.
 
 Chase Gibbons  / Manager
 435-999-4722
