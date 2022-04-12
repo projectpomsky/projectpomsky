@@ -452,6 +452,9 @@ We need to support Ukraine 🇺🇦
 Potential Russian Mafia “Signals”
 
 
+Water Tampering
+
+
 
 
 README
@@ -10818,9 +10821,26 @@ right now intentionally btw. Think back to the “Art of War” quotes. That’s
 exactly what they want us to think. After a certain point it becomes
 ridiculous to think any world power could really be that incompetent–let
 alone Putin who is known for his planning and intelligence. Don’t fall for
-it.
+it. Anything that seems too good to be true probably is. It’s just like
+when they do something that seems blatantly obvious with me but in reality
+nothing they ever do is blatantly obvious and so whatever seems blatantly
+obvious is likely meant as a false flag operation instead. It’s hard as
+hell to truly catch them making any mistake–believe me. And you’ll know it
+when you do. I’ve gotten one hidden camera video of them throughout this
+whole ordeal thus far that I’m aware of for instance. I’m still working on
+combing through some of my other hidden camera footage tho, they are able
+to go through all my footage before I do even still tho is the problem. And
+they have x-ray vision and they monitor me 24/7. So they know where any
+hidden cameras are placed. I know it sounds crazy but I promise you it’s
+the truth. That’s the real Russian intelligence agency capabilities for
+you..
 
-I no longer think China is directly involved btw.
+I no longer think China is directly involved btw. Sorry China. Well you
+guys do hack us constantly but I don’t think you are involved in trying to
+seriously undermine our country and the entire west and I don’t think you
+are actively working with the Russian mafia to kill people at this time
+anyways.
+Water Tampering
 
 I suspect the attackers have been tampering with my water. I suspected this
 a long time ago tbh–I stopped drinking my water a while ago now for this
