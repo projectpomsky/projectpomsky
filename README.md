@@ -1223,6 +1223,9 @@ the operating system—let alone get all the malware off of the network as a
 whole. It’s a nightmare tbh. My brother has taken a lot of the fun out of
 technology for me.
 
+Strange router logs can also indicate your router may be hacked. [Visual
+here]
+
 The thing that initially tipped me off to being hacked myself personally
 was some of my emails were being deleted, (emails from my brother) and my
 phone kept getting really hot at odd times, (like when they poisoned my dog
@@ -1235,9 +1238,6 @@ didn’t change–especially pay attention to you router admin password, and
 your phone getting hot at odd times. (which could indicate someone is
 actively tracking your location)
 
-Strange router logs can also indicate your router may be hacked. [Reference
-here]
-
 A lot of times virus detectors won’t even detect the malware my brother is
 using btw--believe me, I have tried a lot of them. I recall my brother used
 to try a lot of them himself.
@@ -1245,16 +1245,21 @@ to try a lot of them himself.
 Other things that have happened to me is they’ll interfere with what I
 type, especially on mobile. They make it so it’s damn near impossible to
 type sometimes, by like typing over what I’m trying to type when they are
-trying to piss me off at key times. They will cut my internet connection on
-both desktop and mobile or else throttle it at key times–just depending on
-what I'm doing at the time. (I realize this happens naturally as well and
-is a common occurrence but the difference is they’ll do it like to prevent
-me from being able to work when next to other coworkers who’s computers are
-behaving just fine, they do it in odd ways and always at key times, they
-also have cut my internet access both on my phone and on my computer in
-order to prevent me from checking on my cameras previously, prevent me from
-uploading stuff to this folder, etc, etc) They’ll change up my spotify
-music queue to play songs of their choosing to try and send me signals.
+trying to piss me off at key times.
+
+They will cut my internet connection on both desktop and mobile or else
+throttle it at key times–just depending on what I'm doing at the time. (I
+realize this happens naturally as well and is a common occurrence but the
+difference is they’ll do it like to prevent me from being able to work when
+next to other coworkers who’s computers are behaving just fine, they do it
+in odd ways and always at key times, they also have cut my internet access
+both on my phone and on my computer in order to prevent me from checking on
+my cameras previously, prevent me from uploading stuff to this folder, etc,
+etc)
+
+They’ll change up my spotify music queue to play songs of their choosing to
+try and send me signals.
+
 They will essentially re-program parts of mobile applications so that they
 can do things like display a false feed on my arlo video cameras, when I’m
 monitoring whether or not they are breaking into my house in real time
@@ -1271,11 +1276,14 @@ reinstall my ring app before leaving my home when I plan to monitor my
 house closely these days as well, cuz they’ll essentially reprogram that
 particular app to fail to load altogether–and re-installing the entire app
 is the only way I’ve found to get anything on my ring account to load
-again. They reprogram my phone number to forward to other phone numbers or
-to not work altogether. They’ll make my phone not block contacts that are
-clearly marked as being blocked. (Like my brother for instance, he can
-still text me even when he’s blocked) What else? I’ll think of more and add
-it here.
+again.
+
+They reprogram my phone number to forward to other phone numbers or to not
+work altogether. They’ll make my phone not block contacts that are clearly
+marked as being blocked. (Like my brother for instance, he can still text
+me even when he’s blocked)
+
+What else? I’ll think of more and add it here.
 
 They can act as the middle man between texts and add malicious payloads
 and/or change the timing of when texts are sent, change up the wording, or
@@ -2978,7 +2986,7 @@ anymore in certain areas like that?
 
 
 
-As of December 24, 2021
+As of December 24, 2021 - December 25, 2021
 
 Latest conversation with Dusty
 
@@ -2994,15 +3002,16 @@ they give you. There has been research done that demonstrates this can also
 be done with a strong enough magnet or EMF. I have experienced sleeping for
 a lot longer durations of time as of the last few months since all this
 started. It seems to change day to day based on my level of EMF protection
-on any given night.
+on any given night. (I sleep less when I have more protection)
 
 I also have reason to suspect I may have actually been microchipped
 previously, likely when getting my second covid shot in May if so. There’s
 records of me having heart aches right after that time. I recall the second
 needle seemed a lot bigger than the first too. My mom had gotten the
-appointments for me when I couldn’t find any appointments myself. I suspect
-the microchip could be how they know where I’m at at all times, how they
-know exactly where to point the EMF, etc, etc.
+appointments for me when I couldn’t find any appointments myself. (Avoid
+smiths marketplace pharmacy for shots) I now suspect the microchip could be
+how they know where I’m at at all times, how they know exactly where to
+point the EMF, etc, etc.
 
 My brother has always been into nanotechnology too which is scary. He also
 started trying to tell me how important it is to have rich friends or
@@ -3012,11 +3021,113 @@ More info on suspected mind hacking/microchip hypothesis: 👇👇
 
 https://docs.google.com/document/d/1ubgIsPG6MQ5S1Apkb4MCGLP1pwJhTi2EMG0b6rhEFK0/edit?usp=sharing
 
-I plan to goto the doctor to try and either confirm or deny this latest
-suspicion of mine. Worst case I figure I’m only as bad as all the people
-who were scared to get shots over microchip concerns–only in my case I now
-have reason to believe I may have actually already gotten one. Maybe I
-should have been more cautious myself to begin with..
+I told you they can hack literally anything. I get it sounds crazy—but it’s
+all part of the gangstalking playbook. This is not what I’m into on my off
+time. I’ve never been into any of this stuff before. I’ve never been into
+nanotechnology.
+
+I’m only suggesting this now cuz the evidence is now suggesting that to be
+the case—having already ruled everything else out. I’ve tried psych meds
+and they didn’t change anything in terms of my emf symptoms. (I.e. we ruled
+it out) I’m drug tested regularly at my doctors office. Like I’m trying my
+hardest to get this all to stop—believe me—it’s completely dehabilitating
+at times and is threatening my whole career. I’ve tried everything. But
+that’s the thing, it has nothing to do with me—it has everything to do with
+my brother. So nothing I can do can get it to stop. All I can do is base
+why they are coming after me on my intuition; and whereas I’m not doing
+anything wrong or illegal myself—my intuition tells me my brother is doing
+all this for his own selfish reasons. He’s good at manipulating people to
+get what he wants. What he wants in this case seems to be to discredit me
+and make me his pawn so that he can get off scott free. Why else would he
+be doing all this to me? My brother is just a control freak and he enjoys
+playing god in others lives—particularly the lives of his family. He thinks
+it’s funny. He’s like one of those invasive bird species that end up
+knocking all the other host birds eggs out of the nest.
+
+
+
+I’ve worked at my job for almost 9 years now—full time. And now I’m being
+harassed to the point where it’s hard to do anything anymore.
+
+You could look at it as oh, his brother is really an angel and it must all
+just be him. But that would be dismissing all the bad shit that has
+happened to me lately that I have gotten definitive proof of that had
+nothing to do with me, it would be dismissing all the oddities like the kid
+being sent to my door repeatedly out of nowhere right after my dog died and
+on key dates, the people breaking in my house who were clearly highly
+disciplined and who clearly had tons of intel, etc, etc, it would be
+dismissing all the hacking of myself and seemingly everyone around me, it
+would be dismissing all the things my brother has done to me over the years
+and everything I can tie back to him, it would be dismissing how shady he’s
+been just in general and how he fits the profile of someone who would want
+to see my demise, (assuming I’m right on him doing these same things to our
+family which would make sense whereas he’s now doing them to me) it would
+be dismissing how my brother wouldn’t even deny being a serial killer or
+being in a gang when asked directly repeatedly, and at the end of the day
+it would be completely contrary to the truth and the overall patterns of
+behavior over time.
+
+People don’t just act bad then start being good then act bad then start
+being good again—it’s a pattern of behavior that is disturbing with my
+brother—he’s just gotten good at it over time. And he’s doing exactly what
+is necessary to combat someone who has learned the truth. Most our siblings
+agree Dusty doesn’t have a conscience. I haven’t heard anyone say that
+about me. So then it becomes a question of what are Dusty’s capabilities
+and I’m telling you right now—his capabilities seem to surpass the
+capabilities of the police—at least in terms of hacking, real-time
+monitoring, etc, etc.
+
+I know his capabilities first hand and I know how he is both extremely
+capable and extremely driven to try and frame me, based on past
+experiences. Good luck trying to defend against some charges for something
+some hacker did on your devices—it would be almost impossible to defend.
+It’s just saddening to me that there’s the path I took in life, and now the
+path my brother seemingly took in life—and who has the advantage at this
+time? That’s right—the person who took the shady path in life has the
+advantage. I can’t hack him and try and frame him so I’m left to my own
+devices—and shutting off those devices to try and protect against what I
+know my brother is capable of. (Which makes me look shady)
+
+Look at it this way, if you look at mine and Dusty’s conversations on a
+high level starting in 2019. (Hacking and poisoning folder referenced
+above) Who is the one trying to convince me to hate my mom? Who is the one
+trying to convince me to then hate my siblings, once he started making
+leeway on my mom? Who is the one telling me I should read books on
+psychology? Who is the one telling me I should post to social media more?
+Who is the one telling me I’m going to regret not having more people around
+me, and yet actively trying to get me to distance myself from all the
+people around me? Who is the one who wanted me to quit my job and who
+wanted my dog to die? Therefore, who is the one who clearly has some end
+game in mind? It’s not me—I just want to live my life.
+
+I could care less what Dusty does so long as he’s not out there murdering
+people. The only thing I can think of that I’ve encouraged him to do with
+any real emphasis in the last few years is for him and his people to stop
+fucking coming after me—he’s trying to ruin my whole life. And he enjoys
+it. He enjoys outsmarting people. (including the police)
+
+On the other hand, who is the one being completely transparent with
+everyone including the police—good, bad, and ugly? That one is me. Cuz I
+would really like this resolved and soon whereas what my brother is doing
+to me is against the law and he’s violating my constitutional rights as a
+citizen and he’s been completely fucking up my whole life. And it’s not
+going to stop until he gets caught period—even if he gets passed me.
+
+P.s. I plan to goto the doctor to try and either confirm or deny this
+latest microchip hypothesis, although it’s possible we will do an X-ray and
+not find anything at first when in reality something could still be there
+but the key is I keep learning and following the evidence and getting
+closer to the truth. (I mean it makes sense there would almost have to be a
+microchip involved given what they have been doing to me) I might need to
+get multiple opinions though. But worst case I figure I’m only as bad as
+all the people who were scared to get shots over microchip concerns–only in
+my case I now have reason to believe I may have actually already gotten
+one. And worst case I learn something which will help me figure out what to
+try next. But right now how I feel is I should have given these claims
+about microchips being a possible outcome of getting a covid shot more
+credibility to begin with myself.. (However at the time my brother was in
+monitor mode and not attack mode, plus I trusted my mom more at the time
+because she wasn’t covering for dusty back then)
 
 My overall plan:
 
@@ -3025,6 +3136,7 @@ https://bit.ly/cwg-plan
 
 
 Merry Christmas All.
+-- 
 
 Chase Gibbons  / Manager
 435-999-4722
