@@ -5208,23 +5208,38 @@ As of January 15, 2022
 I’ve been trying to avoid writing this because let’s be honest, different
 people and different businesses reputations are on the line. But if you
 have any questions about the validity of all my allegations against my
-brother in terms of his hacking then just call rent dynamics and speak to
-Tim or Levi, the dev managers. To put it simply, my brother has encouraged
-rent dynamics to step up their security by essentially hacking into all my
-accounts including my rent dynamics accounts, I’ll just leave it at that.
-Lastly, I have no doubt dusty has changed up some of these files to better
-suit him so just keep that in mind. I’ve caught him changing shit in this
-very google drive folder more than once now. Rent dynamics even got me a
-brand new computer to try and help me get around all my brothers hacking at
-one point fairly recently. My brother is just smart about it and he has his
-sights set to where he knows what he wants and in rent dynamics case he
-wants to isolate me so there’s no witnesses and discredit me—so it’s in his
-best interest not to bring them to their knees. Other companies I have no
-doubt he could and probably has done so before to gain funding.
+brother in terms of all his hacking then just call rent dynamics and speak
+to Tim or Levi, the dev managers. I think they will at least tell you what
+all he’s put me through previously in terms of all his hacking. To put it
+simply, my brother has encouraged rent dynamics to step up its security by
+essentially hacking into all my accounts including all my rent dynamics
+accounts, I’ll just leave it at that. Lastly, I have no doubt dusty has
+changed up some of these files in this very folder/wording in this very
+readme to better suit his agenda so just keep that in mind. I’ve caught him
+changing shit in this very google drive folder/readme more than once now.
+But yea, Rent dynamics even got me a brand new computer to try and help me
+get around all my brothers hacking fairly recently. My brother is just
+smart about it and he has his sights set to where he knows what he wants
+and in rent dynamics case he wants to isolate me so there’s no witnesses in
+regards to what he is planning to do to me and so that he can further
+discredit me without anyone to have my back—so it’s in his best interest
+not to bring Rent Dynamics to its knees with all his hacking
+essentially—because it’s not them he’s after in this case—it’s me. (He
+already has tons of dark money anyways from what I gather) Other companies
+I have no doubt Dusty could and probably has already brought them to their
+knees before so that he could gain funding to buy all his new “toys” he now
+uses to come after me. (He doesn’t want to goto prison from what I gather,
+but the mere fact he’s coming after me like he has been should speak
+volumes of his guilt in regards to what I accuse him of being)
 
 I know some of this is a little hard to believe but keep in mind that’s the
 whole point. My brother is trying to discredit me and/or kill me so he
-doesn’t have to worry about me testifying against him going forward.
+doesn’t have to worry about me testifying against him in court going
+forward. My best evidence on him is my first hand witness testimony. He’s
+been in the process of ripping that to shreds essentially, by attacking me
+in ways that both make my life constantly miserable and which are hard to
+prove and therefore sometimes hard to believe. Hence why I keep a journal
+and try to help out in any way I possibly can.
 
 Also, I’d call Dusty’s old work if I were you. GE Civil. I recall Dusty
 saying something about them firing him at least in part due to some Russian
@@ -5232,24 +5247,26 @@ php plugin he installed at the time, or at very least he was complaining
 about something to do with them not being appreciative or something about
 it at the time of his firing. Plus I get the sense those are one of the few
 people Dusty doesn’t have some sort of sway over in this whole circle at
-this stage. (It’s fundamentally terrorism) Especially whereas Dusty seems
-to like to use his hacking to manipulate people around him/me into doing
-what he wants more than anything. (He likes to try and create divides based
-on things like financial interest, he likes to try and corrupt people into
-doing what he wants essentially—and in my case—he likes to try to do
-attempted mind control on me for whatever reason, maybe as punishment,
-idk—which is just yet another slap in the face from him) I do believe Dusty
-is one of the main hackers if not the main hacker behind all this tho. He
-enjoys harming people these days—I know that for a fact deep down. He
-associates fireworks to killing people/my dog turbo. Unlike the rest of us
-who associate fireworks to family, freedom, and country. Like that’s what
-gets him excited essentially is harming others. He enjoys bringing others
-down. He never stops—they are infrasounding me as I type this.. This group
-is the boldest most in your face, tamper with evidence, intimidate all
-witnesses person/group I’ve ever even heard of in my life. They are
-literally ruthless you guys. My brother is the type of person that legit
-deserves to be locked up for the rest of his life. (Sadly) But his whole
-perspective is you’ve got to catch him and nail him for it first.
+this stage. (It’s fundamentally terrorism what he’s been doing) Especially
+whereas Dusty seems to like to use his hacking to manipulate/intimidate all
+the people around him/me into doing what he wants more than anything else.
+(He likes to try and create divides in relationships based on things like
+financial interest, (fear of going public about peoples businesses being
+hacked, etc) he likes to try and corrupt people into doing what he wants
+essentially—and in my case—he likes to try to do attempted mind control on
+me for whatever reason, maybe as punishment, idk—which is just yet another
+slap in the face from him) I do believe Dusty is one of the main hackers if
+not the main hacker behind all this tho. He enjoys harming people these
+days—I know that for a fact deep down. He associates fireworks to killing
+people/my dog turbo. Unlike the rest of us who associate fireworks to
+family, freedom, and country. Like that’s what gets him excited essentially
+is harming others. He enjoys bringing others down. He never stops—they are
+infrasounding me as I type this.. This group is the boldest most in your
+face, tamper with evidence, intimidate all witnesses person/group I’ve ever
+even heard of in my life. They are literally ruthless you guys. My brother
+is the type of person that legit deserves to be locked up for the rest of
+his life. (Sadly) But his whole perspective is you’ve got to catch him and
+nail him for it first.
 
 Which makes it especially difficult when he and his “people” constantly
 tamper with evidence and witnesses, etc, etc, primarily through hacking and
