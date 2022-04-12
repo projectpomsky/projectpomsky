@@ -4467,7 +4467,7 @@ same stuff to me since for whatever reason.
  My brother and my mom also had this strange narrative that they both
  apparently said the other was going to die a lonely death or something. (I
  don’t know who to believe–all I know is that is exactly what Dusty is now
- trying to do to me/force upon me)
+ trying to do to me/force upon me, and my mom has been helpful lately either)
  -
 
  Etc
@@ -4476,17 +4476,42 @@ same stuff to me since for whatever reason.
 And again, I still don’t really understand why exactly, unless it’s because
 I started continuing my father’s legacy by buying another one of my
 father’s buildings from my little sister Taylor, which is right around the
-time when this all started, when the purchase agreement was finalized
-anyways. (i.e. Unless it’s because Dusty really is a serial killer who
+time when this all started, when the purchase agreement was finalized to be
+specific. (i.e. Unless it’s because Dusty really is a serial killer who
 truly despises our father as I suspect)
 
 What are people going to do when there’s nobody left but Dusty, Cindy, and
 Taylor? That’s all I’m saying. Like at some point it’s got to become
-obvious who the imposter(s) is/are. It became obvious to me when Dusty
-started attacking me and Turbo.
+obvious who the imposter(s) is/are. It started becoming obvious to me back
+when Dusty first started attacking me and Turbo in 2019. That’s when I
+started truly realizing foul play likely really was involved and my brother
+of all people was likely the one behind it.
 
-I still can’t believe how my mom completely flipped. I have stood up for
-her all along.
+I still can’t believe how my mom completely flipped on me out of nowhere
+this last September. I have stood up for her all along. I can’t believe she
+started lying and covering for Dusty out of freaking nowhere when I could
+have used her support the most, (When Dusty first started EMFing me) right
+after I got her a freaking job at my work even, after all Dusty did to
+her/all the misinformation and lies he spread about her. She started
+covering for Dusty’s hacking out of nowhere and she even freaking lied
+about it–like she straight up lied about it afterwards. And then she
+started going on smear campaigns against me. And she hasn’t been helpful
+ever since.
+
+Like I don’t even know if she’ll even be honest about the fact that I told
+her how Dusty treated Karie on Karie’s deathbed after we left the hospital
+that night Karie died at this stage. I know there are some digital records
+on the topic out there somewhere though, like digital records of when Dusty
+actually apologized to me for him treating Karie that way after my mom
+apparently told Dusty I saw him do that. (Thanks mother) The whole thing is
+just messed up. I know for damn sure there is corroborating evidence on the
+topic out there however. (Like evidence of me bringing it up again and
+again and not having her completely deny it later, etc, etc)
+
+Dusty is just good at what he does I guess; (Causing divisions, isolating
+people, corrupting people through hacking, intimidating people, and even
+killing people and getting away with it apparently) that’s how I see it
+right now anyways..
 
 Chase Gibbons  / Manager
 435-999-4722
