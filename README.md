@@ -4893,12 +4893,12 @@ Russia or my brother.
 
 (They started freaking out when I was writing this btw, like as if they
 have now been caught–my screen went blue and back to white and back to blue
-again multiple times, as if multiple people were logging in to view what I
-was writing at the time–don’t let them fool you–I think this is the closest
-to the truth I’ve gotten yet; The beauty of what they are doing to me is
-that I can read them through all their reactions to what I’m doing at any
-given point, just like they can read me, I can also read their lack of
-reactions at key times, etc, etc..)
+again multiple times when writing this, as if multiple people were logging
+in to view what I was writing at the time–don’t let them fool you–I think
+this is the closest to the truth I’ve gotten yet; The beauty of what they
+are doing to me is that I can read them through all their reactions to what
+I’m doing at any given point as well, just like they can read me, I can
+also read their lack of reactions at key times, etc, etc..)
 
 Chase Gibbons  / Manager
 435-999-4722
