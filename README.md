@@ -7573,6 +7573,41 @@ fireworks–then they seemingly lit off fireworks in unison while playing the
 sound of turbo suffering to me for the first time on this most recent new
 year’s eve)
 
+As of February 23, 2022
+
+Told you so. These guys love to kill. They even celebrate killing with
+fireworks. They seemingly worship satin. They are extremely sophisticated
+yet extremely ruthless and unforgiving. You may not even know what you’ve
+done wrong but that doesn’t matter to them. And my brother is most
+definitely now among them. Their hate has no bounds. It’s totally Russia
+behind all these assaults. My brother is totally a Russian agent. They
+totally fit the profile to the T.
+
+https://apple.news/AoCD5f\_ABRc6dpWFyzLc6NQ
+
+Just think, if I also happen to be right on my global politics theory–that
+means Russia is behind most everything that’s wrong with our country at
+this stage. Everything from all the divisiveness in our country, (all
+Russia’s social media troll farms waging psychological warfare on our
+citizens, (completely bypassing our military) all their hacking and
+deliberate corrupting of our people, (to try and defeat us from within) to
+all the mass shootings in our country lately, (by doing to people what they
+have been doing to me essentially–I imagine they would have had a lot
+better luck on people who are a little less technical than I am whom they
+are able to actually coerce in a specific direction favorable to their
+desired outcome–I lucked out by being able to get to the true culprit(s)
+due to me having a background in a lot of this to begin with–otherwise I
+could totally see someone getting pushed over the edge by all this
+especially if they think it’s their own government doing it to them) to all
+the increased crime in our country, (by funding local organized crime
+groups to try and destabilize US even further, etc) to pretty much
+literally everything that’s wrong with our country right now. We really
+need to go hard on Russia in my view–regardless of what price we may have
+to pay for freedom. Freedom is totally worth it–believe me. I love seeing
+us united with our allies. We are so much stronger that way–believe me on
+that part too.
+
+
 Chase Gibbons  / Manager
 435-999-4722
 
