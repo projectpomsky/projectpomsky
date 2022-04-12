@@ -1583,12 +1583,17 @@ my mom I saw him do that tbh, I wouldn’t have ever even said anything to
 him about it had it been up to me–it was that serious–like I’d prefer him
 to not know I saw him do that to her.
 
+https://drive.google.com/open?id=1zHkFVCRavIiPMJe45LAn0XuhaVr0WlHC&disco=AAAATjPaCi4
+
+
 All I’m saying is why did Dusty even show up that evening if that’s all he
 was going to do to her?
 
 Dusty had time off before/after Karie’s death.
 
 Dusty demonized Karie both before and after her death.
+
+
 
 
 ~2016
@@ -1670,6 +1675,11 @@ for a reason.
 My brother Dusty begins distancing himself from everyone besides Cindy,
 from what I gather.
 
+https://drive.google.com/open?id=1FE6\_CBf8LTCrDjbj-BE-eLhdAbmxGj1C&disco=AAAATigPpBg
+
+https://drive.google.com/open?id=1FE6\_CBf8LTCrDjbj-BE-eLhdAbmxGj1C&disco=AAAATigPpBc
+
+
 My brother texts me saying he’s been learning psychology, reading books on
 psychology, and he tells me how he’s been talking to a psychologist who
 said our mom is a narcissist and he started saying all this messed up stuff
@@ -1708,6 +1718,9 @@ a little while later seems how I had a sense he was keeping it anyways, I
 told him that later on for his birthday or Christmas or something like
 that) #garage #framingme
 
+https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk0&resourcekey=0-EeWTQ7Zs5x2T06vHmzpVbw&disco=AAAATmjZBYM
+
+
 My brother goes into sleeper mode. (Which was a red flag given all that
 happened in the past)
 
@@ -1720,9 +1733,14 @@ even though he was perfectly capable to do it himself. Whereas he had all
 the sudden distanced himself from all his friends and family, I told him I
 would do it for him just to try and develop some kind of a relationship
 with him again. (Who makes all these enemies and pushes away their family
-and friends right when trying to start a new business anyhow?) He asked me
-to come work with him around that time but he was clearly being shady so I
-denied. Plus my brother has always been difficult to work with.
+and friends right when trying to start a new business anyhow?)
+
+https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk0&resourcekey=0-EeWTQ7Zs5x2T06vHmzpVbw&disco=AAAATmpMSLk
+
+He asked me to come work with him around that time but he was clearly being
+shady so I denied. Plus my brother has always been difficult to work with,
+I’m sure I could have been better to work with as well but he freakin used
+it to hack me.
 
 Dusty flakes out on hanging out anymore.
 
@@ -1762,11 +1780,76 @@ deleting email messages and I attribute that email being deleted to that.
 marked clearly as such–and I don’t recall this email from dusty as being
 marked that way when I did glance at it before it was deleted)
 
-First perfect circle of black feathers left in my yard right around the
-same time I accused dusty of killing our father and sister for Cindy--I
-didn’t know what it was at the time tho. #signal
+06-06-2019
 
+Reason for me doing Dusty’s website
+
+https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk0&resourcekey=0-EeWTQ7Zs5x2T06vHmzpVbw&disco=AAAATmpMSLk
+
+
+06-07-2019
+
+Dusty starts repeatedly referencing my prescriptions
+
+https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk0&resourcekey=0-EeWTQ7Zs5x2T06vHmzpVbw&disco=AAAATmpMSLc
+
+
+06-11-2019
+
+Dusty tries to fill my prescriptions but it’s too early.
+
+https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk0&resourcekey=0-EeWTQ7Zs5x2T06vHmzpVbw&disco=AAAATmjZBYc
+
+
+06-12-2019
+
+
+
+I accuse Dusty of killing Karie and our father for Cindy, just as a test.
+
+https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
+
+
+First perfect circle of black feathers left in my yard right around this
+same time that I accused Dusty of killing our father and sister for
+Cindy--I didn’t know what it was at the time tho–nobody did. #signal
+
+(No image taken)
 First Poisoning
+
+7-2-2019
+
+Dusty essentially puts out a hit on Turbo (And me for that matter)
+
+https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk0&resourcekey=0-EeWTQ7Zs5x2T06vHmzpVbw&disco=AAAATmpMSLU
+
+
+Tell Dusty how important Turbo is to me and Rent Dynamics
+
+https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk0&resourcekey=0-EeWTQ7Zs5x2T06vHmzpVbw&disco=AAAATmpMSLQ
+
+
+Dusty saying he’s blocking all of us siblings
+
+https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk0&resourcekey=0-EeWTQ7Zs5x2T06vHmzpVbw&disco=AAAAJmhI\_AI
+
+
+7-3-2019
+
+Summary of turbo poisoning
+
+https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk0&resourcekey=0-EeWTQ7Zs5x2T06vHmzpVbw&disco=AAAATmpMSK4
+
+
+I text Jamee right after turbo was poisoned
+
+https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk0&resourcekey=0-EeWTQ7Zs5x2T06vHmzpVbw&disco=AAAATmjZBYI
+
+Dusty texts in right after
+
+https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk0&resourcekey=0-EeWTQ7Zs5x2T06vHmzpVbw&disco=AAAATmjZBYU
+
+
 
 My brother tells me he thinks my dog should die all rudely over imessage,
 when I started opening up to him about some of my frustrations. #plot
@@ -1798,6 +1881,9 @@ required repeated washing over time as it seeped out of my skin.
 2nd perfect circle of black feathers left in my yard the same night my dog
 and I were first poisoned. I knew what it was this time. #signal
 
+https://drive.google.com/file/d/1vZRcTk\_k5WTmEmgUlh3LhL2fpJN1AGrI/view?usp=sharing
+
+
 They did it on the night of the fireworks going off in 2019. #plot
 #fireworks
 
@@ -1805,6 +1891,8 @@ This is when I first started suspecting my brother of now being a shot
 caller in a gang. #gang
 
 Dusty tells me I’m going to regret not coming to work with him. #signal
+
+
 
 Dusty blames him being the way he is on our mother. (Only caring about
 himself) #signal
@@ -1834,6 +1922,18 @@ when asked by me directly numerous times over email.
 I send Dusty an email worried about there potentially being holes in his
 brain from all the acid he’s done over the years–based on a video I watched
 that said it was possible–he takes offense to it. #brain
+
+5/14/2020 -
+https://drive.google.com/open?id=1FE6\_CBf8LTCrDjbj-BE-eLhdAbmxGj1C&disco=AAAATigPpEM
+
+
+https://drive.google.com/open?id=1FE6\_CBf8LTCrDjbj-BE-eLhdAbmxGj1C&disco=AAAATigPpCg
+
+
+5-16-2020
+
+https://drive.google.com/open?id=1FE6\_CBf8LTCrDjbj-BE-eLhdAbmxGj1C&disco=AAAATigPpCI
+
 
 I notice what I thought were cops were now following me, neighbors seemed
 suspicious of something in my garage out of nowhere. #garage #framingme
@@ -1867,9 +1967,32 @@ can’t. This stuff is scary.
 
 Dusty backs off for the time being..
 
+7-14-2019
+
+https://drive.google.com/open?id=1FE6\_CBf8LTCrDjbj-BE-eLhdAbmxGj1C&disco=AAAATmWbfY4
+
+
+7-19-2019
+
+https://drive.google.com/open?id=1FE6\_CBf8LTCrDjbj-BE-eLhdAbmxGj1C&disco=AAAATmWbfYE
+
+
+8-29-2019
+
+Won’t deny it.
+
+https://drive.google.com/open?id=1FE6\_CBf8LTCrDjbj-BE-eLhdAbmxGj1C&disco=AAAATmWbfYA
+
+
+Dusty stops by while I was away on my birthday.
+
+https://drive.google.com/open?id=1FE6\_CBf8LTCrDjbj-BE-eLhdAbmxGj1C&disco=AAAATigPpBU
+
+
 To be continued…
 
 2020Second Poisoning
+
 
 Poisoned again this time from a key I left out for a tenant who was
 interested in renting one of my little sister’s commercial units (the unit
@@ -3129,6 +3252,13 @@ manipulating me, and his trying to isolate me—his end game doesn’t seem all
 that noble. And that’s all just on a high level, dismissing literally
 everything else.
 
+https://drive.google.com/open?id=1FE6\_CBf8LTCrDjbj-BE-eLhdAbmxGj1C&disco=AAAATigPpCY
+
+
+https://drive.google.com/open?id=1FE6\_CBf8LTCrDjbj-BE-eLhdAbmxGj1C&disco=AAAATigPpBw
+
+
+
 I could care less what Dusty does so long as he’s not out there hacking,
 corrupting, murdering, and framing people—especially family. The only thing
 I can think of that I’ve encouraged him to do with any real emphasis in the
@@ -3334,7 +3464,7 @@ then they wouldn’t even need to track my Lexus.
 
 As of December 28, 2021
 
-Added comment to video.
+Added comments to video.
 
 https://drive.google.com/open?id=1SVV0PWZCWpIVJgEVWsqFL0Yh7YAOQf19&disco=AAAATkozBFI
 
@@ -3363,6 +3493,9 @@ information on the dark web because I had a case of credit card fraud and I
 got a notice that some of my information was being sold online shortly
 after Dusty originally hacked me. (I assume Dusty would have done that to
 make it harder to ultimately trace the original hacking back to him)
+
+https://drive.google.com/open?id=1DgyeMvcIGa7UxhxbFBPdIVKb6o-iWKzl&disco=AAAATlSBv1g
+
 
 But even still today there’s so many different ties back to my brother
 Dusty to where that’s almost the only thing that would seemingly fit the
@@ -3633,7 +3766,7 @@ brother than this for me to have given my intelligence and my ability to
 see through their shit. One person. I’d honestly recommend my whole family
 get the fuck away from Dusty at this stage–at least until he’s caught–and
 stay away from shots especially if you have any suspicions you might be
-hacked..
+hacked and/or are single..
 
 I now suspect Dusty can screw with me both through infrasound and the
 mircochip btw. I suspect Dusty’s Ogden Recording Company LLC and/or ELIXEY,
@@ -3659,8 +3792,9 @@ Now it’s not just hacking and assault and poisoning and emf-ing and
 infrasound and attempted explosions and attempted gassings I have to worry
 about with my brother Dusty–he can now legit start f-ing with my brain’s
 signals through a nanotechnology microchip he somehow had put into I
-suspect my vaccine to try and negatively reinforce whatever I’m doing..
-(He’s the new Charles Manson)
+suspect my vaccine to try and negatively reinforce whatever I’m doing
+and/or ultimately likely take control of my mind.. (He’s the new Charles
+Manson)
 
 If he really loved me I don’t think he’d be doing all of this to me. My
 only thing is it’s hard for me to stop loving my family–regardless of what
@@ -3738,10 +3872,10 @@ and they monitor me daily, so dusty would know before anyone else if he
 ever succeeds in actually killing me and he’d therefore have a chance to do
 what he loves to do the most which is to try and stage/frame my death as
 being from something it’s not.. (Take/destroy any evidence inconvenient to
-him, etc, etc, all in time for him to act like he is actually shocked of my
-passing, and act like he actually cares about me) Just wanted to throw that
-out there—I’m not even joking or exaggerating—they infrasound me daily and
-they’ve tried staging my death numerous times already..
+him, plant things, etc, etc, all in time for him to act like he is actually
+shocked of my passing, and act like he actually cares about me) Just wanted
+to throw that out there—I’m not even joking or exaggerating—they infrasound
+me daily and they’ve tried staging my death numerous times already..
 
 If I were you—I’d actually try real hard to do something about my brother
 before that actually happens. Because my brother could theoretically
@@ -3761,7 +3895,7 @@ sometimes sound. Bottom line is everything they are doing to me is
 literally engineered to seem outlandish for a reason. They’ve tried to kill
 me so many times now. I suspect they have killed other people already. I
 just want the police to actually arrest my brother already. It’s completely
-obvious that he’s involved at the very least or else he completely
+obvious that he’s involved at the very least or else he is completely
 overseeing the entire operation at most. Don’t miss out on this
 opportunity. If I were you I’d get my brother while he’s still around. Cuz
 otherwise you’ll never be able to bring him to justice and he’ll be able to
@@ -3769,71 +3903,178 @@ continue his reign of terror against everyone around here remotely—which
 would be a nightmare tbh. He’s not dumb—keep that in mind please.
 
 They definitely were in my house again. They installed something which
-makes any electrical breaker of mine that is powered on begin to emit gama
-rays on their command. I know it’s gama rays cuz it goes right through my
-enclosure even from the other side of my house—and my enclosure is made up
-of a faraday cage on the outside plus a full led interior—plus like inches
-and inches of foam sound proofing. I turned off all my breakers one by one
-and it got better and better each breaker I turned off until there was only
-one gama ray emitter left that was still giving me infrasound heart type
-symptoms—but all my breakers were off at that point. So I turned off my
-power outside and even still there was one gama ray emitter left. (I think
-they are illegally tying into power) I am 100 percent confident these guys
-are messing with my power though and Rocky Mountain power and the
-authorities should really get involved and get to the bottom of it because
-these gama ray emitters are extremely dangerous and seemingly
-indiscriminate in where they were pointed—but again they are controlled
-remotely like everything else these guys do. But yea, in order to block
-gama rays you’d need either inches and inches of led or else inches and
-inches of concrete or water.
+makes any electrical breaker of mine that is powered on begin to emit
+neutron or gama rays on their command. I know it’s neutron or gama rays cuz
+it goes right through my enclosure even from the other side of my house—and
+my enclosure is made up of a faraday cage on the outside plus a full led
+interior—plus like inches and inches of foam sound proofing. I turned off
+all my breakers one by one and it got better and better each breaker I
+turned off until there was only one neutron or gama ray emitter left that
+was still giving me infrasound heart type symptoms—but all my breakers were
+off at that point. So I turned off my power outside and even still there
+was one neutron or gama ray emitter left. I think they may be illegally
+tying into power, and illegally making it so my house still gets some power
+when the meter outside is completely shut off—because they clearly still
+have power to whatever they have in my attic even though everything is
+completely shut off. The meter outside seems about where the last one is
+coming from btw, I know cuz I put up some water in its direct line of sight
+to my bed to try and get some sleep last night. I am 100 percent confident
+these guys are messing with my power though and Rocky Mountain power and
+the authorities should really get involved and get to the bottom of it
+because these neutron or gama ray emitters are extremely dangerous and
+seemingly indiscriminate in where they are being pointed—but again they are
+controlled remotely like everything else these guys do—and therefore they
+can be powered off remotely. But yea, in order to block neutron or gama
+rays you’d need either inches and inches of led or else inches and inches
+of concrete or water.
 
 Or you could just arrest my brother and bring this all to an end just like
 that.
 
 Like I told you these guys always evolve to try and keep up the pressure.
-But the thing is—the authority’s need to evolve and turn up the pressure
-right back in my opinion. Adding gama ray emitters like that to a home
-CANNOT possibly be legal. I suspect they have some hidden primary raspberry
-pi or similar controller somewhere hidden down the pipe of the Rocky
-Mountain side of my electrical meter or else somewhere in my electrical
-meter itself as well which serves as the base hub for all their hacking and
-electrical tampering for my whole house—but you’d have to do an actual
-thorough inspection.
+But the thing is—the authorities should evolve and turn up the pressure
+right back at them in my opinion. Adding neutron or gama ray emitters like
+that to a home CANNOT possibly be legal. I suspect they have some hidden
+primary raspberry pi or similar device somewhere hidden down the pipe of
+the Rocky Mountain side of my electrical meter or else somewhere in my
+electrical meter itself as well which serves as the base hub for all their
+hacking and electrical tampering for my whole house—but you’d have to do an
+actual thorough inspection with someone who has an idea what they are
+looking for.
 
 I’ve said it before and I’ll say it again it’s insane how much these guys
 are allowed to get away with. It’s also insane just how brazen they are and
 continue to be. At this rate it’s looking like I’ll have to just disappear
 and not use any of my accounts and not be in contact with anybody plus get
-this microchip removed just to have any chance at getting away from all
-this nonsense and even then these guys will still be out there killing
-people and tampering with peoples electricity indiscriminately all for
-their own pleasure.
+this microchip removed and live off grid just to have any chance at getting
+away from all this nonsense and even then these guys will still be out
+there killing people and tampering with people's electricity
+indiscriminately all for their own pleasure.
 
 You can’t make this stuff up. Plus it fits an overall pattern I’ve been
-stating now for some time. There’s no illness out there that l constantly
+stating now for some time. There’s no illness out there that constantly
 evolves based on what I write in a google drive folder like this. (I just
-stated that I can turn off all my breakers and it gets a lot better above,
-like a lot less intense—that’s actually the part Dusty/the hacker didn’t
-like me writing earlier—so what’s he do? Instructs one of his guys to break
-into my house again and make it so its intense as hell regardless of
-whether all my power is off or not. These ones had a completely different
-sound to them, they sounded like spinners, like they were spinning around
-indiscriminately shooting out what had to be gama rays. I’ve already proven
-I could block out all my symptoms with my existing enclosure previously—bad
-timing on their part) But yea, it’s my brother—like I’ve been saying now
-since the very beginning—he’s been busted numerous times now—plus he’s a
-serial killer and a hacker. He wants to discredit me because I’m turning
-him in for being exactly that—being a hacker and a serial killer. He wants
-me dead. It really is as simple as that. I wish he would be arrested
-already. He is arguably the biggest threat to all of Utah or more. He
-enjoys hurting people.
+stated above that I can turn off all my breakers and all the
+vibration/infrasound got a lot better, like a lot less intense—that’s
+actually the part Dusty/the hacker didn’t like me writing earlier—so what’s
+he do? Instructs one of his guys to break into my house again and add
+something to make it so its intense as hell regardless of whether all my
+power is off or not—and using the next stage of radiation that can go right
+through my shelter. Now my electrical meter is still pulling power even
+when it’s completely shut off outside. These new radiation things they
+installed have a completely different sound to them too, they sound like
+they are spinning, and they didn’t vibrate anything like the other one did.
+Like they were spinning around indiscriminately shooting out what had to be
+neutron or gama rays. I’ve already proven I could block out all my symptoms
+with my existing enclosure previously—bad timing on their part—cuz I’ve
+been sleeping well for arguably weeks now ever since I got the led—until
+tonight—otherwise I wouldn’t have agreed to go back to work yet) But yea,
+it’s my brother—like I’ve been saying now since the very beginning—he’s
+been busted numerous times now in numerous different ways—plus he’s a
+serial killer and a hacker. He wants to discredit me and make my life as
+miserable as he can possibly make it and isolate me because I’m turning him
+in for being exactly that—a serial killer and a hacker. It really is as
+simple as that.
+
+[image: Diagram Description automatically generated]
+
+[image: Diagram Description automatically generated with medium confidence]
+
 
 Some (but not all) Dusty gangster references:
 
 https://drive.google.com/drive/folders/1PGc6ncUsAUuftYDLFpFFT16\_dhREfD8I
 
+As of December 31, 2021
 
--- 
+They totally deleted my comments on the video of turbo where I layed out
+how they admitted to killing my dog turbo in real-time as their confession
+happened. Hopefully someone saw those comments before they were deleted.
+I’ll try and add the gist of them back here.
+
+I sent my co-workers a link to my comments and whatnot right after I sent
+them a link to my now deleted comments on that video of turbo in an email,
+the comments covered how the hacker(s) totally admitted to killing turbo
+twice, and how Dusty had started spreading rumors to my neighbors
+previously.
+
+https://drive.google.com/open?id=1QNkLe0ZG9ZEDpLLUiAVLTAKnOvrubhSZ&disco=AAAATmMc\_kU
+
+
+The hackers first essentially admitted to it by messing with only what I
+was typing relating to turbo’s death and everyone seemingly piling on after
+Turbo died including the neighbors. They messed with only that part about
+Turbo when I was typing a draft version of the comment the night before.
+Once they did that I didn’t finish it but I made note of their #signal they
+had sent me the day before when drafting the original version essentially,
+and as soon as I did that while still typing in google drive just like I’m
+doing now for the most part–out of nowhere a sound clip of like a cemetery
+played on my computer–which I took as a second signal of the hackers
+admitting to poisoning turbo.
+
+
+Then I went on to say essentially I suspect Dusty tried to frame me to my
+neighbors right after I initially called him out for killing our father and
+Karie for Cindy–like by spreading false rumors to my neighbors around the
+same time he was making up all these lies and spreading them about our
+whole family. Quick side note, but with that said I really do think that
+child abuser guy is legit acting on more than just a rumor, like he’s in on
+it himself directly and he likely know’s Dusty even if he acts like he
+doesn’t when questioned; regardless, i’m hoping this document will help
+quite any rumors my brother has made/continues to make about me going
+forward.
+
+Furthermore, do you want to know just how evil my brother really is? He’s
+been like really into all this dark psychology shit ever since 2019 pretty
+much right? He was dragging our whole family down with all his dark
+psychology that whole year when Dusty’s people first poisoned Turbo.
+
+So guess what they did tonight, on New Years Eve? They started playing
+sounds of Turbo I assume from the time of their second successful
+poisoning–which subsequently led to turbo getting multiple organ failure
+and tanking quickly. I’m not going to let it get to me, I have the sound
+clip just from doing a voice recorder session when they were doing it to me
+tonight–they also deliberately kept lighting off fireworks outside at the
+time to make it sound like turbo was getting shot or something. I ignored
+them for the most part but I did start recording–because I don’t want them
+to be able to get to me especially when I’m doing such important work as
+going through everything and trying to reference all my old stuff. Anyways,
+this unnamed satin group led or partially led by my brother Dusty legit get
+enjoyment out of causing others pain and suffering, as I’ve said. Don’t let
+all their dark psychology get to you because it can bring you down if you
+aren't careful. Anyways, the whole reason I’m bringing this up is because
+the only possible place they could have poisoned turbo without my knowledge
+the second time that I can even think of is at medvet. (They don’t let the
+owners inside at medvet due to covid) If so, I bet we could find out
+exactly which vet technician handled turbo at medvet that evening is why
+I’m saying this. And it could be an in to their whole poisoning tactics.
+
+I suspect my brother’s gang legit will even have members whose their sole
+objective is just to get hired on to a given place just to perform a
+poisoning from what I gather. Like I think that might be how they got
+something into my jamba juice when I woke up feeling like my stomach was
+going to explode most recently. Because I recognized a new person working
+there that night that I haven’t seen working there before or again since,
+you know, the night I last reported smelling almonds and diesel fuel. Like
+these guys are ruthless you guys. My brother is fucking ruthless. So next
+time you start thinking about me potentially having any involvement in
+anything to do with my brother and all this gang stuff–just remember this
+is the level of evil we are really talking about here. And they actually
+enjoy it.
+
+
+Started adding references
+
+https://drive.google.com/file/d/0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk0/view?usp=sharing&resourcekey=0-EeWTQ7Zs5x2T06vHmzpVbw
+
+https://drive.google.com/file/d/0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk0/view?usp=sharing&resourcekey=0-EeWTQ7Zs5x2T06vHmzpVbw
+
+https://drive.google.com/file/d/0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk0/view?usp=sharing&resourcekey=0-EeWTQ7Zs5x2T06vHmzpVbw
+
+
+
+https://airtable.com/shrnRoYK2f4Ftk4zy
+
 
 Chase Gibbons  / Manager
 435-999-4722
