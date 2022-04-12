@@ -8807,14 +8807,15 @@ the hackers just use similar “signals” whenever they want them to behave a
 certain way. For instance, maybe later the person is reading a news article
 on their phone about Ukraine, all they have to do is start wigging their
 phone out at certain key points or provide other timely signals that are
-learned over time and that my friends is how Vladimir Putin has managed to
-corrupt our society and exploit our law and order in an almost impossible
-to prove manner from within. And each piece of infrastructure they hack
-they use it to amplify their ability to take over the rest. That’s part of
-why hacking is so powerful. That doesn’t even get into how they
-strategically create/exploit conflicts of interest and control the entire
-society from afar, nor does it get into their mass social media
-psychological manipulation efforts, etc, etc.
+learned over time–and that my friends is how Vladimir Putin and Xi Jingping
+have managed to corrupt our society and exploit our law and order in an
+almost impossible to prove manner from within. And each piece of
+infrastructure they hack they use it to amplify their ability to take over
+the rest. That’s part of why hacking is so powerful. That doesn’t even get
+into how they strategically create/exploit conflicts of interest and
+control the interconnected society as a whole from afar, nor does it get
+into their mass social media psychological manipulation efforts, etc, etc.
+(What they are doing is honestly impressive but scary as hell)
 
 I wish one of these guys would come forward and do what they know is in the
 best interest of our country. All Putin’s terrorism scares everyone into
