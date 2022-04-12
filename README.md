@@ -8972,8 +8972,8 @@ that’s what you can expect going forward if they prevail. I get some people
 believe in Qanon and whatnot but did you know Putin has actually been
 accused of being a child molester himself by one of his own internal kgb?
 The irony. Putin also frequently stages shit like bombing his own peeople
-for political gain, etc. I don’t want to live under all that really myself
-personally.
+for political gain, etc. I don’t really want to live under all that really
+myself personally. But it’s not over until it’s over.
 
 The other issue is Russia and China have strategically set this all up to
 where they completely side step our government/military and go straight
