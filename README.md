@@ -1683,21 +1683,22 @@ didn’t know what it was at the time tho. #signal
 
 First Poisoning
 
-My brother tells me he thinks my dog should die all rudely over imessage.
+My brother tells me he thinks my dog should die all rudely over imessage,
+when I started opening up to him about some of my frustrations. #plot
 
 My dog and I get poisoned for the first time on our walk the very next
 day--a group of Mexicans came up and deliberately put what appeared to be
 this strange grayish paste poison substance on my dog’s forearm--while
-pretending to pet him/pick him up.
+pretending to pet him/pick him up. #plot
 
-My phone got hot at the time.
+My phone got hot at the time. #hacking
 
 My brother texted into the group conversation between my siblings and I
 right after the mexicans put that shit on turbo, (
 https://drive.google.com/file/d/1TwEBUWSWpaOQLLgTQGL-Wq\_tqkWIKc4W/view?usp=sharing
 ) disparaging our mother further--even though he said he was blocking us
 all the day prior–as if to send me a signal that it was directed by him.
-(As if I didn’t know that already) #signal
+(As if I didn’t know that already) #signal #plot
 
 I knew it had to have been poison cuz it made both me and my dog feel
 funny, (I wiped it off turbo cuz he wouldn’t walk any further until I got
@@ -1712,17 +1713,18 @@ required repeated washing over time as it seeped out of my skin.
 2nd perfect circle of black feathers left in my yard the same night my dog
 and I were first poisoned. I knew what it was this time. #signal
 
-They did it on the night of the fireworks going off in 2019.
+They did it on the night of the fireworks going off in 2019. #plot
+#fireworks
 
 This is when I first started suspecting my brother of now being a shot
-caller in a gang.
+caller in a gang. #gang
 
-Dusty tells me I’m going to regret not coming to work with him.
+Dusty tells me I’m going to regret not coming to work with him. #signal
 
 Dusty blames him being the way he is on our mother. (Only caring about
-himself)
+himself) #signal
 
-Dusty says he’ll have Paul take “his money” out of my account.
+Dusty says he’ll have Paul take “his money” out of my account. #signal
 
 Dusty says I’m going to regret not having more people around me. #people
 
@@ -1735,7 +1737,8 @@ Dusty freaked the hell out to my mother when he found out I went down to
 his recording studio with my phone in airplane mode one day. (Now I think I
 know why, cuz he knows he’s guilty/he was up to no good at his recording
 studio and/or he thought I might try to do something similar to him as a
-result of what he did to me or something)
+result of what he did to me or something) These days they can still access
+my phone even when I’m in airplane mode.
 
 Dusty disparages Karie repeatedly. #karie
 
@@ -1776,6 +1779,8 @@ left outside my house right after, deleting his response out of my inbox,
 telling me my dog should die, phone getting hot when poisoned, someone
 trying to fill my prescriptions, disparaging our whole family, etc, etc) I
 can’t. This stuff is scary.
+
+Dusty backs off for the time being..
 
 To be continued…
 
@@ -2034,6 +2039,11 @@ only the emergency room could test for stuff like that, so next time I know
 where to go now but again–they could rig it to where I would be better off
 just not going in. That’s the challenge with these guys. I like got to walk
 this tight rope and avoid getting knocked down from either direction.
+
+So yea, I try not to say even one thing that could even possibly be
+maliciously mis-interpreted anymore as me being depressed or whatever to
+avoid my brother trying to kill me again and using it as an excuse for my
+death.
 String of break-ins #1
 
 Thorn bush spikes added to my porch--one of which I barely stepped on.
@@ -2274,8 +2284,6 @@ this point because my brother never quits.
 
 Them getting in my house is a huge freaking deal cuz they could try to
 frame me yet again, not to mention everything else they’ve been doing to me.
-
-It’s like I just can’t win.
 
 If I had a choice, I wouldn’t be doing all this. But I don’t.
 
