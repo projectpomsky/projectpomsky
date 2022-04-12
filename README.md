@@ -12019,16 +12019,21 @@ never promoted it. In reality, my scope of anonymous consists of me just
 reaching out to them and giving them my opinion on various subjects, asking
 for help, similar to what I did with our government once my bro started
 trying to kill me. Like that doesn’t make me an anonymous member or a US
-agent? I don’t think so. Plus neither ever even actually talks back to me.
-Anyways, my bro must actually be pretty high up in the kremlin tbh cuz it’s
-as if they are trying to use ME and this very document to start a war in a
-way. My bro seems to have access to some pretty high level stuff too.
-Russian satellites and whatnot, he almost seems to drive some of their
-operations around here. Plus, it’s as if Russia’s whole ordeal has a
-“brothers” “theme” to it—as well as a “hacking theme” to it–on multiple
-levels. Nevertheless, I don’t want them to use me to start a war—not unless
-any war is on our country’s own terms. This shit is scary you guys, not
-going to lie.
+agent does it? I don’t think so. Plus neither ever even actually talks back
+to me–they only listen. (I think, which is honestly smart–kinda like these
+Russian hackers never actually talk back to me–signals are the key–quick
+side note, wanna know how the Russians do “talk” to me? By changing songs
+up in my playlist, or at least they used to before I first reported it–I
+would say I miss those times but everything they do is psychological in
+nature so I really don’t) Anyways, my bro must actually be pretty high up
+in the kremlin tbh cuz it’s as if they are trying to use ME and this very
+document to start a war in a way. My bro seems to have access to some
+pretty high level stuff too. Russian satellites and whatnot, he almost
+seems to drive some of their operations around here. Plus, it’s as if
+Russia’s whole ordeal has a “brothers” “theme” to it—as well as a “hacking
+theme” to it–on multiple levels. Nevertheless, I don’t want them to use me
+to start a war—not unless any war is on our country’s own terms. This shit
+is scary you guys, not going to lie.
 
 I can now see why Joe Biden is so reserved. I think it’s called “game
 theory”. Essentially it’s crucial you are not seen as the country who
@@ -12045,9 +12050,9 @@ be highly motivated to work against our government at this time.
 It’s extremely worrisome that Russia is seemingly targeting all our
 citizens with all their hacking right now too because they are able to
 essentially then mine tons of tons of datapoints from each voter to later
-user to manipulate those voters in elections if nothing else. It’s
+use to manipulate those voters in elections if nothing else. It’s
 essentially “weapons grade” communications or psyops. There’s another show
-I watched on netflix called something like “the big hack” or something
+I watched on netflix called something like “the great hack” or something
 which was about cambridge analytica and all the illegal Facebook data they
 mined in 2016–that explains the above point in great detail. And that was
 just relating to facebook data alone. We are talking about the Russians
@@ -12064,6 +12069,17 @@ that need to watch out is what I’m getting at–it really is normal people.
 Russia exploits the fact that there is no legit intrusion detection systems
 protecting normal household networks, and they get into corporations
 through that means.
+
+Go talk to my brother you guys–we really need him tbh. He’s really really
+smart. I’m just from the same bloodlines is all. Plus the Russians aren’t
+happy right now after this last post. I just want things to go back to the
+way things used to be.. I want my brother back. And it just so happens
+getting my brother back is also in the best interest of our country. Plus,
+I think it might be best to let people who have made mistakes off the hook
+this one time if they cooperate to avoid further damaging ourselves and our
+country. We just also simultaneously need to provide them with protection
+is all.
+
 
 
 Chase Gibbons  / Manager
