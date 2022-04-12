@@ -11717,20 +11717,22 @@ right from my father. Some of my other siblings have that mentality as
 well–but not all of them.
 
 P.s. The hackers are the only ones who know literally everything–everyone
-else seems to only know their part in it and that seems deliberate. All you
-have to do to get to the bottom of this is arrest my brother. Seriously,
-arrest my brother and then offer him a deal to get less jail time and I’m
-sure he could tell you literally everything. Dusty doesn’t have much to
-lose himself so I’m sure he would talk under the right circumstances. Like
-he doesn’t have kids he’s got to worry about being retaliated against or
-anything like that. If he did he wouldn’t be doing all this shit to begin
-with. My brother literally is the key to all of this. If you can force him
-to turn on all these people we’d be set. The hackers have even indicated to
-me he’s the leader of this sect so you should really pursue Dusty on murder
-of my family charges if nothing else. He's also likely critical to both the
-nanotechnology and infrasound/ultrasound. I don't even want to know how
-many people he's murdered or manipulated others into murdering at this
-point tbh.
+else seems to only know their part in it and that seems deliberate. They
+literally treat everything like they are securing a computer system. (i.e.
+they apply the “minimum necessary rule” to even their criminal operations)
+All you have to do to get to the bottom of this is arrest my brother.
+Seriously, arrest my brother and then offer him a deal to get less jail
+time and I’m sure he could tell you literally everything. Dusty doesn’t
+have much to lose himself so I’m sure he would talk under the right
+circumstances. Like he doesn’t have kids he’s got to worry about being
+retaliated against or anything like that. If he did he wouldn’t be doing
+all this shit to begin with. My brother literally is the key to all of
+this. If you can force him to turn on all these people we’d be set. The
+hackers have even indicated to me he’s the leader of this sect so you
+should really pursue Dusty on murder of my family charges if nothing else.
+He's also likely critical to both the nanotechnology and
+infrasound/ultrasound. I don't even want to know how many people he's
+murdered or manipulated others into murdering at this point tbh.
 
 
 
