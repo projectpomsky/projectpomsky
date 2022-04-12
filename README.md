@@ -5370,66 +5370,87 @@ in my own bed/room for once last night but there were lesser security
 measures in place—I was tired tbh.
 
 Anyways, now today my one medication is making me feel all wobbly out of
-nowhere, well I had to narrow it down to figure it out. And I protect my
-prescriptions these days like they are my most valued possession—I keep
+nowhere again, well I had to narrow it down to figure it out. And I protect
+my prescriptions these days like they are my most valued possession—I keep
 them on me at all times for this exact reason—so that they can’t try and
 poison me through them again. (I keep them on me at all times beyond when I
 goto sleep) But yea, they must have gotten to them last night somehow even
 though my cameras don’t show anybody going through the front door and my
-camera was rolling full time, hence why I suspect a tunnel even more now. I
-know how to be able to tell whether they tampered with my prescriptions
-definitively this time and they totally did again. It looks like they must
-have used an air brush or something to spray something on there, when
-looking at my prescriptions today under a black light. My prescriptions
-hadn’t made me feel this way since I last reported suspected tampering with
-my prescriptions btw.
+camera was rolling literally full time last night, hence why I suspect a
+tunnel even more now. I have a better way to know how to be able to tell
+whether or not they tampered with my prescriptions definitively this time
+and it seems as though they totally did again. It looks like they must have
+used an air brush or something to spray something on there, when looking at
+my prescriptions today under a black light. My prescriptions hadn’t made me
+feel this way since I last reported suspected tampering with my
+prescriptions btw.
+
+This is not a mint–this is one of my prescription pills under a black
+light. Those white specs represent inconsistencies that shouldn’t be there.
+(aka. Poison seemingly airbrushed on there) They are only visible under a
+black light. Those specs are enough to completely make you almost tip the
+hell over. It was difficult to get a good picture of it, it’s easier to see
+it in person yourself.
+
 
 They have got to have a tunnel, either that or they went through a window.
-Dusty would be the person who could actually engineer the tunnel around the
-existing infrastructure too. My bets are on a tunnel leading directly to
-Kyle French’s house. (Aka child abuser) All I know is I cannot keep myself
-safe here any longer. They were able to still emf me last night and they
-were showing signs of getting around my infrasound jammer after a while
-whenever they could figure out the exact frequencies of infrasound I was
-putting out through all their other gadgets/hacking, I suspect they could
-then filter those frequencies out. But yea, I honestly don’t know if I can
-keep myself safe anywhere anymore tbh.
+Dusty would be a person who could actually engineer a tunnel around the
+existing infrastructure too seems he used to be a civil engineer. My bets
+are on a tunnel leading directly to Kyle French’s house if there is a
+tunnel. (Aka child abuser) All I know is I cannot keep myself safe here any
+longer. Them potentially getting in my house while I am sleeping is creepy
+as hell. And that’s what I suspect whereas my pills didn’t make me feel
+this way the day prior.
 
-I have a sneaking suspicion that this is exactly how dusty killed my father
-btw, after first trying the thornbush spike thing—is by tampering with his
-prescriptions in similar ways. Cuz think I’m feeling wobbly, think of an
-higher dose of this—it could totally result in me falling face first into
-the ground without even being able to put my hand out. These days I’m very
-careful with my prescriptions and everything else for that exact reason.
+They were able to still emf me last night despite my infrasound jammer and
+they were even showing signs of getting around my infrasound jammer after a
+while whenever they could figure out the exact frequencies of infrasound I
+was putting out through all their other gadgets/hacking; I suspect they
+could then filter those frequencies out. But yea, I honestly don’t know if
+I can keep myself safe anywhere anymore tbh.
+
+I have a sneaking suspicion that this is exactly how dusty killed our
+father btw, after first trying the thornbush spike thing—is by tampering
+with his prescriptions in similar ways. Cuz think I’m feeling wobbly, think
+of a higher dose of this–my dad had a lot of prescriptions—it could totally
+result in me falling face first into the ground without even being able to
+put my hand out like my father did when he passed away. Just saying. These
+days I’m very careful with my prescriptions and everything else for this
+exact reason.
 
 They plan to kill me right in front of you guys I think—regardless of
-whether they can create some narrative or not at this point. Either that or
-scare me away and then kill me—but I really do think each of these attempts
-are legit attempts to kill me.
+whether they can create some narrative or not at this point. There might
+still even be a monetary incentive for them. I’m getting close to possibly
+switching my trustee now, which could also be why they are now trying to
+hurry again. Either that or they are hoping to scare me away and then kill
+me—but I really do think each of these attempts are legit attempts to kill
+me.
 
 I wish someone would just arrest my brother already. I know it doesn’t
 work that way but still. Do you know how many times he’s tried to kill me
 by now? I’ve honestly begun to loose track, it’s got to be in the twenty’s
 or thirties by now at the very least and that’s if you count all the emf
-and infrasound stuff as being one attempt each—even tho he does those to me
-literally daily. P.s. their infrasound capabilities in my house stem from
-my Hvac system somewhere I suspect. Their device has got to be tied into my
+and infrasound stuff as being one attempt each—even though he does those to
+me literally daily.
+
+P.s. their infrasound capabilities in my house stem from my Hvac system
+somewhere I suspect. Their infrasound device has got to be tied into my
 hvac somewhere somehow. I found an article created by nasa which states
-that’s one way to create infrasound is by putting a mic in your hvac tube
-essentially that records infrasound from the atmosphere that I suspect they
-could then tune and use to infrasound me essentially, and that’s where I’ve
-suspected it being for some time now just based on following the sound
-itself, (it alternates between my hvac, the Kyle French guys house, and a
+that’s one way to create infrasound is by putting a mic up in your hvac
+somewhere essentially that records infrasound from the atmosphere that I
+suspect they could then tune and use to infrasound me, and my hvac is where
+I’ve suspected it being for some time now just based on following the sound
+itself, (they alternate between my hvac, the Kyle French guys house, and a
 mobile car crew essentially) plus having it in my Hvac allows them to
-infrasound me in any room in my house without having to risk having people
-outside in cars constantly or having to risk the Kyle French guy doing it
-to me even during the day times, plus then it’s using my own power and not
-theirs, etc, etc.
+infrasound me from any room in my house without having to risk having
+people outside in cars constantly or having to risk the Kyle French guy
+doing it to me even during the day times, etc, plus then it’s using my own
+power and not theirs, etc, etc.
 
 I don’t know what they did to make it so it could still be at least
 partially powered when all my breakers are off tbh, but they added that
-capability when I started turning all my breakers off to so I wouldn’t be
-bothered every time I used the restroom recently.
+capability when I started turning all my breakers off so I wouldn’t be
+bothered every time I had to use the restroom recently.
 
 I’ll post all the references here when I get a chance. They’ve been
 stepping up their attacks against me lately again tho, just fyi.. (it’s
@@ -5439,50 +5460,53 @@ around here)
 As of January 18, 2022
 
 I’ve been running out of options. Seems how Dusty seems to want to stay
-away from me so bad, and seems I feel I got a good sense of what Dusty’s
-boundaries are, (i.e. he’s not going to just shoot me or have someone else
-just shoot me cuz his goal is to get away with it) I figured I’d try going
-down to see if I could get some sleep outside his house in my car last
-night just to see what would happen. So I did just that, it’s one of the
-only things I haven’t tried before this point I feel. What happened was I
-suspect they may have sent someone to follow me all the way down there, I
-suspect after I wrote the post about serious xm they might have disabled
-that capability, which is partly why I write these things is cuz it
-sometimes gets them to stop doing shit, but then they seemingly had the car
-following me turn away or stop following me right when I was getting real
-close to my brother’s house. (It’s as if they didn’t even want the people
-they hire to follow me knowing where my brother lives is what I felt at the
-time, but I could be wrong–they do follow me everywhere these days though
-if nothing else just to infrasound me everywhere I go and try and make my
-life miserable and whatnot) Anyways, I parked next to my brother’s
-neighbors house towards the rear of my brother’s house and decided seems I
-can’t go anywhere else without them doing this shit to me, might as well
-try here.
+away from me so bad, and seems how I feel I got a good sense of what
+Dusty’s boundaries are, (i.e. he’s not going to just shoot me or have
+someone else just shoot me cuz his goal is to get away with it) I figured
+I’d try going down to see if I could get some sleep outside his house in my
+car last night just to see what would happen. So I did just that, it’s one
+of the only things I haven’t tried before this point I feel.
 
-After a minute someone I suspect came out of Dusty’s house and walked right
-past my car in the dead of night; shortly after that guy walked past my
-car, I saw a car pull out from the road behind me on a perpendicular street
-where that guy seemingly went and then pull further down the street from
-where I was sitting at in my car. (It was as if that dude who came out my
-brother’s house parked away from my brother’s house intentionally btw, so
-as to make it look like only my brother was home or something)
+What happened was I suspect they may have sent someone to follow me all the
+way down there, I suspect after I wrote the post about serious xm they
+might have disabled that capability, which is partly why I write these
+things is cuz it sometimes gets them to stop doing shit, but what is
+important is they seemingly had the car following me turn away or stop
+following me right when I was getting real close to my brother’s house.
+(It’s as if they didn’t even want the people they hire to follow me knowing
+where my brother lives is what I felt at the time, but I could be
+wrong–they do follow me everywhere I go these days though if nothing else
+just to infrasound me everywhere I go and to try and make my life
+miserable) Anyways, I parked next to my brother’s neighbors house towards
+the rear of my brother’s house and decided seems I can’t go anywhere else
+without them doing this shit to me, might as well try here.
+
+Shortly after I had arrived, someone I suspect came out of Dusty’s house
+and walked right past my car in the dead of night; then shortly after that
+guy walked past my car, I saw a car pull out from the road behind me on a
+perpendicular street where that guy seemingly went on foot and then they
+seemed to pull further down the street from where I was parked in my car..
+(It was as if that dude who came out of my brother’s house parked his car
+away from my brother’s house intentionally btw, so as to make it look like
+only my brother was home or something)
 
 Anyways, I just wanted to see if they would infrasound/emf me while I was
-there. And they did, it started coming from the rear after that guy came
-out—but it was not as intense as they have done it to me elsewhere. I think
-that dude that I suspect came out of my brother’s house actually went and
-got in his car and pulled around to infrasound me from the rear himself
-tbh. I got the sense that they didn’t want these other people following me
-close to Dusty’s house–so they went and did it themselves given how I was
-close by. (For whatever reason) And I got the sense they didn’t want my
-brother’s neighbors being tipped off to the infrasound hence why it wasn’t
-as intense there.
+there. And they did, it started coming from the rear where I suspect that
+guy went in his car—but it was not as intense as they have done it to me
+elsewhere. I think that dude that I suspect came out of my brother’s house
+actually went and got in his car and pulled around to infrasound me from
+the rear himself tbh. I got the sense that they didn’t want these other
+people that were following me anywhere near Dusty’s house–so they went and
+did it themselves given how I was close to Dusty’s house myself. (For
+whatever reason) And I got the sense they didn’t want my brother’s
+neighbors being tipped off to the infrasound hence why it wasn’t as intense
+there.
 
-It made me suspect dusty is either high up in some gang or the whole
-operation is run off the dark web and anonymous in nature. (Which if it’s
-the latter then that means it will be a lot easier to put an end to all
-this in our local area anyways, simply by arresting the person hiring all
-these shady people)
+It made me suspect dusty is either high up in some gang again or else the
+whole operation is run off the dark web and anonymous in nature. (Which if
+it’s the latter then that means it would theoretically be a lot easier to
+put an end to all this in our local area, simply by arresting the person
+hiring all these shady people to come here)
 
 I’ve gotten the sense that Dusty doesn’t want to be around me before he
 kills me so that he can avoid questioning or potential
@@ -5495,17 +5519,18 @@ don’t want to die so I just figured I might as well go to his freaking
 house is how I see it at this stage–seems how I’ve already tried pretty
 much everything else. If they follow me to hotels, if they follow me to my
 rental house and start messing with that just due to a small possibility of
-me moving there given all their harassment, if they follow me to Murray, if
-they follow me to walmart and home depot, and everywhere else literally
-daily, etc, etc—I have no doubt they will follow me literally anywhere.
-(Assuming they know where I’m at) So I really have tried almost everything
-besides moving completely out of country or completely off grid, etc.
+me actually moving in there given all their harassment at the time, if they
+follow me to Murray, if they follow me to walmart and home depot and
+everywhere else literally daily, etc, etc—I have no doubt they will follow
+me literally anywhere. (Assuming they know where I’m at which they do) So I
+really have tried almost everything besides moving completely out of
+country or completely off grid, etc.
 
-Staying away from Dusty obviously hasn’t been working tho.
+Staying away from Dusty obviously hasn’t been working in and of itself tho.
 
-Plus I also kinda just wanted to show him I’m human again, and make it more
-real to him in his mind at this stage, and to show him what he’s doing to
-me first hand. (Seems it’s all mainly digital to him I suspect) And I
+Plus I also kinda just wanted to show Dusty I’m human again, and make it
+more real to him in his mind at this stage, and to show him what he’s doing
+to me first hand. (Seems it’s all mainly digital to him I suspect) And I
 wanted to have the record show I was recently at least in the vicinity of
 Dusty to try and dissuade him from continuing to have his hitmen try and
 kill me–incase that really is part of his plan is to stay away from me to
@@ -5517,35 +5542,35 @@ when I woke up—but I have a feeling they knew I was around.
 
 But yea, I came back home immediately after I woke up but I’d still really
 like to know what Dusty has been up to lately and I’d like to get my own
-take on his demeanor and whatnot at some point myself–I haven’t been able
-to find out from anybody else in regards to what he’s even like these days
-or what he’s even really truly been up to because he seemingly
-intentionally stays away from pretty much everybody else.
+take on his demeanor and whatnot at some point myself firsthand–I haven’t
+been able to find out from anybody else in regards to what he’s even like
+these days or what he’s even really truly been up to because he seemingly
+intentionally stays away from pretty much everybody else these days.
 
 I’m scared of Dusty but I’m not. I’m more scared of all the people Dusty
 sends after me than I am of Dusty doing something to me directly in person
 himself at this stage. And I’m more scared of things not changing vs taking
 a risk to go to his house to help rule some things out essentially. So yea,
-that’s what I did last night. I can’t freaking stay here, I can’t freaking
-stay in a hotel, I can’t freaking go anywhere tbh because they follow me
-and torture me and try to kill me everywhere I go–everywhere besides
-apparently in the vicinity of my brothers house.
+that’s what I did last night and that’s why I did it. I can’t freaking stay
+here, I can’t freaking stay in a hotel, I can’t freaking go anywhere tbh
+because they follow me and torture me and try to kill me everywhere I
+go–everywhere besides apparently in the vicinity of my brothers house.
 
-Will I do that again? Probably not, at least not without his permission.
-That’s my next test for him btw, is to ask his permission for me to stop by
-sometime. Last time I invited him to the counselor his first response was
-it sounds like a trap. (Insinuating it would be like a police setup against
-him or something) But I guess we will see. Whether I actually will go to
-Dusty’s house or not and actually go inside if he does actually say yes,
-idk, we’ll see I guess. But regardless, his response or lack thereof should
-tell me something and that’s the point. I can’t just hack him for
-information like he does with me after all, I’m too hacked to even learn
-hacking at this stage–plus it’s illegal. And I can’t just send people out
-to gather information on him for me like he does with me either, I simply
-don’t have the resources.
+Will I do that again? Probably not, at least not without Dusty’s
+permission. That’s my next test for him btw, is to ask his permission for
+me to stop by sometime. Last time I invited him to the counselor his first
+response was it sounds like a trap. (Insinuating it would be like a police
+setup against him or something) But I guess we will see. Whether I actually
+will go to Dusty’s house or not and actually go inside if he does actually
+say yes, idk, we’ll see I guess. But regardless, his response or lack
+thereof should tell me something and that’s the point. I can’t just hack
+him for information like he does with me after all, I’m too hacked to even
+learn hacking at this stage–plus it’s illegal. And I can’t just send people
+out to gather information on him for me like he does with me either, I
+simply don’t have the resources.
 
 Since I got home I got another strange voicemail message left on my phone
-btw.
+today btw.
 
 I also discovered since I got home that the hackers had created their own
 wireless mesh network across all of my various routers when I noticed that
@@ -5627,6 +5652,245 @@ can against me to hype up his gang to come after me to try and save
 himself. But in reality, Dusty is currently 2 for 2 in regards to tearing
 apart every family he’s ever been a part of, only time will tell if he goes
 3 for 3…
+
+
+
+As of January 19, 2022
+
+Hacking gang which essentially hacked/stole/got access to CIA governmental
+mind control program pretty much explains it. (Anonymous maybe?) i even
+read that somewhere. I was caught between gang and government but turns out
+it might be a combination of both. Good luck ever getting a warrant through
+my brothers phone btw. That’s why I think it’s best if I just get out of
+here and run from my brother. They have essentially NSA level capabilities
+I suspect from years as a witness.
+
+👇👇👍
+
+https://drive.google.com/file/d/1X8-vZhIUH85YSCKFlgYVqOmgqnzS4gdh/view?usp=drivesdk
+
+
+As of January 22, 2022
+
+Check it out, a side effect of Dusty’s constant barrage of extreme EMF
+radiation against me is it is essentially like giving me cancer on
+steroids, as compared to what is described in the following video which
+talks about merely normal levels of EMF radiation..
+
+https://drive.google.com/file/d/1J9dplmfFvUkcB7J7nirmRd1k0dh7P3LA/view?usp=sharing
+
+
+I swear to god Dusty gave Karie cancer as well. He just likely did it in a
+different way that time I suspect. He likes to kill people in horrendous
+ways. It’s pretty obvious that Dusty treats other human beings as barbie
+dolls in “his” own personal world/dollhouse. He apparently thinks it’s
+“fun” from what I gather.
+
+Dusty’s intentions at this time are quite simple–make my life miserable
+daily from here on out, experiment on me for his own personal
+knowledge/pleasure, (With zero contributions to science I might add) and
+kill me–just like he did with the rest of our family.
+
+All Dusty does these days is figure out the best way to hunt/kill people
+and get away with it I swear. That’s why I’ve now devoted my whole life to
+combatting him pretty much. (Well that and because Dusty is literally
+forcing me to–he’s given me no other choice pretty much) Dusty and his
+anonymous hacker gang I mean. If I were them I would come forward before
+it’s too late. Dusty is sabotaging you guys on purpose. He does that shit
+to everybody. So much for anonymity at this point I guess.. (We all know
+who he is) It’s almost as if Dusty might actually feel a little bad or is
+getting bored or something and he actually wants to get caught at this
+stage.
+
+I now suspect Dusty may be their de-facto “set” leader btw. I sometimes
+think Dusty wants everyone to know just how much he really despised our
+father once and for all, and to show everyone just how capable he really
+is/was, and who better to show everyone all that than me? (His little
+brother, who also happens to be a programmer and who is one of the few
+actually capable of recognizing exactly what’s actually going on and how it
+relates to our upbringing and one of the few capable of showing everyone
+all the different ways he’s slighting our father, etc–although I’m not
+capable enough to stop it all sadly) Dusty even told me once when this all
+officially began back in 2019, that he’s now essentially too old to have
+kids at this point (In his mind at least) so now he’s just going to mess
+around with the remainder of his life and have fun and he doesn’t care what
+happens or something.
+
+Everything Dusty does is for a reason; and in my case, he has no other real
+good reason to have ever even started coming after me like he has been ever
+since 2019… (Not even in his mind I mean, maybe just to see how well he can
+manipulate you hackers into actually following him but that’s it–he went
+all Charles Manson on everybody back in 2019) Regardless–you have been
+warned. Anonymity is smart and all but people tend to crave recognition for
+what they’ve done at the end of the day and a fully anonymous life/gang
+can’t be all that fulfilling. (Just sayin)
+
+Technically it’s never too late to do the right thing.
+
+As of January 22, 2022
+
+**Correction** The original spoofed email address that they somehow
+originally put on all my outgoing email messages to random people was
+heavyhorned@yahoo.com–it was not heavyhorned@gmail.com. (In addition they
+added this email address, chase@gfic.iopitasoni@gemail.com, and later on,
+this one, kchase@gfic.io) See
+https://drive.google.com/file/d/12dkv5IJYEH5MJcMFftHfDHZMtahDw00q/edit?disco=AAAAUbzbZlM
+for more details.
+
+—-----
+
+A few reasons I suspect my brother may have access to secret NSA technology.
+
+He specifically targets modems/routers.
+
+His malware is capable of hacking a whole network of people through a
+single infection.
+
+His malware seems to be run mostly autonomously using AI.
+
+He frequently conducts man in the middle attacks.
+
+He is capable of essentially using some kind of x-ray vision to even
+“watch” what I type at any given time, using sound.
+
+I suspect he may even have screen reading capabilities, which he can use to
+somehow “watch” the screens on devices that are not already infected.
+
+He carries out DDOS attacks on my home network regularly and takes down my
+internet at will.
+
+He has a whole network of break-in specialists at his disposal.
+
+He is able to hack literally anything and everything including my routers,
+modems, firewalls, NVRs, my car’s ECU, satellite radio, august smart lock,
+nest thermostat, ring video doorbell, arlo hub, linux machines, macos
+machines, windows machines, even virtual machines, ios devices, android
+devices, smart tvs, he’s able to root devices, he’s even able to hack
+things like my freaking water heater and furnace, brand new devices, old
+devices, tablets, IOT devices, cameras themselves, sim cards themselves,
+external storage drives, etc, etc.
+
+He uses exploits that are nowhere to be found online. (Beyond NSA malware
+descriptions)
+
+He is clearly attempting some kind of secret mind control program.
+(Realistically speaking, which is also a secret CIA program)
+
+He is even capable of secretly and strategically planting what I suspect to
+be neural smart dust implants and using them to send/receive signals
+to/from the surrounding environment, using them as part of a greater
+network of devices.
+
+He utilizes equipment/technology that only the government should
+realistically have access to.
+
+His malware reminds me of the following NSA malware descriptions:
+
+https://theintercept.com/document/2014/03/12/one-way-quantum/
+
+https://arstechnica.com/information-technology/2014/03/nsas-automated-hacking-engine-offers-hands-free-pwning-of-the-world/
+
+https://arstechnica.com/tech-policy/2013/11/prenda-linked-lawyer-now-suing-small-businesses-over-ada-violations/
+
+https://theintercept.com/2014/03/12/nsa-plans-infect-millions-computers-malware/
+
+https://www.lawfareblog.com/exclusive-nsa-program-can-target-thoughts-millions-targets-thousands-americans
+
+
+https://www.nbcnews.com/news/embedded-video/mmvo43398213721
+
+
+P.s. I noticed no ports were open on my router anymore tonight which is a
+plus. (I think) He’s still on my computer however..
+
+My infrasound jammer has been working lately to help me fall asleep better
+at nights with less interference from them but they figured out a way to
+disable it after I fall asleep now so I’ve now got to figure out how to
+ensure it stays on all night and how to prevent them from messing with it.
+They can somehow cause me to sleep for pretty much as long as they want if
+they are able to disable it—even if I’m not even tired to begin with. (I
+remember when they first caused me to sleep forever tbh, it’s insane they
+can even do that) But yea, they somehow caused me to sleep something like
+14+ hours last night, and I had something important to do today too.. (They
+always try their best to make me look bad to strategic people) They also
+hack my phones and make it so I don’t even receive inbound calls on my end
+anymore. (Hence making me look bad as well for not answering my phone) But
+I’m to the point where I just need to start over, I’m too hacked to even
+try to stop any one thing anymore pretty much. I’ve tried—and tried—and
+tried—and tried to combat them on every single different thing but it’s
+pointless when they can obtain physical access to my house at any given
+time of their choosing pretty much, and I’m simply too hacked to be able to
+make any real progress on any front at this point is how I see it. So I’ve
+got to start over elsewhere.
+
+I've got the car portion of my plan pretty much behind me now. (Getting
+close at least) But my passport might not show up for another 2-4 weeks
+apparently..
+
+As of January 24, 2022
+
+I officially hired a new trustee today. He’s a lawyer. He’s going to help
+me file an injunction against my brother Dusty, among other things. Don’t
+get me wrong, I like Paul, I just know how powerful Dusty is and I know how
+easy it would be for Dusty to gain influence over this whole town just
+given Dusty’s capabilities and given this towns small size and it’s very
+nature and whatnot, (all he’d need to do is corrupt the right person and
+then he could essentially force that person to exert their influence
+according to Dusty’s wishes over others who may actually interact with me
+essentially, or else corrupt the person who interacts with me directly I
+guess) and plus—I’ve just known I could use a new trustee and lawyer for a
+while now—especially regarding my brother. The only real alternative is
+more of the same and more draining my trust without Dusty allowing me to go
+back to work and letting Dusty walk all over me while staying quiet myself
+essentially. At least with a lawyer I’ll have a chance to recoup some of my
+lost wages/damages, etc—even if Dusty does kill me. Now if he kills me then
+the damages my estate could seek on my behalf will only go up. So in my
+mind, yea lawyers cost money, but I think of it more like an investment
+because I know first hand the only route to resolve all this leads directly
+through my brother and I know what will happen if I don’t. Dusty has shown
+me he has the power to make it all stop multiple times btw, just long
+enough to let me know he’s ultimately the one behind it both times. (He can
+also make it go harder essentially which he does frequently)
+
+After I talked to my new trustee, I realized I should probably text Dusty
+and clarify to him that I had no real intention of stopping by his house
+anytime soon, and inform him how I was mainly just interested in his
+reaction the other day that’s all—especially whereas he set a red line
+refusing to discuss the huge elephant in the room with me—and I informed
+him I actually plan to move far far away from him, etc.
+
+That went about how I would expect. Dusty is shady as hell and he’s rude as
+hell these days and he clearly wasn’t being genuine. He clearly doesn’t
+care about me whatsoever. He’s clearly trying to create his own narrative
+without even hearing me out first as well. (Which could mean he was setting
+me up to call another shot against me again—that’s probably the last time
+I’ll talk to the “formal” Dusty—the more or less “anonymous” version of
+Dusty on the other hand is almost impossible to escape given how deeply
+he’s hacked me)
+
+One thing I wanted to add that I haven’t had a chance to add here yet is
+that these guys actually played that sound clip of turbo suffering to me
+repeatedly ever since I originally told you about it pretty much, sometimes
+louder than others, after those first times when I told you about them
+admitting to killing Turbo previously. It’s messed up. Kill/torture my dog,
+record a sound clip of it, then use the sound clip to torment me later
+repeatedly. These are the people I’m dealing with. This is who my brother
+really is apparently. He straight up fooled me for ~30+ years but now that
+he’s coming after me he’s shown me the truth over and over and over again
+and the truth is honestly really fucked up.
+
+Dusty plans to kill me tonight again I think..
+
+
+
+
+
+
+
+
+
+
+
 -- 
 
 Chase Gibbons  / Manager
