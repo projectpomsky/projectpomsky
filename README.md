@@ -11629,6 +11629,7 @@ furnace previously. It was meant as a false flag in that case. So what I’m
 getting at is they never make it simple or straightforward–they always
 deliberately make it look like it’s someone it’s not when in reality everyone
 is in on it whether they realize it or not but they only know their part.
+(Besides the hackers–the hackers know everything)
 
 I am confident they have a tunnel btw, I’m going to be renting out a ground
 penetrating radar soon to find their tunnel seems they can’t hide their
