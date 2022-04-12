@@ -4843,6 +4843,8 @@ Still awaiting the results of my GRAMA request..
 
 As of January 10, 2022
 
+[Opinion]
+
 I believe my brother may be working with Russian Oligarchs and the gang
 thing might just be a cover story or smoke screen. I believe my brother
 plans to seek revenge on more than just me in our family for his despise of
@@ -4862,25 +4864,25 @@ foreign adversary might realistically possess.
 
 I believe my brother when seeking out how to get out of the bind he was in
 relating to essentially knowing he was getting close to being caught for
-murdering his own family–he sought out help from Russian Oligarchs on the
-dark web as a result, especially given the politics of the time. (Around
-the time he initially hacked me and others in my family) And now he’s on a
-vendetta against his whole family and this entire town–seeking to do the
-one thing to his family that’s even worse than death–that is–mind control.
-He wants to essentially make some of us act out and behave in ways that
-will essentially cause our whole family never ending suffering, grievance,
-and shame and which will be the ultimate slap in the face to my father, my
-mother and to this whole town. (Regardless of how he’s acting now–when
-someone shows you their true colors–you had better believe them–it’s no
-coincidence my brother is acting like a perfect little child now that the
-police are actually digging into all of this--don’t be fooled)
+murdering his own family–he may have sought out help from Russian Oligarchs
+on the dark web as a result, especially given the politics of the time.
+(Around the time he initially hacked me and others in my family) And now
+he’s on a vendetta against his whole family and this entire town–seeking to
+do the one thing to his family that’s even worse than death–that is–mind
+control. He wants to essentially make some of us act out and behave in ways
+that will essentially cause our whole family never ending suffering,
+grievance, and shame and which will be the ultimate slap in the face to my
+father, my mother and to this whole town. (Regardless of how he’s acting
+now–when someone shows you their true colors–you had better believe
+them–it’s no coincidence my brother is acting like a perfect little child
+now that the police are actually digging into all of this--don’t be fooled)
 
 
 
 I believe Dusty plans to give the Russian’s more than just me within our
-family as well, if he hasn’t already done so. (Potentially some of my
-mother’s kids’ kids) I suspect they particularly seek out those who are
-currently single.
+family as well, if that’s the case, assuming he hasn’t already done so.
+(Potentially some of my mother’s kids’ kids) I suspect they particularly
+seek out those who are currently single.
 
 [reference goes here]
 
@@ -4890,8 +4892,8 @@ agents/assets. (i.e. Child abuser guy, *cough, *cough, My brother, *cough,
 *cough) The ones that don’t persist likely were hired contractors as
 previously thought.
 
-I suspect everything else is just a smoke screen or cover story or false
-flag operation meant to cover up the truth pretty much.
+I suspect everything else could just be a smoke screen or cover story or
+false flag operation meant to cover up the truth pretty much.
 
 Now that right there would explain literally everything. Luckily for me
 they’ve been getting tripped up on any variances in my prescriptions from
@@ -4900,10 +4902,10 @@ going to be a lost cause given my prescriptions which is when they tried to
 kill me at the eagles. Since then I think they’ve figured out a way to
 adjust for any variances in my prescriptions from day to day but they still
 appear to be struggling—again thank god. But I do get the sense they have
-done this before..
+done this before, whomever it is.
 
-I therefore plan to move somewhere where I will be of no use to either
-Russia or my brother. I plan to move to somewhere like Portugal or
+I therefore currently plan to move somewhere where I will be of no use to
+either Russia or my brother. I plan to move to somewhere like Portugal or
 somewhere like that, which isn’t Russia, but somewhere which still has ties
 to the US, and somewhere which isn’t in the heat of all this political
 nonsense and therefore will hopefully make me of little use to them.
@@ -4921,11 +4923,8 @@ reactions at key times, etc, etc..)
 This is my final answer at this time. It’s the only thing I can think of
 that explains everything realistically.
 
-Don’t believe me? Ask Dusty’s old work about the Russian Wordpress plug-in
-he tried installing right before being fired.
-
 Me personally, I’m not a good liar–I’m not good at being fake either.
-Programmers in general aren’t good liars because we deal with truths and
+Programmers in general aren’t good liars because we deal with true and
 false expressions all the time. Plus I have no motive to be doing any of
 this besides to try and help out my family, stop all the harassment, go
 back to work, and to do some good in this world. I therefore would hope you
@@ -4980,14 +4979,86 @@ have you, then could you please let me know and I’ll share all this with
 someone who actually can investigate all this. It makes it tough when there
 is more than just one person involved, because a lot of the crimes occur
 here but the person(s) ultimately behind these guys coming after me to
-begin with reside in another jurisdiction or another country entirely.
-Again it goes back to my suspecting my brother making friends with a
-Russian Oligarch.
+begin with reside in another jurisdiction or else another country entirely.
 
 But at the end of the day it’s not my job to investigate–I don’t want to
 jeopardize your investigations either. So I’ll just stop there, just know I
 was just trying to help rid this place of true evil and get back to work
 myself. And know that I caught my brother in the first place for a reason.
-(Because I’m extremely analytical, I’ll admit this one was a lot
-tougher—they are essentially banking on you not to see through all their
+(Because I’m extremely analytical, I’ll admit this one is a lot
+tougher—they are essentially banking on you not seeing through all their
 smoke screens in my opinion)
+
+As of January 14, 2022
+
+[Opinion]
+
+Just wanted to reiterate that my brother and all his “people” are going to
+keep indiscriminately killing innocent people right here in our hometown
+and beyond until they get caught. This isn’t a joke. I’m the best person to
+testify against Dusty that I know of—especially relating to his suspected
+past murders of my family. These guys kill in ways that are designed to
+allow them to get away with murder over and over again—and my brother Dusty
+is whom I suspect to be the criminal mastermind behind it all—or at very
+least one or the leaders/shot callers. They wouldn’t even be coming after
+me if it wasn’t for him.
+
+It’s possible that no foreign countries are involved after all and all this
+advanced technology they are using against me is all just the result of all
+the dark money my brother and his gang have accumulated over the years. As
+of right now they are determined to make my life miserable every single day
+they can while I’m still in Logan—that’s a fact. I have a feeling me being
+in Logan is partly why I’m still alive tbh; but this is no life anybody
+would want to live for any significant amount of time—hence why they are
+doing all this to me—to try and discredit me while I’m here, make my life
+miserable whenever they can, and ultimately to get me to leave Logan so
+that they can kill me and get away with it given how so many people are
+aware of all this here by now, or so I suspect. (Regardless of who my
+brother is affiliated with these days—it really doesn’t matter who all is
+in on all this to me beyond my brother anyways—the only reason I want to
+know is because I want to get away from them—but I can’t and I likely never
+will be able to at least until they face some kind of consequences—I didn’t
+even do anything to them after all until they started coming after me and
+repeatedly; if they are willing to kill me and my dog turbo—then they are
+willing to kill literally anybody who is simply in the wrong place at the
+wrong time in my opinion)
+
+I’ll refer back to what I stated in the beginning which is that people who
+poison people can often end up getting away with 60+ murders before they
+are ever caught. Like giving people cancer is a fucked up way to kill
+somebody when you think about it, along with any other possible thing they
+have already attempted, but all this and more is what I suspect these guys
+are capable of. The worst part is anything they do is designed to where
+it’s hard to catch them and ultimately bring the victims justice.
+
+This appears to be a whole organization that specializes in poisoning
+people and their animals in addition to making shady modifications to
+peoples houses with an intent to either kill them or else to aid in
+ultimately killing them. It’s also an organization that seems to excel at
+the one area the police are said to be lacking, which is hacking and
+internet related crimes. They even seemingly have specialists in different
+areas and advanced equipment all geared towards allowing them to excel at
+poisoning people for hell sakes. They even have their own freakin
+intelligence department for christ sakes. Like common, this has got to be
+treated with the level of seriousness that it deserves. The opportunity
+cost of not taking all this seriously is simply too great in my opinion.
+
+By now I would hope you or someone would have some inclination as to
+whether all this is true or not on law enforcements end—because it
+certainly seems that way to me. You guys probably even know more about all
+this than I do at this stage. I just wish it would all be brought to an end
+that’s all—preferably without me having to die first.
+
+
+-- 
+
+Chase Gibbons  / Manager
+435-999-4722
+
+ 
+PO Box 747Logan, UT 84321
+gfic.io 
+
+[image: Twitter]  [image: Facebook]
+ [image: LinkedIn]
+
