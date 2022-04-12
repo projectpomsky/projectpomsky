@@ -2648,8 +2648,8 @@ talk with that child abuser guy who has been in on it since the very
 beginning–and you’d find out everything he knows–and you wouldn’t let him
 mislead you. That eagles incident is pretty damning after all, not to
 mention everything else I can link back to him and how I can link him back
-to my brother through all the hacking, eagles incident, etc, etc. (At least
-preliminarily)
+to my brother through all the hacking, eagles incident, kid coming over
+repeatedly on key dates to intimidate me, etc, etc. (At least preliminarily)
 
 Not only do they fine tune their attacks to the individual–they fine tune
 their attacks to the individual circumstances at the time of that
@@ -2674,7 +2674,7 @@ https://drive.google.com/file/d/1D0GBUhN7OuX4ylzVuDL1PS2t0lnAX7Xw/view?usp=shari
 
 As of December 20, 2021
 
-I’m breaking out in hives today on my back. See what I added above under
+I’m breaking out in hives today on my back. See what I amended above under
 the “as of November 12, 2021” heading for more info. I’ll quote it here:
 
  -
