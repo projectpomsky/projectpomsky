@@ -1268,14 +1268,13 @@ night supposedly in Alaska. (According to my father) It was in one of his
 feet, he ultimately had to get one of his big toes cut off.
 
 I recall we went to Alaska fishing twice. Dusty came one of the times. I
-think Dusty came the second time because my dad must have felt bad or
-something about Dusty being excluded the first time, idk, I just remember
-going to ketchikan fishing twice. My father got some infection in his foot
-that bothered him for the rest of his life. (In a lot of ways, my dad’s
-final days remind me of myself right now–like being completely torn down
-and whatnot, my dad having to get his toe chopped off, my dad having his
-wife threaten to divorce him, etc–only with me it’s a little different but
-it’s very much along the same lines of being humiliated and torn down prior)
+think Dusty came the second time. I just remember going to ketchikan
+fishing twice. My father got some infection in his foot that bothered him
+for the rest of his life. (In a lot of ways, my dad’s final days remind me
+of myself right now–like being completely torn down and whatnot, my dad
+having to get his toe chopped off, my dad having his wife threaten to
+divorce him, etc–only with me it’s a little different but it’s very much
+along the same lines of being humiliated and torn down prior)
 ~2009Dusty and Cindy
 
 Dusty, my brother, (
@@ -1300,61 +1299,69 @@ Father’s Death
 A little while after my father had to get his toe cut off, and shortly
 after my dad told us we had to move out, my brother Dusty (Aka Dustin, aka
 Baze) supposedly finds our dad unresponsive laying face first on the ground
-in the hallway after returning from the gas station closeby. He finds our
-father laying in the middle of the hallway next to the piano where he
-supposedly proceeded to call the paramedics and do CPR on him. My father
-was on his way out the door to pick up my little sister, (half sister)
-Taylor, (
+in the hallway after going to and returning from the gas station closeby.
+He finds our father laying in the middle of the hallway next to the piano
+where he supposedly proceeded to call the paramedics and do CPR on him. My
+father was on his way out the door to pick up my little sister, (half
+sister) Taylor, (
 https://drive.google.com/file/d/1QwC3FA8S1wsD7\_XoQW77Izx3nw0WBYh7/view?usp=sharing
 ) from the mall at the time when my dad apparently went down face first in
-the middle of the hallway. My brother apparently called some of his friends
-right after. I don’t know if my brother was on the best terms with my
-father at the time. I know my brother held resentment towards my father for
-“making” him follow in his footsteps as a civil engineer. My brother was
-set to graduate with his bachelor’s in civil engineering a week later. My
-father had called me I think it was the day before, we were supposed to go
-in and get a new loan on my car or something from cache valley bank later
-on that day or the next day.
+the middle of the hallway. (Smashed his nose in he hit the ground so hard
+apparently) My brother apparently called some of his friends right after. I
+don’t know if my brother was on the best terms with my father at the time.
+I know my brother held resentment towards my father for “making” him follow
+in his footsteps as a civil engineer. My brother was set to graduate with
+his bachelor’s in civil engineering a week later. My father had called me I
+think it was the day before, we were supposed to go in and get a new loan
+on my car or something from cache valley bank later on that day or the next
+day.
 
 
 While in my bedroom downstairs with my girlfriend at the time, Annie, my
 brother comes downstairs to get us and to inform us of what is going on
-upstairs. (Our dad’s house was set up to where Annie and I hardly ever even
-went upstairs because we had our own entrance from the back downstairs btw,
-I don’t think I had been upstairs all day, I know I hadn’t seen my father
-at all that day) When we get halfway up the stairs after Dusty came and got
-us, we see there are paramedics working on my father who is laying in the
-middle of the hallway next to the piano--seemingly unresponsive to the
-paramedics.
+upstairs. If you want to know what we were up to just ask, I’m going to try
+to keep this as straightforward as possible for brevity reasons. When we
+got halfway up the stairs after Dusty came and got us, we see there are
+paramedics working on my father who is laying in the middle of the hallway
+next to the piano--seemingly unresponsive to the paramedics.
 
 Annie and I follow the paramedics to the hospital. At the hospital we are
 joined by Cindy who was apparently in Ogden at her biker bar at the time.
 (But she beat us to Logan Regional somehow) When the notion of an autopsy
 is brought up, Cindy says she doesn’t think we need one. I object and say
 something like well then we’ll never know why he died. She responds by
-saying essentially that if my dad had overdosed and we did an autopsy then
-we would lose out on a million dollar life insurance policy. The doctor
-concurs with Cindy saying he likely died of a heart attack. (But the thing
-is, everyone technically dies by having a heart attack, the question is
-what the heck caused the heart attack to begin with) We still don’t know
-why my dad died--it was very sudden in nature. Dusty never went to the
-hospital even though my dad hadn’t been pronounced dead yet when he was
-taken by the paramedics from our house.
+saying essentially that if my dad had overdosed as she suspected and we did
+an autopsy then we would lose out on a million dollar life insurance policy
+if the autopsy showed an overdose. The doctor concurs with Cindy saying he
+likely died of a heart attack. (But the thing is, everyone technically dies
+by having a heart attack, the question is what the heck caused the heart
+attack to begin with—I really don’t think my dad overdosed just for the
+record—how could he just go lights out like that mid-walk without putting
+his hand out to catch him or anything? Plus my dad wasn’t on drugs and I
+don't think he would have overdosed on his prescriptions—he was a
+responsible adult after all) But yea, we still don’t know why my dad
+died--it was very sudden and unexpected in nature. Dusty never went to the
+hospital afterwards even though my dad hadn’t even been pronounced dead yet
+when he was taken by the paramedics from our house.
 
 Right After Father’s Death
 
-Dusty graduates and bounces to Ogden--even though he wouldn’t have a job
-for a little over a year.
+Dusty graduates with his bachelor’s degree as a civil engineer and he
+bounces to Ogden--even though he wouldn’t have a job for a little over a
+year.
 
 My father’s trust is distributed according to his wishes. He was worth
-approximately $7 million dollars when he passed. Dusty repeatedly brings up
-the notion that our father was just about to change up his trust before his
-passing. (What that means, idk)
+approximately $7 million dollars when he passed. (⅓ went to Cindy, the
+remaining ⅔ got split equally between my father’s 4 children)
+
+Dusty repeatedly brings up the notion that our father was just about to
+change up his trust before his passing. (What that means, idk)
 
 Karie, our half sister, becomes the trustee of the children’s trust. (
 https://drive.google.com/file/d/1v2Jetq8r9TDkU8EUR89IxZu69Qlj9NFW/view?usp=sharing
-) Cindy becomes the trustee of the marital trust. Cindy and Karie never
-liked each other all that much.
+) Cindy becomes the trustee of the marital trust.
+
+Cindy and Karie never liked each other all that much.
 
 
 
@@ -1366,10 +1373,10 @@ My brother and Cindy quickly become displeased with Karie--and remain
 bitter throughout; they didn’t like the job she was doing as trustee--to
 say the least. Cindy was frustrated about Karie in relation to my little
 sister Taylor’s trust, Dusty was frustrated about Karie in relation to his
-trust) To be clear, I had my frustrations with Karie, mostly just in their
-lack of transparency and their being a little shady trying to get us to
-sign something saying none of us could be trustee if she couldn’t serve
-previously, (which I now kinda understand why) I had questioned their
+trust) To be clear, I had my frustrations with Karie and my trust, mostly
+just in their lack of transparency and their being a little shady trying to
+get us to sign something saying none of us could be trustee if she couldn’t
+serve previously, (which I now kinda understand why) I had questioned their
 selling of all our dad’s assets previously, including their giving away our
 dad’s companies for next to nothing, but beyond that I actually always had
 a pretty decent relationship with Karie.
@@ -1504,6 +1511,8 @@ is how I know dusty has access to hitmen)
 Dusty got a new phone after both deaths in my family. Dusty encouraged me
 to get a new apple phone around this time..
 
+Dusty had time off around Karie’s death.
+
 Dusty has always been better at computers than me--even though he hides it,
 he was into them long before I ever was. I didn’t even get into computers
 and programming until I was a junior in college and forced to choose
@@ -1539,6 +1548,8 @@ house something like 2 weeks after my dad’s death, etc, etc.
 
 2019Brother Distancing/Time Off
 
+Dusty gets fired from his job as a civil engineer.
+
 I purchase one of my father’s commercial unit’s from my little sister
 Taylor. (Thereby continuing my father’s legacy)
 
@@ -1560,32 +1571,38 @@ be hurting him again”. Then the wife sees me. They follow me that day on my
 walk.
 
 I see two dudes with I think beanies sitting in a van sitting outside my
-house a few months later--both with laptops, as soon as they see me peek
-out the window they drive off. I later see the occupants of that van go
-into the child abuser’s house.
+house a few months later--both with laptops, as soon as they see me looking
+out the window at them they drive off. I later see the occupants of that
+van go into the child abuser’s house.
 
 
 Last Visit/Website/Brother Hacking
 
 My brother and Tom Finn come over to my house and act all rude to me out of
-nowhere. Dusty takes back his Christmas present, they ask if they can go in
-my garage for some reason while I’m busy doing something else.
+nowhere. Dusty takes back his Christmas present he gave me the year before,
+he took my guitar, they ask if they can go in my garage for some reason
+while I was busy doing something else, etc, and that’s the last time I ever
+even saw my brother face to face. (Never gave me my guitar back, I ended up
+telling him he could just keep it a little while later after I had a sense
+he was keeping it anyways, for his birthday or Christmas or something like
+that)
 
 My brother Dusty asks me to do his website for his new recording studio,
 even though he was perfectly capable to do it himself. Whereas he had all
 the sudden distanced himself from all his friends and family, I told him I
 would do it for him just to try and develop some kind of a relationship
 with him again. (Who makes all these enemies and pushes away their family
-right when trying to start a new business anyhow?) He asked me to come work
-with him around that time but he was clearly being shady so I denied. Plus
-my brother has always been difficult to work with.
+and friends right when trying to start a new business anyhow?) He asked me
+to come work with him around that time but he was clearly being shady so I
+denied. Plus my brother has always been difficult to work with.
 
 Dusty flakes out on hanging out anymore.
 
 
-
 I get hacked by my brother through some of his website files he shared with
 me at the time–the only time he talked to me on the phone the whole time.
+He essentially social engineered me to put in my password on the phone that
+day. It took down my modem right after.
 
 Someone Tries to Fill My Prescriptions
 
@@ -1604,47 +1621,54 @@ Testing My Brother
 I confront my brother about him killing Karie and our father for Cindy,
 over email--just as a test. My brother responded to my email saying
 something about how much Karie charged us to be our trustee, but the email
-is deleted from my inbox somehow. I look into how that could be possible, I
-find there is such a thing of confidential self deleting email messages and
-I attribute that email being deleted to that. (However, I’ve since found
-out that confidential self deleting emails are marked clearly as such–and I
-don’t recall this email from dusty as being marked that way when I did
-glance at it before it was deleted)
+is deleted from my inbox right afterwards somehow. I look into how that
+could be possible, I find there is such a thing of confidential self
+deleting email messages and I attribute that email being deleted to that.
+(However, I’ve since found out that confidential self deleting emails are
+marked clearly as such–and I don’t recall this email from dusty as being
+marked that way when I did glance at it before it was deleted)
 
 First perfect circle of black feathers left in my yard right around the
 time I accused dusty of killing our father and sister for Cindy--I didn’t
-know what it was at the time tho.
+know what it was at the time tho. #signal
 
 First Poisoning
 
-My dog and I get poisoned for the first time on our walk--a group of
-Mexicans came up and deliberately put what appeared to be this strange
-grayish paste poison substance on my dog’s forearm--while pretending to pet
-him/pick him up--my phone got hot at the time. My brother had taken
-advantage of me opening up to him about some of my frustrations, says he
-thinks my dog should die–the day before over imessage/sms. My brother
-texted into the group conversation between my siblings and I right after
-the mexicans put that shit on turbo, (
+I opened up to my brother again a little over sms/iMessage like 3 weeks
+later and he responded saying essentially he thinks my dog should die all
+rudely.
+
+My dog and I get poisoned for the first time on our walk the very next
+day--a group of Mexicans came up and deliberately put what appeared to be
+this strange grayish paste poison substance on my dog’s forearm--while
+pretending to pet him/pick him up.
+
+My phone got hot at the time.
+
+My brother texted into the group conversation between my siblings and I
+right after the mexicans put that shit on turbo, (
 https://drive.google.com/file/d/1TwEBUWSWpaOQLLgTQGL-Wq\_tqkWIKc4W/view?usp=sharing
 ) disparaging our mother further--even though he said he was blocking us
-all the day prior–as if to send me a signal. I knew it had to have been
-poison cuz it made both me and my dog feel funny, (I wiped it off turbo cuz
-he wouldn’t walk any further until I got it off) and even then my dog
-didn’t want to walk more than 100ft more that day, which was
-uncharacteristic for him at the time. It made me feel like messed up at
-first, then it made my whole body ache for days afterwards. I couldn’t get
-it off--it kept seeping out of my pours for days--despite repeated washing.
-I finally figured out that rubbing alcohol/apple cider vinegar helped in
-washing it off but even still it required repeated washing over time as it
-seeped out of my skin.
+all the day prior–as if to send me a signal that it was directed by him.
+(As if I didn’t already know that) #signal
+
+I knew it had to have been poison cuz it made both me and my dog feel
+funny, (I wiped it off turbo cuz he wouldn’t walk any further until I got
+it off him) and even then my dog didn’t want to walk more than 100ft more
+that day, which was uncharacteristic for him at the time. It made me feel
+like kinda messed up at first, then it made my whole body ache for days
+afterwards. I couldn’t get it off--it kept seeping out of my pours for
+days--despite repeated washing. I finally figured out that rubbing
+alcohol/apple cider vinegar helped in washing it off but even still it
+required repeated washing over time as it seeped out of my skin.
 
 2nd perfect circle of black feathers left in my yard the same night my dog
-and I were first poisoned--which again was the day after my brother
-straight up told me he thinks my dog should die all rudely over sms for no
-reason whatsoever. They did it on the night of the fireworks going off in
-2019.
+and I were first poisoned. #signal
 
-Phone got hot.
+They did it on the night of the fireworks going off in 2019.
+
+This is when I first started suspecting my brother of now being a shot
+caller in a gang.
 
 Dusty tells me I’m going to regret not coming to work with him.
 
@@ -1654,29 +1678,34 @@ Dusty blames him being the way he is on our mother.
 
 Dusty says he’ll have Paul take “his money” out of my account.
 
-I discover the hacking for the first time definitively.
+Dusty says I’m going to regret not having more people around me. #people
 
-Dusty disparages Karie.
+I discover the hacking for the first time definitively. #hacking
 
-Dusty starts talking like a gangster.
+Dusty disparages Karie. #karie
 
-Dusty doen’t deny being a serial killer nor does he deny being in a gang.
+Dusty started talking like a gangster–like he completely changed the way he
+would talk to everyone–it was weird, (Sometimes I wonder if he has
+multiple personalities) but then he deleted everything later. #gang
 
-I send Dusty an email worried about there being holes in his brain from all
-the acid–he takes offense to it.
+Dusty doesn't deny being a serial killer nor does he deny being in a gang
+when asked by me directly numerous times over email.
 
-I notice what I thought were cops were now following me, neighbors seem
-suspicious of something in my garage.
+I send Dusty an email worried about there potentially being holes in his
+brain from all the acid he’s done over the years–based on a video I watched
+that said it was possible–he takes offense to it. #brain
 
-I hear people outside my house in middle of the night, smell cigarette
-smoke through my bedroom window.
+I notice what I thought were cops were now following me, neighbors seemed
+suspicious of something in my garage out of nowhere. #garage
 
-Dusty says he has been learning AI, won’t elaborate any further.
+I hear people outside my house in middle of the night, I smell cigarette
+smoke through my bedroom window. (Which I’ve honestly never smelt in my
+neighborhood before period) #people
+
+Dusty says he has been learning AI, won’t elaborate any further. #ai
 
 Dusty begins deleting all his previous messages. (Including deleting shit
-off MY DEVICES)
-
-I love you Dusty. I just wish you would stop.
+off MY DEVICES) #coverup
 
 I confront my brother saying he’d be crazy to try and kill me right then
 essentially--because if he had still lived in Logan he’d know people are
@@ -1686,7 +1715,8 @@ attack, it was mid way through 2019, or four years after karie’s death)
 This is when I first started looking back on everything and is when I first
 started truly suspecting my brother of potentially killing some of our
 family--I straight up asked him after all and he completely failed that
-test and all tests I have thrown his way since then--miserably.
+test and all tests I have thrown his way since then--miserably. Like can
+you even think of a worse response to my test? I can’t. This stuff is scary.
 
 To be continued…
 
@@ -1744,7 +1774,7 @@ Child abuser’s (
 https://drive.google.com/file/d/1sSBbS1KNBGcXheMrK1JETPhNqP2AFmg\_/view?usp=sharing
 ) kid starts showing up at my house for the first time out of the whole
 time they’ve lived next to me, asking to “play”. I didn’t know who’s kid it
-was until some time later. (
+was until some time later. #intimidation (
 https://drive.google.com/drive/folders/1u5IDbtDskD\_X8bowDJAY9ukE-xuI5MlS?usp=sharing
 )
 
@@ -1759,13 +1789,13 @@ with “kill” or “death” or something like “kill him” or something lik
 He would show up at my house on key dates too like on my birthday and labor
 day for instance. Like it clearly wasn’t random–it was meant to intimidate
 me/stress me out on otherwise happy days. Clearly directed by someone
-intimately familiar with me. (
+intimately familiar with me. #intimidation (
 https://drive.google.com/drive/folders/1u5IDbtDskD\_X8bowDJAY9ukE-xuI5MlS?usp=sharing
 )
 
 EMF
 
-Emf started--they made it extra intense on my dog’s would be sixteenth
+Emf started--they made it extra intense on my dog’s would-be sixteenth
 birthday. (Night of September 15, 2021) I hadn’t even thought about my dog
 much that day, I had had a good day. I had actually felt earthquake
 sensations like five days in a row leading up to me actually realizing I
@@ -1775,64 +1805,75 @@ So they had been EMF-ing me prior, only on September 15 they made it extra
 intense specifically because it was my dog's birthday. It completely heated
 my head/brain to the point where my head was hot to the touch externally
 and it felt hot internally as well. I had to put ice packs on my head the
-next morning. My whole head/back felt sunburnt the following days.
+next morning. My whole head/back felt sunburnt the following days. #emf
 
-I reported it to the police for the first time on September 16, 2021. I
-continued speaking to that detective and other officers about the
+I reported it to the police for the first time on September 16, 2021, the
+afternoon after I could actually somewhat decipher what it might be whereas
+they intensified it and whatnot.
+
+I continued speaking to that detective and other officers about the
 subsequent attacks for weeks. Some of the police officers have treated me
 seriously throughout, like that Joseph Escobar detective for instance–I
-liked him. I think he may have been from a different agency or something
+like him. I think he may have been from a different agency or something
 though, but I’m honestly not sure. The cops did show me solidarity I think
 on more than one occasion, however they obviously don’t tell me whether any
-of my tips led to them discovering anything or not directly.
+of my tips led to them discovering anything or not directly. #emf
 
 Eagles Incident - Murder by Suicide Plot
 
-My brother misconstrued a message I sent to him and reported me as being
-suicidal to the police. That particular police officer made me call Dusty
-seems how Dusty was apparently “so concerned about me”–so I did–Dusty
-freakin hung up on me not even 30 seconds into our conversation. It was bs.
-Then I looked back at the messages Dusty had sent while I was driving home
-in response to the message I had sent him and I realized Dusty had set it
-up to be able to social engineer the police. (Acting like he was a mormon
-with kids, etc) So I called the police letting them know that Dusty had
-lied to them and he could have very well just hacked them whereas social
-engineering is actually how he hacked me.
+My brother Dusty misconstrued a message I sent to him and reported me as
+being suicidal to the police. That particular police officer Dusty called
+made me call Dusty directly seems how Dusty was apparently “so concerned
+about me”–so I did–Dusty freakin hung up on me not even 30 seconds into our
+conversation. It was bs. Then I looked back at the messages Dusty had sent
+while I was driving home in response to the message I had sent him while in
+town and I realized Dusty had set it all up for him to be able to
+essentially social engineer the police. (Acting like he was a mormon with
+kids in his responses back to me while I was driving, etc) So I called the
+police letting them know that Dusty had lied to them and he could have very
+well just hacked them whereas social engineering is actually how he hacked
+me. #suicide #plot
 
 
-A few days later my superior at work invited me while at work to goto the
-Eagles bar with him that night at 7pm. I said I would go. This was when we
-were working on my computer being hacked at work and I had been issued a
-brand new computer--and I was being careful as hell with even potentially
-re-exposing the new computer to any viruses through any of my other
-potentially infected devices. Like I would go clear over to the other side
-of the room just to turn bluetooth/wifi on on my phone just to avoid
-infecting the new computer I had been issued, when getting a password off
-my 1password or whatever. I later found out that despite my best efforts,
-the new computer showed similar signs of being infected. (I think my
-brother could have hacked their whole network but I don’t know that
-forsure) Anyways, I went home that night after being invited to the Eagles
-and I recall I was on one of my computers doing something around 7:20pm
-that night when the same kid knocked/rang the doorbell for the seventh
-time. My network was down at the time so this time, once I saw who it was,
-I started recording on my cell phone instead prior to answering. Sure
-enough it was the same kid again, only this time I saw who was directing
-him myself in walking out with my cell phone camera rolling. All previous
-times I had recorded our encounters with my ring video doorbell which
-stayed put in one location. It was the child abuser neighbor guy who was
-directing the kid. As soon as he saw me he tucked back into his garage so
-he couldn’t be recorded, I saw him myself but I don’t think I captured him
-on my cell phone footage. The kid initially said something like “why you
-always working?”, (as if to coerce me to goto the bar seems I was running a
-little late) but then after his dad tucked behind his garage door, the kid
-looked back for direction and didn’t know what to do once he saw his dad
-was now gone. I would be willing to bet the dad had been standing right
-there every single time--because it had become clear the kid was being
-directed. (Which is partly why I call that guy a child abuser, because he
-directs his kid to do shady things and because he clearly had hurt his kids
-previously physically) Anyways, the significance of what the kid said this
-time was the kid was essentially coercing me to goto the bar where I would
-later be poisoned, given how I was late to go to the eagles that evening.
+A few days later my superior at work invited me to goto the Eagles bar with
+him that night at 7pm. I said I would go. This was when we were working on
+my computer being hacked at work and I had been issued a brand new
+computer--and I was being careful as hell with even potentially re-exposing
+the new computer to any viruses through any of my other potentially
+infected devices. Like I would go clear over to the other side of the room
+just to turn bluetooth/wifi on on my phone just to avoid infecting the new
+computer I had been issued, when getting a password off my personal phone
+or whatever. I later found out that despite my best efforts, the new
+computer showed similar signs of being infected. (I think my brother could
+have hacked their whole network but I don’t know that forsure) Anyways, I
+went home that night after being invited to the Eagles and I recall I was
+on one of my computers doing something around 7:20pm that night when the
+same kid knocked/rang the doorbell for the seventh time. My network was
+down at the time so this time, once I saw who it was, I started recording
+on my cell phone instead prior to answering. Sure enough it was the same
+kid again, only this time I saw who was directing him myself in walking out
+with my cell phone camera rolling.
+
+All previous times I had recorded our encounters with my ring video
+doorbell which stayed put in one location. It was the child abuser neighbor
+guy who was directing the kid. As soon as that child abuser guy saw me he
+tucked back into his garage so he couldn’t be recorded, I saw him myself
+but I don’t think I captured him on my cell phone footage. The kid
+initially said something like “why you always working?”, (as if to coerce
+me to goto the bar seems I was running a little late to goto the bar with
+my co-worker that evening) but then after his dad tucked behind their
+garage door, the kid looked back for direction and didn’t know what to do
+once he saw his dad was now gone. #plot
+
+I would be willing to bet the dad had been standing right there every
+single time that kid camee to my house--because it had become clear to me
+the kid was being directed. (Which is partly why I call that guy a child
+abuser, because he directs his kid to do shady things and because he
+clearly had hurt his kids physically previously)
+
+Anyways, the significance of what the kid said this time was the kid was
+essentially coercing me to goto the bar where I would later be poisoned,
+given how I was late to go to the eagles that evening. #plot
 
 https://drive.google.com/file/d/1r2-oTX8gWahAlVI3CuLgKKTg0p1nw4uT/view?usp=sharing
 
@@ -1859,12 +1900,12 @@ this one guy’s cologne. I suspect him coming to touch me before he left was
 essentially him letting me know who was responsible like they all like to
 do–through his cologne. His cologne was very distinct and there was no way
 for my whole car to smell like his cologne from just him barely touching me
-and standing next to me for a minute that evening.
+and standing next to me for a minute that evening. #car #poison #plot
 
 The significance of the thorn bush spikes is what happened to my dad before
 he died? He got some strange “infection” in his foot--leading to him having
 to get his big toe cut off. Which occured right around the time my brother
-Dusty had been denied going to Alaska fishing with us.
+Dusty had been denied going to Alaska fishing with us. #poison?
 
 When they were in my car at the eagles is when I suspect they added the
 capabilities to track my location through my car, or they did something to
@@ -1901,7 +1942,7 @@ Thorn bush spikes added to my porch--one of which I barely stepped on.
 
 Tried to frame me as a druggy by planting paraphernalia in my house and by
 somehow lighting off a smell bomb or something which made my whole house
-reak like drugs–like it was crazy.
+reak like drugs–like it was crazy. #overdose #plot
 
 Put something in my vape juice.
 
@@ -1910,7 +1951,7 @@ Tampered with my prescriptions.
 Tampered with literally anything and everything they could in my house.
 
 I suspect this is when they installed the gassing capabilities to my
-furnace.
+furnace. #tampering #furnace
 
 All cameras showed completely blank for over a full day--even the hard
 wired ones--which was unheard of. (I had been staying in a hotel to try and
@@ -1927,18 +1968,25 @@ for me to kill me, and they had set it all up to frame me to the police as
 being a druggy when they later found me.
 
 I didn’t drive my car for days afterwards because I was afraid they had
-succeeded in drugging me that day/evening.
+succeeded in drugging me that evening.
 
 String of break-ins #2
 
 This folder, see videos of intruders here:
 https://drive.google.com/file/d/1G4yI\_Ri\_7t\_p5Hf4kBtDzwlnUK8V0HGl/view?usp=sharing
-
+#tampering #waterheater
 
 Tampering with my electricity
 
 Radiation poisoning
+
+I can no longer grow hair from the front of each of my calves all the way
+around my leg to the inner side, (so I can no longer grow hair on like 80
+percent of my calves) nor can I grow hair on the backs of my thighs. Loss
+of hair growth is one symptom of radiation poisoning, radiation apparently
+attacks the fast growing cells first.
 Infrasound
+Keys
 
 
 2022
