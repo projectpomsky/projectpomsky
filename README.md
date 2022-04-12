@@ -410,6 +410,9 @@ Final Answer
 References
 
 
+As of March 12, 2022
+
+
 
 
 README
@@ -9694,7 +9697,17 @@ guys a signal about our military and the jets the other day—now I really
 need you to believe me about this. I feel highly confident in this final
 determination of Russia’s true intent btw.
 
-🙏🙏🙏
+P.s. You guys, do you want to know my ultimate hope? My ultimate hope is we
+defeat the kremlin and free all the people under their control. The kremlin
+only knows negative reinforcement, they do not know positive reinforcement.
+I have little doubt that a lot of our colleagues will thank us later for it
+later if so. A lot of Russia's proxies are actually victims to the kremlin
+themselves. And plus, I really want to see my brother again someday. I
+still think he has time to make up for anything he may have done previously
+if so.
+
+🤞🤞🤞
+
 
 #IStandWithUkraine #AmericaStandsWithUkraine #TheWorldStandsWithUkraine
 #TruthIsStrangerThanFiction #FightForFreedom
@@ -9702,6 +9715,8 @@ determination of Russia’s true intent btw.
 Thank you,
 
 Chase G
+
+🙏🙏🙏
 
 References
 
@@ -9712,6 +9727,62 @@ References
 Link to request concessions by our government on mig fighter planes:
 
 https://twitter.com/intent/retweet?tweet\_id=1502153102639591426
+
+
+As of March 12, 2022
+
+I’m doing as well as I can be given the circumstances btw. I could use some
+help disabling this damn microchip like I said and then getting the hell
+out of here but that’s it. At least it gives me something to work towards
+though. I honestly enjoy combatting Russia in any way I can–it’s fun. It
+sucks they are so far ahead of us and that I’m at such a disadvantage but
+beyond that, I still enjoy it. Take that Russia. The very nature of you
+coming after me is enjoyable to me.
+
+Russia is in its final stages of targeting our society and defeating us
+from within. When you think about it from the perspective I’ve laid out,
+and when you consider this whole Ukraine ordeal might really be meant to
+bait our people into “reflexing” in the way the kremlin expected us to
+reflex, with the intent of them exploiting our reflexes, then technically
+Russia is accurate in their statement about Ukraine just being a “special
+military operation”. The real operation is regarding the remainder of the
+free world and its citizens, particularly those who are willing to fight
+back. They seem to be already creating lists of people to prosecute for
+breaking their new “misinformation” law, for when they defeat us from
+within, which carries a fine of up to 15 years in prison. That is at least
+in part what Ukraine is all about in my opinion. That is why it was not in
+their best interest to take Zelensky out in short order. That is also why
+it’s best for them to piss the whole world off at this time and do things
+that are otherwise unthinkable. Because their real goal is cataloging all
+the resistance.
+
+I got a vibe from the hackers that this is what Ukraine is really all
+about–before I ever started telling you all about it and before I started
+digging into it further myself. They legit act like they have already
+defeated us to me. And they warn me whenever I’m about to break one of
+Russia’s laws as if I’m now governed by Russia. One of these days, anyone
+who doesn’t fight back is going to regret it for years to come.
+
+https://1920.in
+
+https://twitter.com/i/status/1502799750814482438
+
+One last thing, I think it would be wise if our military reported some of
+their NSA exploits that the Russsians are now using to defeat us to the
+corresponding companies like apple, netgear, and anything using a broadcom
+wifi chip, etc, etc, so that those vulnerabilities can be patched and so
+that it would even the playing field a little bit. Because I’m pretty
+certain Russia and China are now using OUR NSA’s malware to defeat us from
+within, and they are way ahead of us in doing so, and so the only real way
+to get it all to stop would be to force every country to restart from
+scratch with their most sophisticated automated malware and to patch all of
+the devices around the globe asap–even if that means we can no longer hack
+ppl as effectively for a little while. If things are really going as they
+seem–doing so might well pay dividends in the long run. And it wouldn’t be
+risking starting a nuclear war or anything–if anything–it would potentially
+save the free world.
+
+
 
 Chase Gibbons  / Manager
 435-999-4722
@@ -9726,5 +9797,5 @@ Sender
 notified by
 Mailtrack
 
-03/11/22,
-12:55:48 AM
+03/12/22,
+10:12:26 PM
