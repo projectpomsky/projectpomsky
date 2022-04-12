@@ -8459,6 +8459,11 @@ Putin tried to do with Ukraine, then they’ll do like like this
 reverse-reverse psychology based on reactive control theory or
 whatever—i.e. they use super complex Jedi mind trick tactics all based on
 psychology and manipulation.
+
+
+
+Believe me when I say I guarantee you Russia knows exactly where Zelensky
+is at.
 -- 
 
 Chase Gibbons  / Manager
