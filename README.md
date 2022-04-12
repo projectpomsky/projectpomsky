@@ -2069,7 +2069,22 @@ This folder, see videos of intruders here:
 https://drive.google.com/file/d/1G4yI\_Ri\_7t\_p5Hf4kBtDzwlnUK8V0HGl/view?usp=sharing
 #tampering #waterheater
 
-Tampering with my electricity
+Tampering with my electricityI suspect they’ve been able to remotely
+control my electricity previously, by they I mean my brother and his
+“people”. They also have rigged my electricity previously to like make it
+feel like static electricity for a while in here, to make all my outlets
+begin to spark whenever I’d plug something in, to make my lights behave as
+though I had an open neutral, all my light bulbs started going out
+prematurely, to aid in emf-ing me, and to be able to I suspect power some
+of their electronic bugs they had on the exterior of my house previously
+through the open neutral essentially. I suspect they used their ability to
+remotely turn on and off my electricity to help get by some of my cameras
+previously, and I recall they would actually use their ability to control
+my power as yet another “signal” to let me know when I was doing something
+they didn’t like previously. (Like texting my little sister Taylor about
+how I thought our brother was a serial killer for instance, my power went
+off and on as soon as I texted her that, etc) I do believe that child
+abuser guy might have something to do with all the power tampering.
 
 Radiation poisoning
 
@@ -2080,6 +2095,10 @@ of hair growth is one symptom of radiation poisoning, radiation apparently
 attacks the fast growing cells first.
 Infrasound
 Keys
+
+I suspect they stole my keychain out of my car most recently, which had
+keys to all my rental properties, my new safe, my house, my mailbox, etc,
+etc.
 
 
 2022
