@@ -7870,10 +7870,11 @@ but still–with our social media it’s a cakewalk)
 Plausible deniability is the key to punishing Russia for taking over
 Ukraine without causing a nuclear war in my own personal opinion. I realize
 I’m not as smart as some of the people actually briefing the President
-however, but that’s just my opinion.
-
-I’m pretty decent and seeing things from a 30,000 foot level however–just
-ask Russia. 😉 (More on this later)
+however, but that’s just my opinion. I will say I do have some pretty
+unique experience on the subject though and plus I’m pretty decent and
+seeing things from a 30,000 foot level–just ask Russia. 😉 (More on how
+Russia is exploiting our red lines later and the significance of what they
+are doing)
 
 
 Chase Gibbons  / Manager
