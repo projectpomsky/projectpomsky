@@ -12223,16 +12223,18 @@ Mcmullin/Mitt Romney type republican over a Donald Trump republican.
 If people would just be honest with themselves and be honest with everyone
 else then this would all be over with already. I can think of a million
 different ways to secretly talk to the police or fbi absent this damn
-microchip. Meaning everyone who doesn't have a microchip should be able to
-do the right thing without fearing repercussions. Or better yet, you can
-just be like me and just do the right thing regardless of repercussions.
-There are all kinds of church gospels on that very thing. These guys get
-their power through all their manipulation. Without all the people allowing
-them to manipulate them–none of this would be possible. Meaning anyone that
-succumbs to their manipulation is technically guilty of all the crimes they
-carry out using all their manipulations–including but not limited to their
-killing of me. (And that’s just not even being involved in any direct way)
-And I promise you–they are indeed killing me. They’ve likely already taken
+microchip. I know for a fact they haven’t penetrated the fbi. Meaning
+everyone who doesn't have a microchip and who isn’t being emf-d daily
+should be able to do the right thing without fearing repercussions. Or
+better yet, you can just be like me and just do the right thing regardless
+of repercussions. There are all kinds of church gospels on that very thing.
+These guys get their power through all their manipulation. Without all the
+people allowing them to manipulate them–none of this would be possible.
+Meaning anyone that succumbs to their manipulation is technically guilty of
+all the crimes they carry out that are reliant on all of their
+manipulations–including but not limited to their killing of me. (And that’s
+just not even being involved in any direct way–which some are) And I
+promise you–they are indeed killing me. They’ve likely already taken
 decades off of my life at the very least and they don’t plan to stop until
 they succeed–and they can’t do it without your help. It’s a slippery slope,
 that’s for damn sure. I’d rather go down knowing I did what’s right than go
@@ -12241,9 +12243,14 @@ rewarded after I die. And who knows, maybe I’ll even help save this
 country. I don’t want to let our forefathers down, I personally really like
 our constitution.
 
-Chase Gibbons  / Manager
+
+Chase Gibbons  / Software Development
 435-999-4722
 
+ 
+595 S Riverwoods Pkwy, Suite 250Logan, UT 84321
+rentdynamics.com 
 
-PO Box 747Logan, UT 84321
-gfic.io  
+[image: Twitter]  [image: Facebook]
+ [image: LinkedIn]
+
