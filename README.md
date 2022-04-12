@@ -5829,62 +5829,101 @@ apparently..
 
 As of January 24, 2022
 
-I officially hired a new trustee today. He’s a lawyer. He’s going to help
-me file an injunction against my brother Dusty, among other things. Don’t
-get me wrong, I like Paul, I just know how powerful Dusty is and I know how
-easy it would be for Dusty to gain influence over this whole town just
-given Dusty’s capabilities and given this towns small size and it’s very
-nature and whatnot, (all he’d need to do is corrupt the right person and
-then he could essentially force that person to exert their influence
-according to Dusty’s wishes over others who may actually interact with me
-essentially, or else corrupt the person who interacts with me directly I
-guess) and plus—I’ve just known I could use a new trustee and lawyer for a
-while now—especially regarding my brother. The only real alternative is
-more of the same and more draining my trust without Dusty allowing me to go
-back to work and letting Dusty walk all over me while staying quiet myself
-essentially. At least with a lawyer I’ll have a chance to recoup some of my
-lost wages/damages, etc—even if Dusty does kill me. Now if he kills me then
-the damages my estate could seek on my behalf will only go up. So in my
-mind, yea lawyers cost money, but I think of it more like an investment
-because I know first hand the only route to resolve all this leads directly
-through my brother and I know what will happen if I don’t. Dusty has shown
-me he has the power to make it all stop multiple times btw, just long
-enough to let me know he’s ultimately the one behind it both times. (He can
-also make it go harder essentially which he does frequently)
+I officially decided to proceed forward with a new trustee today. He’s a
+lawyer. He’s going to help me file an injunction against my brother Dusty,
+among other things. Don’t get me wrong, I like Paul, I just know how
+powerful Dusty is and I know how easy it would be for Dusty to gain
+influence over this whole town just given Dusty’s insane capabilities and
+given this towns small size and it’s very nature and whatnot, (all he’d
+need to do is corrupt the right person and then he could essentially force
+that person to exert their influence according to Dusty’s wishes over
+everyone else, including those who may actually interact with someone who
+interacts with me essentially, or else corrupt the person who interacts
+with me directly I guess) and plus—I’ve just known I could use a new
+trustee and a lawyer for a while now—especially regarding my brother. The
+only real alternative is more of the same and more draining my trust
+without Dusty allowing me to go back to work and letting Dusty walk all
+over me while staying quiet myself essentially. At least with a lawyer I’ll
+have a chance to recoup some of my lost wages/damages, etc—even if Dusty
+does kill me. At least now if he dies kill me then my estate can still seek
+damages on its own, and if anything, the amount of damages my estate will
+be able to seek will only go up. So in my mind, yea lawyers cost money, but
+I think of it more like an investment because I know first hand the only
+route to resolve all this leads directly through my brother and I know what
+will happen if I don’t hire a lawyer.
+
+Dusty has shown me he has the power to make it all stop multiple times btw,
+just long enough to let me know he’s ultimately the one behind all this
+both times. (He can also make it go harder essentially which he does
+frequently) I want to figure out a way to make it all stop for good
+however. Without going broke and without losing my life or my health. And
+the only way I can see to do that at this time is through a lawyer, at
+least while the police are still investigating..
 
 After I talked to my new trustee, I realized I should probably text Dusty
 and clarify to him that I had no real intention of stopping by his house
-anytime soon, and inform him how I was mainly just interested in his
-reaction the other day that’s all—especially whereas he set a red line
-refusing to discuss the huge elephant in the room with me—and I informed
-him I actually plan to move far far away from him, etc.
+anytime soon, and inform him how I was mainly just interested in knowing
+his reaction to my question the other day is all—especially whereas he set
+a red line refusing to discuss the huge elephant in the room with me
+upfront; I informed him I actually plan to move far far away from him, etc.
 
 That went about how I would expect. Dusty is shady as hell and he’s rude as
 hell these days and he clearly wasn’t being genuine. He clearly doesn’t
 care about me whatsoever. He’s clearly trying to create his own narrative
-without even hearing me out first as well. (Which could mean he was setting
-me up to call another shot against me again—that’s probably the last time
-I’ll talk to the “formal” Dusty—the more or less “anonymous” version of
-Dusty on the other hand is almost impossible to escape given how deeply
-he’s hacked me)
+without even hearing me out whatsoever. (Which could mean he was setting me
+up to call another shot against me again soon—that’s probably the last time
+I’ll talk to Dusty “formally” for a while—the more or less “anonymous”
+version of Dusty on the other hand is almost impossible for me to escape
+given how deeply he’s hacked me)
 
 One thing I wanted to add that I haven’t had a chance to add here yet is
 that these guys actually played that sound clip of turbo suffering to me
-repeatedly ever since I originally told you about it pretty much, sometimes
-louder than others, after those first times when I told you about them
-admitting to killing Turbo previously. It’s messed up. Kill/torture my dog,
-record a sound clip of it, then use the sound clip to torment me later
-repeatedly. These are the people I’m dealing with. This is who my brother
-really is apparently. He straight up fooled me for ~30+ years but now that
-he’s coming after me he’s shown me the truth over and over and over again
-and the truth is honestly really fucked up.
+repeatedly over a period of days since I originally told you about it
+pretty much, sometimes louder than others, after that first time when I
+told you about them admitting to killing Turbo and playing that sound clip
+to me originally. It’s messed up. Kill/torture my dog, record a sound clip
+of it, then use the sound clip to torment me later repeatedly. These are
+the people I’m dealing with. This is who my brother really is apparently.
+He straight up fooled me for ~30+ years but now that he’s coming after me
+he’s shown me the truth over and over and over again and the truth is
+honestly really fucked up.
 
-Dusty plans to kill me tonight again I think..
+Dusty’s gang plans to kill me tonight again I think..
 
+They’ll like leave me these little “warnings” or “signals” like they’ll
+start flashing my cameras at me out of nowhere for instance when I get home
+or they’ll turn my vanity light on out of nowhere for me to discover when I
+get home, etc, whenever they are either about to attack or when they have
+just been in my house again doing something, etc. However, I don’t know who
+is leaving these warnings or whether they are even warnings at all or
+whether they are really just meant to scare me and/or get me out of my
+house so that they can come grab evidence or else so they can come set up
+their real attack, etc. Or if the “warnings” are really just their latest
+way of letting me know who’s responsible before they try and kill me again,
+as I’ve previously stated they love to let me know who’s responsible over
+and over again every time. It may also just be them trying to mess with my
+head, idk. But most of them do seem to correspond to some greater event and
+so I’ve been treating them as warnings up to this stage including just
+tonight. My hope is they are indeed warnings being left by someone who
+actually somewhat cares about my well being. It’s confusing as hell
+however. My cameras don’t flash on their own like that without interference
+tho, that’s how I could tell i needed to look into my cameras in the first
+place when I discovered they were hacked this last time (and the time
+before that) is cuz I knew how my cameras flash’s behave normally and they
+will suddenly begin not behaving normally anymore; and my vanity light used
+to remain off for years at a time—I never turn that thing on. And yet,
+there it is—on out of nowhere—and you have to deliberately turn that thing
+on too. (The vanity light being turned on happened I think twice recently
+even tho I turned it back off each time; the cameras flashing at me all
+oddly like that has happened to me a dozen or so times over the last few
+months)
 
-
-
-
+P.s. I don’t want to say this cuz I’m giving the attackers critical
+feedback but just know they’ve been continuing to advance their microchip
+capabilities. They seem to now be past the previous stage. The previous
+stage lasted for about 1-2 weeks I’d say, partially thanks to my repeated
+attempts at blocking it. What the next stage is, I still haven’t figured
+that part out yet.. (So I don’t know how to try and block it)
 
 
 
