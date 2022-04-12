@@ -3060,19 +3060,20 @@ You could look at it as oh, his brother is really an angel and it must all
 just be him. But that would be dismissing all the bad shit that has
 happened to me lately that I have gotten definitive proof of that had
 nothing to do with me, it would be dismissing all the oddities like the kid
-being sent to my door repeatedly out of nowhere right after my dog died and
-on key dates, the people breaking in my house who were clearly highly
-disciplined and who clearly had tons of intel, etc, etc, it would be
-dismissing all the hacking of myself and seemingly everyone around me, it
-would be dismissing all the things my brother has done to me and my
-siblings over the years and everything I can tie back to him, it would be
-dismissing how shady he’s been just in general and how he fits the profile
-of someone who would want to see my demise, (assuming I’m right on him
-doing these same things to our family which would make sense whereas he’s
-now doing them to me) it would be dismissing how my brother wouldn’t even
-deny being a serial killer or being in a gang when asked directly
-repeatedly, and at the end of the day it would be completely contrary to
-the truth and the overall patterns and facts over time.
+being sent to my door repeatedly out of nowhere right after that guy was
+stalking me and pulled a gun on me/my dog died and always on key dates, the
+people breaking in my house who were clearly highly disciplined and who
+clearly had tons of intel, etc, etc, it would be dismissing all the hacking
+of myself and seemingly everyone around me, it would be dismissing all the
+things my brother has done to me and my family over the years and
+everything I can tie back to him, it would be dismissing how shady he’s
+been just in general and how he fits the profile of someone who would want
+to see my demise, (assuming I’m right on him doing these same things to our
+family which would make sense whereas he’s now doing these things to me) it
+would be dismissing how my brother wouldn’t even deny being a serial killer
+or being in a gang when I asked him directly repeatedly, and at the end of
+the day it would be completely contrary to the truth and the overall
+patterns and facts over time.
 
 I don’t think just cuz dusty treated his dog right necessarily means he’s
 not what I’m accusing him of. I think it’s more tribal and complex than
@@ -3091,66 +3092,71 @@ the capabilities of the police—at least in terms of hacking, real-time
 monitoring, etc, etc.
 
 I know his capabilities first hand and I know how he is both extremely
-capable and extremely driven to try and frame me or kill me, based on past
-experiences. Good luck trying to defend against some charges for something
-some hacker did on your devices, or something some gangstalking group left
-in your house and then turned you in for—it would be almost impossible to
-defend.
+capable and extremely driven to try and frame me or kill me or discredit
+me, based on past experiences. Good luck trying to defend against some
+charges for something some hacker did on your devices, or something some
+gangstalking group left in your house and then turned you in for—it would
+be almost impossible to defend.
 
 It’s just saddening to me that there’s the path I took in life, and now the
 path my brother has seemingly taken in life—and who has the advantage at
 this time? That’s right—the person who took the shady path in life has the
-advantage. I can’t hack him and try and frame him so I’m left to my own
-devices—and shutting off those devices to try and protect against what I
-know my brother is capable of at this time. (Which then makes me look
-shady)
+advantage. I can’t hack him and try and frame him or corrupt the people
+around him or set him up to get microchipped—so I’m left to my own
+devices—and shutting off my devices to try and protect against what I know
+my brother is capable of at this time. (Which then makes me look shady, but
+tbh it’s tough shutting off my devices whereas that’s my whole life before
+all this started)
 
 Look at it this way, if you look at mine and Dusty’s conversations on a
 high level starting in 2019. (Hacking and poisoning folder referenced
 above) Who is the one trying to convince me to hate my mom? Who is the one
 trying to convince me to then hate my siblings, once he started making
 leeway with me on my mom? Who is the one making up all these lies about our
-family to try and manipulate me? Who is the one telling me I should read
-books on psychology and then negatively reinforcing me until I do? Who is
-the one telling me I should post to social media more amidst all this? Who
-is the one who came up with a bogus reason for me to help him just so he
-could hack me? Who is the one who wanted me to quit my job for some reason?
-Who is the one who subsequently said he thinks my dog should die? Who is
-the one telling me I’m going to regret not having more people around
-me—right after he was actively trying to get me to distance myself from all
-the people around me? Therefore, who is the one who clearly has some
-endgame in mind? It’s not me—I just want to live my life. And based on
-Dusty’s means of manipulating me, and his trying to isolate me—his end game
-doesn’t seem all that noble. And that’s all just on a high level,
-dismissing literally everything else.
+family to try and manipulate me into hating my family? Who is the one
+telling me I should read books on psychology and then negatively
+reinforcing me until I do? Who is the one telling me I should post to
+social media more amidst all this? Who is the one who came up with a bogus
+reason for me to help him just so he could hack me? Who is the one who
+wanted me to quit my job for some odd reason around the same time? Who is
+the one who subsequently said he thinks my dog should die? Who is the one
+telling me I’m going to regret not having more people around me—right after
+he was actively trying to get me to distance myself from all the people
+around me? Therefore, who is the one who clearly has some endgame in mind?
+It’s not me—I just want to live my life. And based on Dusty’s means of
+manipulating me, and his trying to isolate me—his end game doesn’t seem all
+that noble. And that’s all just on a high level, dismissing literally
+everything else.
 
 I could care less what Dusty does so long as he’s not out there hacking,
-corrupting, murdering, and framing people. The only thing I can think of
-that I’ve encouraged him to do with any real emphasis in the last few years
-is for him and his new “people” to stop fucking coming after me—he’s trying
-to ruin my whole life. And he enjoys it. He enjoys outsmarting people.
-(Including and especially the police)
+corrupting, murdering, and framing people—especially family. The only thing
+I can think of that I’ve encouraged him to do with any real emphasis in the
+last few years is for him and his new “people” to stop fucking coming after
+me—he’s trying to ruin my whole life. And he enjoys it. He enjoys
+outsmarting people. (Including and especially the police)
 
 On the other hand, who is the one being completely transparent with
-everyone including the police—good, bad, and ugly? That one is me. Cuz I
-would really like this resolved and soon whereas what my brother is doing
-is against the law and he’s violating my constitutional rights as a citizen
-and he’s been completely fucking up my whole life and the lives of my loved
-ones. Plus I’ve always been highly transparent, that’s just who I am as a
-person. If I were on drugs I would not have reported all this. All I know
-is all this is not going to stop until Dusty gets caught period—even if he
-gets passed me.
+everyone including the police—the good, the bad, and the ugly? That one is
+me. Cuz I would really like this resolved and soon whereas what my brother
+is doing is against the law and he’s violating my constitutional rights as
+a citizen and he’s been completely fucking up my whole life and the lives
+of my loved ones—and nobody else is willing to stand up to him that I have
+found really. Plus, I’ve always been highly transparent just in general,
+that’s just who I am as a person—even my brother knows that and he uses it
+against me. Again, if I were on drugs I would not have reported all this.
+All I know is all this is not going to stop until Dusty gets caught
+period—even if he gets passed me.
 
 P.s. I plan to goto the doctor to try and either confirm or deny this
-latest microchip hypothesis, although it’s possible we will do an X-ray and
-not find anything at first when in reality something could still be there
-but the key is I keep learning and ruling things out and following the
-evidence and ultimately getting closer to the truth. (I mean it makes sense
-there would almost have to be at least one microchip involved given what
-they have been doing to me, but we will see..) I might need to get multiple
-opinions though. But worst case I figure I’m only as bad as all the people
-who were scared to get covid shots over microchip concerns to begin
-with–only in my case I now have reason to believe I may have actually
+latest microchip hypothesis of mine, although it’s possible we will do an
+X-ray and not find anything at first when in reality something could still
+be there but the key is I keep learning and ruling things out and following
+the evidence and ultimately getting closer to the truth. (I mean it makes
+sense there would almost have to be at least one microchip involved given
+what they have been doing to me, but we will see..) I might need to get
+multiple opinions though. But worst case I figure I’m only as bad as all
+the people who were scared to get covid shots over microchip concerns to
+begin with–only in my case I now have reason to believe I may have actually
 already gotten one. And worst case I learn something which will help me
 figure out what to try next. But right now how I feel is I should have
 given these claims about microchips being a possible outcome of getting a
@@ -3163,6 +3169,111 @@ https://bit.ly/cwg-plan
 
 
 Merry Christmas All.
+
+https://drive.google.com/file/d/1SVV0PWZCWpIVJgEVWsqFL0Yh7YAOQf19/view?usp=drivesdk
+(I actually got turbos DNA sequenced so I can clone him later on in life,
+once I make it through all this—I do miss turbo a lot—but I don’t want to
+bring any living being into this hell I’ve been being forced to live
+lately. I didn’t even do anything to my brother either yet he like always
+has to show me it’s him who’s responsible for these people coming after me
+but in ways that aren’t necessarily prosecutable—like he did again the
+other day—he essentially flaunts how smart he is right in front of
+everyone. But I don’t get what axe he has to grind with me—he’s like super
+aggressive for no reason the last few years especially to his family. I
+don’t know who he’s trying to show off for..)
+
+As of December 27, 2021
+
+They are blasting me with radiation nightly—like that one isn’t even
+questionable anymore. What are you going to do when I get cancer or
+something bad happens to me? Just say oh well and go on with your daily
+lives? Like I don’t get why more people aren’t completely outraged by all
+this.
+
+Tbh if I had to guess the name of my brothers gang, I’d guess MS13. I’d
+guess my brother after he got fired from his job as a civil engineer got
+pulled into a gang by Tom Finn while my brother was down, and maybe dusty
+shared some of his shady past in regards to our family with Tom at the
+time, and it was like a match made in heaven. And now you’ve got a genius
+expert hacker practically running MS13 and calling the shots daily. (I mean
+it would make sense, if my brother is in a gang he’s likely a killer, who’s
+to say he wasn’t already a killer? You guys should have seen the way dusty
+started talking previously when he was disparaging our whole family—I’ll
+have to share all my gang references soon..)
+
+The infrasound is coming from the neighbors btw—I know cuz whenever I hear
+a car drive by it stops for about thirty seconds—only to continue on after
+the car has driven by. Lead is the only thing I’ve found that stops it from
+messing with my heart like I shared previously—and only when I’m completely
+surrounded 360 degrees by it—but I can still hear the infrasound/subwoofer
+regardless. As for the microchips, I don’t f-ing know, I was just saying
+like these guys have no limits they won’t cross. And it sounded like a
+tracker in my ear particularly when driving a rental car this last
+week—which they likely wouldn’t have had any other tracking mechanism in
+place at the time, in addition to all the other reasons I listed above for
+why I now suspect a microchip. I could be wrong on the microchip one but if
+so it still doesn’t mean I’m wrong on everything else. Gangs will go to
+great lengths to track people—I just never knew they would do it to non
+members. (Anyone who is a perceived threat I guess—it’s all in my
+references—look it up—dusty asked me to come work with him and I denied—and
+I didn’t even know he was in a gang at the time) Again, even how he tried
+to introduce me to the gang he used plausible deniability, by talking like
+a gangster at the time.
+
+I’m just trying to help ensure Logan doesn’t become a place rampant with
+gangs and corruption, and I’m trying to seek justice for my family and to
+help save other peoples lives from what I now know first hand dusty and his
+gang are capable of. I sometimes wish more people would help. I feel it
+could all come to an end sooner if so.
+
+Dusty is smart but he’s always lacked common sense and he’s always been
+over confident in how smart he is. Like it’s stupid for him to have even
+devoted all his new gang’s resources towards coming after me to begin with.
+I was no threat to them at the time. Like what the hell did he think was
+going to happen? If anything he’s helping ensure the gang’s demise by going
+after someone who knows him so well—someone who also happens to be a senior
+software engineer himself which seems to be my brothers gang’s core
+competency. Yea I don’t specialize in security but my brother has kinda
+made me almost have to specialize in security.
+
+Dusty has let me know it’s him so many different times it’s not even funny.
+They all like letting you know who is responsible—they just do it in ways
+that would be hard to prosecute without showing all the patterns over time.
+Some of which are more easily recognizable than others.
+
+At least in my mind, I’m about as good a witness as you could possibly hope
+for in trying to go after a gang kingpin who specializes in technology who
+is clearly a threat to society—let alone this particular gang kingpin. I
+therefore feel it would be wise for you and Logan to try and help keep me
+alive.
+
+Like we live in the United States of America for hell sakes—not Mexico—not
+Cuba. This shit shouldn’t be tolerated here. If this continues—all of Logan
+could become corrupted. And I always thought Logan was one of the better
+places in the whole country in terms of crime fighting, corruption, etc.
+We’ve just got to adapt and overcome to the newly emerging threats of
+tomorrow is how I see it.
+
+I really wish Logan had a gang squad right about now tbh—again another
+vulnerability they are seemingly exploiting.
+
+Yea they do things to try and make me look crazy but that’s why I’ve been
+going to see doctors, counselors, etc, to try and help counteract all that.
+If you’d like to see me do anything further just let me know. Just realize
+it’s common for anybody's hypothesis to change over time as more
+information comes in—at least the non corrupt/non biased people—plus, I try
+and base everything off of physical evidence—even if it’s just like an emf
+reader, etc. At least it’s something—if you’ve got any better ideas please
+let me know. I therefore really feel it’s about time more people besides me
+begin to stand up to my brother. He can’t go after all of us after all.
+Plus, I’ve gotten so much evidence on him by now, it’s just a matter of
+presenting it right. (And adding references which I’m working on)
+
+If you guys ever charge my brother with any crimes, I’d really like to know
+about it so I can make decisions accordingly. Like even just knowing
+exactly what gang he is in could help me in getting away from them.
+
+Please don’t make me regret not joining him.
 -- 
 
 Chase Gibbons  / Manager
