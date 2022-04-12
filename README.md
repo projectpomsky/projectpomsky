@@ -2806,7 +2806,8 @@ https://drive.google.com/file/d/1MPPe0Tox0-VSfmKER74yayxrx0fpWK4C/view?usp=shari
 
  I’ll try and provide all the references to this doc when I get a sec but
  then I’m better off having my devices shut off I think–I don’t want Dusty
- to hurt anybody in my name.
+ to hurt anybody in my name–regardless of what I have to do to prevent that
+ from happening. I think that’s my best move given the circumstances.
  -
 
  Happy Holidays all, wish me luck. 🎄🎅✌️
