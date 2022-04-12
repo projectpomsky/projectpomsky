@@ -1,28 +1,40 @@
 Outline
 
-Outline 
+Outline
 
-README 
 
-Security Cameras 
+README
 
-How They Broke In 
 
-Motive 
+Security Cameras
 
-My Credibility 
 
-Daily Occurrences 
+How They Broke In
 
-As of Nov 12, 2021 
 
-As of Nov 15, 2021 
+Motive
 
-As of Nov 16, 2021 
 
-As of Nov 18, 2021 
+My Credibility
 
-As of Nov 20, 2021 
+
+Daily Occurrences
+
+
+As of Nov 12, 2021
+
+
+As of Nov 15, 2021
+
+
+As of Nov 16, 2021
+
+
+As of Nov 18, 2021
+
+
+As of Nov 20, 2021
+
 
 As of November 22, 2021
 
@@ -51,53 +63,71 @@ Indicators of being hacked
 Timeline (Rough Draft)
 
 
-~2006 
+~2006
 
-~2007 
 
-~2008 
+~2007
+
+
+~2008
+
 
 Before Father’s Death
 
 
-~2009 
+~2009
 
-Dusty and Cindy 
 
-2010 
+Dusty and Cindy
 
-Divorce/Move Out 
 
-Father’s Death 
+2010
+
+
+Divorce/Move Out
+
+
+Father’s Death
+
 
 Right After Father’s Death
 
 
-~2011 
+~2011
 
-Trust/College 
 
-2013 
+Trust/College
 
-Graduation 
 
-Eyes of a Killer 
+2013
 
-2015 
+
+Graduation
+
+
+Eyes of a Killer
+
+
+2015
+
 
 Before Sister’s Death
 
 
-Sister’s Death 
+Sister’s Death
 
-~2016 
+
+~2016
+
 
 After Sister’s Death
 
 
-2018 
+2018
 
-2019 
+
+2019
+
 
 Brother Distancing/Time Off
 
@@ -108,24 +138,32 @@ Last Visit/Website/Brother Hacking
 Someone Tries to Fill My Prescriptions
 
 
-Testing My Brother 
+Testing My Brother
 
-First Poisoning 
 
-2020 
+First Poisoning
 
-Second Poisoning 
 
-2021 
+2020
 
-Gun Pulled On Me 
+
+Second Poisoning
+
+
+2021
+
+
+Gun Pulled On Me
+
 
 Witness Intimidation
 
 
-EMF 
+EMF
 
-Hotels 
+
+Hotels
+
 
 Eagles Incident - Murder by Suicide Plot
 
@@ -145,11 +183,14 @@ Tampering with my electricity
 Radiation poisoning
 
 
-Infrasound 
+Infrasound
 
-Keys 
 
-2022 
+Keys
+
+
+2022
+
 
 As of December 15, 2021
 
@@ -160,11 +201,14 @@ As of December 17, 2021
 My Analysis of Timeline
 
 
-Father 
+Father
 
-Sister 
 
-Me 
+Sister
+
+
+Me
+
 
 As for any questions about me.
 
@@ -202,9 +246,11 @@ As of December 29, 2021
 As of December 30, 2021
 
 
-Part 1 
+Part 1
 
-Part 2 
+
+Part 2
+
 
 As of December 31, 2021
 
@@ -227,7 +273,8 @@ As of January 3, 2022
 As of January 4, 2022
 
 
-Random Thought 
+Random Thought
+
 
 As of January 7, 2022
 
@@ -295,7 +342,8 @@ As of February 6, 2022
 As of February 7, 2022
 
 
-February 8, 2022 
+February 8, 2022
+
 
 Lesson - RF/Waves/Hacking
 
@@ -350,7 +398,8 @@ Latest Potentially Significant IPs and Email Tampering Logs
 Electromagnetic Spectrum Health Effects Video
 
 
-Graphene Microchip 
+Graphene Microchip
+
 
 As of March 10, 2022
 
@@ -358,11 +407,14 @@ As of March 10, 2022
 What Putin is Doing
 
 
-Final Answer 
+Final Answer
 
-References 
 
-Art of War Quotes 
+References
+
+
+Art of War Quotes
+
 
 As of March 12, 2022
 
@@ -370,9 +422,11 @@ As of March 12, 2022
 As of March 14, 2022
 
 
-Part 2 
+Part 2
 
-Part 3 
+
+Part 3
+
 
 What their tunnel in my house sounds like
 
@@ -392,7 +446,8 @@ Twitter Observation
 Oddity at Doctors Office the Other Day
 
 
-How would you feel 
+How would you feel
+
 
 As of March 20, 2022
 
@@ -403,7 +458,8 @@ We need to support Ukraine 🇺🇦
 Potential Russian Mafia “Signals”
 
 
-Water Tampering 
+Water Tampering
+
 
 More on the Microchips
 
@@ -414,11 +470,14 @@ My superpower💪 === Ability to see through people 👓
 As of March 22, 2022
 
 
-Status Update 
+Status Update
 
-Hacker People 
 
-My Brother 
+Hacker People
+
+
+My Brother
+
 
 As of March 24, 2022
 
@@ -432,9 +491,11 @@ Russia is Root of ALL Our Problems
 As of March 26, 2022
 
 
-Gangstalking 
+Gangstalking
 
-If It Helps 
+
+If It Helps
+
 
 As of March 28, 2022
 
@@ -446,6 +507,9 @@ As of March 30, 2022
 
 
 Be on the lookout for possible Russian EMF satellite targeting US
+
+
+As of April 2, 2022
 
 
 
@@ -2259,7 +2323,6 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
-​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -7661,8 +7724,8 @@ system for instance. Therefore even alarm systems are vulnerable to the
 same attack as a car remote now thanks to software defined radio and the
 potential of hackers monitoring the radio spectrum. Simply Safe used to
 never even encrypt their devices' communications either btw, before their
-latest model came out. (​​https://www.nimblefreelancer.com/simplisafe-hack/
-) But like I said, even with encryption–a hacker with a software defined
+latest model came out. (https://www.nimblefreelancer.com/simplisafe-hack/ )
+But like I said, even with encryption–a hacker with a software defined
 radio can still bypass it after enough monitoring even if it is encrypted.
 (The same is true with our brains btw)
 
@@ -9356,7 +9419,6 @@ called biohacking. See the following links. But the one in my case is wayyy
 more sophisticated, plus I didn’t do it to myself, and therefore I have no
 way to turn it off by myself.
 
-​​
 https://twitter.com/drkiki/status/1168299777424908288?s=20&t=r4TnY99zwvl2yJbyM9FV5Q
 
 https://dangerousthings.com/category/implants/x-series/
@@ -10571,6 +10633,7 @@ and monarchies were the norm.
 
 Please don’t forget to read
 https://docs.google.com/document/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAzWHylE/edit#heading=h.5pj2htfgtk07
+
 
 
 To be clear, I think they might be planning on targeting me again over the
@@ -11904,12 +11967,12 @@ satellite versions) Then I read something about them stroking the
 atmosphere just right to create the infrasound, but they’ve also shown me
 they use these advanced algorithms and can create crazy sound effects from
 literally any speaker system as well. Is it sine wave Algorithms?
-Algorithms that build on each other to where the sound waves literally like
-build up and start resonating and bouncing off of literally everything in
-my whole room—including other sound waves—it’s nuts. They’ve even done it
-from my own speakers previously when they hacked my phone when I was
-playing my own infrasound to try and counter them—they ended up using my
-own speakers against me. But yea, either I need some type of specialized
+Algorithms that build on each other to where the infrasound waves literally
+like build up and start resonating and bouncing off of literally everything
+in my whole room—including other infrasound waves—it’s nuts. They’ve even
+done it from my own speakers previously when they hacked my phone when I
+was playing my own infrasound to try and counter them—they ended up using
+my own speakers against me. But yea, either I need some type of specialized
 shield emitting device or I need to just figure out a way to disable these
 damn microchips…
 
@@ -12008,10 +12071,104 @@ this time tbh. My brother would know tho ;) But it’s not just companies
 that need to watch out is what I’m getting at–it really is normal people.
 Russia exploits the fact that there is no legit intrusion detection systems
 protecting normal household networks, and they get into corporations
-through that means.
+through that means. (They get into corporations through the
+people/employees//homes they exploit–even if the corporation has stellar
+security–guess what? They can simply exploit an employee through their home
+network and threaten to give up dirt on them and get those people to do
+what they want them to do)
+
+As of April 2, 2022
+
+You guys this is not ideal. The damn vaccine cards don’t even show the
+nurse’s name that gave me the vaccine. If any pharmacy or doctors office
+had more than one person on duty giving vaccines then it makes it harder to
+be able to identify who microchipped who. I can say the lady who did it was
+a middle age I think blonde lady–the same lady gave me both shots. But
+these vaccine cards really should name who gave the shots to enable direct
+accountability in situations like this. Maybe if the vaccine cards required
+their names then this never would have happened cuz the nurse would have
+been too scared.
+
+https://drive.google.com/file/d/1Z3hisev1Rom25BeYQ8zlebz6EOsSFXyg/view?usp=sharing
 
 
--- 
+We really need to start emphasizing protecting our citizens in terms of
+cyber security you guys–not just corporations–I’m not joking. Russia has
+already been exploiting us since the Ukraine war started–they just exploit
+individual people directly and then use those people to exploit the
+corporations. How else do you think they get into corporations to begin
+with? Even if the corporation has stellar security–guess what? They can
+simply exploit an employee through that employee’s home network and
+threaten to give up dirt on them and get those people to do what they want
+them to do within that person’s corporation to also exploit the
+corporation. That’s by far the best way to do it from what I gather.
+Because then it also shields the Russians from direct accountability
+themselves, cuz it adds another layer. And it’s virtually fail proof.
+People are the weak link. And you guys haven’t even reported it’s been
+happening yet which is a huge green light for them to continue. Seriously
+if we got this figured out then Russia would stop their damn war in Ukraine
+in my opinion–or at very least they’d stop being so brutal. If we figured
+this out we might actually save our damn country as well tbh. Our
+adversaries getting all this data on all our citizens now could have huge
+consequences on our future. Sometimes I feel like we are stuck in the past
+or something as a country. We never think outside the box. We don’t seem to
+experiment with very many next generation warfare tactics/techniques–and we
+don’t even officially recognize they next generation warfare techniques are
+being used to drastically undermine us. We just keep upgrading our
+conventional military and we never seem to adapt to the latest threat
+landscape. Nukes are essentially no good at maintaining world order nor is
+our conventional military when it’s a fellow nuke holder that is causing
+all the havoc, we should have known this a long time ago and started
+spending some of our humongous military budget on some of these other
+techniques.
+
+All this outrage Russia is causing right now is an excellent way for them
+to infect tons and tons of home networks btw. Who knows, they might have
+even come after me in part because I’d be a good benchmark for them in what
+they could realistically expect from a better-than-average home network.
+Meaning whereas they have now gotten past everything I’ve tried in regards
+to cyber security within my own home network–then the likelihood they could
+get past 99 percent of the remaining home networks is actually really high.
+I’ve tried everything you guys. Now I’m too hacked to even be able to try
+anything further tbh. Like 98 percent of the tools out there don’t catch
+shit from a foreign intelligence agency. Also, it makes it so their 0days
+can remain 0days for a hell of a lot longer if they approach it all that
+way. Just a thought..
+
+I found a way to be able to tell if they get into my safety deposit box or
+not for the time being btw. I got some single-use locks or seals that each
+have their own unique number on them then I made them even more unique by
+engraving/writing on them–just incase they could buy similarly numbered
+single-use locks on amazon. Then I added 2 of them to my security deposit
+box securing all my evidence. So not only do they now have to take a
+picture of my key, 3D print it, create a fake ID, hack my bank’s camera
+system, and risk going in there, but they also have to try and recreate
+these exact same engravings on the exact same numbered single-use lock–in
+order for them to get anywhere near my evidence without facing bank robbery
+charges essentially. So yea, that’s a plus. But to be clear–I want most all
+that stuff in my safety deposit box going to the police sooner or later
+regardless however–whether I’m alive or dead or not.
+
+See here for what the single-use locks on my safety deposit box should look
+like:
+
+https://drive.google.com/drive/folders/1S6W2PAfB0ts3Gg0XTUV55\_eSJBkKBcrh?usp=sharing
+
+
+Still figuring out microchips.
+
+Still figuring out tunnel.
+
+Still figuring out water poisoning situation.
+
+Still figuring out how to ultimately protect myself from their targeting me
+at nighttimes with jets and satellites, trying to give me cancer, etc, etc.
+
+I can’t refinance my house at this time thanks to the attackers causing me
+to not have two recent prior pay stubs to provide the lender.
+
+Still figuring out how to get the hell out of here and where to go and how
+to get away from them.
 
 Chase Gibbons  / Manager
 435-999-4722
