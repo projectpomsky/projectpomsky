@@ -11534,7 +11534,7 @@ Imagine brushing your teeth and having it hurt your teeth more than it
 helps. This one has a direct link back to my brother–he was accusing my mom
 of this but in reality he was telling me what he was going to do to me come
 to find out. This one is meant to get me not to brush my teeth or else face
-potential tooth loss if I do. (Unless I buy brand new toothpaste and
+potential tooth loss if I do. (Unless I buy brand new sealed toothpaste and
 toothbrush each time which I’ve been trying to do)
 
 Imagine putting everything in your brand new 3rd safe you just bought. Safe
@@ -11554,17 +11554,20 @@ asleep—then it’s a potential death sentence for me. They will use their
 electromagnetic energy weapon to change the polarity of my brain to sedate
 me then they’ll come get access to my prescriptions right out of my pocket
 and tamper with them via their tunnel—and that’s assuming they’ll even
-allow me to fall asleep elsewhere in the first place.
+allow me to fall asleep elsewhere in the first place. Sometimes they
+deliberately try and make me fall asleep–other times they deliberately try
+and keep me awake. Just depending on what it is they are trying to do at
+the time and how exposed I am, etc, etc.
 
 Imagine the prospect of using the restroom. Having to dodge their
 deliberate attempts to target you whenever you use the restroom as if they
-are trying to condition you not to eat anymore so that you don’t have to
-deal with their harassment when using the restroom as often. I think they
-specifically target me while using the restroom both for this reason and
-because that’s one of the reasons one wakes up at nights randomly. So them
-getting the signatures of my brain needing to use the restroom further
-ensures they won’t get caught when tampering with me during the nighttimes
-essentially–if i am left unprotected.
+are trying to condition you not to eat anymore just so that you don’t have
+to deal with their harassment when using the restroom as often. I think
+they specifically target me while using the restroom both for the trying to
+make me skinny reason and because that’s one of the reasons one wakes up at
+nights randomly. So them getting the signatures of my brain needing to use
+the restroom further ensures they won’t get caught when sedating me and
+tampering with me during the nighttimes going forward essentially.
 
 Imagine getting ready to leave the house. No big deal right? Wrong. Huge
 freaking deal. I’ve got to make sure literally everything is in place, and
@@ -11573,6 +11576,15 @@ compromised another one of my countermeasures making it so I have to then
 reset my phone or reset my network or reset my security system or buy a new
 one just to have even like 50 percent confidence that they won’t get in my
 house while I’m away, etc, etc.
+
+Imagine trying to do everything in your power to keep them off your devices
+only to fail every single time. Their malware I swear doesn’t even go away
+when completely resetting the operating system. And whenever I do have a
+new computer or what have you then they can just use their x-ray vision
+and/or electromagnetic technology to view my keypresses/view my screen, and
+when paired with their tunnel they can just get in and tamper with it
+directly in person–which no hardware can be immuned from direct physical
+access.
 
 Imagine going to sleep at night. No big deal right? Wrong. I’ve got to
 sleep in a faraday cage. I’ve got to make sure my whole freaking house is
