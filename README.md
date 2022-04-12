@@ -11621,15 +11621,17 @@ for if I say this guy was acting all suspicious outside my house then when
 I got home it smelled like weed. In reality that guy was acting all
 suspicious outside my house and it did smell like weed when I got home
 however it was specifically set up to make me look bad and it smelt like
-weed in my home likely do to some gas or some capability they added to my
+weed in my home likely due to some gas or some capability they added to my
 furnace previously. It was meant as a false flag in that case. So what I’m
-getting at is they never make it simple–they always make it look like it’s
-someone it’s not when in reality everyone is in on it. I am confident they
-have a tunnel btw, I’m going to be renting out a ground penetrating radar
-soon to find their tunnel seems they can’t hide their tunnel just cuz they
-know I’m going to be searching for it. Finding their tunnel will also make
-it so I don’t have to bother renting another place out. It will also lead
-us directly to the culprit if found.
+getting at is they never make it simple or straightforward–they always
+deliberately make it look like it’s someone it’s not when in reality everyone
+is in on it whether they realize it or not but they only know their part.
+
+I am confident they have a tunnel btw, I’m going to be renting out a ground
+penetrating radar soon to find their tunnel seems they can’t hide their
+tunnel just cuz they know I’m going to be searching for it. Finding their
+tunnel will also make it so I don’t have to bother renting another place
+out. It will also lead us directly to the culprit if found.
 
 Imagine the prospect of leaving your car and the possibility of them
 getting inside it whenever they choose. I often leave my phone recording
@@ -11669,9 +11671,9 @@ with. My brother literally is the key to all of this. If you can force him
 to turn on all these people we’d be set. The hackers have even indicated to
 me he’s the leader of this sect so you should really pursue Dusty on murder
 of my family charges if nothing else. He's also likely critical to both the
-nanotechnology and infrasound. I don't even want to know how many people
-he's murdered or manipulated others into murdering at this point tbh.
-
+nanotechnology and infrasound/ultrasound. I don't even want to know how
+many people he's murdered or manipulated others into murdering at this
+point tbh.
 
 Chase Gibbons  / Manager
 435-999-4722
