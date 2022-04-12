@@ -3421,13 +3421,13 @@ of all he’s ever done to build up that much capability over his lifetime.
 If Dusty really is coordinating it all on a day to day basis, why hasn’t he
 been caught yet? That’s all I’m saying. That’s why I think it might be a
 hired specialized entity or country, with just mere occasional input from
-dusty.
+dusty. But then again this did all start for me at least when Dusty opened
+up his recording studio and distanced himself from everybody in 2019.
 
-Anyways, I’m going to be honest as always, what I’m experiencing now is
-what one might expect to experience if a hostile foreign government or some
-highly capable entity were realistically trying to hack a person’s mind
-through one or more microchips using AI to encode/decode the mind in
-various stages, and to map it all out.
+Anyways, what I’m experiencing now is what one might expect to experience
+if a hostile foreign government or some highly capable entity were
+realistically trying to hack a person’s mind through one or more microchips
+using AI to encode/decode the mind in various stages, and to map it all out.
 
 First I suspect they brute forced my brain by emf/ef/rf-ing me, in part I
 suspect to try and make sense of all the different electrical signals
