@@ -12780,6 +12780,9 @@ court whatsoever)
 
 https://drive.google.com/file/d/1w3MAAa5ZL9\_VXvKcekeuzmTjnqvtRwtC/view?usp=sharing
 
+https://drive.google.com/file/d/1DPheTyRiKmxoQ2sNgWDz9ExcEuaBZgdi/edit?disco=AAAAXd-FCtI
+
+
 https://drive.google.com/open?id=1DPheTyRiKmxoQ2sNgWDz9ExcEuaBZgdi&disco=AAAAW3m27AM
 
 
@@ -13206,13 +13209,9 @@ trust instead of just my will for that reason. So that if my estate wins a
 massive damage payout later then I can continue to make donations to them
 even after I’m long gone.
 
-Chase Gibbons  / Software Development
+Chase Gibbons  / Manager
 435-999-4722
 
- 
-595 S Riverwoods Pkwy, Suite 250Logan, UT 84321
-rentdynamics.com 
 
-[image: Twitter]  [image: Facebook]
- [image: LinkedIn]
-
+PO Box 747Logan, UT 84321
+gfic.io  
