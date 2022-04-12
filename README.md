@@ -1807,6 +1807,7 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
+​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -6084,6 +6085,81 @@ btw) He like does everything in the smartest way possible I swear.
 
 I can’t wait until he actually gets caught and/or is actually held
 accountable for once. I hope that day comes sooner than later.
+
+As of January 27, 2022
+
+It’s totally Russia. My bro must have went and sought out their help when
+he first realized he was busted. That might be about the only smart thing
+my brother did. Everything else can be attributed to one or more foreign
+super powers pretty much. But Dusty is totally now seemingly at least
+cooperating with Russia and/or China.
+
+I googled earlier “how to beat someone like russia” and it pulled back the
+following article (
+https://www.rand.org/blog/2020/07/how-you-can-fight-russias-plans-to-troll-americans.html)
+then I started digging deeper into “reflexive control theory” and I
+realized again that what they are doing to me is all totally indicative of
+someone like Russia and/or China cooperating alongside my brother.
+(Poisonings and hacking and microchips and whatnot—those are all things
+Russia and China are notorious for)
+
+Lookup “reflexive control theory” for yourself. It’s very interesting. No
+wonder my bro is so secretive these days.
+
+Essentially what I suspect they are doing as of most recently is trying to
+get me to believe all this is being done by anybody other than Russia,
+hence why I keep going back and forth and back to them again. But I totally
+caught them the other day actually reacting genuinely to what I was doing
+at the time when I first accused these guys of being secret Russian agents.
+In thinking back on it, after reading about “reflexive control theory”, I
+could totally tell the hackers were not just simply trying to mislead me
+that time in their response to my writing too—I essentially was able to
+retroactively apply “reflexive control theory” back at them in this case
+given that was a genuine reaction when 3 different people logged in to view
+what I was writing at the time—and wallah—I swear to god it’s totally some
+foreign adversary working alongside my brother somehow.
+
+The key is to call out their manipulation apparently—in order to defeat
+their reflexive control tactics. So that other people aren’t fooled.
+
+I guess I would have done something similar as my brother had I actually
+murdered someone myself in some parallel universe. (I.e. sought out help
+from a foreign adversary) But I’m not a murderer myself—and I care about
+more than just myself—that’s the difference. (Plus I’m not a traitor
+either) And so now it’s just like I somehow got to take down a whole super
+power adversary just to get to my brother now pretty much—which is just
+total bs tbh.
+
+I do strongly suspect our adversaries could be legit collaborating with
+localized crime groups and using our own hackers against us—to try and
+destabilize America in their attempt to defeat us from within. Plus, at
+least in my view, the only way to defeat a super power in this day and age
+is from within, without suffering irreparable damage yourself, when you
+really sit down and think about it.
+
+See this medium article I wrote for more details on my global politics
+theory. It’s just a theory—take it with a grain of salt. Still a wip. It
+does at least somewhat line up with some recent events however..
+
+https://link.medium.com/wsiruG3Ganb [Opinion]
+
+My bro must have totally played these guys tho on how big an influencer I
+really was lol—to get their support to help him try and discredit me in the
+first place. (Or else he gerry rigged them somehow)
+
+Regardless, what do I do now? Sue anonymous? (the hacking gang) Plus Dustin
+Bay, Kyle French, Dusty’s roommate Erik, and Russia? China too? Lol—yea
+right.
+
+What I plan to do is continue to call them out. And pray our own military
+is on top of this kind of thing assuming I am at least partially right in
+all this.
+
+I’ll share some direct evidence on why I think Russia is at least partially
+involved shortly I promise.
+
+
+-- 
 
 Chase Gibbons  / Manager
 435-999-4722
