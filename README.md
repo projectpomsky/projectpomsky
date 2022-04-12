@@ -10751,7 +10751,9 @@ to it than just that. Russia never just does one thing at a time. They
 always set up like 2-3 things at a time—they always set themselves up for
 the future and nothing is ever as it may seem with them. Putin is planning
 something big that could impact the whole world—I just know it. They got so
-many different secret weapons it’s insane. Russia is currently in the
+many different secret weapons it’s insane. I read Russia never really
+stopped with the cold war, they just fixed their wounds and began
+preparations for the next round essentially. Russia is currently in the
 driver's seat with this whole operation and we need to change that. We need
 to start thinking outside the box like them. We need to start being more
 secretive about things ourselves. That is one of the only downfalls to an
@@ -10832,23 +10834,24 @@ with fireworks seemingly used as some kind of a ritual or offering to satan
 prior to their killings, etc, etc. You guys seriously need to arrest my
 brother before he kills anybody else. And we seriously need to take out the
 kremlin before they bring about the apocalypse. They are acting incompetent
-right now intentionally btw. Think back to the “Art of War” quotes. That’s
-exactly what they want us to think. After a certain point it becomes
-ridiculous to think any world power could really be that incompetent–let
-alone Putin who is known for his planning and intelligence. Don’t fall for
-it. Anything that seems too good to be true probably is. It’s just like
-when they do something that seems blatantly obvious with me but in reality
-nothing they ever do is blatantly obvious and so whatever seems blatantly
-obvious is likely meant as a false flag operation instead. It’s hard as
-hell to truly catch them making any mistake–believe me. And you’ll know it
-when you do. I’ve gotten one hidden camera video of them throughout this
-whole ordeal thus far that I’m aware of for instance. I’m still working on
-combing through some of my other hidden camera footage tho, they are able
-to go through all my footage before I do even still tho is the problem. And
-they have x-ray vision and they monitor me 24/7. So they know where any
-hidden cameras are placed. I know it sounds crazy but I promise you it’s
-the truth. That’s the real Russian intelligence agency capabilities for
-you..
+right now intentionally btw. Think back to the “Art of War” quotes. (
+https://docs.google.com/document/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAzWHylE/edit#heading=h.tkub716t2odj
+) That’s exactly what they want us to think. After a certain point it
+becomes ridiculous to think any world power could really be that
+incompetent–let alone Putin who is known for his planning and intelligence.
+Don’t fall for it. Anything that seems too good to be true probably is.
+It’s just like when they do something that seems blatantly obvious with me
+but in reality nothing they ever do is blatantly obvious and so whatever
+seems blatantly obvious is likely meant as a false flag operation instead.
+It’s hard as hell to truly catch them making any mistake–believe me. And
+you’ll know it when you do. I’ve gotten one hidden camera video of them
+throughout this whole ordeal thus far that I’m aware of for instance. I’m
+still working on combing through some of my other hidden camera footage
+tho, they are able to go through all my footage before I do even still tho
+is the problem. And they have x-ray vision and they monitor me 24/7. So
+they know where any hidden cameras are placed. I know it sounds crazy but I
+promise you it’s the truth. That’s the real Russian intelligence agency
+capabilities for you..
 
 Water Tampering
 
@@ -10991,8 +10994,9 @@ change your mind if the bulk of the evidence permits. Plus
 reading/listening to a book or two on psychology and manipulation is a must
 in this day and age. Then practice makes perfect as with anything. 😉 Hard
 work and determination too I guess. Lose your ego. Ask good questions. Be
-honest. Have a little integrity. And utilize common sense. But yea, that’s
-really all there is to it.
+honest. Don’t be afraid to stand up for what is right. Have a little
+integrity. And utilize common sense. But yea, that’s really all there is to
+it.
 
 Like Mike Lee for instance. How the hell does he have so much money to air
 all these ads literally like months and months before anybody else and he
