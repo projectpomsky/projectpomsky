@@ -3493,7 +3493,7 @@ going to do with my house and all my current responsibilities, where I plan
 to initially run to, how I’m going to get there, where I’m going to reside
 when I get there, and then what I’m going to do once I’m there.
 
-As of December 30, 2021
+As of December 30, 2021Part 1
 
 What these people are doing with the feed from my brain to my eyes might
 actually be caused by another variation of infrasound based on me
@@ -3591,23 +3591,28 @@ Regardless, thank you for reading. Thank you for your help as well, it’s
 been a little better lately, at least in terms of them not stealing my
 keys, not constantly breaking into my house, etc, etc. Happy new year!
 
-P.s. I’m not giving up btw. They made a huge mistake in admitting to
+Part 2
+
+I’m not giving up btw. The hackers made a huge mistake in admitting to
 killing my dog the other day—regardless of whether they did or not. My dog
-was a local celebrity. What I suspect they are trying to do is make any
-memory of my dog be a bad one—but that was a bad move—and I simply refuse
-to let that happen. (It’s more Charles Manson psychology tactics I suspect,
-I swear to god dusty is more Charles Manson than Charles Manson himself)
+was a local celebrity. Shit like cemetery sound clips don’t just play on my
+computer out of nowhere like that. What I suspect they were trying to do is
+make any memory of my dog be a bad one—but that was a bad move—and I simply
+refuse to let that happen. (It’s more Charles Manson psychology tactics I
+suspect, I swear to god dusty is more Charles Manson than Charles Manson
+himself)
 
 Regardless, Dusty needs some serious help. I hope you all will join me in
 helping to ensure dusty is brought to justice, if not for me, if not for
-karie or my father—but for turbo. What dusty does to all these
-people/animals makes him deserving of being locked up for the rest of his
-life at the end of the day—easily—regardless of how smart he is. I’m happy
-to do whatever is necessary to bring down such a horrific person who
-happens to be my brother. He tries making my life and turbo's life and the
-lives of my loved ones miserable for no reason other than for his own
-personal enjoyment. I said my kryptonite is my love for my brother—and it
-is—but dusty can fuck off as far as I’m concerned at this stage.
+karie or my father—but for turbo. Dusty/the hacker(s) have admitted to
+killing all of them in similar ways previously. What Dusty does to all
+these people/animals makes him deserving of being locked up for the rest of
+his life in my opinion—easily—regardless of how smart he is. I’m happy to
+do whatever is necessary to bring down such a horrific person who happens
+to be my brother. He tries making my life and turbo's life and the lives of
+my loved ones miserable for no reason other than for his own personal
+enjoyment. I said my kryptonite is my love for my brother—and it is—but
+dusty can fuck off as far as I’m concerned at this stage.
 
 Dusty for some reason seems to only get enjoyment out of hurting and
 controlling others these days which is not okay. In a way, this is like an
@@ -3618,39 +3623,60 @@ life in prison btw. But yea, dusty leaves me very little choice but to try
 and get him locked up. I therefore could honestly use all the help I can
 get because I’m completely outnumbered here and I didn’t even know I’d one
 day be forced to play this fucked up game of my brothers just to stay alive
-and avenge my loved ones until I was literally in the middle of it.
+and avenge my loved ones until I was literally smack in the middle of it.
 
-Dusty didn’t like that, he’s now trying to control me through his
-microchip… Time to put my ear plugs back in…
+Dusty didn’t like me writing that last part apparently, he’s now trying to
+control me through his microchip… Time to put my ear plugs back in…
 
 I’ll say it again–worst brother ever. Name one person who would be a worse
 brother than this for me to have given my intelligence and my ability to
-see through their shit. One person. I’ll switch you brothers. I’d honestly
-recommend my whole family get the fuck away from Dusty at this stage–at
-least until he’s caught–and stay away from shots especially if you have any
-suspicions you might be hacked..
+see through their shit. One person. I’d honestly recommend my whole family
+get the fuck away from Dusty at this stage–at least until he’s caught–and
+stay away from shots especially if you have any suspicions you might be
+hacked..
 
-I now suspect Dusty can fuck with me through both infrasound and the
+I now suspect Dusty can fuck with me both through infrasound and the
 mircochip btw. I suspect Dusty’s Ogden Recording Company LLC and/or ELIXEY,
-LLC is really just a weapons testing ground, at least in part.
+LLC could really just be a weapons testing facility, at least in part.
+(infrasound)
 
 https://drive.google.com/drive/folders/1zdqa\_VIphs-zzLY19\_MhPtxCfHxtjN4p?usp=sharing
 
-I do think Dusty has tampered with some of my evidence already btw. I saw
-some of the files get reloaded in the background multiple times last time I
-logged into the account that owns that main hacking\_poisoning notes folder
-when I was merely just reading through and commenting on some of the
-files..
+I do suspect Dusty may have tampered with some of my evidence already btw.
+I saw some of the files get reloaded in the background multiple times last
+time I logged into the account that owns that main hacking\_poisoning notes
+folder when I was merely just reading through and commenting on some of the
+files to link to as references later.. (And files only reload like that
+when a new file is uploaded, plus that account I purposely never log into
+for that exact reason–to avoid tampering)
 
 Now it’s not just hacking and assault and poisoning and emf-ing and
-infrasound and explosions I have to worry about with my brother–he can
-legit start fucking with my brain to try and negatively reinforce what I’m
-doing.. (He’s the new Charles Manson)
+infrasound and attempted explosions and attempted gassings I have to worry
+about with my brother Dusty–he can now legit start fucking with my brain
+through a nanotechnology microchip he somehow had put into I suspect my
+vaccine to try and negatively reinforce whatever I’m doing.. (He’s the new
+Charles Manson)
 
 If he really loved me I don’t think he’d be doing all of this to me. My
 only thing is it’s hard for me to stop loving my family–regardless of what
-they put me through. But I really think Dusty needs some help–he’s a clear
-threat to society.
+they put me through. I love my brother so freaking much. But I really do
+think Dusty needs some serious help. He enjoys hurting others.
+
+
+Dusty didn’t even show up to the appointment I made for him and I to go see
+the psychologist together previously. (Even though he originally indicated
+he would)
+
+Dusty never stops–he will never stop unless he’s completely forced to–he’s
+shown me that time and time again.
+
+My hope is Dusty gets charged with something that will just cause him to
+wake the hell up and stop hurting people. Losing him for the rest of my
+life would be really really tough. But I'll likely always fear when he gets
+out for anything less than that. These are all my honest/genuine emotions.
+
+I have little doubt he’s going to end up sending at least one person to
+follow me wherever I end up..
 
 Chase Gibbons  / Manager
 435-999-4722
