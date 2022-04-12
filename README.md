@@ -1251,12 +1251,32 @@ Graduated from Logan High School.
 
 ~2008
 
+Before Father’s Death
+
 I started going to college in I think 2008, but I didn’t take it seriously
 at first and I ended up applying for a leave of absence and going to work
 at icon instead. (Which showed me what life would be like if I didn’t get a
 degree)
 
-~2009
+My father, Tim Gibbons, (
+https://drive.google.com/file/d/1eElmCgTJMhIZGUrNWuxHT6BjtmO0vbHd/view?usp=sharing
+) took me fishing in Alaska. My father told me Dusty would not be joining
+us that time because he was in trouble essentially.
+
+My father develops an “infection” by supposedly bumping into a bedframe at
+night supposedly in Alaska. (According to my father) It was in one of his
+feet, he ultimately had to get one of his big toes cut off.
+
+I recall we went to Alaska fishing twice. Dusty came one of the times. I
+think Dusty came the second time because my dad must have felt bad or
+something about Dusty being excluded the first time, idk, I just remember
+going to ketchikan fishing twice. My father got some infection in his foot
+that bothered him for the rest of his life. (In a lot of ways, my dad’s
+final days remind me of myself right now–like being completely torn down
+and whatnot, my dad having to get his toe chopped off, my dad having his
+wife threaten to divorce him, etc–only with me it’s a little different but
+it’s very much along the same lines of being humiliated and torn down prior)
+~2009Dusty and Cindy
 
 Dusty, my brother, (
 https://drive.google.com/file/d/16htiaOfvTWqNEHQNWD\_h4aIrhLKcB1dm/view?usp=sharing
@@ -1269,28 +1289,22 @@ alcohol myself, I’d occasionally drink during parties or whatever, plus I
 was always hanging out with my girlfriend, Annie, all the time around this
 time myself, whenever I wasn’t working at the assembly line at icon.
 
-My father, Tim Gibbons, (
-https://drive.google.com/file/d/1eElmCgTJMhIZGUrNWuxHT6BjtmO0vbHd/view?usp=sharing
-) took me fishing in Alaska. My father told me Dusty would not be joining
-us that time because he was in trouble essentially.
-
-My father develops an “infection” by supposedly bumping into a bedframe at
-night supposedly in Alaska. (According to my father) It was in one of his
-feet, he ultimately had to get one of his big toes cut off.
-
-
-
 2010
+Divorce/Move Out
 
 I hear from my father that Cindy, his wife at the time, may be divorcing
 him and that Dusty and I needed to find another place to live.
 
-A little while after my father had to get his toe cut off, my brother Dusty
-(Aka Dustin, aka Baze) supposedly finds our dad unresponsive after
-returning from the gas station closeby. He finds our father laying in the
-middle of the hallway next to the piano where he supposedly proceeded to do
-CPR on him and call the paramedics. My father was on his way out the door
-to pick up my little sister, (half sister) Taylor, (
+Father’s Death
+
+A little while after my father had to get his toe cut off, and shortly
+after my dad told us we had to move out, my brother Dusty (Aka Dustin, aka
+Baze) supposedly finds our dad unresponsive laying face first on the ground
+in the hallway after returning from the gas station closeby. He finds our
+father laying in the middle of the hallway next to the piano where he
+supposedly proceeded to call the paramedics and do CPR on him. My father
+was on his way out the door to pick up my little sister, (half sister)
+Taylor, (
 https://drive.google.com/file/d/1QwC3FA8S1wsD7\_XoQW77Izx3nw0WBYh7/view?usp=sharing
 ) from the mall at the time when my dad apparently went down face first in
 the middle of the hallway. My brother apparently called some of his friends
@@ -1305,22 +1319,29 @@ on that day or the next day.
 
 While in my bedroom downstairs with my girlfriend at the time, Annie, my
 brother comes downstairs to get us and to inform us of what is going on
-upstairs. When we get halfway up the stairs we see there are paramedics
-working on my father who is laying in the middle of the hallway next to the
-piano--unresponsive to the paramedics.
+upstairs. (Our dad’s house was set up to where Annie and I hardly ever even
+went upstairs because we had our own entrance from the back downstairs btw,
+I don’t think I had been upstairs all day, I know I hadn’t seen my father
+at all that day) When we get halfway up the stairs after Dusty came and got
+us, we see there are paramedics working on my father who is laying in the
+middle of the hallway next to the piano--seemingly unresponsive to the
+paramedics.
 
 Annie and I follow the paramedics to the hospital. At the hospital we are
 joined by Cindy who was apparently in Ogden at her biker bar at the time.
-When the notion of an autopsy is brought up, Cindy says she doesn’t think
-we need one. I object and say something like well then we’ll never know why
-he died. She responds by saying essentially that if my dad had overdosed
-and we did an autopsy then we would lose out on a million dollar life
-insurance policy. The doctor concurs with Cindy saying he likely died of a
-heart attack. (But the thing is, everyone technically dies by having a
-heart attack, the question is what the heck caused the heart attack to
-begin with) We still don’t know why my dad died--it was very sudden in
-nature. Dusty never went to the hospital even though my dad hadn’t been
-pronounced dead yet when he was taken by the paramedics from our house.
+(But she beat us to Logan Regional somehow) When the notion of an autopsy
+is brought up, Cindy says she doesn’t think we need one. I object and say
+something like well then we’ll never know why he died. She responds by
+saying essentially that if my dad had overdosed and we did an autopsy then
+we would lose out on a million dollar life insurance policy. The doctor
+concurs with Cindy saying he likely died of a heart attack. (But the thing
+is, everyone technically dies by having a heart attack, the question is
+what the heck caused the heart attack to begin with) We still don’t know
+why my dad died--it was very sudden in nature. Dusty never went to the
+hospital even though my dad hadn’t been pronounced dead yet when he was
+taken by the paramedics from our house.
+
+Right After Father’s Death
 
 Dusty graduates and bounces to Ogden--even though he wouldn’t have a job
 for a little over a year.
@@ -1339,6 +1360,7 @@ liked each other all that much.
 
 
 ~2011
+Trust/College
 
 My brother and Cindy quickly become displeased with Karie--and remain
 bitter throughout; they didn’t like the job she was doing as trustee--to
@@ -1356,6 +1378,7 @@ I go back to college determined to take it more seriously this time. Karie
 does a good job at holding me accountable and ensuring I do well.
 
 2013
+Graduation
 
 I graduate from college with my bachelor’s degree in MIS. (Management
 Information Systems) I essentially attribute a lot of my success to the
@@ -1365,6 +1388,7 @@ college beforehand but he never really held me to account for my grades
 previously, etc)
 
 2015
+Before Sister’s Death
 
 I received word from one of my friends at the time, Nick Poppleton, that my
 sister supposedly had cancer. At first i didn’t know which sister he was
@@ -1397,6 +1421,7 @@ had ever met in my life--she was a personal trainer/physical therapist who
 ate all organics, etc--and I don’t think there was any family history of
 non hodgkin's lymphoma in either side of her family)
 
+Sister’s Death
 
 Not long later, that same friend who initially informed me of Karie not
 doing well called me and told me that Karie was on her deathbed at Logan
@@ -1450,6 +1475,7 @@ going to do to her?
 
 
 ~2016
+After Sister’s Death
 
 Dusty treating Karie that way was odd to say the least but at the end of
 the day he was my brother and I loved him/looked up to him. So I gave him
@@ -1506,6 +1532,7 @@ time, she owned a biker bar in Ogden, she had a biker dude stay over at the
 house something like 2 weeks after my dad’s death, etc, etc.
 
 2019
+Brother Distancing
 
 I purchase one of my father’s commercial unit’s from my little sister
 Taylor. (Thereby continuing my father’s legacy)
@@ -1529,6 +1556,8 @@ house a few months later--both with laptops, as soon as they see me peek
 out the window they drive off. I later see the occupants of that van go
 into the child abuser’s house.
 
+Brother Hacking
+
 My brother Dusty asks me to do his website for his new recording studio,
 whereas he had all the sudden distanced himself from everyone, I told him I
 would do it for him just to try and develop some kind of a relationship
@@ -1540,6 +1569,8 @@ my brother has always been difficult to work with.
 I get hacked by my brother through some of his website files he shared with
 me at the time.
 
+Someone Tries to Fill My Prescriptions
+
 The pharmacist at Reeds notified me that someone tried filling my
 prescriptions--striking a nerve with me whereas there was always a small
 seed of doubt in my mind about my father’s death, all his prescriptions,
@@ -1549,6 +1580,8 @@ I knew it had to have been my brother because the pharmacist brought it up
 to me because he wasn’t sure if it was me. (Meaning whomever it was likely
 at least sounded somewhat like me, plus my brother was acting shady as hell
 at the time)
+
+Initial Test/Accusation
 
 I confront my brother about him killing Karie and our father for Cindy,
 over email--just as a test. My brother responded to my email saying
@@ -1563,6 +1596,8 @@ glance at it before it was deleted)
 First perfect circle of black feathers left in my yard right around the
 time I accused dusty of killing our father and sister for Cindy--I didn’t
 know what it was at the time tho.
+
+First Poisoning
 
 My dog and I get poisoned for the first time on our walk--a group of
 Mexicans came up and deliberately put what appeared to be this strange
@@ -1602,7 +1637,7 @@ test and all tests I have thrown his way since then--miserably.
 
 To be continued…
 
-2020
+2020Second Poisoning
 
 Poisoned again this time from a key I left out for a tenant who was
 interested in renting one of my little sister’s commercial units (the unit
@@ -1621,6 +1656,7 @@ lymphoma–which is what Karie died from.
 Again I can tie this second poisoning back to Dusty.
 
 2021
+Gun Pulled On Me
 
 I notify my brother that my dog turbo, is in bad shape, he has multiple
 organ failure and is not going to be around much longer, in trying to give
@@ -1641,6 +1677,8 @@ is his name. I guess he had drugs on him at the time. He’s now facing up to
 My dog Turbo dies literally like 27 hours later. (
 https://drive.google.com/drive/folders/1z5nyeLN4a5-Nyb2fLSiRFfEsj8\_di8hx?usp=sharing
 )
+
+Witness Intimidation
 
 I begin to do a ring neighbors social media post to notify the neighbors of
 what had happened with the suspected stalking/guy pulling a gun on me.
@@ -1672,66 +1710,101 @@ intimately familiar with me. (
 https://drive.google.com/drive/folders/1u5IDbtDskD\_X8bowDJAY9ukE-xuI5MlS?usp=sharing
 )
 
+EMF
+
 Emf started--they made it extra intense on my dog’s would be sixteenth
-birthday. (Night of September 15, 2021) (
+birthday. (Night of September 15, 2021) I hadn’t even thought about my dog
+much that day, I had had a good day. I had actually felt earthquake
+sensations like five days in a row leading up to me actually realizing I
+was being EMF’d on this day, while sitting on my bed each night coding,
+which I was later able to correlate to go hand-in-hand with the EMF stuff.
+So they had been EMF-ing me prior, only on September 15 they made it extra
+intense specifically because it was my dog's birthday. It completely heated
+my head/brain to the point where my head was hot to the touch externally
+and it felt hot internally as well. I had to put ice packs on my head the
+next morning. My whole head/back felt sunburnt the following days.
+
+I reported it to the police for the first time on September 16, 2021. I
+continued speaking to that detective and other officers about the
+subsequent attacks for weeks. Some of the police officers have treated me
+seriously throughout, like that Joseph Escobar detective for instance–I
+liked him. I think he may have been from a different agency or something
+though, but I’m honestly not sure. The cops did show me solidarity I think
+on more than one occasion, however they obviously don’t tell me whether any
+of my tips led to them discovering anything or not directly.
+
+Murder by Suicide Plot
+
+My brother misconstrued a message I sent to him and reported me as being
+suicidal to the police. That particular police officer made me call him
+seems how Dusty was apparently so concerned about me–so I did–Dusty freakin
+hung up on me not even 30 seconds into our conversation. It was bs. Then I
+looked back at the messages Dusty had sent while I was driving home and
+realized he had set it up to be able to social engineer the police. (Acting
+like he was a mormon with kids) So I called the police letting them know
+that whereas social engineering is actually how he hacked me.
+
+
+A few days later my superior at work invited me while at work to goto the
+Eagles bar with him that night at 7pm. I said I would go. This was when we
+were working on my computer being hacked at work and I had been issued a
+brand new computer--and I was being careful as hell with even potentially
+re-exposing the new computer to any viruses through any of my other
+potentially infected devices. Like I would go clear over to the other side
+of the room just to turn bluetooth/wifi on on my phone just to avoid
+infecting the new computer I had been issued, when getting a password off
+my 1password or whatever. I later found out that despite my best efforts,
+the new computer showed similar signs of being infected. (I think my
+brother could have hacked their whole network but I don’t know that
+forsure) Anyways, I went home that night after being invited to the Eagles
+and I recall I was on one of my computers doing something around 7:20pm
+that night when the same kid knocked/rang the doorbell for the seventh
+time. My network was down at the time so this time, once I saw who it was,
+I started recording on my cell phone instead prior to answering. Sure
+enough it was the same kid again, only this time I saw who was directing
+him myself in walking out with my cell phone camera rolling. All previous
+times I had recorded our encounters with my ring video doorbell which
+stayed put in one location. It was the child abuser neighbor guy who was
+directing the kid. As soon as he saw me he tucked back into his garage so
+he couldn’t be recorded, I saw him myself but I don’t think I captured him
+on my cell phone footage. The kid initially said something like “why you
+always working?”, (as if to coerce me to goto the bar seems I was running a
+little late) but then after his dad tucked behind his garage door, the kid
+looked back for direction and didn’t know what to do once he saw his dad
+was now gone. I would be willing to bet the dad had been standing right
+there every single time--because it had become clear the kid was being
+directed. (Which is partly why I call that guy a child abuser, because he
+directs his kid to do shady things and because he clearly had hurt his kids
+previously physically) Anyways, the significance of what the kid said this
+time was the kid was essentially coercing me to goto the bar where I would
+later be poisoned, given how I was late to go to the eagles that evening.
+
 https://drive.google.com/file/d/1r2-oTX8gWahAlVI3CuLgKKTg0p1nw4uT/view?usp=sharing
-)
-
-I reported it to the police for the first time the next day.
-
-Skipping a bunch here for now...
-
-All that culminated with the time my superior at work invited me while at
-work to goto the Eagles bar with him that night at 7pm. I said I would go.
-This was when we were working on my computer being hacked at work and I had
-been issued a brand new computer--and I was being careful as hell with even
-potentially re-exposing the new computer to any viruses through any of my
-other potentially infected devices. Like I would go clear over to the other
-side of the room just to turn bluetooth/wifi on on my phone just to avoid
-infecting the new computer I had been issued, to get a password off my
-1password or whatever. I later found out that despite my best efforts, the
-new computer showed similar signs of being infected. Anyways, I went home
-that night after being invited to the Eagles and I recall I was on one of
-my computers doing something around 7:20pm when the same kid knocked/rang
-the doorbell for the seventh time. My network was down at the time so this
-time, once I saw who it was, I started recording on my cell phone instead
-prior to answering. Sure enough it was the same kid again, only this time I
-saw who was directing him myself in walking out with my cell phone camera
-rolling. All previous times I had recorded our encounters with my ring
-video doorbell which stayed put in one location. It was the child abuser
-neighbor guy who was directing the kid. As soon as he saw me he tucked back
-into his garage so he couldn’t be recorded, I saw him myself but I don’t
-think I captured him on my cell phone footage. The kid initially said
-something like “why you always working?”, (as if to coerce me to goto the
-bar) but then after his dad tucked behind his garage door, the kid looked
-back for direction and didn’t know what to do once he saw his dad was now
-gone. I would be willing to bet the dad had been standing right there every
-single time--because it had become clear the kid was being directed. (Which
-is partly why I call that guy a child abuser, that and because he clearly
-had hurt his kids previously physically) Anyways, the significance of what
-the kid said the last time was the kid was essentially coercing me to goto
-the bar where I would later be poisoned, given how I was late to go to the
-eagles that evening.
 
 Describe eagles bar poisoning incident in full here..
 
-One thing I want to add right now about the eagles bar poisoning is they
-ended up getting in my car while I was at the eagles and put poison in
-there, they also left a bunch of thorn-bush spikes on my floormat that I
-later dumped out thinking they were odd whereas I hadn’t been near any
-thornbushes at all lately and whereas I hadn’t had any thorn bush spikes on
-any of my pant legs or shoes or anything--let alone that many of them. It
-was only after one of the next poisonings where they left similar thorn
-bush spikes on my porch when I put two and two together, that that would be
-a great way for someone to get poison into me internally--and that those
-thornbush spikes were likely left there deliberately--even though the main
-poisoning in the eagles incident came from them leaving some heat activated
-clear substance on I think like my shifter in my car, which I ended up
-getting exposed to 2 separate times because at first I thought it was from
-a guy who came and touched me in the bar that night right before I
-left--when in reality it was that same guy who came and touched me in the
-bar that night although he had been in my car prior--because my whole car
-had wreaked like his cologne.
+One thing I want to add right now about the eagles bar poisoning is I
+suspect they ended up getting in my car while I was at the eagles and put
+poison in there, I suspect they also left a bunch of thorn-bush spikes on
+my floormat that I later dumped out thinking they were odd whereas I hadn’t
+been near any thornbushes at all lately and whereas I hadn’t had any thorn
+bush spikes on any of my pant legs or shoes or anything--let alone that
+many of them. How else did they get in there? It was only after one of the
+next poisonings where they left similar thorn bush spikes on my porch when
+I put two and two together, that that would be a great way for someone to
+get poison into me internally--and that those thornbush spikes were likely
+left there deliberately both times--even though the main poisoning in the
+eagles incident came from them leaving some heat activated clear substance
+on I think like my shifter in my car, which I ended up getting exposed to 2
+separate times because at first I thought it was from a guy who came and
+touched me in the bar that night right before I left the eagles--when in
+reality it was that same guy who came and touched me in the bar that night
+although he had been in my car prior--because my whole car had wreaked like
+this one guy’s cologne. I suspect him coming to touch me before he left was
+essentially him letting me know who was responsible like they all like to
+do–through his cologne. His cologne was very distinct and there was no way
+for my whole car to smell like his cologne from just him barely touching me
+and standing next to me for a minute that evening.
 
 The significance of the thorn bush spikes is what happened to my dad before
 he died? He got some strange “infection” in his foot--leading to him having
@@ -1739,29 +1812,33 @@ to get his big toe cut off. Which occured right around the time my brother
 Dusty had been denied going to Alaska fishing with us.
 
 When they were in my car at the eagles is when I suspect they added the
-capabilities to track my location through my car. It’s also when I suspect
-they stole my garage door opener which they later used to get into my house
-on at least one occasion--before I found out it had gone missing.
+capabilities to track my location through my car, or they did something to
+my car while they were in there I suspect–they never just do one thing they
+always seem to like plan ahead or something. It’s also when I suspect they
+stole my garage door opener which they later used to get into my house on
+at least one occasion--before I found out it had gone missing.
 
-Time they poisoned me which pulled all the blood from my extremities was
-from the eagles incident--on my second exposure to be specific. The first
-exposure I felt while at walmart right after I left the eagles and it made
-me feel drugged. The substance was a clear liquidy substance that doesn’t
-feel like liquid to the touch. The first exposure I noticed from feeling
-drugged out of nowhere–even though I had only had one drink that night at
-the bar. From past experiences I knew I had to wash it off
-immediately--both the first and second exposure. So in walmart I went
-directly to the bathroom and washed off my hands and where that guy had
-touched me, and I started feeling better. The second exposure that night
-legit pulled all the blood from my extremities. I noticed the second
-exposure from looking at my vape later on that same night while at home,
-there was some clear substance all over my hands and my vape. Like my hands
-didn’t even feel wet and I likely wouldn’t have even noticed it had it not
-been all over my vape. I washed it off immediately again but even still it
-almost wasn’t soon enough–it almost killed me. It pulled all the blood from
-my toes into my feet, my fingers going up my arms; I couldn’t pee for hours
-even though I had to because I did not have enough blood flow down there
-either. It was scary.
+This is the time where the poison pulled all the blood from my
+extremities–eagles incident--on my second exposure to be specific. The
+first exposure I felt while in the middle of walmart right after I left the
+eagles and it made me feel drugged. The substance was a clear liquidy
+substance that doesn’t feel like liquid to the touch. The first exposure I
+noticed from feeling drugged out of nowhere in the middle of walmart that
+evening–even though I had only had one drink that night at the bar. (Karie
+went to bars too on occasion btw) From past experiences, I knew I had to
+wash it off immediately. So in walmart after starting to feel all funny I
+knew I had to go directly to the bathroom to wash off my hands and where
+that guy had touched me. Then I started feeling better. The second exposure
+that night legit pulled all the blood from my extremities. I noticed the
+second exposure from looking at my vape later on that same night while at
+home, there was some clear substance all over my hands and my vape. Like my
+hands didn’t even feel wet at all to where I likely wouldn’t have even
+noticed it had I not seen it all over my vape. I washed it off immediately
+again but even still it almost wasn’t soon enough–it almost killed me. It
+pulled all the blood from my toes up my feet, my fingers going up my arms;
+I couldn’t pee for hours even though I had to because I did not have enough
+blood flow down there either. I had to sit down as well–it was scary. And I
+washed it off as soon as I noticed it on my vape that evening.
 
 String of break-ins #1
 
@@ -1769,7 +1846,7 @@ Thorn bush spikes added to my porch--one of which I barely stepped on.
 
 Tried to frame me as a druggy by planting paraphernalia in my house and by
 somehow lighting off a smell bomb or something which made my whole house
-reak like drugs.
+reak like drugs–like it was crazy.
 
 Put something in my vape juice.
 
@@ -1786,8 +1863,9 @@ get away from all the EMF stuff)
 
 Wet spot in the middle of the walkway on the carpet in one of my
 bedrooms–even though I had been gone for at least 24 hours--which I also
-stepped on. Between this and the thorn bush spike, made me feel wobbly.
-Vape juice later made me feel drugged.
+stepped on. Between the wet spot and the thorn bush spike I barely stepped
+on, I started feeling all wobbly. Vape juice made me feel drugged a little
+later.
 
 It was as if they planned on the thorn bush spike, wet spot they had left
 for me to kill me, and they had set it all up to frame me to the police as
@@ -1804,9 +1882,9 @@ https://drive.google.com/file/d/1G4yI\_Ri\_7t\_p5Hf4kBtDzwlnUK8V0HGl/view?usp=sh
 
 Tampering with my electricity
 
+Radiation poisoning
 Infrasound
 
-Radiation poisoning
 
 2022
 
@@ -1828,11 +1906,10 @@ Sometimes I suspect they may still be getting into my house despite my best
 efforts to keep them out. I don’t know if it’s just PTSD or whether I’m
 still being re-exposed to something they did previously while in my house
 somehow or else whether it’s from my car or what. All of this likely
-implicates way more than just my brother too. So it’s like a small army of
-people want me dead–all directed by my brother I suspect. And nobody is
-going to truly take this seriously until it ultimately happens. That’s the
-position I find myself in. The worst part is my brother has ripped apart
-our whole family.
+implicates way more than just my brother too. But nobody is going to truly
+take this all seriously until it ultimately happens. That’s the position I
+find myself in. The worst part is my brother has ripped apart our whole
+family.
 
 These guys can hack anything--you have been warned. It’s scary. I suspect
 they buy exploits off of the dark web btw, I don’t think they program
@@ -1843,9 +1920,9 @@ is these guys belong to. Because these guys are extremely dangerous. Some
 of them seem to be like hired contractors or hitmen, whereas others seem to
 be more persistent in nature. But going after people seems to be legit all
 this hacking gang does all day every day. Most hackers aren’t killers but
-the two together are a deadly mix. Especially when the killer hackers act
-as the coordinators for people on the ground. My brother really had no
-reason to hack me other than if he wanted to kill me.
+the two together are a deadly mix. Especially when the hackers act as the
+coordinators for people on the ground. My brother really had no reason to
+hack me other than if he wanted to kill me.
 
 Do you want to know who’s websites my brother has done previously btw?
 Karie’s and my father’s. Crazy right? I wonder if he hacked them while
