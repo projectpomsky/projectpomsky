@@ -5147,52 +5147,126 @@ case anything happens to me..
 
 ——
 
-They gassed me again tonight through what I suspect to be a cartridge they
-installed in one of my printers before tonight that was somehow remotely
-activated to gas me on their command, in addition to other likely similar
-setups near my furnace and in my garage area. My furnace wasn’t on at the
-time so i was able to rule out it being from my hvac this time. Plus I
-heard a gas sound coming from my printer when I think it was running out of
-gas, which isn’t a normal sound for my printer to make, which is why I
-suspect that was likely the source of at least one of my rooms smelling
-that way tonight. It made me have egg burps the rest of the night. Then
-they infrasounded me afterwards like they do every other night. No idea
-what their true intention was this time, it could be to try to get me to
-leave town or just to leave my house for a while so that they can prepare
-something even bigger. Or it could have been another legit attempt to take
-me out, idk. The gas smelt similar and made me feel similar to the gas they
-used on me previously. It made my nostrils like start to ooze as well. I
-think I’m going to report this google drive folder to the fbi so that they
-have all the latest info as well, just a heads up.
+They gassed me again tonight through I suspect some attachment they added
+to one of my printers that was somehow remotely activated to gas me on
+their command when I was trying to get my computer free from viruses nearby
+after getting home; I suspect they had other l similar setups near my
+furnace and in my garage area that they activated around the same time as
+well. My furnace didn’t even have power at the time so i was able to rule
+out it being from my hvac this time. Plus I heard a gas sound coming from
+my printer when I think it was running out of gas a little later, which
+isn’t a normal sound for my printer to make, which is why I suspect that
+was likely the source of at least one of my rooms being gassed tonight. It
+made me have egg burps the rest of the night. Then they infrasounded me
+afterwards like they do every night. (The lovely neighbor guy, Kyle French
+I believe is his name) No idea what their true intention was this time in
+gassing me, it could be to try to get me to leave town or just to leave my
+house for a while so that they can prepare something even bigger. Or it
+could have been another legit attempt to take me out, idk. The gas smelt
+similar and made me feel similar to the gas they used on me previously. It
+made my nostrils like start to ooze as well. I think I’m going to report
+this google drive folder to the fbi so that they have all the latest info
+as well, just a heads up.
 
 GRAMA request got denied. I heard from a previous property manager I used
 just briefly that you could actually get access to other peoples utility
 information—like that utilities were publicly accessible. But it turns out
-you can’t get access to other people's utilities after all, through a GRAMA
-request at least.
+you can’t get access to other people's utilities after all, at least not
+through a GRAMA request come to find out.
 
 I honestly don’t know what to do anymore. Like they are leaching off my
-power adding various things to essentially harass me and cut short my life,
-intimidate me and make it so I can’t work anymore, discredit me, etc, etc,
-but I’m still having high electricity bills despite most my breakers being
-turned off for most the month as previously stated but it still ultimately
-falls on me as the homeowner to do something about.
+power adding various things to essentially harass me and cut my life short
+in various different ways, intimidate me and make it so I can’t work
+anymore, discredit me, etc, etc, but I’m still having high electricity
+bills despite most my breakers being turned off for most the month as
+previously stated but it still ultimately falls on me as the homeowner to
+do something about.
 
 P.s. I think their latest suspected hitmen have still yet to strike,
 assuming my vibe was right at Logan hero’s earlier tonight. They had to
 have installed that gas thing in my printer before I ever even crossed
-paths with those guys earlier tonight..
+paths with those guys earlier tonight.. So tonight could have just been a
+ploy to get me out of my house so that they could do something much bigger.
 
-Now I’m scared to go to sleep even more. Because my latest enclosure has to
-be almost all the way sealed with foam insulation to keep their framing
-infrasound to a bearable amount. But if they added one of their gassing
-devices described above in here then I’m likely fucked. They are always
-exploiting vulnerabilities in literally everything like that. I do one
-thing to combat their stupid uncalled for attacks, then they start using
-something that is even more effective at harming me through what kept me
-safe from their previous attacks. It’s messed up. I wish I had more help. I
-wish I didn’t always have to be on the defense against these guys—because
-they are absolutely ruthless. I’m not ready to die yet. I just want to live
-a normal life. I don’t get why my brother hates me so much. They literally
-make my life miserable daily and they show no signs of letting up anytime
-soon.
+Now I’m scared to go to sleep even more than before. Because my latest
+enclosure has to be almost all the way sealed with foam insulation to keep
+their freaking infrasound to a bearable amount. But if they added one of
+their gassing devices described above in here then it would actually likely
+prove fatal whereas I specifically have it set up with no gaps to keep all
+their directed energy weapon sound out. They are always exploiting
+vulnerabilities in literally every way like that. I do one thing to combat
+their stupid uncalled for attacks, then they start using something that is
+even more effective at harming me through what kept me safe from their
+previous attacks. It’s messed up. I wish I had more help. I wish I didn’t
+always have to be on the defense against these guys—because they are
+absolutely ruthless. I’m not ready to die yet. I just want to live a normal
+life. I don’t get why my brother hates me so much. They literally make my
+life miserable daily and they show no signs of letting up anytime soon.
+
+As of January 15, 2022
+
+I’ve been trying to avoid writing this because let’s be honest, different
+people and different businesses reputations are on the line. But if you
+have any questions about the validity of all my allegations against my
+brother in terms of his hacking then just call rent dynamics and speak to
+Tim or Levi, the dev managers. To put it simply, my brother has encouraged
+rent dynamics to step up their security by essentially hacking into all my
+accounts including my rent dynamics accounts, I’ll just leave it at that.
+Lastly, I have no doubt dusty has changed up some of these files to better
+suit him so just keep that in mind. I’ve caught him changing shit in this
+very google drive folder more than once now. Rent dynamics even got me a
+brand new computer to try and help me get around all my brothers hacking at
+one point fairly recently. My brother is just smart about it and he has his
+sights set to where he knows what he wants and in rent dynamics case he
+wants to isolate me so there’s no witnesses and discredit me—so it’s in his
+best interest not to bring them to their knees. Other companies I have no
+doubt he could and probably has done so before to gain funding.
+
+I know some of this is a little hard to believe but keep in mind that’s the
+whole point. My brother is trying to discredit me and/or kill me so he
+doesn’t have to worry about me testifying against him going forward.
+
+Also, I’d call Dusty’s old work if I were you. GE Civil. I recall Dusty
+saying something about them firing him at least in part due to some Russian
+php plugin he installed at the time, or at very least he was complaining
+about something to do with them not being appreciative or something about
+it at the time of his firing. Plus I get the sense those are one of the few
+people Dusty doesn’t have some sort of sway over in this whole circle at
+this stage. (It’s fundamentally terrorism) Especially whereas Dusty seems
+to like to use his hacking to manipulate people around him/me into doing
+what he wants more than anything. (He likes to try and create divides based
+on things like financial interest, he likes to try and corrupt people into
+doing what he wants essentially—and in my case—he likes to try to do
+attempted mind control on me for whatever reason, maybe as punishment,
+idk—which is just yet another slap in the face from him) I do believe Dusty
+is one of the main hackers if not the main hacker behind all this tho. He
+enjoys harming people these days—I know that for a fact deep down. He
+associates fireworks to killing people/my dog turbo. Unlike the rest of us
+who associate fireworks to family, freedom, and country. Like that’s what
+gets him excited essentially is harming others. He enjoys bringing others
+down. He never stops—they are infrasounding me as I type this.. This group
+is the boldest most in your face, tamper with evidence, intimidate all
+witnesses person/group I’ve ever even heard of in my life. They are
+literally ruthless you guys. My brother is the type of person that legit
+deserves to be locked up for the rest of his life. (Sadly) But his whole
+perspective is you’ve got to catch him and nail him for it first.
+
+Which makes it especially difficult when he and his “people” constantly
+tamper with evidence and witnesses, etc, etc, primarily through hacking and
+dark psychology—believe me—I’ve been put through the wringer by now and
+then some. I wouldn’t be surprised if he killed me right in front of all
+you guys at this stage tbh.
+
+
+-- 
+
+Chase Gibbons  / Software Development
+435-999-4722
+
+ 
+595 S Riverwoods Pkwy, Suite 250Logan, UT 84321
+rentdynamics.com 
+
+[image: Twitter]  [image: Facebook]
+ [image: LinkedIn]
+
