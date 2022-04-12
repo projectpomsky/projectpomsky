@@ -9454,45 +9454,47 @@ fact that they are actively manipulating everyone else in subtle ways too.
 (Whether everyone else realizes it or not) By creating/exploiting conflicts
 of interest primarily. It makes it so a lot of people either don’t fully
 understand what’s happening, they don’t believe you, they pretend like they
-don’t believe you, or else they seem to only care about themselves and not
-care about you from the victim’s point of view. Everyone you thought you
-knew and everyone you thought you could rely on seem to not care anymore
-almost. And so after a while the smartest people in the room seem to be the
-attackers over everyone else–they are the only ones who seem to truly get
-it. Like the attackers at least get what you are going through and believe
-you in regards to all the manipulation going on when nobody else really
-will–do to the attackers making it in everyone else’s best interest not to
-help you. But even beyond that, the attackers begin to show they can at
-least make it better or make it stop (temporarily) for you–when nobody else
-can make it stop–even though the attackers are the ones freaking doing all
-this fucked up shit to you. (But in reality it’s a trap, what they are
-really doing is just manipulating you to do what they want you to do in
-that very moment they need something from you and the next time they want
-something from you or even just they next time they want to show their
-dominance over you then they are right back on top of you–so it’s not a
-real solution to work with them–at least in my experiences it hasn’t
-been–they are fucking ruthless and unforgiving and very transactional in
-nature–but they will never stop trying to manipulate you regardless of
-whether you work with them or not) So over time, you end up being faced
-with a hard road and an easy road–but the easy road is a trap every fucking
-time–it’s like selling your soul to the devil pretty much at best–but it
-sure is tempting nonetheless.
+don’t believe you, they are scared, or else they seem to only care about
+themselves and not care about you from the victim’s point of view. Everyone
+you thought you knew and everyone you thought you could rely on seem to not
+care anymore almost. And so after a while the smartest people in the room
+seem to be the attackers over everyone else–they are the only ones who seem
+to truly get it. Like the attackers at least get what you are going through
+and believe you in regards to all the manipulation going on when nobody
+else really will–do to the attackers making it in everyone else’s best
+interest not to help you. But even beyond that, the attackers begin to show
+they can at least make it better or make it stop (temporarily) for you–when
+nobody else can make it stop–even though the attackers are the ones
+freaking doing all this fucked up shit to you. (But in reality it’s a trap,
+what they are really doing is just manipulating you to do what they want
+you to do in that very moment they need something from you and the next
+time they want something from you or even just they next time they want to
+show their dominance over you then they are right back on top of you–so
+it’s not a real solution to work with them–at least in my experiences it
+hasn’t been–they are fucking ruthless and unforgiving and very
+transactional in nature–but they will never stop trying to manipulate you
+regardless of whether you work with them or not) So over time, you end up
+being faced with a hard road and an easy road–but the easy road is a trap
+every fucking time–it’s like selling your soul to the devil pretty much at
+best–but it sure is tempting nonetheless.
 
 That has got to be Putin’s plan for Zelensky, which is to get him to turn
 on the West essentially. To get Zelensky to work out a deal with the devil.
 That way all Zelensky’s citizens become a non issue for Putin and that way
 Putin begins his takeover of more than just Ukraine by influencing public
-opinion throughout the world using his new proxy. What we need to do to
-combat that is to continue to support Zelensky daily no matter what. We
-need to make some concessions and get him those migs so as to get
-everything back on track. And we need to stop freaking saying we will or
-won’t do something beforehand–don’t let Putin know what we will or won’t do
-so it remains a mystery to him. (You can always reverse course tho too) But
-yea, never let Zelensky think he doesn't have our full support to the most
-extent possible–regardless of how much Putin tries to manipulate us or
-him–this is everyone’s entire future we are talking about here after all.
-Nobody wants to live under a brutal dictator/organized crime mafia ring for
-the rest of eternity.
+opinion throughout the world using his new proxy. MEANWHILE PUTIN IS USING
+THIS WHOLE ORDEAL TO TARGET OUR HACKERS FOR HIS TAKEOVER OF THE USA. What
+we need to do to combat all this is to continue to support Zelensky daily
+no matter what. We need to make some concessions and get him those migs so
+as to get everything back on track. And we need to stop freaking saying we
+will or won’t do something beforehand–don’t let Putin know what we will or
+won’t do so it remains a mystery to him. (You can always reverse course tho
+too) But yea, never let Zelensky think he doesn't have our full support to
+the most extent possible–regardless of how much Putin tries to manipulate
+us or him–this is everyone’s entire future we are talking about here after
+all. Nobody wants to live under a brutal dictator/organized crime mafia
+ring for the rest of eternity. Also–do something about the Russians now
+targeting our hackers please. If we lose them we will lose ourselves.
 
 The shit with the jet airplane is just an attempt for Putin to manipulate
 our president into being submissive if you ask me. If you let him, guess
@@ -9500,28 +9502,28 @@ what he’s going to do? He’ll keep doing it and go even harder on it next
 time too. At the end of the day these Trumper Russian proxy guys aren’t
 going to do anything bad to their own hometowns nor their fellow troops–I
 mean like beyond maybe discreetly going after one person at a time who they
-are led to believe might have a different political ideology than them. But
-beyond that, I don’t see Putin’s proxies as being that reliable to Putin
-when it all comes down to it tbh. Nobody’s going to blow up their own
-hometown or even allow their hometown to be blown up or anything like that.
-They might try and undermine some things but they aren’t that big a deal
-tbh. It’s all a perception/illusion–it’s designed to get to you. I’d guess
-people like that are by far the minority anyways, but it would be wise to
-figure out just how many of them there really are by doing our own
-investigation into it. Because if you just rely on them acting out then
-they will make it appear as though everyone is in on it–when in reality
-that is far from the truth. None of the proxies are going to follow any
-orders from Putin that might affect anyone they know or like period
-anyways. That’s the difference between say a foreign spy and a foreign
-proxy. The foreign proxy has boundaries in regards to who they will
-undermine and how far they will go. Plus, worst case you can just make it
-personal to the proxies, do what Putin does but in reverse. Make it so they
-have to sell their other proxies out to save themselves. The churches and
-the communities themselves need to start working on this issue in their
-communities as well however, in my opinion, to ensure people don’t continue
-to get radicalized. Because that’s what it is–radicalization–just in a
-slightly different slightly easier to reach form, as compared to full blown
-terrorist radicalization.
+are led to believe might have a different political ideology than them or
+that they are directed to. But beyond that, I don’t see Putin’s proxies as
+being that reliable to Putin when it all comes down to it tbh. Nobody’s
+going to blow up their own hometown or even allow their hometown to be
+blown up or anything like that. They might try and undermine some things
+but they aren’t that big a deal tbh. It’s all a perception/illusion–it’s
+designed to get to you. I’d guess people like that are by far the minority
+anyways, but it would be wise to figure out just how many of them there
+really are by doing our own investigation into it. Because if you just rely
+on them acting out then they will make it appear as though everyone is in
+on it–when in reality that is far from the truth. None of the proxies are
+going to follow any orders from Putin that might affect anyone they know or
+like period anyways. That’s the difference between say a foreign spy and a
+foreign proxy. The foreign proxy has boundaries in regards to who they will
+undermine and how far they will go–a lot of them might be looking for a way
+out tbh. Plus, worst case you can just make it personal to the proxies, do
+what Putin does but in reverse. Make it so they have to sell their other
+proxies out to save themselves. The churches and the communities themselves
+need to start working on this issue in their communities as well however,
+in my opinion, to ensure people don’t continue to get radicalized. Because
+that’s what it is–radicalization–just in a slightly different slightly
+easier to reach form, as compared to full blown terrorist radicalization.
 
 In a way Putin is targeting our executive branch with his psychological
 manipulation just as much or more than he targets everyone else. It would
@@ -9666,48 +9668,56 @@ either.
 
 The tide is totally in our favor right now–we’ve got to make the most of
 it. Shit I’ll even put my money where my mouth is and I'll even go help
-fight.
+fight. (Once i drop the microchip)
+
+I’ve now seen evidence Russia could indeed be targeting our hackers now as
+part of a “spread the word to Russians” campaign. (False flag/Reverse
+psychology operation) See references below.
 
 Please you guys–we are running out of time. They are putting the pressure
 on Zelensky to fold. He won’t fold if we just stand up to these Russian
 bullies and do what’s right–what’s right also happens to be what the world
-really needs us to do right now. I cannot stress the stakes of all this
+really needs us to do right now. They are targeting our hackers right now I
+swear. What are we going to do once they have infiltrated over half of our
+freaking critical sectors? At some point people are going to find out and
+they are going to be faced with a choice of whether it’s already too late
+or not to try and fight back. I cannot stress the stakes of all this
 enough. I likely won’t make it through much longer myself tbh, either way,
 but at least this way our future generations will have a chance at living
-in peace. We need to come together. The only way we are ever going to come
-together at this point is if we stand up to Putin. I think the Russians are
-trying to make Joe Biden be the “fall guy” for Trump tbh.
+free. We need to come together. The only way we are ever going to come
+together at this point is if we stand up to Putin.
 
-I’ve now seen evidence Russia is indeed now targeting our hackers as part
-of a “spread the word to Russians” campaign. (False flag operation) See
-references below.
+I think the Russians are trying to make Joe Biden be the “fall guy” for
+Trump tbh.
 
-They are literally banking on us not sending those migs. We need to make
-some concessions to our allies and get them the damn jets. We need to show
-leadership. Why else would Russia be willing to take on so many sanctions
-right now if they weren’t banking on defeating us from within? Why else
-would they not have taken out Zelensky yet if they weren’t banking on
-gaining his support to avoid a never ending war? There’s no good legitimate
-reason. Russia has fooled us for long enough. Zelensky is an ally we really
-really need just as much as he needs us and he is honestly an awesome ally
-to have. It’s time we help him save his people. It won’t be easy but it’ll
-be worth it in the end. I’m pretty positive I was just proven right about
+The Russians are literally banking on us not sending those migs. We need to
+make some concessions to our allies and get them the damn jets.
+(discretely) The key is to keep Zelensky happy. We need to show leadership
+tho. Why else would Russia be willing to take on so many sanctions right
+now if they weren’t banking on defeating us from within? Why else would
+they not have taken out Zelensky yet if they weren’t banking on gaining his
+support to avoid a never ending war? There’s no good legitimate reason.
+Russia has fooled us for long enough. Zelensky is an ally we really really
+need just as much as he needs us and he is honestly an awesome ally to
+have. It’s time we help him save his people. It won’t be easy but it’ll be
+worth it in the end. I’m pretty positive I was just proven right about
 pretty much everything in Russia’s latest attempt to use me to send you
 guys a signal about our military and the jets the other day—now I really
 need you to believe me about this. I feel highly confident in this final
 determination of Russia’s true intent btw.
 
 P.s. You guys, do you want to know my ultimate hope? My ultimate hope is we
-defeat the kremlin and free all the people under their control. The kremlin
+defeat the kremlin and free all the people under its control. The kremlin
 only knows negative reinforcement, they do not know positive reinforcement.
-I have little doubt that a lot of our colleagues will thank us later for it
-later if so. A lot of Russia's proxies are actually victims to the kremlin
-themselves. And plus, I really want to see my brother again someday. I
-still think he has time to make up for anything he may have done previously
-if so.
+I have little doubt that a lot of our fellow colleagues will thank us later
+for it later if so. A lot of Russia's proxies are actually victims to the
+kremlin themselves. And plus, I really want to see my brother again
+someday. I still think he has time to make up for anything he may have done
+previously.
 
 🤞🤞🤞
 
+Last thought, if we don’t act soon we may never be free.
 
 #IStandWithUkraine #AmericaStandsWithUkraine #TheWorldStandsWithUkraine
 #TruthIsStrangerThanFiction #FightForFreedom
@@ -9717,14 +9727,76 @@ Thank you,
 Chase G
 
 🙏🙏🙏
-
 References
 
 
 
+This is fake. I was able to get behind their cloudflare account so that
+means Russia could as well if it really wanted to. Plus those numbers look
+fake as hell and in real charts it’s normally a lot more spread out than
+that because Russia itself uses servers in other countries, etc, etc.
+
+This is indicative of a Russian social media troll farm account. 14.9k
+followers in something like 7 days. What they are doing is cataloging our
+dissenters through a massive honeypot operation and getting evidence on
+them for breaking Putin’s new law.. (You know, cuz Putin is about to defeat
+us from within as I’ve been saying–15 years penalty for each person they
+catch in traps like this) https://1920.in & https://mail.1920.in
+
+Look how professional their seo is. And how fast they freaking grew. Their
+social media troll farms are still healthy and doing as well as
+ever–arguably better than ever–it looks like they finally managed to
+corrupt some western ui/ux people and some social media experts against us
+or something. (They are now working on corrupting the left) This is the
+problem. And yet we do nothing. We do nothing about this nor their hacking
+and strategically corrupting our entire fucking society. According to you
+guys if Russia attacks any NATO country then we will have to respond, that
+doesn’t hold any fucking water when they are already fucking attacking us
+in every possible way besides using real-life bombs and whatnot and yet we
+have still yet to fucking acknowledge it or respond. It makes it seem like
+our alliance is a fucking joke. It’s not hard for Putin to exploit this
+vulnerability of ours and make us look foolish as an alliance. He did the
+same thing with Ukraine. The real alliance should be any god damn democracy
+rather than only a select few, democracy vs dictatorship is the real battle
+that’s playing out in this world after all. Then maybe they wouldn’t have
+attacked Ukraine in the first place. And now we are on the verge of defeat
+and you guys still won’t recognize the fact that they are fucking attacking
+us. All they have to do is continue on this path, defeat America, and every
+other democracy in the world will fall. And yet they are doing this to
+everyone. (Trust me, I researched Brexit social media dissemination and I
+can tell something similar is up with Australia, etc, etc) It’s not that
+democracies suck, it’s that we aren’t fucking aggressive enough and haven’t
+been taking hints from what Putin is doing and responding in kind. And any
+person who is elected who is actually aggressive enough is already a Putin
+proxy. (From 2016 onwards I mean, there’s no way that anyone is going to
+beat out Trump for the Republican nomination in 2024. We are currently
+engaged in the battle of our lives–and we won’t even fucking recognize it)
+All those people who dies for freedom will have died in vein.
 
 
-Link to request concessions by our government on mig fighter planes:
+
+Fixed some stuff in this illustration including the “Probability of
+Overcoming Defeat Overtime” chart, I changed it to make it more accurate by
+beginning it’s decline once Trump took office, and I made it so the top
+“Hackers” takeover quadrant better corresponds to the war in Ukraine. To be
+clear, Trump claiming “Russia is not so bad” did have effects on our
+churches and businesses and police and congressmen getting hacked. I am
+highly confident it had an effect on our businesses getting hacked because
+that’s when we started hiring Russian contractors at my work. And I've
+witnessed it all go down first-hand myself.
+
+I think I’ve now pretty much confirmed Russia is indeed now targeting our
+hackers now as well… 💣 💣 💣 💥💥💥 -> This is how you’ve got to think
+about it because 💥 is what it is. (21st century superpower style of
+attacking your enemies from within without them even knowing they are under
+attack) From now on anytime Russia or China does anything like this then do
+me a favor and picture an 💣 💥 going off in your mind–if we don’t do just
+that–then we will regret it later–mark my words.
+
+
+
+Link to request concessions by our government on mig fighter jets to
+Ukraine:
 
 https://twitter.com/intent/retweet?tweet\_id=1502153102639591426
 
@@ -9743,20 +9815,20 @@ after me is enjoyable to me.
 
 Russia is in its final stages of targeting our society and defeating us
 from within. When you think about it from the perspective I’ve laid out,
-and when you consider this whole Ukraine ordeal might really be meant to
-bait our people into “reflexing” in the way the kremlin expected us to
-reflex, with the intent of them exploiting our reflexes, then technically
-Russia is accurate in their statement about Ukraine just being a “special
-military operation”. The real operation is regarding the remainder of the
-free world and its citizens, particularly those who are willing to fight
-back. They seem to be already creating lists of people to prosecute for
-breaking their new “misinformation” law, for when they defeat us from
-within, which carries a fine of up to 15 years in prison. That is at least
-in part what Ukraine is all about in my opinion. That is why it was not in
-their best interest to take Zelensky out in short order. That is also why
-it’s best for them to piss the whole world off at this time and do things
-that are otherwise unthinkable. Because their real goal is to catalogue all
-of the resistance.
+and when you consider this whole Ukraine ordeal might really be at least in
+part meant to bait our people into “reflexing” in the way the kremlin
+expected us to reflex, with the intent of them exploiting our reflexes,
+then technically Russia is accurate in their statement about Ukraine just
+being a “special military operation”. The real operation is regarding the
+remainder of the free world and its citizens, particularly those who are
+willing to fight back. They seem to be already creating lists of people to
+prosecute for breaking their new “misinformation” law, for when they defeat
+us from within, which carries a fine of up to 15 years in prison. That is
+at least in part what Ukraine is all about in my opinion. That is why it
+was not in their best interest to take Zelensky out in short order. That is
+also why it’s best for them to piss the whole world off at this time and do
+things that are otherwise unthinkable. Because their real goal is to
+catalogue all of the resistance.
 
 I got a vibe from the hackers that this is what Ukraine is really all
 about–before I ever started telling you all about it and before I started
@@ -9786,11 +9858,100 @@ pay dividends in the long run. And it wouldn’t be risking starting a
 nuclear war or anything–if anything–it would potentially save the free
 world in my opinion.
 
+P.s. I opened the original folder back up again for now—please don’t make
+me regret doing so. I still don’t want anyone referencing any of it
+publicly however—without my consent—nor using it to undermine our alliances
+or unity. I’ll be honest. I don’t know what is the best route to take in
+all this. The whole ordeal with my brother seems like it may never goto
+court unless we reign Russia in first anyways.
+
+I know I’m not qualified to even come close to trying to make a call on
+something of this magnitude really, and I realize I clearly don’t have all
+the information that the people in our government have. But I do know that
+freedom is definitely worth fighting for. And I do think I know we are
+already in the midst of a shadow war here at home and we are seemingly not
+doing so hot in that shadow war. If anything, we are strongest when it
+comes to our conventional military—and Russia knows that. Plus, never
+underestimate the power of unity. All I know is if we were to always let
+the fact that someone has nuclear weapons hold us back from getting
+involved in anything, then this world is going to quickly turn into a
+complete shit show. In addition, I wish we would just be honest about what
+Russia is doing to us here at home—it’s better we say it then someone else
+saying it in my view. Maybe then we could gain more support for a direct
+conflict with Russia. But who knows, it’s hard to say what Russia really
+wants. They use false flags and whatnot so much that it becomes hard to
+tell. But it’s not impossible to tell, if I had to guess right now—my bet
+would be Russia wants us to stay out of it—they are banking on us staying
+out of it actually—and therefore they’ve already determined their result
+will be much better if we do stay out of it. They wouldn’t be intimidating
+us to stay out of it if they wanted us to take part. I really do stand
+behind my hypothesis on Russia btw. Our government has got to know that
+Russia and China have been hacking/targeting all these different key
+segments of our society for some time—not just ours but Europe's too—all of
+our democracies tbh—and I would hope our governments would realize the
+significant consequences of them doing so.
+
+I’m therefore scared for the free would if we don’t get involved at this
+point tbh. Russia knows we have the advantage in the conventional military
+arena—it also knows they have the advantage in the shadow war arena. That
+should tell you everything you need to know for the most part. All I know
+is I would be wiling to bet Russia would jump in and help a fellow
+dictatorship if the roles were ever reversed. But that’s the thing—the
+roles are likely never going to be reversed. If nothing else please at
+least consider the potential consequences of if we don’t get involved and
+what all could happen if we don’t—worst case. Because I promise you people
+will remember the fact that we didn’t get involved and will hold you
+accountable at the ballot box—especially if it turns out how I think it
+might. Things are going to get a lot worse pretty quickly now too in
+Ukraine, Russia is now closing in on Kiev. I guess on the other hand tho,
+trump never got involved with the Kurds but this one feels a little
+different.
+
+Anyways, you don’t have to worry too much about me btw, I should be fine
+regardless of what happens. I’m fighting for my country and for freedom
+after all, what could be better than that? (Beyond not having to have to
+fight for your country nor freedom in the first place I guess) Please keep
+supporting Ukraine as much as physically possible and don’t let them give
+up hope. I realize this being halfway across the world puts us at a
+disadvantage as well. And I realize how many lives are on the line. But if
+I’m right about Russia anyways, then that many lives are likely on the line
+anyways. And freedom is worth quite a bit.
+
+https://drive.google.com/drive/folders/1N4w5q-SJ-2aZXt4iiajGkpBJEa9gHYnU
 
 
 
+As of March 13, 2022
+
+Ukraine
+
+ -
+
+ Putin gets what he wanted originally in regards to Ukraine giving up on
+ NATO, getting parts of Ukraine given to him, etc, etc (They are about to
+ have the meeting I’ve been warning about btw)
+ -
+
+ Putin further hacks and exploits our people to aid him and China in
+ defeating us from within and creating a new world order
+ -
+
+ Putin manages to make our alliance look foolish
+ -
+
+ Putin manages to make USA look weak
+ -
+
+ Putin undermines faith in Biden amongst his constituents
+ -
+
+ What else?
 
 
+I’m pissed. I’m pissed cuz I feel the same way as Ukraine. Only my own
+government can’t even protect me from Russia. And I’m pissed because all
+the people who fought for freedom previously are looking like they will
+have died in vein.
 
 Chase Gibbons  / Manager
 435-999-4722
@@ -9805,5 +9966,5 @@ Sender
 notified by
 Mailtrack
 
-03/12/22,
-10:40:03 PM
+03/13/22,
+06:47:59 PM
