@@ -6979,24 +6979,27 @@ and finding it among all my video camera footages, hidden video camera
 footages, etc, etc–without them destroying the evidence first like they
 love to do..
 
-Regardless, my brother knows too much about all this to not be part of
-it—he flaunts and hints at it way too much, a lot of times these guys will
-do shit to me right after having spoken to my brother too, things that
-directly correspond to whatever I just spoke to my brother about, as if to
-send me a signal that my brother is indeed the one behind it, plus my
-brother himself acts like he’s in on it just in general, and at the end of
-the day Dusty has been the only one who has been capable of getting them to
-actually stop–after asking me what I wanted after the Eagles’ incident for
-instance. I get the sense Dusty is a hacker too but I also get the sense
-that it’s not just him–that much is for certain. I honestly don’t know how
-much of it is Dusty himself and how much of it is just shared information
-given to Dusty. Therefore I can’t tell whether he just hired them or not.
-And I don’t understand why Dusty would be working directly alongside what I
-suspect to be Russian government affiliated hackers. I know he wants me
-dead but why would they work with him to kill me? All I know is it’s
-extremely unjust and it’s completely and totally fucked up–that’s all I
-know for sure. I wish someone would stand up to my brother and get him to
-call it off.
+Regardless, my brother hints at knowing way too much about all this to not
+be part of it—he flaunts at it way too much, a lot of times these guys will
+even do shit to me right after having spoken to my brother for instance,
+things that directly correspond to whatever I just spoke to my brother
+about, as if to send me a signal that my brother is indeed the one behind
+it. Plus my brother himself acts like he’s in on it just in general, he’s
+the only one who might possibly want me dead and spend this much time and
+effort in trying to kill me, and at the end of the day Dusty has been the
+only one who has been capable of getting them to actually stop; after
+asking me what I wanted over sms right after the Eagles’ incident, etc. I
+get the sense Dusty is a hacker too but I also get the sense that it’s not
+just him–that much is for certain. I honestly don’t know how much of it is
+Dusty himself and how much of it is just shared information given to Dusty.
+Therefore I can’t tell whether he just hired them or not. And I don’t
+understand why Dusty would be working directly alongside what I suspect to
+be Russian government affiliated hackers. I know he wants me dead but why
+would they work with him to kill me? All I know is it’s extremely unjust
+and it’s completely and totally fucked up–that’s all I know for sure. I
+wish someone would stand up to my brother and get him to call it off.
+Nobody deserves to be put through all of this–I don’t care wtf they may
+think I did to them–it’s fucked up.
 
 Chase Gibbons  / Manager
 435-999-4722
