@@ -1,40 +1,28 @@
 Outline
 
-Outline
+Outline 
 
+README 
 
-README
+Security Cameras 
 
+How They Broke In 
 
-Security Cameras
+Motive 
 
+My Credibility 
 
-How They Broke In
+Daily Occurrences 
 
+As of Nov 12, 2021 
 
-Motive
+As of Nov 15, 2021 
 
+As of Nov 16, 2021 
 
-My Credibility
+As of Nov 18, 2021 
 
-
-Daily Occurrences
-
-
-As of Nov 12, 2021
-
-
-As of Nov 15, 2021
-
-
-As of Nov 16, 2021
-
-
-As of Nov 18, 2021
-
-
-As of Nov 20, 2021
-
+As of Nov 20, 2021 
 
 As of November 22, 2021
 
@@ -63,71 +51,53 @@ Indicators of being hacked
 Timeline (Rough Draft)
 
 
-~2006
+~2006 
 
+~2007 
 
-~2007
-
-
-~2008
-
+~2008 
 
 Before Father’s Death
 
 
-~2009
+~2009 
 
+Dusty and Cindy 
 
-Dusty and Cindy
+2010 
 
+Divorce/Move Out 
 
-2010
-
-
-Divorce/Move Out
-
-
-Father’s Death
-
+Father’s Death 
 
 Right After Father’s Death
 
 
-~2011
+~2011 
 
+Trust/College 
 
-Trust/College
+2013 
 
+Graduation 
 
-2013
+Eyes of a Killer 
 
-
-Graduation
-
-
-Eyes of a Killer
-
-
-2015
-
+2015 
 
 Before Sister’s Death
 
 
-Sister’s Death
+Sister’s Death 
 
-
-~2016
-
+~2016 
 
 After Sister’s Death
 
 
-2018
+2018 
 
-
-2019
-
+2019 
 
 Brother Distancing/Time Off
 
@@ -138,32 +108,24 @@ Last Visit/Website/Brother Hacking
 Someone Tries to Fill My Prescriptions
 
 
-Testing My Brother
+Testing My Brother 
 
+First Poisoning 
 
-First Poisoning
+2020 
 
+Second Poisoning 
 
-2020
+2021 
 
-
-Second Poisoning
-
-
-2021
-
-
-Gun Pulled On Me
-
+Gun Pulled On Me 
 
 Witness Intimidation
 
 
-EMF
+EMF 
 
-
-Hotels
-
+Hotels 
 
 Eagles Incident - Murder by Suicide Plot
 
@@ -183,14 +145,11 @@ Tampering with my electricity
 Radiation poisoning
 
 
-Infrasound
+Infrasound 
 
+Keys 
 
-Keys
-
-
-2022
-
+2022 
 
 As of December 15, 2021
 
@@ -201,14 +160,11 @@ As of December 17, 2021
 My Analysis of Timeline
 
 
-Father
+Father 
 
+Sister 
 
-Sister
-
-
-Me
-
+Me 
 
 As for any questions about me.
 
@@ -246,11 +202,9 @@ As of December 29, 2021
 As of December 30, 2021
 
 
-Part 1
+Part 1 
 
-
-Part 2
-
+Part 2 
 
 As of December 31, 2021
 
@@ -273,8 +227,7 @@ As of January 3, 2022
 As of January 4, 2022
 
 
-Random Thought
-
+Random Thought 
 
 As of January 7, 2022
 
@@ -342,8 +295,7 @@ As of February 6, 2022
 As of February 7, 2022
 
 
-February 8, 2022
-
+February 8, 2022 
 
 Lesson - RF/Waves/Hacking
 
@@ -398,8 +350,7 @@ Latest Potentially Significant IPs and Email Tampering Logs
 Electromagnetic Spectrum Health Effects Video
 
 
-Graphene Microchip
-
+Graphene Microchip 
 
 As of March 10, 2022
 
@@ -407,14 +358,11 @@ As of March 10, 2022
 What Putin is Doing
 
 
-Final Answer
+Final Answer 
 
+References 
 
-References
-
-
-Art of War Quotes
-
+Art of War Quotes 
 
 As of March 12, 2022
 
@@ -422,11 +370,9 @@ As of March 12, 2022
 As of March 14, 2022
 
 
-Part 2
+Part 2 
 
-
-Part 3
-
+Part 3 
 
 What their tunnel in my house sounds like
 
@@ -446,8 +392,7 @@ Twitter Observation
 Oddity at Doctors Office the Other Day
 
 
-How would you feel
-
+How would you feel 
 
 As of March 20, 2022
 
@@ -458,8 +403,7 @@ We need to support Ukraine 🇺🇦
 Potential Russian Mafia “Signals”
 
 
-Water Tampering
-
+Water Tampering 
 
 More on the Microchips
 
@@ -470,14 +414,11 @@ My superpower💪 === Ability to see through people 👓
 As of March 22, 2022
 
 
-Status Update
+Status Update 
 
+Hacker People 
 
-Hacker People
-
-
-My Brother
-
+My Brother 
 
 As of March 24, 2022
 
@@ -491,11 +432,9 @@ Russia is Root of ALL Our Problems
 As of March 26, 2022
 
 
-Gangstalking
+Gangstalking 
 
-
-If It Helps
-
+If It Helps 
 
 As of March 28, 2022
 
@@ -2314,6 +2253,7 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
+​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -7715,8 +7655,8 @@ system for instance. Therefore even alarm systems are vulnerable to the
 same attack as a car remote now thanks to software defined radio and the
 potential of hackers monitoring the radio spectrum. Simply Safe used to
 never even encrypt their devices' communications either btw, before their
-latest model came out. (https://www.nimblefreelancer.com/simplisafe-hack/ )
-But like I said, even with encryption–a hacker with a software defined
+latest model came out. (​​https://www.nimblefreelancer.com/simplisafe-hack/
+) But like I said, even with encryption–a hacker with a software defined
 radio can still bypass it after enough monitoring even if it is encrypted.
 (The same is true with our brains btw)
 
@@ -9410,6 +9350,7 @@ called biohacking. See the following links. But the one in my case is wayyy
 more sophisticated, plus I didn’t do it to myself, and therefore I have no
 way to turn it off by myself.
 
+​​
 https://twitter.com/drkiki/status/1168299777424908288?s=20&t=r4TnY99zwvl2yJbyM9FV5Q
 
 https://dangerousthings.com/category/implants/x-series/
@@ -10624,7 +10565,6 @@ and monarchies were the norm.
 
 Please don’t forget to read
 https://docs.google.com/document/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAzWHylE/edit#heading=h.5pj2htfgtk07
-
 
 
 To be clear, I think they might be planning on targeting me again over the
@@ -11877,12 +11817,44 @@ simply store everything until a later date when we actually have a better
 idea of what to test for exactly.. (Like I was doing)
 
 
+Be on lookout for Russian satellite targeting US
+
+Be on lookout for a Russian satellite targeting the following address in
+the US with an emf:
+
+1235 Smithfield Canyon Rd
+
+Smithfield, UT 84335
+
+United States
+
+https://maps.apple.com/?address=1235%20Smithfield%20Canyon%20Rd,%20Smithfield,%20UT%20%2084335,%20United%20States≪=41.848250,-111.806250&q=1235%20Smithfield%20Canyon%20Rd&\_ext=EiYpwH+pRgDsREAxozWkZPzzW8A5PlXPoibtREBBuXw80DbzW8BQAw%3D%3D&t=m
 
 
+They have no other real good way to emf me here so I’m assuming they are
+using a Russian satellite to do it just now. I’ll be here the rest of today
+and part of tomorrow.
 
-Chase Gibbons  / Manager
-435-999-4722
+This is how I think they must have busted them the first time cuz I
+remember seeing a black hawk helicopter fly over my house when they were
+still investigating it with the first detective Escobar and shortly after
+that their investigation concluded.
 
+It’s not nearly as bad only having the satellite emf me and only having to
+protect from one direction really tho that’s for sure.
 
-PO Box 747Logan, UT 84321
-gfic.io  
+If I’m right about the satellite then we should de-orbit the damn thing(s).
+I read we have the capabilities to do so now. (Without creating a bunch of
+space junk) Or something. Maybe not deorbit it cuz that would start a space
+war but we should definitely do something is all I’m saying.
+
+Last I checked we aren’t experimenting on Russian citizens and murdering
+Russian people with our satellites—so they shouldn’t be allowed to do so
+with our citizens either.
+
+Also, arrest my brother already please. It really is the least you could
+do. You won’t even piss off Russia by doing so cuz he’s an American
+citizen. He’s caused enough grief in this world as is already. Keep in mind
+tho they have advanced insight into what the police are doing—but I’d
+suggest you arrest him before he bounces to Russia—that’s what I’d do if I
+were you.
