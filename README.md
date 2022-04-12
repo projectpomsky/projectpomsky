@@ -12170,6 +12170,57 @@ to not have two recent prior pay stubs to provide the lender.
 Still figuring out how to get the hell out of here and where to go and how
 to get away from them.
 
+Still figuring my trustee out–I had a new trustee–but I think I’m going to
+find another one that is a little cheaper and a little more responsive. I
+really need to find someone who won’t be corrupted simply based on their
+religion or anything else and who knows computers and security.
+
+I asked Paul for money to rent out a ground penetrating radar device, still
+awaiting his response. I honestly feel really good about this one, but I
+don’t want to risk being delayed again until they can come up with some
+other way to get around it–like they did for the bug sweep. The delay
+essentially just bought them time to remove their devices from my home–I
+swear to god my brother has direct control over my trustee. I’ve suspected
+this time and time again for some time now. Meaning if I were to die, I
+couldn’t even rely on all my evidence getting back to the police without
+tampering. (Imagine that)
+
+Don’t you guys see how the Russians can corrupt a whole society one person
+at a time using hacking? And how they can turn supposedly “religous” people
+into accomplices to murder just like that? All out of concern for people’s
+own well-being/pocketbooks? But in reality, if religious people truly
+believed their religion they would never let anyone manipulate them into
+being accoomplices to murder in the first place cuz they would realize they
+are going to hell as soon as they do allow someone to manipulate them in
+that way? I’m not even religious and I don’t even cross that line myself
+for fuck sakes–just out of an abundance of caution incase the religions are
+right. It’s called having morals and values.
+
+Screw hacking organizations–hacking individuals and households gets them
+way further towards their ultimate goals anyways.
+
+Hasn’t anyone ever heard of a conflict of interest around here? Like all I
+can say is I hope all this is just contained to Utah because if this is the
+case across the whole country then this country is honestly fucked. Our
+adversaries have managed to make corruption seemingly systemic in a matter
+of what, 5 years? Screw being great, they’ve made killing cool again. And
+people would rather just give up and go to hell vs actually trying to do
+something about it? These manipulator people literally worship satan you
+guys. Like how far from your religion can you get? I seriously don’t get
+it.
+
+In addition, the Russians are controlled by the Chinese as stated
+previously, everyone who concedes to their manipulation is essentially
+conceding to both the devil and China–just fyi. It’s the truth. China even
+helped in hacking Ukraine leading up to the invasion. Russia, China, North
+Korea, and Iran have had a hacking alliance since at least 2012–and that’s
+how all their manipulation is done is through hacking.
+
+Btw I’m registered as a Republican, so don’t try and excuse any misdeeds
+away on you being at war against me either. I’m just more of an Evan
+Mcmullin/Mitt Romney type republican over a Donald Trump republican.
+
+
 Chase Gibbons  / Manager
 435-999-4722
 
