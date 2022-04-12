@@ -8440,6 +8440,21 @@ including serial killers like my brother. Only the most ruthless are
 rewarded in the Putin regime. I assure you that we don't want that for our
 country. I’m willing to fight to ensure that doesn’t happen, what about you?
 
+I’m worried about Zelensky tbh. Putin is totally going to kill Zelensky and
+completely crush all our excitement/unity/good will. Then we will be left
+divided once again and therefore vulnerable. Everything about watching the
+news recently reminds me of what these guys do to me. Including their
+bombing shit during their most recent talks, etc. (aka their sending
+Ukraine a signal, similar to how dusty will send ppl to my door on
+Halloween right after texting him and then the videos are all deleted
+later, etc, etc—these guys are evil as hell you guys—if you believe me on
+only one thing then believe me on that part—because we all know it takes
+more than one person to stand up to evil to defeat it)
+
+Putin is just going to be even stronger next round too—well I guess we will
+have to wait and see. But I think that’s what he’s banking on personally.
+They always think 2-3 steps ahead without fail.
+
 
 -- 
 
