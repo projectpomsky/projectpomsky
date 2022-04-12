@@ -7386,30 +7386,31 @@ As of February 22, 2022
 
 I need to make a clarification. While they aren’t able to reprogram my
 brain which is a neural network, as stated previously, what they are able
-to do is take control of my unconscious mind. (Meaning they are able to
-control me when I’m asleep on a higher level) They are able to make me
-“sleep walk” essentially. They started targeting me with a new technology
-the night before last. It felt like they were scanning the room using some
-new more precise directed sound wave technology, a newer more advanced
-version of what they have used on me previously. (It was coming from the
-North, it was likely another mobile car unit parked somewhere outside that
-time) What they were doing was literally like a 3d survey of 3d space
-scanning one axial after another of my immediate surroundings at a time. I
-specifically recall it moving my pant legs whenever it would hit my legs. I
-also specifically recall every time I’d move it would seemingly start over
-again, and rescan my immediate surroundings over again in real-time. I
-tried my best to block it out before falling asleep but what I’ve learned
-at the end of the day is there really is no blocking sound, they always
-seem to find a way to get enough sound in to be able to cause me to disturb
-my surroundings enough while I’m asleep to be able to then have unfettered
-access to me. I have been learning a ton about electro-magnetism lately
-myself and how electricity going through a wire can generate its own
-magnetic field. I’ve been learning about electromagnetism lately primarily
-because electromagnetism in the form of an EMP is the key to disabling any
-unwanted electronics that may be present in my ear without hurting me. I
-suspect their microchip is likely controlled using ultrasound btw, rather
-than RF, but I’m still figuring that part out. They’ve indicated to me it
-is made of graphene as well, which is a super new nanotechnology. Anyways
+to do is take control of my unconscious mind come to find out. (Meaning
+they are able to control me when I’m asleep on a higher level) They are
+able to make me “sleep walk” essentially. They started targeting me with a
+new technology the night before last. It felt like they were scanning the
+room using some new more precise directed sound wave technology, a newer
+more advanced and more precise version of what they have used on me
+previously. (It was coming from the North, it was likely another mobile car
+unit parked somewhere outside this time) What they were doing was literally
+like a 3d survey of 3d space scanning one axial after another of my
+immediate surroundings at a time. I specifically recall it moving my pant
+legs whenever it would hit my legs. I also specifically recall every time
+I’d move it would seemingly start over again, and rescan my immediate
+surroundings over again in real-time. I tried my best to block it out
+before falling asleep but what I’ve learned at the end of the day is there
+really is no blocking sound, they always seem to be able to find a way to
+get enough sound in to be able to cause me to disturb my surroundings
+enough while I’m asleep to be able to then have unfettered access to me. I
+have been learning a ton about electro-magnetism lately myself and how
+electricity going through a wire can generate its own magnetic field. I’ve
+been learning about electromagnetism lately primarily because
+electromagnetism in the form of an EMP is the key to disabling any unwanted
+electronics that may be present in my ear without hurting me. I suspect
+their microchip is likely controlled using ultrasound btw, rather than RF,
+but I’m still figuring that part out. They’ve indicated to me it is made of
+graphene as well, which is a super new nanotechnology material. Anyways,
 long story short, I had my immediate surroundings in a very particular
 placement prior to going to sleep the night before last. And when I
 eventually woke up–everything was completely out of place in a way that
@@ -7417,31 +7418,32 @@ would be hard to explain by tossing and turning alone. It was highly
 disturbing tbh. At first I questioned whether maybe their new technology
 they used kept me asleep while someone got in and messed with me somehow
 during my sleep or something. But then I ultimately realized after checking
-on all my security measures, etc, that someone did mess with me during my
-sleep–however they didn’t get in my house to do so. (I.e. they are getting
-more control of my unconscious mind and are able to mess with me during my
-sleep in that way to a certain degree–they are able to make me mess with me
-during my sleep without even realizing it essentially)
+on all my security measures I put in place, etc, that someone did mess with
+me during my sleep–however they didn’t get in my house to do it. (I.e. they
+are gaining more control of my unconscious mind and are able to mess with
+me during my sleep in that way to a certain degree–they are able to make me
+mess with me during my sleep without me even realizing it essentially)
 
 The extent to which they can control my conscious mind is very limited, as
 stated previously. They can record signals of my brain while monitoring me
-doing something and essentially replay those signals later to try and
-disturb me later, etc. However, conversely, the extent to which they can
-control my unconscious mind appears to be far greater than that of my
-conscious mind. It has become a race to figure out a way to disable their
-microchip before they are able to fully control my unconscious mind, for
-reasons you can probably imagine.
+doing something in isolation and essentially replay those same signals
+later to try and disturb me later, etc. However, conversely–the extent to
+which they can control my unconscious mind appears to be far greater than
+that of my conscious mind. It has become a race to figure out a way to
+disable their microchip before they are able to fully control my
+unconscious mind, for reasons you can probably imagine.
 
-As for where I’m at in my plan, essentially I’m on a leave of absence from
-work currently based on notes from my doctor. The notes from my doctor
-specifically say this condition is not “terminal”--meaning I didn’t all the
-sudden go crazy. I’m still advised to see a counselor just to help deal
-with the PTSD and to help cope with all the ongoing abuse however.
+As for where I’m at in my plan described previously, essentially I’m on a
+leave of absence from work currently based on notes from my doctor. The
+notes from my doctor specifically say this condition is not
+“terminal”--meaning I didn’t all the sudden go crazy. I’m still advised to
+see a counselor just to help deal with the PTSD and to help cope with all
+the ongoing abuse however.
 
 My doctor originally wrote his doctor’s notes such that I could return to
 work on a flexible schedule, because at the end of the day I’m still just
 as capable of doing everything I did previously beyond the fact that I have
-a group of people actively interfering and trying to sabotage my life.
+a group of people actively interfering and actively sabotaging me.
 Therefore a flexible schedule made the most sense because otherwise the
 attackers could just go harder on me on any given night before I was
 supposed to work, (like they ultimately ended up doing) and cause me to
@@ -7457,33 +7459,36 @@ sleep and therefore I could no longer feel confident in returning to work.
 So I ended up not going back to work and instead getting another extension
 from my doctor at that time.
 
-The main thing I’ve been working on is trying to figure out how I can fund
-my way out of here. As stated previously, I’m simply too hacked to be able
-to make any true progress in keeping them out. Any new security system I
-get ends up being hacked while it’s still in setup mode. The attackers
-simply have too many ways of getting in, monitoring everything I do, spying
-on my keypresses and on my screen using electromagnetism, etc, and they’ve
-already rigged my house such that it is literally impossible for me to keep
-them out here at this time. Whereas physical access is king in terms of
-hacking, that is and has been the biggest battle I’ve been raging–is
-keeping them out of my house and taking back my devices. Therefore it is
-key for me to start fresh somewhere new and take all the lessons I’ve
-learned here and apply them to a fresh restart elsewhere, where they won’t
-already have all these different mechanisms in place to bypass all my
-defense mechanisms and to spy on me, and ideally where they don’t even know
-where I am.
+One of the main things I’ve been working on is trying to figure out how I
+can fund my way out of here. Especially seems how, as stated previously,
+I’m simply too hacked to be able to make any true progress in keeping them
+out as it sits currently. Any new security system I get ends up being
+hacked while it’s still in setup mode. Any device I reset ends up getting
+rehacked within days. The attackers simply have too many ways of getting
+in, too many ways of monitoring everything I do, too many ways of spying on
+my keypresses and on my screen using electromagnetism, etc, and they’ve
+simply already rigged my house such that it is literally impossible for me
+to keep them out of here at this point. And whereas physical access is king
+in terms of hacking ability, that is and has been the biggest battle I’ve
+been raging in general daily–is keeping them out of my house and taking
+back my devices so that I can begin to do other stuff confidently. Moral of
+the story is it is absolutely key for me to start fresh someplace new and
+take all the lessons I’ve learned here and apply them to a fresh restart
+elsewhere, where they won’t already have all these different mechanisms in
+place to bypass all my different security mechanisms and to spy on me, and
+ideally where they don’t even know where I am located.
 
 However there are two main things that are blocking me from moving
 someplace else at this time:
 
-The first is I really don’t want to drain my trust if I can help it. I have
-a ton of equity in my house so I’m hoping to avoid draining my trust which
-is profitable by itself and instead pull from the equity in my house. Now
-there’s two ways I can pull from the equity in my house, either by selling
-it outright or by refinancing it. I’ve been leaning towards the latter
-because what I always planned to do when i left here was to rent my house
-out when I eventually moved anyways, thereby continuing my estate how I
-have been up to this point, keeping my same worth, and if anything just
+The first is funding. I really don’t want to drain my trust if I can help
+it. I have a ton of equity in my house so I’m hoping to avoid draining my
+trust which is profitable by itself and instead pull from the equity in my
+house. Now there’s two ways I can pull from the equity in my house, either
+by selling it outright or by refinancing it. I’ve been leaning towards the
+latter because what I always planned to do when i left here was to rent my
+house out when I eventually moved anyways, thereby continuing my estate how
+I have been up to this point, keeping my same worth, and if anything just
 having someone else pay down my mortgage for me. I don’t want to allow
 these guys to completely fuck up all my plans in life. However with that
 said, what they have managed to be able to do is make it a lot more
@@ -7535,24 +7540,26 @@ know is Dusty is for damn sure involved, and Russia or another significant
 foreign adversary as ruthless as Russia is most definitely involved as
 well. I’m scared that their end game is to get me to do something while I’m
 asleep. I’m scared they have done this a time or two before tbh. That is
-why finding a way to disable the damn microchip is paramount to me at this
-time.
+why finding a way to disable the damn microchip is currently paramount to
+me.
 
 As stated previously, I’ll let you know if they ever stop attacking me–thus
 far they haven’t shown any signs of letting up anytime soon. But until I do
 then just assume I am still fighting daily battles with these guys
-regardless of whether I post it here or not. Please don’t forget about me.
-I’m doing my best to combat them but I am severely outnumbered.
+regardless of whether I post about their attacks here or not. Please don’t
+forget about me. I’m doing my best to combat them but I am severely
+outnumbered to say the least.
 
 P.s. Did you hear how Russia started lighting off fireworks right after
 Biden spoke announcing the sanctions against Russia today? If that means
 what I think it means and if I am indeed right about Russia being involved
-with all the harrassment against me then Russians seemingly associate
-fireworks with upcoming or past murder from what I have learned from these
-attackers previously. (As stated previously–the first like two times they
-attacked me was on the night of the fireworks–then they seemingly lit off
-fireworks in unison while playing the sound of turbo suffering to me for
-the first time on new year’s eve)
+with all this harrassment against me then the Russian military/Putin
+seemingly associate fireworks with upcoming or past murder from what I have
+learned from these attackers previously. (As stated previously–the first ~2
+times they attacked me beginning in 2019 was on the same night as the
+fireworks–then they seemingly lit off fireworks in unison while playing the
+sound of turbo suffering to me for the first time on this most recent new
+year’s eve)
 
 Chase Gibbons  / Manager
 435-999-4722
