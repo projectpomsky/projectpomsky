@@ -11993,14 +11993,14 @@ metal)
 P.s. If anybody asks—anonymous has no ties to the us government. Putin is
 trying to blame the anonymous hacks on the us government. He’s even setting
 them up to frame them for killing Russian citizens. This is what Russia
-does regularly. Regardless, it’s essential to keep any ambiguity between
-anonymous and the US government. To be clear, I don’t even know whether
-anonymous really does have ties or not to the US government—I just know how
-the game is played so to speak just from me watching how Russia does
-it—that’s all. The whole reason it works for Russia is because they never
-admit it—even tho we all know their hackers really do have ties to the
-Russian government—literally everyone in Russia will become a Russian agent
-if their government so chooses it will help Russia—Russia monitors
+does regularly. Regardless, it’s essential to keep any link between
+anonymous and the US government ambiguous. To be clear, I don’t even know
+whether anonymous really does have ties or not to the US government—I just
+know how the game is played so to speak just from me watching how Russia
+does it—that’s all. The whole reason it works for Russia is because they
+never admit it—even tho we all know their hackers really do have ties to
+the Russian government—literally everyone in Russia will become a Russian
+agent if their government so chooses it will help Russia—Russia monitors
 everything after all. Plus I can see Russia is setting up the ground work
 in various forums, social media sites, etc—to both make that link and to
 frame anonymous for doing horrendous things. I personally think anonymous
