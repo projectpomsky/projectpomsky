@@ -1525,7 +1525,7 @@ be hurting him again”. Then the wife sees me. They follow me that day on my
 walk.
 
 I see two dudes with I think beanies sitting in a van sitting outside my
-house a few months later--both with laptops, as soon as they see me peak
+house a few months later--both with laptops, as soon as they see me peek
 out the window they drive off. I later see the occupants of that van go
 into the child abuser’s house.
 
@@ -1607,15 +1607,16 @@ To be continued…
 Poisoned again this time from a key I left out for a tenant who was
 interested in renting one of my little sister’s commercial units (the unit
 was located within the commercial building of our father’s I had bought
-when Dusty first started distancing himself from me, but the key was left
-outside)--when the prospective tenants left the key in the drop spot
-outside to give the keys back to me. It was a similar substance as the
-first time except this time it was clear instead of grey but it gave me a
-similar initial feeling, it smelt similar, and I was able to differentiate
-this time as it made all my lymph nodes swell up for days afterwards. (The
-first time I just knew it made my whole body ache, this second time I
-realized it was really all my lymph nodes swelling up/aching) Sound
-familiar? Lymph nodes are what are affected in non hodgkin's lymphoma.
+from my little sister Taylor (Cindy’s daughter) when Dusty first started
+distancing himself from me--when the prospective tenants left the key in
+the drop spot outside to give the keys back to me. It was a similar
+substance as the first time except this time it was clear instead of grey
+but it gave me a similar initial feeling, it smelt similar, and I was able
+to differentiate this time as it made all my lymph nodes swell up for days
+afterwards. (The first time I just knew it made my whole body ache, this
+second time I realized it was really all my lymph nodes swelling up/aching)
+Sound familiar? Lymph nodes are what are affected in non hodgkin's
+lymphoma–which is what Karie died from.
 
 Again I can tie this second poisoning back to Dusty.
 
@@ -1665,7 +1666,9 @@ week--and on key dates. Saying a different thing each time. The first few
 times he asked to “play”. Then he started saying something having to do
 with “kill” or “death” or something like “kill him” or something like that.
 He would show up at my house on key dates too like on my birthday and labor
-day for instance. Like it clearly wasn’t random. (
+day for instance. Like it clearly wasn’t random–it was meant to intimidate
+me/stress me out on otherwise happy days. Clearly directed by someone
+intimately familiar with me. (
 https://drive.google.com/drive/folders/1u5IDbtDskD\_X8bowDJAY9ukE-xuI5MlS?usp=sharing
 )
 
@@ -1784,7 +1787,7 @@ get away from all the EMF stuff)
 Wet spot in the middle of the walkway on the carpet in one of my
 bedrooms–even though I had been gone for at least 24 hours--which I also
 stepped on. Between this and the thorn bush spike, made me feel wobbly.
-Vape juice made me feel drugged.
+Vape juice later made me feel drugged.
 
 It was as if they planned on the thorn bush spike, wet spot they had left
 for me to kill me, and they had set it all up to frame me to the police as
@@ -1815,18 +1818,21 @@ As of December 15, 2021
 
 My brother is trying to kill me you guys. Like I know that sounds bad, but
 I swear it’s the truth. Do you know how much money and time his “people”
-have spent on me? It’s insane. Sometimes I become desensitized like I said,
-but the truth is I can’t grow hair on like half of my legs anymore--which
-isn’t normal. Most older men can still grow hair on their legs--let alone
-men my age. I know deep down this is no joke. Sometimes I suspect they may
-still be getting into my house despite my best efforts to keep them out. I
-don’t know if it’s just PTSD or whether I’m still being re-exposed to
-something they did previously while in my house somehow or else whether
-it’s from my car or what. All of this likely implicates way more than just
-my brother too. So it’s like a small army of people want me dead. And
-nobody is going to truly take this seriously until it ultimately happens.
-That’s the position I find myself in. The worst part is my brother has
-ripped apart my whole family.
+have spent on me? It’s insane. I swear its like all they do, some of them
+at least. Sometimes I become desensitized like I said, but the truth is I
+can’t grow hair on like half of my legs anymore--which isn’t normal. Most
+older men can still grow hair on their legs--let alone men my age. I know
+deep down this is no joke.
+
+Sometimes I suspect they may still be getting into my house despite my best
+efforts to keep them out. I don’t know if it’s just PTSD or whether I’m
+still being re-exposed to something they did previously while in my house
+somehow or else whether it’s from my car or what. All of this likely
+implicates way more than just my brother too. So it’s like a small army of
+people want me dead–all directed by my brother I suspect. And nobody is
+going to truly take this seriously until it ultimately happens. That’s the
+position I find myself in. The worst part is my brother has ripped apart
+our whole family.
 
 These guys can hack anything--you have been warned. It’s scary. I suspect
 they buy exploits off of the dark web btw, I don’t think they program
@@ -1837,26 +1843,29 @@ is these guys belong to. Because these guys are extremely dangerous. Some
 of them seem to be like hired contractors or hitmen, whereas others seem to
 be more persistent in nature. But going after people seems to be legit all
 this hacking gang does all day every day. Most hackers aren’t killers but
-the two together are a deadly mix. My brother really had no reason to hack
-me other than if he wanted to kill me. Do you want to know who’s websites
-my brother has done previously btw? Karie’s and my father’s. Crazy right? I
-wonder if he hacked them too.
+the two together are a deadly mix. Especially when the killer hackers act
+as the coordinators for people on the ground. My brother really had no
+reason to hack me other than if he wanted to kill me.
+
+Do you want to know who’s websites my brother has done previously btw?
+Karie’s and my father’s. Crazy right? I wonder if he hacked them while
+doing their websites too.
 
 Regardless, I hope someone takes all this and runs with it and holds my
 brother and everyone else who has been involved accountable some day,
-assuming they are indeed guilty as I strongly suspect--don’t let them
-mislead you. If I can do anything further to help, just let me know. If my
-brother and any other key members of this unnamed group are one day held
+assuming they are indeed guilty as I strongly suspect--don’t let them fool
+you. If I can do anything further to help, just let me know. If my brother
+and any other key members of this unnamed group are one day held
 responsible--it will have all been worth it. Even just raising the alarm
 like this is huge. Hopefully when I’m done with all this then people can
 make up their own minds about my brother and whatever happens to me from
 here on out. My fear is a lot of what I have shared here is electronic at
 the end of the day, and it could therefore be hacked and manipulated and
 therefore it could be argued to not be authentic in court--when in fact
-everything I’ve written here thus far is authentic--I just could still do
-it in a more official way is all I guess. I’ll do that on the key parts
-once I’m through. But then I need to get out of here for my own safety and
-leave this all behind me I think, in pursuit of happiness elsewhere.
+everything I’ve written here is authentic--I just could still do it in a
+more official way is all I guess. I’ll do that on the key parts once I’m
+through. But then I need to get out of here for my own safety and leave
+this all behind me I think, in pursuit of happiness elsewhere.
 
 Regardless, thank you for your support.
 
