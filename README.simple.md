@@ -1053,6 +1053,8 @@ China, and I’ve since smelt gas in my room I normally sleep in. So yea,
 I’ll be in touch. I’m hoping China requests that they stop coming after
 both me and Ukraine but I honestly doubt it.
 
+May the force be with you. ;)
+
 Chase Gibbons  / Manager
 435-999-4722
 
