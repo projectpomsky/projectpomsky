@@ -10352,9 +10352,18 @@ Anonymous Video I’ve Been Working On in Support of Ukraine
 
 [reference goes here]
 
+
 I’ve been trying to use psychology to get to their heads lol. I know Russia
 is into space and whatnot. So I made it appear as though aliens are on our
-side. Still a work in progress..
+side. I like what Zelensky said today to the Russian troops tbh–that was
+smart. This is still a work in progress btw.. I’m debating on whether to
+add any words to it or whether to keep it just completely universal by
+having the graphics/sound themselves tell the story.. (you know, kinda like
+russia does everything in signals lol–i’m not supportive of that in terms
+of country to country governmental communications however–because it’s easy
+for miscommunications to take place) The original thought for doing it
+however was to warn people of potential traps set by the russians in oour
+hacking and social media, etc. Maybe I’ll just have to make 2 of them..
 
 
 Chase Gibbons  / Manager
