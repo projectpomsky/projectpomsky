@@ -11215,6 +11215,11 @@ incentive I might add. Plus you might help save our country like
 for-real–and I know I would appreciate no longer being gangstalked anymore
 that’s for damn sure. But yea, be super careful if you do–do not ever allow
 yourself to get overconfident. Last I was aware of he uses Macs. Just fyi..
+If I weren’t in this position that;s what I’d do–cuz it’s like you not only
+get access to all his malware but you get access to everything he has
+gotten access to–which is a lot I’m telling you. It’s like you jump from a
+small fish to a megalodon just like that. He probably tries to keep his
+most valuable stuff pretty hidden and out of sight tho.
 
 
 Chase Gibbons  / Manager
