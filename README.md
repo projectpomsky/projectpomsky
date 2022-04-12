@@ -10750,15 +10750,19 @@ Russia might have been trying to send signals to in order to see a
 potential correlation. Not all of them were likely caused by Russia but
 some of them definitely could have been.
 
-03/02/2022 - 2 Black Hawk helicopters crash near Utah ski resort
+02/22/2022 - 2 Black Hawk helicopters crash near Utah ski resort
 
 https://www.sltrib.com/news/2022/03/02/crashed-black-hawk/
 
 https://www.nbcnews.com/news/us-news/2-blackhawk-helicopters-crash-utah-ski-resort-rcna17232
 
 
-03/07/2022 - “Jet airplane assault” incident against myself described
-above. They’ve threatened doing it again since then too.
+03/07/2022 - “Jet airplane assault” incident against myself described in
+longer variation of this document which is referenced here. (
+https://docs.google.com/document/d/1KtnfL3WqWM2PGLCSWt1m4RCGprRhlCzhZkuw0psA3-4/minimalstatic#heading=h.b96n3hoqzxrh)
+They’ve threatened doing it again to me since then too–I just didn’t make a
+big deal about it because I’m not going to positively reinforce their bad
+behavior.
 
 03/13/2022 - Patrol officers and members of the Hazardous Devices Unit
 (HDU) safely removed an inert military-grade device from the International
@@ -10795,26 +10799,47 @@ allow plausible deniability. Meaning in ways that provide them with cover.
 Meaning you’d have to dig deep as hell and have reasoning to suspect foul
 play to ever even have a chance at catching them and successfully
 prosecuting them for it–then you’d need to dig even deeper to uncover the
-ties to Russia with uncooperative witnesses. (The witnesses are
-uncooperative because they are scared for their lives) This is
-fundamentally how Russia operates across the board. They have become good
-at what they do.
+ties to Russia with uncooperative Putin proxies/witnesses. (The
+proxies/witnesses are uncooperative because they themselves are scared for
+retaliation more so than any penalty they’d receive from our justice
+system) This is fundamentally how Russia operates across the board. They
+have become extremely effective at what they do.
 
 You guys I think these guys worship satan. Isn’t there some reference to
 brothers in regards to satan? Maybe that’s why both my brother and Putin
-are both trying to kill their brothers. There’s a ton of other parallels to
+are both going after their brothers. There’s a ton of other parallels to
 satan I can think of too. The perfect circles of black feathers left in my
-yard previously. Their obsession with fireworks seemingly used as some kind
-of a ritual prior to their killings, etc, etc. You guys seriously need to
-arrest my brother before he kills anybody else. And we seriously need to
-take out the kremlin before they bring about the apocalypse.
+yard previously could represent some black magic or ritual. Their obsession
+with fireworks seemingly used as some kind of a ritual or offering to satan
+prior to their killings, etc, etc. You guys seriously need to arrest my
+brother before he kills anybody else. And we seriously need to take out the
+kremlin before they bring about the apocalypse. They are acting incompetent
+right now intentionally btw. Think back to the “Art of War” quotes. That’s
+exactly what they want us to think. After a certain point it becomes
+ridiculous to think any world power could really be that incompetent–let
+alone Putin who is known for his planning and intelligence. Don’t fall for
+it.
 
-I no longer think China is directly involved.
+I no longer think China is directly involved btw.
 
-I suspect they have tampered with my water. I suspected this a long time
-ago tbh–but they are still doing it. They use things that are impossible to
-test for. I don’t even know if you could even find a test for what they
-use. Everything they do is meant for them to get away with it.
+I suspect the attackers have been tampering with my water. I suspected this
+a long time ago tbh–I stopped drinking my water a while ago now for this
+reason–but they are still doing it and I fear they are now adding something
+that may be meant to get to me just through exposure to my bath water now.
+Previously I would develop these strange abscesses and I ended up narrowing
+it down to my drinking of my water–so I stopped drinking it. They always
+use substances that are impossible to test for and they set up their
+delivery system to be automated and digitized just like with everything
+else they do. (So they can begin to inject their substances into my water
+heater when they know I’m about to take a shower, etc, etc, so as to not
+waste whatever it is–I always hear them messing with my water heater
+whenever I’m about to get in the shower as of lately–and my skin has
+reacted multiple times after showering recently as well) I don’t even know
+if you could even find a test for whatever it is they are adding to my
+water–believe me–I bought tests. Everything they do is engineered and
+carried out in a way where the probability of them getting away with it is
+extremely high. They take that shit into consideration beforehand, like in
+regards to what is most likely to be tested for, etc, etc.
 
 Chase Gibbons  / Manager
 435-999-4722
