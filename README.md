@@ -12220,6 +12220,12 @@ Btw I’m registered as a Republican, so don’t try and excuse any misdeeds
 away on you being at war against me either. I’m just more of an Evan
 Mcmullin/Mitt Romney type republican over a Donald Trump republican.
 
+If people would just be honest with themselves and everyone else then this
+would all be over with already. I can think of a million different ways to
+secretly talk to the police or fbi absent this damn microchip. Meaning
+everyone who doesn't have a microchip should be able to do the right thing
+without fearing repercussions. Or you can just be like me and just do the
+right thing regardless of repercussions.
 
 Chase Gibbons  / Manager
 435-999-4722
