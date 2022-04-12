@@ -2280,17 +2280,19 @@ father when he was down like that and I have my father’s back in regards to
 all that–plus, I rarely even talked to Cindy at the time. I wasn’t
 impressed with Cindy’s biker bar and her having biker dudes over shortly
 after his death, etc. Not to mention like everything that happened the day
-of my father’s death. How could Cindy have beat Annie and I to the hospital
-when she was supposedly in Ogden at the time unless Dusty called her prior
-to calling the paramedics? I know some of Dusty’s friends said he called
-them right after he discovered our father or something too. I don’t know, I
-guess Cindy could have been already on her way home or something but it’s
-almost as if some time passed or something that isn’t accounted for,
-assuming you take both Dusty’s and Cindy’s alibis at face value. Cindy said
-she was in Ogden at her biker bar. Dusty said he went to the gas station
-nearby, which was literally like 2 minutes away. So like a ten minute round
-trip or so. And when he came back he found our dad that way. I’m assuming
-when he left for the gas station our dad wasn’t there.
+of my father’s death.
+
+How could Cindy have beat Annie and I to the hospital when she was
+supposedly in Ogden at the time unless Dusty called her prior to calling
+the paramedics? I know some of Dusty’s friends said he called them right
+after he discovered our father or something too. I don’t know, I guess
+Cindy could have been already on her way home or something but it’s almost
+as if some time passed or something that isn’t accounted for, assuming you
+take both Dusty’s and Cindy’s alibis at face value. Cindy said she was in
+Ogden at her biker bar. Dusty said he went to the gas station nearby, which
+was literally like 2 minutes away. So like a ten minute round trip or so.
+And when he came back he found our dad that way. I’m assuming when he left
+for the gas station our dad wasn’t there.
 
 It’s almost as if Dusty called Cindy or something when he first found our
 father is all I’m saying–with the specific purpose of having her cover for
@@ -2303,29 +2305,31 @@ avoid being asked too much about his discovery of our father from anybody.
 And it worked cuz at the time, nobody really even questioned Dusty. Cindy,
 Dusty, and possibly Shawn would likely have known that had it been Cindy
 who had found our father, more questions would have been raised. I recall
-Cindy used to always watch Law and Order too, idk. I just don’t get Dusty’s
-infatuation with Cindy. I will say, when those guys would stay up and drink
-together, my father would either not be around or else he’d go to sleep
-early. So I could totally see Shawn and Cindy talking with Dusty about
-something like all this late one night and Dusty even taking Cindy’s side
-over our father’s. Cindy had been charged with like fraud or something a
-few years prior as an insurance broker, losing her license. While I like
-Cindy, I have always looked at her and Shawn as being a little shady, and
-I’ve always looked at Cindy as somewhat of a gold digger. And all this just
-made me question how convenient an occurrence it really was for her to have
-my father die right when he did given their ongoing divorce discussions at
-the time. (I do believe my father had a prenup in place with Cindy) I
-wouldn’t be surprised if Dusty and Cindy did something together late one
-night either–but I have no knowledge of anything of the sort. I don’t know
-what Dusty was referring to about our dad was almost going to change his
-trust before he died, when he said that repeatedly at the time, or how my
-brother even would have known that given our dad only ever really talked to
-me about his trust once, (he said i’d likely be getting a house) I think
-our dad intentionally didn’t talk to us too much about his trust for a
-reason. But I would assume if my dad had been planning to change anything
-on his trust at the time–then it would have likely been to remove Cindy.
-I’m really hoping Dusty didn’t treat our father like he did Karie right
-before Karie died, or like he’s now treating me.
+Cindy used to always watch Law and Order too, idk.
+
+I just don’t get Dusty’s infatuation with Cindy. I will say, when those
+guys would stay up and drink together, my father would either not be around
+or else he’d go to sleep early. So I could totally see Shawn and Cindy
+talking with Dusty about something like all this late one night and Dusty
+even taking Cindy’s side over our father’s. Cindy had been charged with
+like fraud or something a few years prior as an insurance broker, losing
+her license. While I like Cindy, I have always looked at her and Shawn as
+being a little shady, and I’ve always looked at Cindy as somewhat of a gold
+digger. And all this just made me question how convenient an occurrence it
+really was for her to have my father die right when he did given their
+ongoing divorce discussions at the time. (I do believe my father had a
+prenup in place with Cindy) I wouldn’t be surprised if Dusty and Cindy did
+something together late one night either–but I have no knowledge of
+anything of the sort. I don’t know what Dusty was referring to about our
+dad was almost going to change his trust before he died, when he said that
+repeatedly at the time, or how my brother even would have known that given
+our dad only ever really talked to me about his trust once that I recall,
+(he said i’d likely be getting a house or something) I think our dad
+intentionally didn’t talk to us too much about his trust for a reason. But
+I would assume if my dad had been planning to change anything on his trust
+at the time–then it would have likely been to remove Cindy. I’m really
+hoping Dusty didn’t treat our father like he did Karie right before Karie
+died, or like he’s now treating me.
 
 My brother had demonized our dad prior to this point, he held resentment
 towards our father both for not being there when we were little, and for
@@ -2355,9 +2359,9 @@ mother for the fact that Dusty only really cares about himself. Dusty has
 essentially admitted a lot of this in subtle ways, ways in which only his
 victims would know the true meaning of–given only his victims have the
 required context. For instance, I recall shortly after first accusing Dusty
-of all this, he replied at one point “you’re smart” only to delete it
-after. Dusty enjoys having his victims and only his victims know he is
-ultimately responsible, it must make him feel powerful or something.
+of all this, he replied over imessage at one point “you’re smart” only to
+delete it after. Dusty enjoys having his victims and only his victims know
+he is ultimately responsible, it must make him feel powerful or something.
 
 I suspect Dusty went into sleeper mode when I purchased Taylor’s commercial
 building from her, which Cindy did seem to be questioning whether it was
@@ -2365,20 +2369,150 @@ the right thing for Taylor to do at our purchase finalization dinner that
 Dusty didn’t show up to, even though if I recall correctly, the whole
 reason Taylor wanted to sell it to begin with was due to Cindy convincing
 Taylor of the value of annuities. I recall Dusty wasn’t really happy about
-me purchasing it at the time either. I think Dusty started distancing
-himself from me at this time based on all he’s learned in the past and all
-he was planning to do. He realized it would be better for him if he didn’t
-associate with me if he were going to start coming after me.
+me purchasing it at the time either–but I had that dinner for a reason–to
+ensure Taylor really wanted to sell it after having ample time to think it
+through and to see what unit she was selling first hand.
+
+I think Dusty started distancing himself from me at this time based on all
+he’s learned in the past and all he was planning to do. He realized it
+would be better for him if he didn’t associate with me if he were going to
+start coming after me.
 
 tbc
 
-Chase Gibbons  / Manager
-435-999-4722
 
- 
-PO Box 747Logan, UT 84321
-gfic.io 
+As for any questions about me.
 
-[image: Twitter]  [image: Facebook]
- [image: LinkedIn]
 
+I’ll just say I wasn’t really even into computers at the time of my dads
+death so I had no way to know about the dark web nor how to get anything
+like that at the time—nor did I have any motive. Dusty has always been all
+butt hurt about the past, I’ve never been that way. I don’t hold any
+resentment towards my father whatsoever—I honestly really wish my father
+were still around to help me get through this today. And I wish he were
+around longer just in general so I could have learned from him more than I
+did—which I’ve said numerous times previously. Plus, I wouldn’t have pushed
+for an autopsy had I had something I was concerned about them finding in my
+father—it really is that simple. How did Cindy know he overdosed anyways?
+Seems like a smear campaign meant to cover up the truth to me—the whole
+ordeal seems fishy to me. I honestly would have continued pushing as well
+given the circumstances with Cindy at the time had the doctor not
+intervened and said what he said.
+
+As for karie, I mean I’m the one who thanked her for being our trustee on
+her deathbed, and for helping me get through college. If I held that much
+resentment towards karie, it would show—but it doesn’t—because I don’t.
+Dusty still hates Karie to this very day. I also will say I’m not the one
+who grabbed her by her freaking bald head while she were at her weakest
+point on her deathbed as if I were happy she were in that horrible state
+and I’m not the one infatuated with sending “signals”—my brother is. I
+don’t hide that I’m a programmer now either—I code my ass off but it’s
+mostly all for rent dynamics as all the GitHub reporting shows. One person
+can only code so much at the end of the day. Plus I’ve never been a
+hacker—i haven’t had time too. I’m not the one who takes time off around
+all the deaths in my family. I’m not the one who freakin starts a fake
+recording studio just to act as a front to what I’m really doing. And I’m
+not the one who stopped being a civil engineer just to spite my father.
+Like what more do you even need to know? I treated karie with the dignity
+and respect she deserved. Plus I don’t recall my brother even showing me
+the dark web until right around the time karie died anyways. (Not sure on
+the exact date he showed us that, but even if it was before she died—I
+didn’t dig into it myself really until Dusty started coming after me years
+later like I said—just to see what he may be capable of later) I honestly
+wish karie were still around to help me through all this as well.
+
+It’s a complex dynamic, just like with any family. But looking back over
+everything, do I think my brother would frame me? Now I freaking do—hell
+yea—that’s what’s so shocking to me in all this. It’s like my brother has
+been like this imposter all along—only ever truly caring about himself. (He
+seems to care about Cindy too I guess—which is just so odd to me—like Cindy
+is the only parent/step parent he has never ever talked down on like ever)
+Its devastating to now find out that even my only 100 percent full
+brother/sibling has likely never ever really even truly loved me—even the
+years I thought he loved me—I was wrong. It hurts. And that’s why this is
+such a big freaking deal to me is because I now know these guys will try
+and frame me for what I now suspect they’ve done, and they actually know
+what they’ve done whereas I still don’t know what substances they are
+using, I can only give my best guess—so again they have the upper hand, let
+alone everything else they have been doing to me beyond trying to frame me.
+And I’m only one person at the end of the day. I refuse to be my brothers
+“fall” guy, that’s apparently what he’s been trying to make me for years
+now—and the evidence clearly shows that.
+
+These guys clearly know how to do all this in a way to where little
+questions are asked and where they are able to get away with stuff and
+avoid questioning themselves. Now that they are faced with someone who
+actually knows what they have done, I mean they’ve changed their strategy a
+little bit but seemingly not all that much. If anything, they’ve set the
+whole thing up to where I would inevitably know what they’ve done
+eventually and on their timing. I’ve now seen their different strategies
+play out again and again first hand, and I’m now being tortured
+daily/discredited daily as a result—hence why I have now reached the
+conclusions I have is because my brother has essentially forced me to reach
+these conclusions. Why else would they be coming after me? If they were
+goody two shoes at the end of the day they wouldn’t even know how to come
+after me to begin with. (Kinda like how I don’t even know where to even
+begin in going after my brother) If I were them on the other hand, I would
+have way more options than what I have right now—and “faking” a
+gangstalking would be among the worst of my options. Seems if I were them
+it would have to be a fake, and if I were them I would have all the options
+they do.
+
+Let’s take a look at all their options real quick:
+
+
+ 1.
+
+ Fucking stop, as I’ve begged them to do numerous times now thereby
+ giving me no real reason to turn them in or even really suspect them in the
+ first place. If I were them—I would have definitely taken this option.
+ 2.
+
+ Kill me to silence me
+ 3.
+
+ Frame me using all their advanced insight and hacking abilities
+ 4.
+
+ Frame somebody else
+ 5.
+
+ What else? Write to the police everything they’ve done line by line in
+ real time only accusing me? Yea right. They know that would backfire on
+ them bigly.
+ 6.
+
+ Try to discredit me/make me look crazy by gangstalking ME
+ 7.
+
+ “Fake” like THEY are victims of gangstalking THEMSELVES to try and make
+ it look like it’s not them when nobody had even accused them of anything
+ really? Yea fucking right. That would only discredit them anyways.
+ 8.
+
+ Force me out of town, force me to quit my jobs, etc; like they have been
+ trying to do, along with framing me, gangstalking me, discrediting me, and
+ trying to kill me. (Essentially an “all the above” option among those that
+ are even noteworthy—besides the fucking stop option—this is the option they
+ have seemingly chosen)
+
+
+I for damn sure wouldn’t be writing all this in real time if I were them.
+And I for damn sure wouldn’t live in Logan anymore starting a long time ago
+if I were them. (Kinda like Dusty and Cindy both bounced shortly after my
+fathers death) I hope you see the pattern in that the people being targeted
+come to Logan for safety, both to ensure whoever is doing all this is held
+accountable one day and because we feel safest here. The people doing the
+attacking on the other hand are going to feel safest elsewhere—it’s just
+human nature. Plus, there really is only one group of people who I suspect
+HAVE NOT been poisoned or killed left standing, out of the natural divides
+within my father’s family—if I were you, I would look to the remaining
+tribe who has not had all this bad shit happening to them..
+
+I’ll give you a clue, I’m the only one left in the hacked/poisoned/killed
+tribe of my fathers family—I always sided with my father over Cindy—same
+with karie. Dusty has always sided with Cindy.
+
+I’m also quite shocked Dusty thought so little of my cognitive ability and
+my ability to protect myself and my family. I can’t believe they chose the
+option they did tbh. I may have a chance after all..
