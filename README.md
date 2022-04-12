@@ -1807,6 +1807,7 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
+​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -4772,6 +4773,33 @@ to my top notch locks even.
 Still not sure if he was in my home or if the smell just came through a
 window or something–but with everything else that’s been going on lately–I
 wouldn’t doubt it.
+
+I do suspect they got in again.
+
+And to be perfectly clear—I didn’t even freaking turn my brother in until
+he tried filling my prescriptions, acting all shady about my prescriptions
+both before and afterwards, and not only that but until after he poisoned
+me and my dog at the dog park, and all that bs, and not only that but until
+after he poisoned me the next year and got me really good/bad via a key
+that was left out at one of my buildings that time, (making it cross the
+work boundary on multiple levels) and not only that but he had also
+completely hacked the shit out of me and had been tracking my locations,
+having people stalk me, etc, etc, and I won’t go any further than that but
+just know it’s not like I was just being a dick turning him in for nothing
+and therefore now all this is justified against me—it’s quite the opposite
+actually. I turned him in once I realized he was coming for my jugular
+regardless of what the fuck I did or didn’t do about it. And even beyond
+that—nobody even took me seriously really until this year because I didn’t
+push the freaking issue until he came after me even more times and until he
+started coming after me and turbo literally daily. And even still I’ve
+given him plenty of opportunities and I just simply elevated my reporting
+of it all each and every time. He really has given me no other fucking
+choice. Sometimes I feel it’s as if this is what he wants from me.
+Regardless, it’s not like I’m happy about it, believe me, I wish he
+actually would have given me some kind of choice and left me the hell
+alone. But it is what it is I guess. Here I am now with clearly a bounty on
+my head. All I can do is try and make the best of it.
+-- 
 
 Chase Gibbons  / Manager
 435-999-4722
