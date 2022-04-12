@@ -3647,6 +3647,11 @@ infrasound and explosions I have to worry about with my brother–he can
 legit start fucking with my brain to try and negatively reinforce what I’m
 doing.. (He’s the new Charles Manson)
 
+If he really loved me I don’t think he’d be doing all of this to me. My
+only thing is it’s hard for me to stop loving my family–regardless of what
+they put me through. But I really think Dusty needs some help–he’s a clear
+threat to society.
+
 Chase Gibbons  / Manager
 435-999-4722
 
