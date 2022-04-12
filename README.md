@@ -5182,3 +5182,17 @@ P.s. I think their latest suspected hitmen have still yet to strike,
 assuming my vibe was right at Logan hero’s earlier tonight. They had to
 have installed that gas thing in my printer before I ever even crossed
 paths with those guys earlier tonight..
+
+Now I’m scared to go to sleep even more. Because my latest enclosure has to
+be almost all the way sealed with foam insulation to keep their framing
+infrasound to a bearable amount. But if they added one of their gassing
+devices described above in here then I’m likely fucked. They are always
+exploiting vulnerabilities in literally everything like that. I do one
+thing to combat their stupid uncalled for attacks, then they start using
+something that is even more effective at harming me through what kept me
+safe from their previous attacks. It’s messed up. I wish I had more help. I
+wish I didn’t always have to be on the defense against these guys—because
+they are absolutely ruthless. I’m not ready to die yet. I just want to live
+a normal life. I don’t get why my brother hates me so much. They literally
+make my life miserable daily and they show no signs of letting up anytime
+soon.
