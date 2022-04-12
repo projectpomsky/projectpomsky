@@ -12867,6 +12867,17 @@ Russia’s never ending manipulation..
 
 Just a thought..
 
+I shouldn’t even have to have to worry about things like my own personal
+trust at this age. But I do because of everyone else's decisions and their
+succumbing to all the manipulation themselves essentially. (And getting
+dragged down to hell themselves)
+
+You know how it’s extra prestigious for mormons to get someone baptized
+right? Yea well with these guys it’s the opposite. It’s extra prestigious
+the more people they are able to drag down to hell essentially. It’s like
+the ultimate way my brother could ever possibly dream of undermining
+mormonism.
+
 Chase Gibbons  / Manager
 435-999-4722
 
