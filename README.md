@@ -6127,8 +6127,8 @@ murdered someone myself in some parallel universe. (I.e. sought out help
 from a foreign adversary) But I’m not a murderer myself—and I care about
 more than just myself—that’s the difference. (Plus I’m not a traitor
 either) And so now it’s just like I somehow got to take down a whole super
-power adversary just to get to my brother now pretty much—which is just
-total bs tbh.
+power adversary just to get to my brother now to get all this harrassment
+to stop pretty much—which is just total bs tbh.
 
 I do strongly suspect our adversaries could be legit collaborating with
 localized crime groups and using our own hackers against us—to try and
@@ -6158,7 +6158,110 @@ all this.
 I’ll share some direct evidence on why I think Russia is at least partially
 involved shortly I promise.
 
+—------
 
+They seemingly got off my computer?? Well maybe. They are using their
+onsite screen viewer thing now instead. Let me see if my screen goes blue
+when I restart..
+
+Nope. It did something a little different that time where it normally goes
+blue–that was legit. Maybe just what it feels like with no malware, idk.
+Hmmm..
+
+Let me pull up some backups..
+
+They completely reset everything just barely. Even my NAS device—as soon as
+I plugged it in and had it connected to the internet for like 2 minutes it
+reset on its own. I know cuz now my nas isn’t even broadcasting a hostname
+or smb name anymore out of nowhere and it was broadcasting them just a
+second ago.
+
+It’s like they just sent out a command to all their devices to remove their
+malware as soon as i connected them to the internet is what I’m gathering.
+
+I got more devices I haven’t yet plugged in again however, and I’ve got
+plenty of backups in various places I think..
+
+That’s why I’m trying to get my backups back up and running, I doubt they
+touched everything I have tbh.
+
+There’s quite a few ARQ backups but those ones don’t include all the root
+system files.
+
+Oh good–luckily my ARQ backups aren’t set to automatically pick up on the
+root system files currently.. That’s a relief.
+
+Here I found some untouched root image files on an external backup disk
+with their malware on it I think for you, (when I did a manual backup to an
+external hard drive to preserve it all previously) let me know if you want
+them, they seem to want them back now themselves. I’ll try and upload it to
+s3 or something, well actually then they’ll be able to tamper with the
+drive while it’s plugged in to my computer themselves.
+
+Anytime I plug in a new infected device it reinfects the whole network now
+again lol. Wowa. Was that a setup?
+
+My computer screen went blue again upon restart this last time now that I
+plugged a bunch more stuff in just barely..
+
+Yea they are back on again now.
+
+I’ll keep adding more stuff back onto my network tomorrow regardless
+however, unless you don’t want me to..
+
+This is kinda cool seeing all this advanced malware–however it sucks not
+being able to do anything about it myself.. :/
+
+If you want a hard drive or two containing i suspect their malware to
+evaluate on your own time I can do that–if that works best for you. Sorry.
+I originally thought this would be a good idea but maybe not so much. These
+guys literally monitor and anticipate your guys' next moves—they watch this
+google drive file and everything else I do themselves too. Last thing I
+want is for them to get access to your malware.. All they do is steal
+everything from us anyways, all our trade secrets and whatnot—that’s why I
+never really liked Russia myself.
+
+Shutting everything down now.. Let me know what if anything I need to do.
+
+I’d start using their malware to go after them btw, that way you aren’t
+risking or reluctant to use our own. Start doing what they are doing only
+in Russia too. We need more public relations about this issue. If all our
+rich people got involved just like all their oligarchs—they would be
+totally screwed. I guess that brings it back to what I said at the bottom
+of the medium article tho. They are like opening a Pandora’s box that could
+turn out extremely devastating for humanity going forward. (in my opinion)
+But they are ruthless as hell and they go straight for the jugular—what the
+hell else are we supposed to do?
+
+Everything going on in Ukraine right now is likely yet another instance of
+them trying to just keep our eyes off of their real plan. Their real plan
+likely entails lots of hacking and defeating us from within, at least in my
+view..
+
+This has got to be a foreign adversary I would think. Idk. It’s hard to say
+forsure as just a regular civilian myself. But no gang I’ve ever heard of
+has this many advanced resources and technologies. They even do the thing
+that Edward Snowden said was the most disturbing of all out of the NSA
+capabilities he exposed—to me—a US citizen. But you would know better about
+who they really are likely just based on my descriptions of their malware
+than I do. I just wanted to try and make sure they didn’t completely ghost
+me again and make me look like a fool by having you check on my network
+only to find absolutely nothing. (If you even checked on my network)
+
+I think I want to join the U.S. military cyber division. Then these guys
+couldn’t touch me anymore lol. I would have a lot to learn if so though.
+But I’d rather join our military than some foreign military that’s for
+sure. It seems to me like we could honestly use some more programmers in
+our military right about now too. I’d even take lower pay tbh. I’ve been
+thinking of joining the military or airforce or something just to get away
+from these guys lately tbh. They are super annoying to say the least. They
+always do shit like this and they are always super hard to catch just given
+all their illegal advanced intel and all their corrupt resources seemingly
+always on stand by—they can remove evidence just like that—before the
+police even arrive for instance.
+
+If nothing else it’s good to know it’s not my own government doing all this
+fucked up shit to me—thank you.
 -- 
 
 Chase Gibbons  / Manager
