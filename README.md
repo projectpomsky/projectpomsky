@@ -4851,7 +4851,7 @@ What’s the ultimate way to be evil? The ultimate way to be evil is by being
 evil through other people so you yourself don’t ever get caught.
 
 What is the ultimate way to be a hacker? The ultimate way to be a hacker is
-by hacking into people’s minds.
+by hacking into other people’s minds.
 
 These guys’ advanced persistent threat hacking capabilities and their emf,
 infrasound, extreme break-in capabilities, and their suspected
@@ -4864,9 +4864,9 @@ time. (After he initially hacked me and others) And now he’s on a vendetta
 against his whole family and this entire town–seeking to do the one thing
 to his family that’s even worse than death–that is–mind control. He wants
 to essentially make some of us act out and behave in ways that will
-essentially cause our whole family never ending suffering and grievance and
-will be the ultimate slap in the face to my father and my mother and this
-whole town.
+essentially cause our whole family never ending suffering, grievance, and
+shame and which will be the ultimate slap in the face to my father and my
+mother and this whole town.
 
 
 
