@@ -4049,21 +4049,31 @@ owners inside at medvet due to covid) If so, I bet we could find out
 exactly which vet technician handled turbo at medvet that evening is why
 I’m saying this. And it could be an in to their whole poisoning tactics.
 
-I suspect my brother’s gang legit will even have members whose their sole
-objective is just to get hired on to a given place just to perform a
-poisoning from what I gather. Like I think that might be how they got
-something into my jamba juice when I woke up feeling like my stomach was
-going to explode most recently. Because I recognized a new person working
-there that night that I haven’t seen working there before or again since,
-you know, the night I last reported smelling almonds and diesel fuel. Like
-these guys are ruthless you guys. My brother is fucking ruthless. So next
-time you start thinking about me potentially having any involvement in
-anything to do with my brother and all this gang stuff–just remember this
-is the level of evil we are really talking about here. And they actually
-enjoy it.
+Tbh, I don’t know why they would have poisoned my dog, like as you’ll see
+in all these references as I continue to add them, like the most Dusty
+could possibly even be mad at me for is buying my little sisters commercial
+unit and saying I couldn’t do his website in the way he wanted it done
+given my level of experience in wordpress–after he had already hacked me at
+the time mind you. So that’s apparently the price I have to pay for doing
+those two things with this group of killers that my brother chose to become
+affiliated with.
+
+I suspect my brother’s gang legit will even have members of their gang
+whose their sole objective is just to get hired on to a given place just to
+perform a poisoning from what I gather. Like I think that might be how they
+got something into my jamba juice when I woke up feeling like my stomach
+was going to explode most recently. (Either that or they were freaking
+emf-ing /infrasounding my gut whereas I had led covering the rest of my
+upper body at the time) But I have suspected this with this group before
+regardless. My brother and his gang are fucking ruthless. If they don’t get
+you down physically–they will take you down using all their dark
+psychology. So next time you start thinking about me potentially having any
+involvement in anything to do with my brother and all this gang stuff–just
+remember this is the level of evil we are really talking about here. And
+these guys seemingly actually enjoy it.
 
 
-Started adding references
+Started adding references as promised.
 
 https://drive.google.com/file/d/0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk0/view?usp=sharing&resourcekey=0-EeWTQ7Zs5x2T06vHmzpVbw
 
