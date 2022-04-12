@@ -3771,31 +3771,34 @@ would be a nightmare tbh. He’s not dumb—keep that in mind please.
 They definitely were in my house again. They installed something which
 makes any electrical breaker of mine that is powered on begin to emit gama
 rays on their command. I know it’s gama rays cuz it goes right through my
-enclosure even from a far distance—and my enclosure is made up of a faraday
-cage on the outside plus a full led interior—plus like inches and inches of
-foam sound proofing. I turned off all my breakers one by one and it got
-better and better each one I turned off until there was only one gama ray
-emitter left that was still giving me infrasound heart type symptoms—but
-all my breakers were off at that point. So I turned off my power outside
-even and even still there was one gama ray emitter left. (I think they are
-illegally tying into power) I am 100 percent confident these guys are
-messing with my power though and Rocky Mountain power and the authorities
-should really get involved and get to the bottom of it because these gama
-ray emitters are extremely dangerous and seemingly indiscriminate in where
-they were pointed—but again they are controlled remotely like everything
-else these guys do. But yea, in order to block gama rays you’d need either
-inches and inches of led or else inches and inches of concrete or water.
+enclosure even from the other side of my house—and my enclosure is made up
+of a faraday cage on the outside plus a full led interior—plus like inches
+and inches of foam sound proofing. I turned off all my breakers one by one
+and it got better and better each breaker I turned off until there was only
+one gama ray emitter left that was still giving me infrasound heart type
+symptoms—but all my breakers were off at that point. So I turned off my
+power outside and even still there was one gama ray emitter left. (I think
+they are illegally tying into power) I am 100 percent confident these guys
+are messing with my power though and Rocky Mountain power and the
+authorities should really get involved and get to the bottom of it because
+these gama ray emitters are extremely dangerous and seemingly
+indiscriminate in where they were pointed—but again they are controlled
+remotely like everything else these guys do. But yea, in order to block
+gama rays you’d need either inches and inches of led or else inches and
+inches of concrete or water.
 
-Or you could just arrest my brother and bring this all to an end like that.
+Or you could just arrest my brother and bring this all to an end just like
+that.
 
 Like I told you these guys always evolve to try and keep up the pressure.
 But the thing is—the authority’s need to evolve and turn up the pressure
 right back in my opinion. Adding gama ray emitters like that to a home
-CANNOT possibly be legal. I suspect they have some hidden primary
-controller down the pipe of the Rocky Mountain side of my electrical meter
-or somewhere in my electrical meter as well which serves as the base hub
-for all their hacking and electrical tampering—but you’d have to do an
-actual thorough inspection.
+CANNOT possibly be legal. I suspect they have some hidden primary raspberry
+pi or similar controller somewhere hidden down the pipe of the Rocky
+Mountain side of my electrical meter or else somewhere in my electrical
+meter itself as well which serves as the base hub for all their hacking and
+electrical tampering for my whole house—but you’d have to do an actual
+thorough inspection.
 
 I’ve said it before and I’ll say it again it’s insane how much these guys
 are allowed to get away with. It’s also insane just how brazen they are and
@@ -3807,10 +3810,16 @@ people and tampering with peoples electricity indiscriminately all for
 their own pleasure.
 
 You can’t make this stuff up. Plus it fits an overall pattern I’ve been
-staying now for some time. There’s no illness out there that would
-constantly change symptoms like this. It’s my brother like I’ve been saying
+stating now for some time. There’s no illness out there that would
+constantly evolves based on what I write in a google drive folder like
+this. (I just stated that I can turn off all my breakers and it gets a lot
+better, like a lot less intense—that’s actually the part Dusty didn’t like
+me writing earlier—so what’s he do? Break into my house again and make it
+so its intense as hell regardless) It’s my brother like I’ve been saying
 now since the very beginning—he’s a serial killer. He wants to discredit me
-because I’m turning him in for being exactly that. He wants me dead.
+because I’m turning him in for being exactly that—a serial killer. He wants
+me dead. It really is as simple as that. I wish he would be arrested
+already. He’s arguably the biggest threat in all of Utah or more.
 
 Some (but not all) Dusty gangster references:
 
