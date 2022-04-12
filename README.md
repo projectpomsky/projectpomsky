@@ -4896,9 +4896,9 @@ have now been caught–my screen went blue and back to white and back to blue
 again multiple times, as if multiple people were logging in to view what I
 was writing at the time–don’t let them fool you–I think this is the closest
 to the truth I’ve gotten yet; The beauty of what they are doing to me is
-that I can read them through their reactions to what I’m doing at any given
-point just like they can read me, or else I can read their lack of
-reactions, etc, etc..)
+that I can read them through all their reactions to what I’m doing at any
+given point, just like they can read me, I can also read their lack of
+reactions at key times, etc, etc..)
 
 Chase Gibbons  / Manager
 435-999-4722
