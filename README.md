@@ -4959,10 +4959,10 @@ can investigate him. It makes it tough when there is more than just one
 person involved, because a lot of the crimes occur here but the person
 ultimately behind these guys coming after me to begin with resides in
 another jurisdiction. And I suspect at least some of the hackers reside in
-a different country entirely. Again it goes back to my brother making
+a different country altogether. Again it goes back to my brother making
 friends with a Russian Oligarch as I now suspect. But at the end of the day
 it’s not my job to investigate–I don’t want to jeopardize your
-investigation either. So I’ll just stop there, I was just trying to help.
+investigation. So I’ll just stop there, just know I was just trying to help.
 
 Chase Gibbons  / Manager
 435-999-4722
