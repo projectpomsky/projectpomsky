@@ -12220,12 +12220,26 @@ Btw I’m registered as a Republican, so don’t try and excuse any misdeeds
 away on you being at war against me either. I’m just more of an Evan
 Mcmullin/Mitt Romney type republican over a Donald Trump republican.
 
-If people would just be honest with themselves and everyone else then this
-would all be over with already. I can think of a million different ways to
-secretly talk to the police or fbi absent this damn microchip. Meaning
-everyone who doesn't have a microchip should be able to do the right thing
-without fearing repercussions. Or you can just be like me and just do the
-right thing regardless of repercussions.
+If people would just be honest with themselves and be honest with everyone
+else then this would all be over with already. I can think of a million
+different ways to secretly talk to the police or fbi absent this damn
+microchip. Meaning everyone who doesn't have a microchip should be able to
+do the right thing without fearing repercussions. Or better yet, you can
+just be like me and just do the right thing regardless of repercussions.
+There are all kinds of church gospels on that very thing. These guys get
+their power through all their manipulation. Without all the people allowing
+them to manipulate them–none of this would be possible. Meaning anyone that
+succumbs to their manipulation is technically guilty of all the crimes they
+carry out using all their manipulations–including but not limited to their
+killing of me. (And that’s just not even being involved in any direct way)
+And I promise you–they are indeed killing me. They’ve likely already taken
+decades off of my life at the very least and they don’t plan to stop until
+they succeed–and they can’t do it without your help. It’s a slippery slope,
+that’s for damn sure. I’d rather go down knowing I did what’s right than go
+down helping satan. At least then, if the religions are right–then I’ll be
+rewarded after I die. And who knows, maybe I’ll even help save this
+country. I don’t want to let our forefathers down, I personally really like
+our constitution.
 
 Chase Gibbons  / Manager
 435-999-4722
