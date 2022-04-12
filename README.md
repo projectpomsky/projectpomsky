@@ -1249,6 +1249,12 @@ Got my dog, Turbo, with my girlfriend Annie during the early part of 2007.
 
 Graduated from Logan High School.
 
+My father once told me that he had a good feeling about me. Like in
+relation to his other kids. Like I’d do well or something. I’ve since taken
+that to suggest he had a feeling about me being able to expose Dusty for
+who he really is, and I have been pretty successful in carrying on my dad’s
+legacy as well.
+
 ~2008
 
 Before Father’s Death
@@ -1346,6 +1352,8 @@ when he was taken by the paramedics from our house.
 
 Right After Father’s Death
 
+Dusty had time off after my father’s death.
+
 Dusty graduates with his bachelor’s degree as a civil engineer and he
 bounces to Ogden--even though he wouldn’t have a job for a little over a
 year.
@@ -1397,6 +1405,14 @@ previously, etc)
 Eyes of a Killer2015
 Before Sister’s Death
 
+Karie and the trust lawyer and Paul, the successor trustee accountant, had
+actually tried getting us all to sign something saying in the event Karie
+is incapacitated then none of us could become the successor trustee--before
+they ever disclosed to us Karie was indeed quickly becoming
+incapacitated--which wasn’t very transparent at the time. (But I now
+understand why, I think Karie might have had some suspicions herself) When
+asked whether something was wrong with Karie at the time she denied.
+
 I received word from one of my friends at the time, Nick Poppleton, that my
 sister supposedly had cancer. At first i didn’t know which sister he was
 even referring to. And I’ll be honest, this friend wasn’t known to be the
@@ -1406,13 +1422,6 @@ Karie’s mother, I honestly believed him more but I still didn’t know what
 to think cuz I hadn’t heard anything from Karie or my trust myself. I
 brought it up to like Dusty and Taylor at the time but again, I didn’t know
 if it was true or not.
-
-Karie and the trust lawyer and Paul, the successor trustee accountant, had
-actually tried getting us all to sign something saying in the event Karie
-is incapacitated then none of us could become the successor trustee--before
-they ever disclosed to us Karie was indeed quickly becoming
-incapacitated--which wasn’t very transparent at the time. (But I now
-understand why, I think Karie might have had some suspicions herself)
 
 I suspect around 2015 is also when my brother first started using some kind
 of something against me meant to discredit me--but I wouldn’t find out that
@@ -1546,9 +1555,10 @@ have gotten none of his wealth) Cindy hung out with biker dudes at the
 time, she owned a biker bar in Ogden, she had a biker dude stay over at the
 house something like 2 weeks after my dad’s death, etc, etc.
 
-2019Brother Distancing/Time Off
+2018
 
 Dusty gets fired from his job as a civil engineer.
+2019Brother Distancing/Time Off
 
 I purchase one of my father’s commercial unit’s from my little sister
 Taylor. (Thereby continuing my father’s legacy)
@@ -1578,14 +1588,14 @@ van go into the child abuser’s house.
 
 Last Visit/Website/Brother Hacking
 
-My brother and Tom Finn come over to my house and act all rude to me out of
-nowhere. Dusty takes back his Christmas present he gave me the year before,
-he took my guitar, they ask if they can go in my garage for some reason
-while I was busy doing something else, etc, and that’s the last time I ever
-even saw my brother face to face. (Never gave me my guitar back, I ended up
-telling him he could just keep it a little while later after I had a sense
-he was keeping it anyways, for his birthday or Christmas or something like
-that)
+My brother and Tom Finn come over to my house and act all hostile to me out
+of nowhere. Dusty takes back his Christmas present he gave me the year
+before, he took my guitar, they ask if they can go in my garage for some
+reason while I was busy doing something else, etc, and that’s the last time
+I ever even saw my brother face to face. (Never gave me my guitar back, I
+ended up telling him he could just keep it a little while later after I had
+a sense he was keeping it anyways, for his birthday or Christmas or
+something like that)
 
 My brother Dusty asks me to do his website for his new recording studio,
 even though he was perfectly capable to do it himself. Whereas he had all
@@ -1598,11 +1608,14 @@ denied. Plus my brother has always been difficult to work with.
 
 Dusty flakes out on hanging out anymore.
 
+Dusty encourages me to use social media more.
+
+Dusty recommends a book to me called “Never eat alone”.
 
 I get hacked by my brother through some of his website files he shared with
 me at the time–the only time he talked to me on the phone the whole time.
-He essentially social engineered me to put in my password on the phone that
-day. It took down my modem right after.
+He essentially social engineered me to put in my password over the phone
+that day. It took down my modem right after I did.
 
 Someone Tries to Fill My Prescriptions
 
@@ -1663,7 +1676,7 @@ alcohol/apple cider vinegar helped in washing it off but even still it
 required repeated washing over time as it seeped out of my skin.
 
 2nd perfect circle of black feathers left in my yard the same night my dog
-and I were first poisoned. #signal
+and I were first poisoned. I knew what it was this time. #signal
 
 They did it on the night of the fireworks going off in 2019.
 
@@ -1672,13 +1685,14 @@ caller in a gang.
 
 Dusty tells me I’m going to regret not coming to work with him.
 
-Dusty encourages me to use social media more.
-
 Dusty blames him being the way he is on our mother.
 
 Dusty says he’ll have Paul take “his money” out of my account.
 
 Dusty says I’m going to regret not having more people around me. #people
+
+To be clear–I don’t have a lot of people around me these days because no
+people are better than bad influences.
 
 I discover the hacking for the first time definitively. #hacking
 
@@ -1707,6 +1721,9 @@ Dusty says he has been learning AI, won’t elaborate any further. #ai
 Dusty begins deleting all his previous messages. (Including deleting shit
 off MY DEVICES) #coverup
 
+Dusty tells me “he has his own people now”, when talking to him about how
+he needs our family.
+
 I confront my brother saying he’d be crazy to try and kill me right then
 essentially--because if he had still lived in Logan he’d know people are
 suspicious of all the deaths in our family as is and how there was a
@@ -1716,7 +1733,8 @@ This is when I first started looking back on everything and is when I first
 started truly suspecting my brother of potentially killing some of our
 family--I straight up asked him after all and he completely failed that
 test and all tests I have thrown his way since then--miserably. Like can
-you even think of a worse response to my test? I can’t. This stuff is scary.
+you even think of a worse response to my test? (Circle of black feathers
+left outside my house, etc, etc) I can’t. This stuff is scary.
 
 To be continued…
 
@@ -1724,17 +1742,18 @@ To be continued…
 
 Poisoned again this time from a key I left out for a tenant who was
 interested in renting one of my little sister’s commercial units (the unit
-was located within the commercial building of our father’s I had bought
+was located within the commercial building of our father’s I had purchased
 from my little sister Taylor (Cindy’s daughter) when Dusty first started
-distancing himself from me--when the prospective tenants left the key in
-the drop spot outside to give the keys back to me. It was a similar
-substance as the first time except this time it was clear instead of grey
-but it gave me a similar initial feeling, it smelt similar, and I was able
-to differentiate this time as it made all my lymph nodes swell up for days
-afterwards. (The first time I just knew it made my whole body ache, this
-second time I realized it was really all my lymph nodes swelling up/aching)
-Sound familiar? Lymph nodes are what are affected in non hodgkin's
-lymphoma–which is what Karie died from.
+distancing himself from me--it happened after the prospective tenants left
+the key in the drop spot outside to give the keys back to me. (Remember, I
+was hacked so the hackers would have known where the keys were left) It was
+a similar substance as the first time except this time it was clear instead
+of grey but it gave me a similar initial feeling, it smelt similar, and I
+was able to differentiate this time that it made all my lymph nodes swell
+up for days afterwards. (The first time I just knew it made my whole body
+ache, this second time I realized it was really all my lymph nodes swelling
+up/aching) Sound familiar? Lymph nodes are what are affected in non
+hodgkin's lymphoma–which is what Karie died from.
 
 Again I can tie this second poisoning back to Dusty.
 
@@ -1766,8 +1785,8 @@ Witness Intimidation
 I begin to do a ring neighbors social media post to notify the neighbors of
 what had happened with the suspected stalking/guy pulling a gun on me.
 (Initially I thought he may have just been lost doing a drug delivery or
-something until I found out that guy actually lived around here even though
-he had license plates from another state) (
+something until I found out that guy actually was from around here even
+though he had license plates from another state) (
 https://neighbors.ring.com/event/Vxp7yxNSxV )
 
 Child abuser’s (
@@ -1821,18 +1840,20 @@ of my tips led to them discovering anything or not directly. #emf
 
 Eagles Incident - Murder by Suicide Plot
 
-My brother Dusty misconstrued a message I sent to him and reported me as
-being suicidal to the police. That particular police officer Dusty called
-made me call Dusty directly seems how Dusty was apparently “so concerned
-about me”–so I did–Dusty freakin hung up on me not even 30 seconds into our
-conversation. It was bs. Then I looked back at the messages Dusty had sent
-while I was driving home in response to the message I had sent him while in
+I suspect my brother Dusty purposely misconstrued a message I sent to him
+and he reported me as being suicidal to the police. (After I reported him
+for the EMF stuff) That particular police officer Dusty called made me call
+Dusty directly seems how Dusty was apparently “so concerned about me”–so I
+did–Dusty freakin hung up on me not even 30 seconds into our conversation.
+It was bs. Then I looked back at the messages Dusty had sent me while I was
+driving back home in response to the message I had sent him while I was in
 town and I realized Dusty had set it all up for him to be able to
 essentially social engineer the police. (Acting like he was a mormon with
-kids in his responses back to me while I was driving, etc) So I called the
-police letting them know that Dusty had lied to them and he could have very
-well just hacked them whereas social engineering is actually how he hacked
-me. #suicide #plot
+kids in his responses back to me while I was driving, which he later shared
+with the police, etc) So I called the police letting them know that Dusty
+had lied to them and he could have very well just hacked them whereas
+social engineering is actually how he hacked me. #suicide #plot
+#rubbingitin #sabotage
 
 
 A few days later my superior at work invited me to goto the Eagles bar with
@@ -1854,19 +1875,19 @@ on my cell phone instead prior to answering. Sure enough it was the same
 kid again, only this time I saw who was directing him myself in walking out
 with my cell phone camera rolling.
 
-All previous times I had recorded our encounters with my ring video
-doorbell which stayed put in one location. It was the child abuser neighbor
-guy who was directing the kid. As soon as that child abuser guy saw me he
-tucked back into his garage so he couldn’t be recorded, I saw him myself
-but I don’t think I captured him on my cell phone footage. The kid
+All previous times I had recorded my encounters with that kid with my ring
+video doorbell which stayed put in one location. It was the child abuser
+neighbor guy who was directing the kid. As soon as that child abuser guy
+saw me he tucked back into his garage so he couldn’t be recorded, I saw him
+myself but I don’t think I captured him on my cell phone footage. The kid
 initially said something like “why you always working?”, (as if to coerce
 me to goto the bar seems I was running a little late to goto the bar with
 my co-worker that evening) but then after his dad tucked behind their
 garage door, the kid looked back for direction and didn’t know what to do
 once he saw his dad was now gone. #plot
 
-I would be willing to bet the dad had been standing right there every
-single time that kid camee to my house--because it had become clear to me
+I would be willing to bet the kid’s dad had been standing right there every
+single time that kid came to my house--because it had become clear to me
 the kid was being directed. (Which is partly why I call that guy a child
 abuser, because he directs his kid to do shady things and because he
 clearly had hurt his kids physically previously)
@@ -1877,12 +1898,17 @@ given how I was late to go to the eagles that evening. #plot
 
 https://drive.google.com/file/d/1r2-oTX8gWahAlVI3CuLgKKTg0p1nw4uT/view?usp=sharing
 
+The kid hasn’t come by again since I found out who was sending him and
+reported him, not like that anyways, maybe on halloween with his whole
+family–that halloween video was deleted however–not by me.
+
 Describe eagles bar poisoning incident in full here..
 
 One thing I want to add right now about the eagles bar poisoning is I
 suspect they ended up getting in my car while I was at the eagles and put
-poison in there, I suspect they also left a bunch of thorn-bush spikes on
-my floormat that I later dumped out thinking they were odd whereas I hadn’t
+poison in there, (Either while at the eagles or while I was at walmart
+later–or both) I suspect they also left a bunch of thorn-bush spikes on my
+floormat that I later dumped out thinking they were odd whereas I hadn’t
 been near any thornbushes at all lately and whereas I hadn’t had any thorn
 bush spikes on any of my pant legs or shoes or anything--let alone that
 many of them. How else did they get in there? It was only after one of the
@@ -1895,12 +1921,14 @@ on I think like my shifter in my car, which I ended up getting exposed to 2
 separate times because at first I thought it was from a guy who came and
 touched me in the bar that night right before I left the eagles--when in
 reality it was that same guy who came and touched me in the bar that night
-although he had been in my car prior--because my whole car had wreaked like
-this one guy’s cologne. I suspect him coming to touch me before he left was
-essentially him letting me know who was responsible like they all like to
-do–through his cologne. His cologne was very distinct and there was no way
-for my whole car to smell like his cologne from just him barely touching me
-and standing next to me for a minute that evening. #car #poison #plot
+although I suspect he had been in my car prior--because my whole car had
+wreaked like this one guy’s cologne. I suspect him coming to touch me
+before he left was essentially him letting me know who was responsible like
+they all like to do–through his cologne. His cologne was very distinct and
+there was no way for my whole car to smell like his cologne from just him
+barely touching me and standing next to me for a minute that evening. #car
+#poison #plot
+
 
 The significance of the thorn bush spikes is what happened to my dad before
 he died? He got some strange “infection” in his foot--leading to him having
@@ -1933,9 +1961,38 @@ noticed it had I not seen it all over my vape. I washed it off immediately
 again but even still it almost wasn’t soon enough–it almost killed me. It
 pulled all the blood from my toes up my feet, my fingers going up my arms;
 I couldn’t pee for hours even though I had to because I did not have enough
-blood flow down there either. I had to sit down as well–it was scary. And I
-washed it off as soon as I noticed it on my vape that evening.
+blood flow down there either. I had to sit down as well cuz I started
+getting all light headed–it was scary. And I washed it off as soon as I
+noticed it on my vape that evening.
 
+These guys will try and create distractions as well to try and make me look
+bad btw, the hardest part is seeing through all their distractions and
+getting to the real meat of what they are ultimately trying to do and
+figuring out when/where they did something exactly–just know they have the
+capabilities to get in my car anytime I’m in a store for even like ten
+minutes–and they have gotten in my car countless times now I suspect.
+Therefore, they may have even gotten in my car a second time while I was in
+walmart that night for instance, which could have been when they added the
+second substance. That’s the thing–with that kind of capability it makes it
+difficult to nail down exactly when they did what, and where they did what.
+Cuz they could have spread it out across multiple locations. They use false
+flag operations pretty regularly. This incident as a whole was not a false
+flag operation, but exactly when/where they exposed me might have been.
+Then in addition to all that, most all their poisons typically seem to
+consist of a cocktail of whatever it may be. So as to essentially decrease
+their odds of getting caught. For instance, say it was really poison, but
+say they added some drug that can seep through your skin to the poison
+cocktail. (Which would also aid in disorienting the individual) Then when
+the person goes to the doctor the next day complaining about being
+poisoned, the doctor drug tests them or something. As soon as the doctor
+sees they have drugs in their system the doctor won’t believe them
+anymore–even though it was really the perpetrators who unwittingly drugged
+them. I have gone to the doctor after every instance described herein btw.
+This last time the instacare told me only the emergency room could test for
+stuff like that, so next time I know where to go now but again–they could
+rig it to where I would be better off just not going in. That’s the
+challenge with these guys. I like got to walk this tight rope and avoid
+getting knocked down from either direction.
 String of break-ins #1
 
 Thorn bush spikes added to my porch--one of which I barely stepped on.
@@ -2048,6 +2105,28 @@ through. But then I need to get out of here for my own safety and leave
 this all behind me I think, in pursuit of happiness elsewhere.
 
 Regardless, thank you for your support.
+
+As of December 16, 2021
+
+They may have gotten in my car today at Cache Valley Bank at 1:46pm again,
+idk if they did or not, I just know they emf-d me briefly while I was in
+there. #signal?
+
+As of December 17, 2021
+
+I woke up with my arm burning today. They may have gotten in my house
+again, I know in gangstalking it’s common for them to use tunnels. I know
+it sounds outrageous but I’m just telling you that gangstalking is all
+about making the target individuals look crazy. Tunnel or no tunnel, I do
+suspect them putting something on my bedding is what may have contributed
+to my loss of hair on my legs–well that and/or all the emf stuff.
+
+The hackers seemed particularly disturbed when I wrote the section about
+Tom Finn above btw. They didn’t seem all that disturbed when I wrote the
+sections about Cindy. What that means, idk.
+
+Again sometimes they’ll do false flag operations. Or operations
+specifically intended to make me look bad.
 
 Chase Gibbons  / Manager
 435-999-4722
