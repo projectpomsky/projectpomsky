@@ -467,6 +467,15 @@ More on the Microchips
 My superpower💪 === Ability to see through people 👓
 
 
+As of March 22, 2022
+
+
+Status Update
+
+
+Hacker People
+
+
 
 
 README
@@ -11132,6 +11141,8 @@ my alarm was set off this morning around 7:30am while I was asleep via that
 motion sensor in the attic. No idea what happened. I didn’t even hear it or
 know my alarm had been triggered until I woke up later.
 
+Hacker People
+
 Hey you hacker people–please don’t underestimate these guys’ ability to
 even somehow implant malware into this very google docs file somehow that
 is somehow able to infect you without your even downloading it. I have
@@ -11148,7 +11159,31 @@ them being able to do what I just said btw, I just fear the worst and try
 to use my intelligence and then I hope for the best that’s all. I work on
 moving all this to github just to be safe.. (For real this time, sorry guys
 I have a huge backlog of things that can be done–it’s all a matter of what
-takes the most priority)
+takes the most priority) Or perhaps more realistically–be careful when
+clicking on any links located in the google doc file to sites that aren’t
+well known. So like that link to 1920.in for instance. I swear to god that
+one is a trap. They can do shit like this just from you visiting a website:
+(Again, be careful)
+
+http://samy.pl/webscan/
+
+https://samy.pl/natpin/
+
+That samy guy is good btw. And that’s without any super sophisticated 0days
+just found on the internet by me one day when looking around recently–I
+actually found it by digging deeper into one of the rf hacking youtube
+videos I shared previously–and these guys actually have 0days–seemingly a
+lot of them–I assure you. If I weren’t completely gangstalked and whatnot
+right now–I’d work on developing some sort of tool for the average
+person/hacker to be able to tell whether or not they are hacked using
+everything from scanning of networks to port monitoring to arp monitoring
+to packet monitoring and replaying to machine learning to easy setup
+without having to be a freaking security expert to behavioral analysis
+to–you know just like a kick ass all encompassing intrusion
+detection/prevention system geared towards the home user–without dollar
+signs being the motive behind it like every other vendor does–in reality
+the motive behind it would be straight up freedom and to help save our
+country. It’s on my bucket list ;)
 
 
 Chase Gibbons  / Manager
