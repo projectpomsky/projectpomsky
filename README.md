@@ -9824,14 +9824,13 @@ All those people who died for freedom will have died in vain.
 
 
 Fixed some stuff in this illustration including the “Probability of
-Overcoming Defeat Overtime” chart, I changed it to make it more accurate by
-beginning it’s decline once Trump took office, and I made it so the top
-“Hackers” takeover quadrant better corresponds to the war in Ukraine. To be
-clear, Trump claiming “Russia is not so bad” did have effects on our
-churches and businesses and police and congressmen getting hacked. I am
-highly confident it had an effect on our businesses getting hacked because
-that’s when we started hiring Russian contractors at my work. And I've
-witnessed it all go down first-hand myself.
+Overcoming Defeat Overtime” chart, I changed it to make it more accurate,
+and I made it so the top “Hackers” takeover quadrant better corresponds to
+the war in Ukraine. To be clear, Trump claiming “Russia is not so bad” did
+have effects on our churches and businesses and police and congressmen
+getting hacked. I am highly confident it had an effect on our businesses
+getting hacked because that’s when we started hiring Russian contractors at
+my work. And I've witnessed it all go down first-hand myself.
 
 I think I’ve now pretty much confirmed Russia is indeed now targeting some
 of our hackers now as well… 💣 💣 💣 💥💥💥 -> This is how you’ve got to
