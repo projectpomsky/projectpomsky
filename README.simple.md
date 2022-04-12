@@ -10193,7 +10193,7 @@ it’s not easy.
 I specifically recall them being touchy about both any remarks about
 political affiliation and the time I said I prayed–which I did pray and I
 likely treated it more seriously than they do but they didn’t like it as if
-they're really trying to target YOU–the audience of this documentation.
+they're really just trying to target YOU–the audience of this documentation.
 
 Let me give you my counter arguments to all that just incase that is what
 they are ultimately trying to do. First, this wouldn’t be happening if a
@@ -10265,39 +10265,57 @@ Putin at this time either. It’s a tough one tbh.
 White House, if you are reading this, keep supporting Zelensky as much as
 physically possible without starting WWIIII please. You were probably right
 about that one, that would not be the best place for us to have to fight
-WWIII but we still have got to do something in my opinion. We will get
-through this together and show these fools what democracies are really made
-of absent all this interference from dictators—and unity is critical to
-that. We could always do the same back to them I guess, technically we’ve
-now already started lol. It’s only a matter of time until the sanctions and
-everything kick in now..
+WWIII right next to two major adversaries like that but we still have got
+to do something in my opinion. We will get through this together and show
+these fools what democracies are really made of absent all this
+interference from thuggish dictators—and unity is critical to that. We
+could always do the same back to them I guess, technically we’ve now
+already started lol. It’s only a matter of time until the sanctions and
+everything kick in now.. Also, be aware that one of my congressmen/senators
+I think might have shared this document with some people in an attempt to
+undermine our democracy and decrease our reputation with our allies, just
+fyi.
 
-Putin is closing off his internet for a reason tho, all of us democracies
-need to take some cues from Putin in that regard. Putin protects his
-internet cuz he knows just how effective a tool it is to undermine other
-people’s countries.
+Allies, Putin is closing off his internet for a reason, all of us
+democracies need to take some cues from Putin in that regard. Putin
+protects his internet cuz he knows just how effective a tool it is to
+undermine other people’s countries.
 
 I get the sense Russia is doing this on behalf of China btw. Like it was
 meant to be some kind of trap or something. When you think about it from
 Putin’s perspective, knowing what I know now, Putin must have seen this as
 a win-win. Either they get us involved in WWIII right next to both Russia
 and China while we are already facing inflation, or else they get Zelensky
-to turn communist essentially and potentially bring some of our allies with
-him and/or undermine Joe Biden with his constituents. That explains why
-Putin did it now to me a little better. Then I assume just like in any
+to turn communist and potentially bring some of our allies with him; or
+else they undermine Joe Biden with his constituents and completely shatter
+the world by being so evil and completely crushing Ukraine. That explains
+why Putin did it now to me a little better, but it’s still like wtf
+dude–get some help Putin. Like I swear. Then I assume just like in any
 dictatorship, it would have put Russia in China’s good graces as an
-“Oligarch”, only on a country-to-country level “Oligarch” for China. It’s
-all just a bunch of thugs and killers thinking they are smarter than
-everybody else if you ask me. When in reality they are just f-ing
-twisted–nobody else thinks that way for a reason–staging shit and putting
-on shows with real ppls lives only to manipulate other ppl into getting
-what you want all for your own selfish reasons. It’s like god damn, go get
-some counseling already or something.
-
+“Oligarch”, only on a country-to-country level “Oligarch” for China. In
+effect Russia has become China’s hitmen. It’s all just a bunch of thugs and
+killers thinking they are way smarter than everybody else if you ask me.
+When in reality they are just f-ing sick and twisted–nobody else thinks
+that way for a reason–staging shit and putting on shows with real ppls
+lives only to manipulate other ppl into getting what you want all for your
+own selfish reasons and causing a damn world war just for the hell of it.
+It’s like god damn, go get some counseling already or something.
 What their tunnel sounds like
 
 [reference goes here]
 
+P.s. I got a new simplisafe alarm system today. I’m hoping this one will
+keep them out for at least 10-15 days–if all goes as hoped. I have got to
+screw with their RF readings and push more than one button at once to get
+the best longevity out of it. The last one I threw them off by doing just
+that and I probably got about 20-25 days out of it. Not to mention
+everything else I’ve got to do with my phones, wifi, passwords, pins, etc
+just to keep them out for that long. It’s a constant struggle tbh.
+Simplisafe is cool tho cuz it has 2 different cell phone sim cards and
+doesn’t necessarily even require wifi. But even still they can crack the
+underlying encryption signature after they receive enough samples–and once
+they do that then there’s no real way to get the simplisafe to change it’s
+underlying signatures unless you buy a new one.
 
 Chase Gibbons  / Manager
 435-999-4722
