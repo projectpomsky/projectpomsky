@@ -7409,25 +7409,32 @@ learning a ton about electro-magnetism lately myself and how electricity
 going through a wire can generate its own magnetic field. I’ve been
 learning about electromagnetism lately primarily because electromagnetism
 in the form of an EMP could be the key to disabling any unwanted
-electronics that may be present in my ear without hurting me. I suspect
-their microchip is likely controlled using ultrasound btw, rather than RF,
-but I’m still figuring that part out. They’ve indicated to me their
-microchip is made of graphene as well, which is a super new nanotechnology
-material, otherwise I’d just take a normal magnet to it. Anyways, long
-story short, I had my immediate surroundings in a very particular placement
-prior to going to sleep the night before last when they started using that
-new technology on me. And when I eventually woke up–everything was
-completely out of place in a way that would be hard to explain from my
-tossing and turning alone while I slept. It was highly disturbing tbh. At
-first I questioned whether maybe their new technology they used kept me
-asleep while someone got in and messed with me somehow during my sleep or
-something. But then I ultimately realized after checking on all my security
-measures I put in place, etc, that someone did mess with me during my
-sleep–however they didn’t get in my house to do it. (I.e. instead they are
-seemingly gaining more and more control of my unconscious mind and they are
-able to mess with me during my sleep from afar to a certain degree–they are
-able to make me mess with me during my sleep from afar without me even
-realizing it afterwards essentially)
+electronics that may be present in my ear without hurting me. [To be clear
+I’m not stupid however, I’m very careful with everything these days–please
+don’t allow the attackers to use this or anything else I do to try and stop
+this onslaught against me as a pretext for legitimizing yet another attack
+against me. It doesn’t take a rocket scientist to learn about various
+electronics and how they work–I’m very careful in regards to what I do
+given how the people attacking me have tried to set up numerous different
+pretexts prior to now for my demise already] I suspect their microchip is
+likely controlled using ultrasound btw, rather than RF, but I’m still
+figuring that part out. They’ve indicated to me their microchip is made of
+graphene as well, which is a super new nanotechnology material, otherwise
+I’d just take a normal magnet to it. Anyways, long story short, I had my
+immediate surroundings in a very particular placement prior to going to
+sleep the night before last when they started using that new technology on
+me. And when I eventually woke up–everything was completely out of place in
+a way that would be hard to explain from my tossing and turning alone while
+I slept. It was highly disturbing tbh. At first I questioned whether maybe
+their new technology they used kept me asleep while someone got in and
+messed with me somehow during my sleep or something. But then I ultimately
+realized after checking on all my security measures I put in place, etc,
+that someone did mess with me during my sleep–however they didn’t get in my
+house to do it. (I.e. instead they are seemingly gaining more and more
+control of my unconscious mind and they are able to mess with me during my
+sleep from afar to a certain degree–they are able to make me mess with me
+during my sleep from afar without me even realizing it afterwards
+essentially)
 
 The extent to which they can control my conscious mind is very limited, as
 stated previously. They can record signals of my brain while monitoring me
