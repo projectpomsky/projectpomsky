@@ -521,6 +521,12 @@ As of April 7, 2022
 Recent Triggered Alarms
 
 
+As of April 8, 2022
+
+
+My Own Personal Trust’s New Amendment
+
+
 
 
 README
@@ -12426,6 +12432,110 @@ exploiting anything including the automated alarm triggers to police
 dispatch–that’s my goal anyway--and so I’ve got to just adapt and overcome
 and evolve to all their latest shenanigans myself. My apologies again
 regardless however. Thank you for your understanding.
+
+
+
+As of April 8, 2022
+
+Added pic of aforementioned led and/or led cap I have referred to in this
+document a couple times previously–just incase my brother gives me cancer
+and then tries to blame it on my references to led above. (Especially
+whereas there is literally zero other potential sources of cancer I’ve ever
+been exposed to as a software engineer by trade) Last I checked the led
+vests/led caps themselves that the doctor’s office makes you wear for
+x-rays DO NOT give you cancer themselves–what I have used to protect myself
+from their x-rays/emfs is no different. Therefore all I’m saying is if they
+do succeed in giving me cancer–DO NOT buy it. Because Karie didn’t even
+have any cancer in her family either and she’s the healthiest person I’ve
+ever known–not even exaggerating. I only share what like ¼ of her dna given
+she was from a different mother anyways. And my fathers family also has no
+history of cancer nor does my mother’s family. Plus I wouldn’t need one of
+these led caps if they weren’t emf-ing me all night every night to begin
+with anyways. My brother is literally quite desperate at this point from
+what I gather, he’s literally giving up a lot of Russia’s secrets whether
+he is intending to or not and he really has no way out at this point. He is
+seemingly looking for any possible way out at this point that also
+accomplishes his “getting rid of a key witness that could totally get HIM
+locked up for the rest of HIS life for all HIS past murders” plan. (Meaning
+he’s looking for a way to kill me right here in Logan at the young age of
+33 and still get away with it despite him knowing him doing so is like the
+redest of red flags possible given my family’s already questionable death
+history and given all our family’s medical histories not aligning with
+cancer whatsoever essentially–if Dusty succeeds he and Cindy will be the
+only potential “suspects” left–quite literally–and therefore they will have
+outed themselves at that point in my view)
+
+My father died here in Logan, my sister came to Logan to die after a tough
+battle with non-hodgkins lymphoma. (which normally only happens in older
+people I heard, and it normally is the most easily overcome cancer) And
+Dusty knows damn well that if he kills me here in Logan he is completely
+and totally f-cked and yet I do get the sense that he’s risking it
+nonetheless because he’s already given up so much of Russia’s secrets
+already that he barely even has a choice–and he’s already spent so much
+time and money on me already–but what he doesn’t get is it’s already too
+late. He’s already managed to tear apart his new “family” whether he meant
+to or not. One would be forgiven to think that was his goal this whole
+time, because I personally can’t think of a better way for him to get all
+this info out to the general public and to our government which will allow
+them to counter it. But regardless, Dusty is a killer and he needs to be
+held to account for what he has done/what he continues to do to this day.
+And unlike Karie–I personally plan to be extremely vocal as hell through
+this whole process regardless of what Dusty does to me–as vocal as I
+possibly can be tbh–and I plan to document what Dusty has done to me to the
+bitter end so that you all can see exactly what my brother has done to his
+family and what he continues to do to us–so that way it will become as
+serious to YOU as it is to ME. And so that way nobody ever forgets just
+what Dusty is capable of and that way Dusty will be truly exposed for what
+he really is once and for all. I plan to leave no doubt in anybody’s mind
+just how much Dusty belongs in prison before I die if he does succeed in
+giving me cancer. And I plan to get all his little helper buddies locked up
+too. It really is the least I can do for all they have done to me.
+
+https://drive.google.com/file/d/1GQETUK2q4ILnbPF4LL6nRBOnb\_C9XDc8/view?usp=sharing
+
+
+Steel works about just as well as led to block the entire electromagnetic
+spectrum btw, because steel essentially contains led, and I also use
+steel–again don’t let them try and tell you that any steel or anything else
+I’ve done to try and protect myself–don’t let them blame me for their
+killing of me essentially. Just figured I’d call it out now while it’s
+still “early”. Plus Dusty has indicated to me that he likes to kill people
+or “people tend to die” in the ways that they fear the most previously, and
+for whatever reason Dusty believes I fear cancer the most–and we shall let
+him believe that.
+
+Unlike Karie I know damn well who is doing all this shit to me and now I
+know who apparently did it to them to and I therefore shall use any and all
+precious time I have left on this earth devoted towards making sure anyone
+and everyone knows the truth–so as to prevent Dusty from harming anybody
+else including but not limited to any other family members. (Meaning cancer
+might actually prove to be a good way for me to die in this case–cuz it
+buys me precious time to take you all along for the ride and to finish
+documenting everything from A to Z–it essentially is one of the best ways
+to ensure Dusty and his cronies are held to account essentially) And if
+that’s what I have to do to protect everyone else then that’s what I’ll
+gladly do.
+
+I can’t believe Dusty actually thought he could kill his whole family and
+get away with it tbh. Like he’s smart, book smart, but he lacks common
+sense.
+
+My Own Personal Trust’s New Amendment
+
+P.s I signed an amendment to change up my own personal trusts trustee to my
+other brother Michael Thompson today. Because Mikey is best suited to
+handle the aftermath of what Dusty is doing to me–as a former police
+officer himself. I still got some work to do on my trust documents however,
+to make sure they are easy to read, fully lawful no matter what, and easier
+than my dad’s was to understand. But changing the trustee from someone I
+fear Dusty might have influence over to someone I know he doesn't have
+influence over was a huge step in the right direction. I still need to
+spend more time on it and better plan out who I really want to leave
+everything to. And even add specific bequests and whatnot to it including
+adding like the giving all remaining evidence to the police if I haven’t
+already done so part. My father always liked Michael anyways.
+
+https://drive.google.com/drive/folders/1-YJGVw4Lj462hNF92ntszSPOM5rPTgL-?usp=sharing
 
 
 Chase Gibbons  / Manager
