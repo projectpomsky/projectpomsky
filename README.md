@@ -1,40 +1,28 @@
 Outline
 
-Outline
+Outline 
 
+README 
 
-README
+Security Cameras 
 
+How They Broke In 
 
-Security Cameras
+Motive 
 
+My Credibility 
 
-How They Broke In
+Daily Occurrences 
 
+As of Nov 12, 2021 
 
-Motive
+As of Nov 15, 2021 
 
+As of Nov 16, 2021 
 
-My Credibility
+As of Nov 18, 2021 
 
-
-Daily Occurrences
-
-
-As of Nov 12, 2021
-
-
-As of Nov 15, 2021
-
-
-As of Nov 16, 2021
-
-
-As of Nov 18, 2021
-
-
-As of Nov 20, 2021
-
+As of Nov 20, 2021 
 
 As of November 22, 2021
 
@@ -63,71 +51,53 @@ Indicators of being hacked
 Timeline (Rough Draft)
 
 
-~2006
+~2006 
 
+~2007 
 
-~2007
-
-
-~2008
-
+~2008 
 
 Before Father’s Death
 
 
-~2009
+~2009 
 
+Dusty and Cindy 
 
-Dusty and Cindy
+2010 
 
+Divorce/Move Out 
 
-2010
-
-
-Divorce/Move Out
-
-
-Father’s Death
-
+Father’s Death 
 
 Right After Father’s Death
 
 
-~2011
+~2011 
 
+Trust/College 
 
-Trust/College
+2013 
 
+Graduation 
 
-2013
+Eyes of a Killer 
 
-
-Graduation
-
-
-Eyes of a Killer
-
-
-2015
-
+2015 
 
 Before Sister’s Death
 
 
-Sister’s Death
+Sister’s Death 
 
-
-~2016
-
+~2016 
 
 After Sister’s Death
 
 
-2018
+2018 
 
-
-2019
-
+2019 
 
 Brother Distancing/Time Off
 
@@ -138,32 +108,24 @@ Last Visit/Website/Brother Hacking
 Someone Tries to Fill My Prescriptions
 
 
-Testing My Brother
+Testing My Brother 
 
+First Poisoning 
 
-First Poisoning
+2020 
 
+Second Poisoning 
 
-2020
+2021 
 
-
-Second Poisoning
-
-
-2021
-
-
-Gun Pulled On Me
-
+Gun Pulled On Me 
 
 Witness Intimidation
 
 
-EMF
+EMF 
 
-
-Hotels
-
+Hotels 
 
 Eagles Incident - Murder by Suicide Plot
 
@@ -183,14 +145,11 @@ Tampering with my electricity
 Radiation poisoning
 
 
-Infrasound
+Infrasound 
 
+Keys 
 
-Keys
-
-
-2022
-
+2022 
 
 As of December 15, 2021
 
@@ -201,14 +160,11 @@ As of December 17, 2021
 My Analysis of Timeline
 
 
-Father
+Father 
 
+Sister 
 
-Sister
-
-
-Me
-
+Me 
 
 As for any questions about me.
 
@@ -246,11 +202,9 @@ As of December 29, 2021
 As of December 30, 2021
 
 
-Part 1
+Part 1 
 
-
-Part 2
-
+Part 2 
 
 As of December 31, 2021
 
@@ -273,8 +227,7 @@ As of January 3, 2022
 As of January 4, 2022
 
 
-Random Thought
-
+Random Thought 
 
 As of January 7, 2022
 
@@ -342,8 +295,7 @@ As of February 6, 2022
 As of February 7, 2022
 
 
-February 8, 2022
-
+February 8, 2022 
 
 Lesson - RF/Waves/Hacking
 
@@ -2212,6 +2164,7 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
+​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -7613,8 +7566,8 @@ system for instance. Therefore even alarm systems are vulnerable to the
 same attack as a car remote now thanks to software defined radio and the
 potential of hackers monitoring the radio spectrum. Simply Safe used to
 never even encrypt their devices' communications either btw, before their
-latest model came out. (https://www.nimblefreelancer.com/simplisafe-hack/ )
-But like I said, even with encryption–a hacker with a software defined
+latest model came out. (​​https://www.nimblefreelancer.com/simplisafe-hack/
+) But like I said, even with encryption–a hacker with a software defined
 radio can still bypass it after enough monitoring even if it is encrypted.
 (The same is true with our brains btw)
 
@@ -9298,6 +9251,7 @@ called biohacking. See the following links. But the one in my case is wayyy
 more sophisticated, plus I didn’t do it to myself, and therefore I have no
 way to turn it off by myself.
 
+​​
 https://twitter.com/drkiki/status/1168299777424908288?s=20&t=r4TnY99zwvl2yJbyM9FV5Q
 
 https://dangerousthings.com/category/implants/x-series/
@@ -9513,32 +9467,37 @@ manipulation” btw before determining how to proceed and protect ourselves
 going forward. (i.e. Don’t let their psychological mind control games
 defeat you)
 
-I fundamentally now believe that “Hitlerism” is about psychology as much as
-it is about anything. It’s about people realizing the power of psychology
-and manipulation and then using it to get what they want. They go after the
+I fundamentally now believe that “Hitlerism” is very much rooted in
+psychology. It’s about people realizing the power of
+psychology/manipulation and then using it to get what they want no matter
+what they have to convince the broader population of. They go after the
 perceived “weak” links. And sadly I am viewed as a weak link whereas I live
 alone in a mormon community when I’m not mormon; and thanks to history,
-jews are viewed as weak too sadly. The attackers saying they are going
-after nazis is a slap in the face tbh, when Zelensky is a jew, but it’s
-common psychological manipulation tactics both in hitler’s time and in the
-current day and now. I fully believe both Hitler and Putin would do this to
-anybody that they viewed as “weak” though. And how you get to where they
-won’t view you as weak is to learn psychology, band together, call out
-their manipulation, and to start applying these same concepts right back at
-them from what I’ve found. At least in Zelensky’s case he still has a ton
-of support from pretty much everyone besides Putin, and pretty much
+jewish people are viewed as weak too sadly. The Russians saying they are
+going after nazis is such a slap in the face tbh, when Zelensky is a jewish
+man himself, but it’s common psychological manipulation tactics both in
+hitler’s time and in the current day and age apparently. It pisses me off.
+I fully believe both Hitler and Putin might have done this to anybody that
+they viewed as “weak” though, the fact Putin is doing it against the leader
+of a free country who happens to be jewish is just such a slap in the face.
+And how you get to where they won’t view you as weak is to learn
+psychology, band together, call out their manipulation, STAND UP TO THE
+BULLY, and to start applying these same concepts right back at them from
+what I’ve found. At least in Zelensky’s case he still has a ton of support
+from pretty much everyone in this world besides Putin, and pretty much
 everyone are actually willing to help him in fighting back in whatever way
-they can.
+they can, but conversely that means if he joins Putin then he could easily
+bring others with him–I promise you–it’s psychology.
 
 Two more things I think are important for anyone reading this to know.
 
-First, how to accomplish the “thinking 2-3 steps ahead” illusion. Because
-these guys seem to be smart and seem to have the ability to think 2-3 steps
+First, how to accomplish the “thinking 2-3 steps ahead” illusion. These
+guys seem to be smart and seem to have the ability to think 2-3 steps
 ahead. But in reality what is really happening is they are using reflexive
 control theory to first set up a pretext and then to trigger you in a way
 they can predict your reaction to, and based on their predicted reaction of
-what they think you will do when they trigger you, they then think about
-how they will be able to exploit your most probable reaction to their
+what they think you will do when they trigger you, they will then think
+about how they will be able to exploit your most probable reaction to their
 triggering you–and whether that would benefit them or not–before they ever
 even trigger you to begin with. And if they decide your most probable
 reaction is exploitable in a fashion that suits them–then they go forward
@@ -9547,67 +9506,123 @@ reaction being what they’d expect. That’s literally how it works. From your
 perspective it seems as though they are smart as hell and they are thinking
 two to three steps ahead, and in reality it’s technically kinda sorta true,
 but it’s a lot easier to do than one might think when you are the one doing
-the triggering. From there you can take it and chain it, like okay if I set
-up this pretext and I trigger Putin in this way, his most probable reaction
-is he’ll likely respond in this way. And if he responds in this way will I
-then be able to take advantage of his response? I’m just giving an example
-of how it theoretically works. Information gathering definitely comes into
-play here as well though, information is power and it enables you to do
-this reflexive control theory stuff a lot more effectively, the more
-information you have.
+the psychological triggering. From there you can take it and chain it, like
+okay if I set up this pretext and I trigger Putin in this way, his most
+probable reaction is he’ll likely respond in this way. And if he responds
+in this way will I then be able to take advantage of his response and use
+it to further exploit him? I’m just giving an example of how their thinking
+2-3 steps ahead theoretically works. Information gathering definitely comes
+into play here as well though, information is power and it enables you to
+do this reflexive control theory stuff a lot more effectively, the more
+information you have the better.
 
-Secondly I want to give you an example of how they exploit vulnerabilities
-in anything and everything, and how it’s possible for you to do it too. The
-attackers whom I now believe to be Russian proxies whom are at least
-partially led by my own brother first started targeting me using social
+Secondly I want to give you a quick example of how they exploit
+vulnerabilities in anything and everything, and how it’s possible for you
+to do the same. The attackers whom I now believe to be Russian proxies
+including my very own brother first started targeting me using social
 engineering. My brother took advantage of the trust I had for him while
-playing like he still loved me and used my love for him as a vulnerability
-for him to exploit. Once they got access to my network they began
-monitoring it and looking for other vulnerabilities. I won’t get into all
-the details but fast forward and they begin emf-ing me. I ultimately figure
-out how to get their emfs to no longer bother me by creating a makeshift
-faraday cage that was grounded. As soon as they found out it was no longer
-getting to me, they moved to another type of emf like ef or rf that went
-right through the grounded metal. So then I added an existing electrical
-current to the faraday cage to try and combat their latest exploit. And
-then ultimately they realized they couldn’t get through with any light
-based directed energy anymore so they switched to using infrasound instead,
-which I hadn’t accounted for so it was therefore a vulnerability to me. So
-then I figured out what the hell infrasound was and figured out you need
-this foam shit to stop it, and I added that foam stuff to the faraday cage.
-But now what was my vulnerability? My vulnerability at that point was well
-they could now either hit me from a different direction that wasn’t fully
-protected by all 3 different vulnerabilities–or else they could start to
-gas me to scare me out of my freaking faraday cage and make me totally
-exposed again, etc, etc. And as things have gone on, they’ve even figured
-out how to add something to the inside of the faraday cage, and make it so
-they can still hit it to electrify it from outside, and then from their
-getting in my house exploits which could be a whole nother example, they
-ended up putting something on the inside of the faraday cage itself that
-could take the energy from the metal and shoot it out from the inside
-before it is grounded, which effectively made my faraday cage useless. And
-on, and on, and on. Moral of the story is there are vulnerabilities
-everywhere in literally everything that can be exploited–and it doesn’t
-take the most powerful country to exploit them either.
+playing like he still loved me and he used my love for him as a
+vulnerability for him to exploit essentially. Once they got access to my
+network they began monitoring it and looking for other vulnerabilities to
+exploit while doing recon. I won’t get into all the details but fast
+forward and they begin emf-ing me. I ultimately figure out how to get their
+emfs to no longer bother me by creating a makeshift faraday cage that was
+connected to ground. As soon as they found out their attacks were no longer
+bothering me, they moved to another type of emf like ef or rf that went
+right through the grounded metal. So then I had to figure out what was
+going on and I ended up adding an existing electrical current flowing
+through the faraday cage to try and combat their latest exploit. And then
+ultimately they realized they couldn’t get through with any light based
+directed energy anymore really whatsoever—so they then switched to using
+infrasound at that point instead—which went right through my faraday cage
+without issue because it was technically another vulnerability yet again.
+So then I figured out what the hell infrasound was and I figured out you
+need this foam shit to stop it, and I added that foam stuff to the faraday
+cage to block the infrasound as well at that point. But now I created
+another vulnerability in adding sound proofing, any ideas what it was? The
+vulnerability at that point was well now that my enclosure was fully
+covered with few air gaps to keep the sound waves out—they then started
+gassing me while I was in there which completely terrified me and made me
+scared to even seek shelter in my faraday cage anymore whatsoever—leaving
+me totally exposed again. They would essentially use my new protections as
+a new vulnerability to exploit, each step along the way, etc, etc. And as
+things have continued forward, they’ve even figured out how to add some
+nano tech to the inside of the faraday cage that allows them to pull power
+from the outer faraday cage shell and redirect it to emf on the inside
+before the power was ever grounded, which effectively made my faraday cage
+useless yet again. And on, and on, and on, and that’s just one example.
+Moral of the story is there are vulnerabilities everywhere in literally
+everything and on each step of the way there might be new
+vulnerabilities—all of which can be exploited–and it doesn’t take the most
+powerful country in the world to find them and to exploit them either—it
+just takes a certain mindset is all.
 
-Just wanted to share some lessons learned in case it might help anybody.
-These are all my own personal opinions however, so just please recognize
-that fact.
+Just wanted to share some lessons learned in case it might help anybody in
+their deliberations. These are all my own personal opinions based on my own
+personal experiences with these guys and how they operate, just know I’m
+just trying to help. For the record, I’m for doing everything we can to
+help Ukraine before we lose support from Ukraine, before Russia intimidates
+the whole world, and before Russia becomes even more ruthless and powerful
+than they already are. Just make sure we have a good excuse for going in
+there is all I’d say—but we can’t let them intimidate us ourselves. The
+whole world is watching. Ukrainians are dying and they desperately need our
+help. Putin wouldn’t be trying to intimidate us into staying out of it if
+he wanted us to join in. It’s normally best to do what they don’t want you
+to do, although they will adapt and they will continue these same
+psychological baiting tactics each step of the way regardless of what we
+choose to do. I think it will bring us all closer together too—which is key.
 
+Final Answer
 
+(see google docs comment on photo as well)
 
-Chase Gibbons  / Manager
-435-999-4722
+I think if we want to have a country we’ve got to help Zelensky/his people
+in Ukraine and soon even if it means a proxy war with Russia. We really are
+to that point. That will also help in ridding ourselves of Russian
+assets/proxies/influence. The alternative could very well ultimately prove
+defeat.
 
+I decided to post all this to try to help everyone make decisions
+accordingly, I didn’t want to come off as I was turning my back on
+anyone–especially our allies. The truth isn’t always pretty but it’s best
+if we all know both ourselves and our enemies so we can make the best
+decisions possible and so that we can all know what is truly at stake.
 
-PO Box 747Logan, UT 84321
-gfic.io  
+The real question is do you want to be known for being responsible for a
+tyrant possibly defeating the free world to create a new world order
+without so much as a fight? Or do you want to be known for fighting for
+freedom–regardless of what people may say later? That’s the real question.
+My brother hasn’t pulled the nuke card on me yet, I don’t think Putin will
+either.
 
-[image: Mailtrack]
+The tide is totally in our favor right now–we’ve got to make the most of
+it. Shit I’ll even put my money where my mouth is and I'll even go help
+fight.
 
-Sender
-notified by
-Mailtrack
+Please you guys–we are running out of time. They are putting the pressure
+on Zelensky to fold. He won’t fold if we just stand up to this bully and do
+what’s right–what’s right also happens to be what the world really needs us
+to do right now. I cannot stress the stakes of all this enough. I likely
+won’t make it through much longer myself tbh, either way, but at least this
+way our future generations will have a chance at living in peace. We need
+to come together. The only way we are ever going to come together at this
+point is if we stand up to Putin.
 
-03/10/22,
-06:33:05 PM
+I’ve now seen evidence Russia is indeed now targeting our hackers as part
+of a “spread the word to Russians” campaign. (False flag operation) They
+are literally banking on us not sending those migs. We need to make some
+concessions and get them the damn jets. We need to show leadership. Why
+else would Russia be willing to take on so many sanctions right now if they
+weren’t banking on defeating us from within? Why else would they not have
+taken out Zelensky yet if they weren’t banking on gaining his support to
+avoid a never ending war? There’s no good legitimate reason. Russia has
+fooled us for long enough. Zelensky is an ally we really really need just
+as much as he needs us and he is an honestly an awesome ally to have. It’s
+time we help him save his people. It won’t be easy but it’ll be worth it in
+the end. I’m pretty positive I was just proven right about pretty much
+everything in Russia’s latest attempt to use me to send you guys a signal
+about our military and the jets the other day—now I really need you to
+believe me about this.
+
+#IStandWithUkraine #AmericaStandsWithUkraine #TheWorldStandsWithUkraine
+#FightForFreedom
