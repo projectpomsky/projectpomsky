@@ -7811,37 +7811,40 @@ Here is my reply:
 
  8) Russia empowers their local hacking groups to attack other countries
  in a controlled, directed manner–without the hacking groups risking getting
- in trouble—this is what we need to do better in the US to catch up in my
- view. They even steal some of our hackers from us and get them to work
- for them, I assume using similar shady means as described above. This gives
- them a significant advantage because it’s comparable to if our government
- were to open itself up to working with any hackers across the globe who
- wanted to work with them (in a way)—which it’s not. And so they end up
- having hackers all over the world working for them including hackers in
- their target’s country. (Hackers from the US in this case) And they even
- fund them and other various organized crime groups to help further
- destabilize us from within. It’s like the isis model of getting militants
- from a bunch of different countries to go fight with them–except applied to
- hacking.
+ in trouble from their own government—this is what we need to do better in
+ the US to catch up in my opinion. They even steal some of our hackers
+ from us and get them to work for them, I assume using similar shady means
+ as described above. This gives them a significant advantage because it’s
+ comparable to if our government were to open itself up to working with any
+ hackers across the globe who wanted to work with them (in a way)—which it’s
+ not. And so they end up having hackers all over the world working for them
+ including hackers in their target’s country. (Hackers from the US in this
+ case) And they even fund them and other various organized crime groups to
+ help further destabilize us from within. It’s like the isis model of
+ getting militants from a bunch of different countries to go fight for
+ them–except applied to hacking. And no military could keep up with that if
+ they are allowed to continue unchecked–especially if they steal everyone’s
+ hackers first.
 
 
 
  -
 
- Moral of the story is Russia plays the long game. Regardless, I commend
- you guys (or whomever) for going after them, I’m just trying to help you be
- as effective as possible based on the lessons I’ve learned first hand. The
- key is to only let key people know they are hacked at a time and never
- raise the alarm essentially. (Which that’s kinda what anonymous is all
- about is raising the alarm and exposing to the public what they have done
- so it’s tough)
+ Moral of the story is Russia plays the long game and they are very
+ strategic yet ruthless in nature. Regardless, I commend you guys (or
+ whomever) for going after them, I’m just trying to help you be as effective
+ as possible based on the lessons I’ve learned in dealing with them first
+ hand. The key is to only let certain chosen people know they are hacked at
+ a time and never raise the alarm on a macro level until you are truly ready
+ essentially. (Which that’s kinda what anonymous is all about is raising the
+ alarm quickly and exposing to the public what they have done so it’s tough)
 
 
 
  -
 
  And then the other key is to use psychology and manipulation to your
- advantage.
+ advantage–to use hacking and psychology hand-in-hand.
 
 
 
