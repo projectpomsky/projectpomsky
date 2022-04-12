@@ -746,17 +746,18 @@ others. I am working on moving btw like I said however my brother did his
 homework prior to coming after me--he hacks everyone around me--which makes
 it that much harder for me to go anywhere without them knowing about it.
 
-For instance, I'm pretty sure my accountant is hacked as well so I can't
-really go anywhere without them knowing about it--at least until I switch
-accountants. Also, I find it odd that they haven't really messed with my
-house lately but they've messed with literally everything else away from my
-house. Like I asked the police to put up a camera facing my house and I
-don't know if they did or not. But based on these guys seemingly staying
-away from my house lately I'd almost guess that the police finally did put
-up a camera somewhere. (But that's just a guess—it could be my added
-protection inside as well which has caused them to stay away more now) All
-I'm saying is these guys could even have advanced insight into what the
-police are doing even--either through the neighbors, wittingly or
+For instance, my accountant could be hacked as well, I’m not sure, but if I
+wanted to play it safe then it would be wise for me not to go
+anywhere--without risk of these guys knowing about it--at least until I
+switch accountants. Also, I find it odd that they haven't really messed
+with my house lately but they've messed with literally everything else away
+from my house. Like I asked the police to put up a camera facing my house
+and I don't know if they did or not. But based on these guys seemingly
+staying away from my house lately I'd almost guess that the police finally
+did put up a camera somewhere. (But that's just a guess—it could be my
+added protection inside as well which has caused them to stay away more
+now) All I'm saying is these guys could even have advanced insight into
+what the police are doing even--either through the neighbors, wittingly or
 unwittingly through all their hacking, or else through hacking the police
 department itself--that's what these guys are capable of.
 
@@ -1193,6 +1194,12 @@ A lot of times virus detectors won’t even detect the malware my brother is
 using btw--believe me, I have tried a lot of them. I recall my brother used
 to try a lot of them himself.
 
+The best thing you can do if you do suspect you are hacked, that I have
+found at least, is to report it to the Utah Department of Public Safety -
+Cyber Division.
+
+https://siac.utah.gov/cyber-security/
+
 
 
 Timeline (Rough Draft)
@@ -1295,9 +1302,10 @@ approximately $7 million dollars when he passed. Dusty repeatedly brings up
 the notion that our father was just about to change up his trust just
 before his passing. (What that means, idk)
 
-Karie, our half sister, becomes the trustee of the children’s trust. Cindy
-becomes the trustee of the marital trust. Cindy and Karie never liked each
-other all that much.
+Karie, our half sister, becomes the trustee of the children’s trust. (
+https://drive.google.com/file/d/1v2Jetq8r9TDkU8EUR89IxZu69Qlj9NFW/view?usp=sharing
+) Cindy becomes the trustee of the marital trust. Cindy and Karie never
+liked each other all that much.
 
 
 
@@ -1305,14 +1313,12 @@ other all that much.
 ~2011
 
 My brother and Cindy quickly become displeased with Karie--and remain
-bitter throughout; (
-https://drive.google.com/file/d/1v2Jetq8r9TDkU8EUR89IxZu69Qlj9NFW/view?usp=sharing
-) they didn’t like the job she was doing as trustee--to say the least.
-(Cindy was frustrated about Karie in relation to my little sister Taylor’s
-trust, Dusty was frustrated about Karie in relation to his trust) To be
-clear, I had my frustrations with Karie, mostly just in their lack of
-transparency and their being a little shady trying to get us to sign
-something saying none of us could be trustee if she couldn’t serve
+bitter throughout; they didn’t like the job she was doing as trustee--to
+say the least. (Cindy was frustrated about Karie in relation to my little
+sister Taylor’s trust, Dusty was frustrated about Karie in relation to his
+trust) To be clear, I had my frustrations with Karie, mostly just in their
+lack of transparency and their being a little shady trying to get us to
+sign something saying none of us could be trustee if she couldn’t serve
 previously, I had questioned their selling of all our dad’s assets
 previously, including their giving away our dad’s companies for next to
 nothing, but beyond that I actually always had a pretty decent relationship
@@ -1348,6 +1354,10 @@ is incapacitated then none of us could become the successor trustee--before
 they ever disclosed to us Karie was indeed quickly becoming
 incapacitated--which wasn’t very transparent at the time.
 
+I suspect this is when my brother first started using some kind of
+something against me meant to discredit me--but I wouldn’t find out that
+was attributable to Dusty until much later..
+
 I went from first kinda believing my friend to ultimately not believing him
 anymore, (because Karie had done a good job at keeping it all a secret and
 that particular friend was known for making stuff up) back to--holy shit my
@@ -1358,9 +1368,6 @@ life--she was a personal trainer/physical therapist who ate all organics,
 etc--and I don’t think there was any family history of non hodgkin's
 lymphoma in either side of her family)
 
-I suspect this is when my brother first started using some kind of
-something against me meant to discredit me--but I wouldn’t find out that
-was attributable to Dusty until much later..
 
 Not long later, that same friend who initially informed me of Karie not
 doing well called me and told me that Karie was on her deathbed at Logan
@@ -1417,19 +1424,32 @@ Karie.
 Dusty treating Karie that way was odd to say the least but at the end of
 the day he was my brother and I loved him/looked up to him. So I gave him
 the benefit of doubt. My mom apparently told Dusty that I had seen him do
-that to Karie, and he apologized to me over sms later. In hanging out at
-Dusty’s house around this time I recall my brother showing some friends and
-I the dark web for the first and only time. He told us how you can even buy
-drugs and hitmen on it, all the while he was talking about how secure it
-was. I didn’t think he’d actually do it though. He essentially showed me
-how to access the dark web using the tor browser at the time, but that’s
-it. I don’t recall the name of the site he was on. I never even dug into
-the dark web myself until much later, when doing research on what all was
-possible after I started being attacked myself. (Now I think he may have
-deliberately showed us that potentially so he could try and frame me
-later--but in this case it backfired because this is how I know dusty has
-access to hitmen) He also encouraged me to get a new apple phone around
-this time.
+that to Karie, and he apologized to me over sms later.
+
+In hanging out at Dusty’s house around this time I recall my brother
+showing some friends and I the dark web for the first and only time. He
+told us how you can even buy drugs and hitmen on it, all the while he was
+talking about how secure it was. I didn’t think he’d actually do it though.
+He essentially showed me how to access the dark web using the tor browser
+at the time, but that’s it. I don’t recall the name of the site he was on.
+I never even dug into the dark web myself until much later, when doing
+research on what all was possible after I started being attacked myself.
+(Now I think he may have deliberately showed us that potentially so he
+could try and frame me later--but in this case it backfired because this is
+how I know dusty has access to hitmen) He also encouraged me to get a new
+apple phone around this time.
+
+Dusty has always been better at computers than me--even though he hides it,
+he was into them long before I ever was. I didn’t even get into computers
+and programming until I was a junior in college and forced to choose
+something essentially, because my career placement exam said I was
+extremely analytical, and because the career advisor recommended MIS as a
+good paying opportunity given my results. The people who can develop the
+skills necessary to do all this low level programming, and then to hide the
+fact that they are good at it, those are who you need to keep an eye on.
+(It’s as if they don’t want anyone knowing they are good at hacking, and
+the best hackers are likely those who have been into computers their whole
+lives)
 
 I recall after Karie’s death in talking to my brother, Dusty said something
 like people tend to die from that which they fear the most or something.
@@ -1439,14 +1459,14 @@ anything about the way Karie looked at the hospital, and how I found it
 odd. (Because at this point there had always been a small question in my
 mind about my father, like what if someone had done something to his
 prescriptions or something--they could have totally gotten away with it
-whereas no autopsy was done--and I also had questions about Karie--but
-Karie used to always travel so I had a sense that if anyone had done
-something to Karie than it would have to be someone who had hacked her and
-therefore someone who wouldn’t have been surprised by the site of
+whereas no autopsy was done thanks to Cindy--and I also had questions about
+Karie--but Karie used to always travel so I had a sense that if anyone had
+done something to Karie than it would have to be someone who had hacked her
+and therefore someone who wouldn’t have been surprised by the site of
 Karie--because they had been monitoring her the whole time essentially)
 Dusty didn’t have a good response to my questioning--but I still had no
-reason to suspect him--if I suspected anyone it was still Cindy, cuz Cindy
-and Karie never got along to say the least and because Cindy was
+reason to suspect him really--if I suspected anyone it was still Cindy, cuz
+Cindy and Karie never got along to say the least and because Cindy was
 considering divorcing my dad right before he passed, (If she had, she would
 have gotten none of his wealth) Cindy hung out with biker dudes at the
 time, she had a biker dude stay over at the house something like 2 weeks
@@ -1476,12 +1496,12 @@ out the window they drive off. I later see the occupants of that van go
 into the child abuser’s house.
 
 My brother asks me to do his website for his new recording studio, whereas
-he had all the sudden distanced himself from me I told him I would just to
-try and develop some kind of a relationship with him again. (Who makes all
-these enemies and pushes away their family right when trying to start a new
-business anyhow?) He asked me to come work with him at the time but he was
-clearly being shady so I denied. Plus my brother has always been difficult
-to work with.
+he had all the sudden distanced himself from everyone I told him I would
+just to try and develop some kind of a relationship with him again. (Who
+makes all these enemies and pushes away their family right when trying to
+start a new business anyhow?) He asked me to come work with him at the time
+but he was clearly being shady so I denied. Plus my brother has always been
+difficult to work with.
 
 I get hacked by my brother through his website files he shared with me at
 the time.
@@ -1497,7 +1517,7 @@ at least sounded somewhat like me, plus my brother was acting shady as hell
 at the time)
 
 I confront my brother about him killing Karie and our father for Cindy,
-over email, just as a test. My brother responded to my email saying
+over email--just as a test. My brother responded to my email saying
 something about how much Karie charged us to be our trustee, but the email
 is deleted from my inbox somehow. I look into how that could be possible, I
 find there is such a thing of confidential self deleting email messages and
@@ -1538,7 +1558,7 @@ was mid way through 2019) This is when I first started looking back on
 everything and is when I first started truly suspecting my brother of
 potentially killing some of our family--I straight up asked him after all
 and he completely failed that test and all tests I have thrown his way
-since then.
+since then--miserably.
 
 To be continued…
 
