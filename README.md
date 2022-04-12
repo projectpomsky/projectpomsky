@@ -12824,8 +12824,12 @@ used to use on me only this time they did it through consumption rather
 than through skin exposure. Same effect tho. I assume it’s something meant
 to give me non-hodgkin's lymphoma tbh.
 
-I wish someone would actually truly help me not get murdered. I don’t know
-if I can get out of this one by myself.
+I know it’s from them cuz they always rub it in by repeatedly pointing
+their damn energy weapons at my feet when my toes keep curling for no
+reason out of nowhere, etc, etc.
+
+I really wish someone would actually truly help me not get murdered. I
+seriously don’t think I can get out of this one by myself.
 
 Chase Gibbons  / Manager
 435-999-4722
