@@ -12554,9 +12554,11 @@ Busted For Changing What I Wrote Just Barely
 
 K so I just caught them deleting part of what I had originally written. I
 essentially stated that Dusty has essentially poisoned me 50 or more times
-now. And I went on to say that Dusty has got to have direct access to like
-a Russian biolab or something just given how they always evolve the method
-of delivery of their poisons and their poisons themselves based on their
+now so anything I may have done to accidentally expose myself to cancer is
+completely insignificant to what they have deliberately done anyways. And I
+went on to say that Dusty has got to have direct access to like a Russian
+biolab or something just given how they always evolve the method of
+delivery of their poisons and their poisons themselves based on their
 latest intel. So yea, I’m accusing Dusty and Russia of using bioweapons
 right here in the United States and they didn’t seem to like that, so they
 deleted that part of what I wrote and in proofreading it again one more
@@ -12614,6 +12616,7 @@ and punish me for re-pointing out the fact that they seemingly have access
 to a biolab. And I didn’t even mention the numerous different types of
 gasses they have used..
 
+Regardless, I think it's about time for a yearly exam...
 
 
 Chase Gibbons  / Manager
