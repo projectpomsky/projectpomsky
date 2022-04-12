@@ -9771,18 +9771,18 @@ https://twitter.com/i/status/1502799750814482438
 
 One last thing, I think it would be wise if our military reported some of
 their NSA exploits that the Russsians are now using to defeat us to the
-corresponding companies like apple, netgear, and anything using a broadcom
-wifi chip, etc, etc, so that those vulnerabilities can be patched and so
-that it would even the playing field a little bit. Because I’m pretty
-certain Russia and China are now using OUR NSA’s malware to defeat us from
-within, and they are way ahead of us in doing so, and so the only real way
-to get it all to stop would be to force every country to restart from
-scratch with their most sophisticated automated malware and to patch all of
-the devices around the globe asap–even if that means we can no longer hack
-ppl as effectively for a little while. If things are really going as they
-seem–doing so might well pay dividends in the long run. And it wouldn’t be
-risking starting a nuclear war or anything–if anything–it would potentially
-save the free world in my opinion.
+corresponding companies like apple, netgear, and anything else using a
+broadcom wifi chip, etc, etc, so that those vulnerabilities can be patched
+and so that it would even the playing field a little bit. Because I’m
+pretty certain Russia and China are now using OUR NSA’s malware to defeat
+us from within, and they are way ahead of us in doing so, and so the only
+real way to get it all to stop would be to force every country to restart
+from scratch with their most sophisticated automated malware and to patch
+all of the devices around the globe asap–even if that means we can no
+longer hack ppl as effectively for a little while. If things are really
+going as they seem–doing so might well pay dividends in the long run. And
+it wouldn’t be risking starting a nuclear war or anything–if anything–it
+would potentially save the free world in my opinion.
 
 
 
@@ -9802,4 +9802,4 @@ notified by
 Mailtrack
 
 03/12/22,
-10:27:28 PM
+10:29:21 PM
