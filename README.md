@@ -2767,18 +2767,19 @@ but more elaborate quote of what I put above here:
  hiding stuff in general from what I gather. I think the best way to defend
  against it is to entrust that’s really what he’s ultimately trying to do
  and just ignore it whenever I am poisoned/whenever I do have some strange
- substance on my hand out of nowhere. If I die from it then I dunno, I guess
- so be it–but even then he could blame me for it. #mindfuck
+ substance on my hand out of nowhere. (They can put that stuff anywhere, on
+ doorknobs for instance, etc) If I die from it then I dunno, I guess so be
+ it–but even then he could blame me for it. #worstbrotherever v
  -
 
  My brother is smart you guys, I just wish he wouldn’t drag me into all
  this let alone try and frame me using all his Charles Manson psychology
- tactics–I don’t want to learn all that his psychological mind games just to
+ mind games–I don’t want to learn all his psychological mind games just to
  combat him either. I don’t know what to do. I need to find a roommate and
  asap I guess. No wonder he told me I’d regret not having people around me
  previously.. (But the thing is, he’s kinda helped make it that way for me
  in numerous different ways especially as of lately–I swear he thinks he’s
- god)
+ god–or the devil I guess he’d like being called the devil better..)
  -
 
  Anyways, Happy Holidays all. ✌️
