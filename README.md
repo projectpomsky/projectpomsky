@@ -3021,29 +3021,36 @@ More info on suspected mind hacking/microchip hypothesis: 👇👇
 
 https://docs.google.com/document/d/1ubgIsPG6MQ5S1Apkb4MCGLP1pwJhTi2EMG0b6rhEFK0/edit?usp=sharing
 
-I told you they can hack literally anything. I get it sounds crazy—but it’s
-all part of the gangstalking playbook. This is not what I’m into on my off
-time. I’ve never been into any of this stuff before. I’ve never been into
-nanotechnology.
+I told you they can hack literally anything and everything.
 
-I’m only suggesting this now cuz the evidence is now suggesting that to be
-the case—having already ruled everything else out. I’ve tried psych meds
-and they didn’t change anything in terms of my emf symptoms. (I.e. we ruled
-it out) I’m drug tested regularly at my doctors office. Like I’m trying my
-hardest to get this all to stop—believe me—it’s completely dehabilitating
-at times and is threatening my whole career. I’ve tried everything. But
-that’s the thing, it has nothing to do with me—it has everything to do with
-my brother. So nothing I can do can get it to stop. All I can do is base
-why they are coming after me on my intuition; and whereas I’m not doing
-anything wrong or illegal myself—my intuition tells me my brother is doing
+I get it sounds crazy—but it’s all part of the gangstalking playbook. This
+is not what I’m into on my off time. I’ve never been into any of this stuff
+before. I’ve never been into nanotechnology.
+
+Plus I’m only suggesting this now cuz the latest evidence is now suggesting
+that to be the case—having already ruled everything else out. I’ve tried
+psych meds and they didn’t change anything in terms of my emf symptoms at
+night. (I.e. we ruled it out) I’m drug tested randomly at my doctors office
+and that’s not it either. Like I’m trying my hardest to get this all to
+stop—believe me—it’s completely dehabilitating at times and it is
+threatening my whole career. I’ve tried everything. But that’s the thing,
+it has nothing to do with me—it has everything to do with my brother. So
+nothing I can do can get it to stop. At the end of the day all I can do is
+base why they are coming after me on my own intuition; and whereas I’m not
+doing anything wrong or illegal myself that I can just stop to get it to
+stop that I’m aware of—my intuition therefore tells me my brother is doing
 all this for his own selfish reasons. He’s good at manipulating people to
-get what he wants. What he wants in this case seems to be to discredit me
-and make me his pawn so that he can get off scott free. Why else would he
-be doing all this to me? My brother is just a control freak and he enjoys
-playing god in others lives—particularly the lives of his family. He thinks
-it’s funny. He’s like one of those invasive bird species that end up
-knocking all the other host birds eggs out of the nest.
+get what he wants and pretending to be someone he’s not. What he wants in
+this case seems to be to discredit me, to do away with me, and/or to make
+me his pawn so that he can get off scott free. Why else would he be doing
+all this to me? My brother is just a control freak and he enjoys playing
+god in other peoples lives I’ve learned—particularly the lives of his
+family—and he got caught. Plus he thinks it’s funny.
 
+Dusty is like one of those invasive bird species that end up knocking all
+the other eggs out of the nest.
+
+https://youtu.be/z5JjTls5kUI
 
 
 I’ve worked at my job for almost 9 years now—full time. And now I’m being
@@ -3057,77 +3064,97 @@ being sent to my door repeatedly out of nowhere right after my dog died and
 on key dates, the people breaking in my house who were clearly highly
 disciplined and who clearly had tons of intel, etc, etc, it would be
 dismissing all the hacking of myself and seemingly everyone around me, it
-would be dismissing all the things my brother has done to me over the years
-and everything I can tie back to him, it would be dismissing how shady he’s
-been just in general and how he fits the profile of someone who would want
-to see my demise, (assuming I’m right on him doing these same things to our
-family which would make sense whereas he’s now doing them to me) it would
-be dismissing how my brother wouldn’t even deny being a serial killer or
-being in a gang when asked directly repeatedly, and at the end of the day
-it would be completely contrary to the truth and the overall patterns of
-behavior over time.
+would be dismissing all the things my brother has done to me and my
+siblings over the years and everything I can tie back to him, it would be
+dismissing how shady he’s been just in general and how he fits the profile
+of someone who would want to see my demise, (assuming I’m right on him
+doing these same things to our family which would make sense whereas he’s
+now doing them to me) it would be dismissing how my brother wouldn’t even
+deny being a serial killer or being in a gang when asked directly
+repeatedly, and at the end of the day it would be completely contrary to
+the truth and the overall patterns and facts over time.
 
-People don’t just act bad then start being good then act bad then start
-being good again—it’s a pattern of behavior that is disturbing with my
-brother—he’s just gotten good at it over time. And he’s doing exactly what
-is necessary to combat someone who has learned the truth. Most our siblings
-agree Dusty doesn’t have a conscience. I haven’t heard anyone say that
-about me. So then it becomes a question of what are Dusty’s capabilities
-and I’m telling you right now—his capabilities seem to surpass the
-capabilities of the police—at least in terms of hacking, real-time
+I don’t think just cuz dusty treated his dog right necessarily means he’s
+not what I’m accusing him of. I think it’s more tribal and complex than
+that. I have no doubt Dusty treats his new “people” right—including their
+dogs. But why did he feel the need to get his own “people” to begin with?
+Why did he begin treating my dog like shit?
+
+It’s an overall pattern of behavior that is disturbing with my brother—he’s
+just gotten good at it over time. And he’s doing exactly what is necessary
+to combat someone who has learned the truth.
+
+Most our siblings agree Dusty doesn’t have a conscience. I haven’t heard
+anyone say that about me. So then it becomes a question of what are Dusty’s
+capabilities and I’m telling you right now—his capabilities seem to surpass
+the capabilities of the police—at least in terms of hacking, real-time
 monitoring, etc, etc.
 
 I know his capabilities first hand and I know how he is both extremely
-capable and extremely driven to try and frame me, based on past
+capable and extremely driven to try and frame me or kill me, based on past
 experiences. Good luck trying to defend against some charges for something
-some hacker did on your devices—it would be almost impossible to defend.
+some hacker did on your devices, or something some gangstalking group left
+in your house and then turned you in for—it would be almost impossible to
+defend.
+
 It’s just saddening to me that there’s the path I took in life, and now the
-path my brother seemingly took in life—and who has the advantage at this
-time? That’s right—the person who took the shady path in life has the
+path my brother has seemingly taken in life—and who has the advantage at
+this time? That’s right—the person who took the shady path in life has the
 advantage. I can’t hack him and try and frame him so I’m left to my own
 devices—and shutting off those devices to try and protect against what I
-know my brother is capable of. (Which makes me look shady)
+know my brother is capable of at this time. (Which then makes me look
+shady)
 
 Look at it this way, if you look at mine and Dusty’s conversations on a
 high level starting in 2019. (Hacking and poisoning folder referenced
 above) Who is the one trying to convince me to hate my mom? Who is the one
 trying to convince me to then hate my siblings, once he started making
-leeway on my mom? Who is the one telling me I should read books on
-psychology? Who is the one telling me I should post to social media more?
-Who is the one telling me I’m going to regret not having more people around
-me, and yet actively trying to get me to distance myself from all the
-people around me? Who is the one who wanted me to quit my job and who
-wanted my dog to die? Therefore, who is the one who clearly has some end
-game in mind? It’s not me—I just want to live my life.
+leeway with me on my mom? Who is the one making up all these lies about our
+family to try and manipulate me? Who is the one telling me I should read
+books on psychology and then negatively reinforcing me until I do? Who is
+the one telling me I should post to social media more amidst all this? Who
+is the one who came up with a bogus reason for me to help him just so he
+could hack me? Who is the one who wanted me to quit my job for some reason?
+Who is the one who subsequently said he thinks my dog should die? Who is
+the one telling me I’m going to regret not having more people around
+me—right after he was actively trying to get me to distance myself from all
+the people around me? Therefore, who is the one who clearly has some
+endgame in mind? It’s not me—I just want to live my life. And based on
+Dusty’s means of manipulating me, and his trying to isolate me—his end game
+doesn’t seem all that noble. And that’s all just on a high level,
+dismissing literally everything else.
 
-I could care less what Dusty does so long as he’s not out there murdering
-people. The only thing I can think of that I’ve encouraged him to do with
-any real emphasis in the last few years is for him and his people to stop
-fucking coming after me—he’s trying to ruin my whole life. And he enjoys
-it. He enjoys outsmarting people. (including the police)
+I could care less what Dusty does so long as he’s not out there hacking,
+corrupting, murdering, and framing people. The only thing I can think of
+that I’ve encouraged him to do with any real emphasis in the last few years
+is for him and his new “people” to stop fucking coming after me—he’s trying
+to ruin my whole life. And he enjoys it. He enjoys outsmarting people.
+(Including and especially the police)
 
 On the other hand, who is the one being completely transparent with
 everyone including the police—good, bad, and ugly? That one is me. Cuz I
 would really like this resolved and soon whereas what my brother is doing
-to me is against the law and he’s violating my constitutional rights as a
-citizen and he’s been completely fucking up my whole life. And it’s not
-going to stop until he gets caught period—even if he gets passed me.
+is against the law and he’s violating my constitutional rights as a citizen
+and he’s been completely fucking up my whole life and the lives of my loved
+ones. Plus I’ve always been highly transparent, that’s just who I am as a
+person. If I were on drugs I would not have reported all this. All I know
+is all this is not going to stop until Dusty gets caught period—even if he
+gets passed me.
 
 P.s. I plan to goto the doctor to try and either confirm or deny this
 latest microchip hypothesis, although it’s possible we will do an X-ray and
 not find anything at first when in reality something could still be there
-but the key is I keep learning and following the evidence and getting
-closer to the truth. (I mean it makes sense there would almost have to be a
-microchip involved given what they have been doing to me) I might need to
-get multiple opinions though. But worst case I figure I’m only as bad as
-all the people who were scared to get shots over microchip concerns–only in
-my case I now have reason to believe I may have actually already gotten
-one. And worst case I learn something which will help me figure out what to
-try next. But right now how I feel is I should have given these claims
-about microchips being a possible outcome of getting a covid shot more
-credibility to begin with myself.. (However at the time my brother was in
-monitor mode and not attack mode, plus I trusted my mom more at the time
-because she wasn’t covering for dusty back then)
+but the key is I keep learning and ruling things out and following the
+evidence and ultimately getting closer to the truth. (I mean it makes sense
+there would almost have to be at least one microchip involved given what
+they have been doing to me, but we will see..) I might need to get multiple
+opinions though. But worst case I figure I’m only as bad as all the people
+who were scared to get covid shots over microchip concerns to begin
+with–only in my case I now have reason to believe I may have actually
+already gotten one. And worst case I learn something which will help me
+figure out what to try next. But right now how I feel is I should have
+given these claims about microchips being a possible outcome of getting a
+covid shot more credibility to begin with myself..
 
 My overall plan:
 
