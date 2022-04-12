@@ -10725,15 +10725,62 @@ the future and nothing is ever as it may seem with them. Putin is planning
 something big that could impact the whole world—I just know it. They got so
 many different secret weapons it’s insane. Russia is currently in the
 driver's seat with this whole operation and we need to change that. We need
-to start thinking outside the box. We need to start being more secretive
-about things ourselves. That is one of the only downfalls to an alliance
-that I can think of; it makes it hard to keep any strategic defense plans
-secret. We need to start being more proactive instead of just reactive.
+to start thinking outside the box like them. We need to start being more
+secretive about things ourselves. That is one of the only downfalls to an
+alliance that I can think of; it makes it hard to keep any strategic
+defense plans secret. We need to start being more proactive instead of just
+reactive.
+
+
+
+Potential Russian Mafia “Signals”
+
+You’ve got to consider what else was going on in the world at the time and whom
+Russia might have been trying to send signals to in order to see a
+potential correlation. Not all of them were likely caused by Russia but
+some of them definitely could have been.
+
+03/02/2022 - 2 Black Hawk helicopters crash near Utah ski resort
+
+https://www.sltrib.com/news/2022/03/02/crashed-black-hawk/
+
+https://www.nbcnews.com/news/us-news/2-blackhawk-helicopters-crash-utah-ski-resort-rcna17232
+
+
+03/07/2022 - “Jet airplane assault” incident against myself described
+above. They’ve threatened doing it again since then too.
+
+03/13/2022 - Patrol officers and members of the Hazardous Devices Unit
+(HDU) safely removed an inert military-grade device from the International
+Peace Gardens in Jordan Park
+
+https://twitter.com/slcpd/status/1503077452372918278
+
+03/16/2022 - Russian Drone Flights Into NATO Skies Test Alliance’s Red Lines
+
+https://www.wsj.com/articles/russian-drone-flights-into-nato-skies-test-alliances-red-lines-11647426550
+
+
+03/19/2022 - 4 US service members killed after aircraft crashes in Norway,
+PM says
+
+https://cnn.com/2022/03/19/europe/norway-us-military-osprey-nato-intl-hnk/index.html
 
 
 
 
+03/21/2022 - Plane carrying 132 crashes in China, 'shocked' Xi Jinping
+orders probe
 
+https://www.dawn.com/news/1681124/plane-carrying-132-crashes-in-china-shocked-xi-jinping-orders-probe
+
+
+God, this is making me scared to fly. I have no doubt Russia could be
+responsible for more than one of these using its proxies given its
+obsession with both “signals” and “exploiting vulnerabilities”. That and
+its obsession with dancing around “red lines”. These guys are killers you
+guys–they enjoy killing and getting away with it–especially when signals
+can be sent while doing it. They are ruthless.
 
 Chase Gibbons  / Manager
 435-999-4722
