@@ -8699,6 +8699,15 @@ to being able to do, then life from here on out could turn into total and
 complete hell for literally everyone around here. And for all our allies.
 And for anyone else who miraculously makes it through. Because like I said
 they enjoy killing people. They even celebrate it with fireworks.
+
+This just shows how big of a mistake it was for us to not support our local
+hackers more. This is the first time I’ve ever heard of any country from
+the west targeting Russia with a hacktivist group and now Russia is
+responding. Yet Russia’s hacktivist groups have been targeting us for years
+now. We are clearly at a disadvantage in hacking it seems. We should have
+been targeting Russia all along with all the effort we could muster in my
+view. Then maybe we’d know more about both ourselves and our enemy by now.
+Same goes for social media too.
 -- 
 
 Chase Gibbons  / Software Development
