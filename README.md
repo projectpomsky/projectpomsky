@@ -3727,7 +3727,22 @@ isn’t going to end well unless something is done and soon. Like dusty will
 not stop with just me. He simply has too many capabilities and therefore he
 won’t stop until he’s given a reason to.
 
-Some (not all) Dusty gangster references:
+One last thing I just wanted to say, if dusty ever succeeds in killing me,
+just keep in mind that dusty has such extreme capabilities that the first
+person who will know if I die is dusty and they have gotten in my house so
+many freakin times to where if I’m ever reported as dead—be extremely
+skeptical of the scene is all I’m saying. And I want a freakin thorough
+autopsy done by someone he can’t corrupt. He has freaking 3d x-ray/survey
+capabilities after all and the ability to emf or probe me for a response,
+and they monitor me daily, so dusty would know before anyone else if he
+ever succeeds in actually killing me and he’d therefore have a chance to do
+what he loves to do the most which is to try and stage/frame my death as
+being from something it’s not.. (Take/destroy any evidence inconvenient to
+him, etc, etc, all in time for him to act like he is actually shocked of my
+passing, and act like he actually cares about me) Just wanted to throw that
+out there..
+
+Some (but not all) Dusty gangster references:
 
 https://drive.google.com/drive/folders/1PGc6ncUsAUuftYDLFpFFT16\_dhREfD8I
 -- 
