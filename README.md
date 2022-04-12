@@ -10798,7 +10798,17 @@ prosecuting them for it–then you’d need to dig even deeper to uncover the
 ties to Russia with uncooperative witnesses. (The witnesses are
 uncooperative because they are scared for their lives) This is
 fundamentally how Russia operates across the board. They have become good
-at what they do. You guys I think these guys worship satan.
+at what they do.
+
+You guys I think these guys worship satan. Isn’t there some reference to
+brothers in regards to satan? Maybe that’s why both my brother and Putin
+are both going after their brothers. There’s a ton of other parallels to
+satan I can think of too. The perfect circle of black feathers left in my
+yard previously. Their obsession with fireworks seemingly used as some kind
+of a ritual prior to their killings, etc, etc. You guys seriously need to
+arrest my brother before he kills anybody else. And we seriously need to
+take out the kremlin before they bring about the apocalypse. I no longer
+think China is directly involved.
 
 Chase Gibbons  / Manager
 435-999-4722
