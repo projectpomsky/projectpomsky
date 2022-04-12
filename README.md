@@ -12560,7 +12560,8 @@ my heart knowing what these guys are capable of and how lucky I am to even
 still be alive right now first hand. They rarely clean up after themselves
 in my home at least—they always just add more and more. I got pics even—but
 trying to live through all this hasn’t been the easiest either. (I.e. I
-still got to clean my house up more myself)
+still got to clean my house up more myself) Bottom line is you guys have
+got to believe me on this one or you will risk getting exposed yourself.
 
 You guys I really do think dusty is already on the higher end of that
 poisoners spectrum in terms of people he’s likely responsible for killing.
