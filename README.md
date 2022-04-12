@@ -4482,8 +4482,7 @@ truly despises our father as I suspect)
 What are people going to do when there’s nobody left but Dusty, Cindy, and
 Taylor? That’s all I’m saying. Like at some point it’s got to become
 obvious who the imposter(s) is/are. It became obvious to me when Dusty
-started attacking me.
-
+started attacking me and Turbo.
 
 
 Chase Gibbons  / Manager
