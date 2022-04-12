@@ -6753,41 +6753,64 @@ he really is–that’s all I can say.
 I got other things I’ve put in place that have been helping slow down
 Dusty’s latest tactics in the interim—but it’s not enough–especially given
 how Dusty’s guys can and do continue to get physical access to my home on a
-regular basis.
+regular basis. I’ve essentially now got two different ways I have to put in
+place to combat both the infrasound and all the emf stuff
+separately—countering both all the infrasound and all the emf stuff are
+both required just for me to be able to even get normal sleep anymore these
+days. And even still that doesn’t help with their getting in my house
+constantly whenever I leave and putting poison shit all over all my
+bedding/within all my soaps and toothpastes and candies and whatever else I
+can’t manage to fit on my person during the daytimes—they literally still
+break in and spread poison everywhere seemingly almost daily these days.
+(Depending on how long I leave for during the days and whether it’s a
+weekend or not—they always step up their attacks against me on the weekends
+even tho I don’t do shit on the weekends these days—it goes back to their
+trying to paint a picture based on the police’s would be perceptions upon
+finding me I think, etc)
 
 What I want myself personally, seems how I am the one who is actually being
-put through all this and being forced to endure all of this first-hand
-myself, is I want to get to a place where I can live a completely normal
-life again without any interference–like I’ve said to Dusty since the very
-beginning. (Dusty enjoys making people die using their worst fears btw,
-including Karie which is when he first hinted at this to me; but for me
-what I have consistently told him is I just want him to leave me the hell
-alone–so what’s he do–he does the complete opposite of that) I’ve endured
-all his harassment long enough. Dusty is not going to leave me alone if I
-stay in northern Utah. Dusty simply has too many resources at his disposal
-around here.
+forced to endure all of this first-hand daily myself, is I want to get to a
+place where I can live a completely normal life again without any
+interference–like I’ve said to Dusty since the very beginning. (The only
+problem is Dusty actually enjoys making people die using their worst fears,
+including Karie which is when he first hinted at that fact to me; but for
+me what I have consistently told him is I just want him to leave me the
+hell alone–so what’s he do? He does the complete opposite of that. Never
+tell him what you want or he’ll do the opposite of what you want btw) Know
+what else I want? To live until I’m 35. So yea, if dusty gets his way I’ll
+be dead or severely incapacitated before I’m 35. But yea, I’ve endured all
+Dusty’s harassment long enough. Dusty is not going to leave me alone if I
+stay in northern Utah that’s for sure. Dusty simply has too many resources
+at his disposal around here.
 
 If you were monitoring Dusty’s computer right now–I guarantee you’d see him
-monitoring me. We have a real problem with hacking and our police’s
-inability to hack suspected hackers to monitor them in my opinion. What are
-regular citizens like me even supposed to do in this situation? Learn to
-hack back ourselves?
+monitoring me. (Which is creepy but that’s what he does—spying like that is
+a characteristic of a serial killer btw)
+
+We have a real problem with hacking and our police’s inability to hack
+suspected hackers to monitor them in my opinion. Most hackers aren’t going
+to be communicating via the traditional sources and methods which normally
+get people caught at the end of the day. You’d need to hack their devices
+directly to even have a chance at catching them, and look at all their
+encrypted messaging apps and command and control servers and whatnot. Until
+then, what are regular citizens like me even supposed to do in this
+situation? Learn how to hack back ourselves?
 
 Just a quick reminder, Dusty wouldn’t even deny being a serial killer nor
 being in a gang when asked repeatedly previously, he told me “he has his
-own people now” after disowning everyone previously, Dusty was
-experimenting with dark psychology on his own family members previously,
-(As evidenced by my other brother Mikey saying to Dusty at the time “your
-little experiment needs to be over”--I think Dusty instead just went the
-opposite way and took it all the way to attempted mind control over me
-personally since then–while somehow convincing my mom otherwise even after
-all Dusty had done to my mom back then), Dusty hacked and deleted all his
-messages to all of us previously, etc, etc.
+own people now” after disowning all his friends and family previously,
+Dusty was experimenting with dark psychology on his own family members
+previously, (As evidenced by my other brother Mikey saying to Dusty at the
+time “your little experiment needs to be over”--I think Dusty instead just
+went the opposite way and took it all the way to attempted mind control
+over me personally since then–while somehow convincing my mom otherwise
+even after all Dusty had done to my mom back then), Dusty hacked and
+deleted all his messages to all of us previously, etc, etc.
 
 I think it’s time for me to do everything I can to escape Dusty’s influence
 once and for all. And the only thing I havent tried yet is to get the fuck
-away from him. At least then I’ll be making him spend more money if he
-chooses to continue to pursue me.
+away from him. At least then I’ll be making him spend more money if he dies
+choose to continue to pursue me.
 
 Nonetheless, some of the wisest, least-biased people I’ve talked to who are
 familiar with this whole subject have advised me to get the hell out of
@@ -6796,8 +6819,34 @@ some time now–the only difference is now I finally just about can.
 
 Still no hair regrowth on my legs btw.
 
-I doubt you’d stick around if all this were being done to you daily.
+I doubt you’d stick around if all this were being done to you daily. I need
+to work on a legit exit strategy. One where everything will still be taken
+care of and any communications with me will be fully encrypted, etc.
 
+As of February 7, 2022
+
+It really isn’t hard to find evidence of all Dusty’s manipulation/social
+engineering. Isn’t it ironic he flipped from being liberal to acting more
+conservative right before he started attacking me and Turbo in 2021? (I
+suspect in an attempt to sway the police in his favor using politics and
+social engineering to his advantage–this is a pattern btw (i.e. he cheats
+at literally everything he does these days))
+
+As of most recently:
+
+https://drive.google.com/file/d/1Qlce7yWP2BTatU-5VqFow-FDMIyPxSfx/edit?disco=AAAAUoiC0HY
+
+
+As of April 2, 2021:
+
+https://drive.google.com/open?id=1Qlce7yWP2BTatU-5VqFow-FDMIyPxSfx&disco=AAAAUoiC0Hc
+
+
+As I said before–at least I tell the truth and I don’t pretend to be
+someone I’m not just to try and get a leg up on people. Dusty is evil as
+hell you guys–I’m telling you he really is evil. The true Dusty is evil as
+hell. Like seriously. I could elaborate further but just know his evil has
+no bounds.
 
 Chase Gibbons  / Manager
 435-999-4722
