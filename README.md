@@ -3723,8 +3723,13 @@ Dusty clearly now thinks of me as less than human. And him thinking of me
 that way seemingly happened in like a flip of a switch it seems. I just
 wish I knew how to flip that switch back the other way or something. I
 really wouldn’t be doing all this unless I truly genuinely felt that this
-isn’t going to end well unless something is done. Like dusty will not stop
-with just me. He has too much capabilities.
+isn’t going to end well unless something is done and soon. Like dusty will
+not stop with just me. He simply has too many capabilities and therefore he
+won’t stop until he’s given a reason to.
+
+Some (not all) Dusty gangster references:
+
+https://drive.google.com/drive/folders/1PGc6ncUsAUuftYDLFpFFT16\_dhREfD8I
 -- 
 
 Chase Gibbons  / Manager
