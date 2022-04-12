@@ -1,28 +1,40 @@
 Outline
 
-Outline 
+Outline
 
-README 
 
-Security Cameras 
+README
 
-How They Broke In 
 
-Motive 
+Security Cameras
 
-My Credibility 
 
-Daily Occurrences 
+How They Broke In
 
-As of Nov 12, 2021 
 
-As of Nov 15, 2021 
+Motive
 
-As of Nov 16, 2021 
 
-As of Nov 18, 2021 
+My Credibility
 
-As of Nov 20, 2021 
+
+Daily Occurrences
+
+
+As of Nov 12, 2021
+
+
+As of Nov 15, 2021
+
+
+As of Nov 16, 2021
+
+
+As of Nov 18, 2021
+
+
+As of Nov 20, 2021
+
 
 As of November 22, 2021
 
@@ -51,53 +63,71 @@ Indicators of being hacked
 Timeline (Rough Draft)
 
 
-~2006 
+~2006
 
-~2007 
 
-~2008 
+~2007
+
+
+~2008
+
 
 Before Father’s Death
 
 
-~2009 
+~2009
 
-Dusty and Cindy 
 
-2010 
+Dusty and Cindy
 
-Divorce/Move Out 
 
-Father’s Death 
+2010
+
+
+Divorce/Move Out
+
+
+Father’s Death
+
 
 Right After Father’s Death
 
 
-~2011 
+~2011
 
-Trust/College 
 
-2013 
+Trust/College
 
-Graduation 
 
-Eyes of a Killer 
+2013
 
-2015 
+
+Graduation
+
+
+Eyes of a Killer
+
+
+2015
+
 
 Before Sister’s Death
 
 
-Sister’s Death 
+Sister’s Death
 
-~2016 
+
+~2016
+
 
 After Sister’s Death
 
 
-2018 
+2018
 
-2019 
+
+2019
+
 
 Brother Distancing/Time Off
 
@@ -108,24 +138,32 @@ Last Visit/Website/Brother Hacking
 Someone Tries to Fill My Prescriptions
 
 
-Testing My Brother 
+Testing My Brother
 
-First Poisoning 
 
-2020 
+First Poisoning
 
-Second Poisoning 
 
-2021 
+2020
 
-Gun Pulled On Me 
+
+Second Poisoning
+
+
+2021
+
+
+Gun Pulled On Me
+
 
 Witness Intimidation
 
 
-EMF 
+EMF
 
-Hotels 
+
+Hotels
+
 
 Eagles Incident - Murder by Suicide Plot
 
@@ -145,11 +183,14 @@ Tampering with my electricity
 Radiation poisoning
 
 
-Infrasound 
+Infrasound
 
-Keys 
 
-2022 
+Keys
+
+
+2022
+
 
 As of December 15, 2021
 
@@ -160,11 +201,14 @@ As of December 17, 2021
 My Analysis of Timeline
 
 
-Father 
+Father
 
-Sister 
 
-Me 
+Sister
+
+
+Me
+
 
 As for any questions about me.
 
@@ -202,9 +246,11 @@ As of December 29, 2021
 As of December 30, 2021
 
 
-Part 1 
+Part 1
 
-Part 2 
+
+Part 2
+
 
 As of December 31, 2021
 
@@ -227,7 +273,8 @@ As of January 3, 2022
 As of January 4, 2022
 
 
-Random Thought 
+Random Thought
+
 
 As of January 7, 2022
 
@@ -295,7 +342,8 @@ As of February 6, 2022
 As of February 7, 2022
 
 
-February 8, 2022 
+February 8, 2022
+
 
 Lesson - RF/Waves/Hacking
 
@@ -351,6 +399,15 @@ Electromagnetic Spectrum Health Effects Video
 
 
 As of March 10, 2022
+
+
+What Putin is Doing
+
+
+Final Answer
+
+
+References
 
 
 
@@ -2164,7 +2221,6 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
-​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -7566,8 +7622,8 @@ system for instance. Therefore even alarm systems are vulnerable to the
 same attack as a car remote now thanks to software defined radio and the
 potential of hackers monitoring the radio spectrum. Simply Safe used to
 never even encrypt their devices' communications either btw, before their
-latest model came out. (​​https://www.nimblefreelancer.com/simplisafe-hack/
-) But like I said, even with encryption–a hacker with a software defined
+latest model came out. (https://www.nimblefreelancer.com/simplisafe-hack/ )
+But like I said, even with encryption–a hacker with a software defined
 radio can still bypass it after enough monitoring even if it is encrypted.
 (The same is true with our brains btw)
 
@@ -9251,7 +9307,6 @@ called biohacking. See the following links. But the one in my case is wayyy
 more sophisticated, plus I didn’t do it to myself, and therefore I have no
 way to turn it off by myself.
 
-​​
 https://twitter.com/drkiki/status/1168299777424908288?s=20&t=r4TnY99zwvl2yJbyM9FV5Q
 
 https://dangerousthings.com/category/implants/x-series/
@@ -9330,19 +9385,20 @@ but my gut told me it was the right move at the time. I started getting a
 sense that someone had leaked this info either to try and cause a lack of
 confidence in us/cause divisions amongst our allies or else to make it seem
 as though the United States was attacking its own citizens. (Which goes
-with their recent narrative from that NRA chick that she couldn’t believe
-that anyone would bomb their own people, while insinuating that Ukraine was
-bombing it’s own citizens–it’s all extremely coordinated information
-desemination and whatnot on Russia’s part, it’s all part of their sick and
-twisted “show” they are putting on) I even started having a surge of people
-looking into my linkedin profile yesterday out of nowhere too, which I also
-temporarily deactivated, as if the “Jet Airplane Assault” incident from the
-other night was on the verge of becoming published as news or something. I
-don’t know if pulling everything down was the right move, because again
-maybe if all this got out then these people would actually fucking stop
-harrassing me and my brother might actually face accountability for once
-because everyone would know the truth; and maybe all this would have been
-further looked into and further legitimized by the American public.
+with Russia’s recent narrative from that NRA chick that she couldn’t
+believe that anyone would bomb their own people, while insinuating that
+Ukraine was bombing it’s own citizens–it’s all extremely coordinated
+information desemination and whatnot on Russia’s part, it’s all part of
+their sick and twisted “show” they are putting on) I even started having a
+surge of people looking into my linkedin profile yesterday out of nowhere
+too, which I also temporarily deactivated, as if the “Jet Airplane Assault”
+incident from the other night was on the verge of becoming published as
+news or something. I don’t know if pulling everything down was the right
+move, because again maybe if all this got out then these people would
+actually fucking stop harrassing me and my brother might actually face
+accountability for once because everyone would know the truth; and maybe
+all this would have been further looked into and further legitimized by the
+American public.
 
 So I’m torn on the subject but the last thing I want is to be used by these
 guys to further their information warfare campaign against us and to cause
@@ -9370,20 +9426,20 @@ European Union and the West. And how he’s going to do that is by leveraging
 his previous exploitations of the West to make us look weak by doing shit
 like what they did to me the other night which might make our government
 fear that we might not have full control of our military, (if I even was
-right about that incident) and that we have our own exiles, etc. and
-Putin’s hoping that will be interpreted by Zelensky that Democracy can be
-exploited and that he can’t fully rely on us as friends. (In reality
+right about that incident) and that we have our own Russian Sympathizers,
+etc. and Putin’s hoping that will be interpreted by Zelensky that Democracy
+can be exploited and that he can’t fully rely on us as friends. (In reality
 however, every type of government can be exploited just as much but in
-their own ways–for every strength there is a weakness–you just have to get
-into that frame of mind and be willing to do exactly that and actually
-exploit them in every way just like they do to us–believe me–I guarantee
-you these attackers could think of numerous ways to completely exploit
-Putin’s government just as effectively as our democracy because they can
-exploit literally anything and everything–we can too–that’s the thing. And
-I assure you we are doing everything in our power to help Ukraine as much
-as we possibly can. it’s actually been really cool to see all the different
-ways everyone has jumped in to try and help–me personally I’ve been helping
-anonymous where I can, etc)
+their own unique ways–for every strength there is a weakness–you just have
+to get into that frame of mind and be willing to do exactly that and
+actually exploit them in every way possible just like they do to us–believe
+me–I guarantee you these attackers could think of numerous ways to
+completely exploit Putin’s government just as effectively as our democracy
+because they can exploit literally anything and everything–we can
+too–that’s the thing. And I assure you we are doing everything in our power
+to help Ukraine as much as we possibly can. it’s actually been really cool
+to see all the different ways everyone has jumped in to try and help–me
+personally I’ve been helping anonymous where I can, etc)
 
 But yea, you’ve got to understand gangstalking to understand how this all
 is ultimately planned to play out.
@@ -9416,40 +9472,45 @@ been–they are fucking ruthless and unforgiving and very transactional in
 nature–but they will never stop trying to manipulate you regardless of
 whether you work with them or not) So over time, you end up being faced
 with a hard road and an easy road–but the easy road is a trap every fucking
-time–it’s like selling your soul to the devil pretty much at best.
+time–it’s like selling your soul to the devil pretty much at best–but it
+sure is tempting nonetheless.
 
 That has got to be Putin’s plan for Zelensky, which is to get him to turn
-on the West essentially. To get him to work out a deal with the devil. That
-way all Zelensky’s citizens become a non issue for Putin and that way Putin
-begins his takeover of more than just Ukraine by influencing public opinion
-through his new proxy. What we need to do to combat that is to continue to
-support Zelensky daily no matter what. And stop freaking saying we will or
+on the West essentially. To get Zelensky to work out a deal with the devil.
+That way all Zelensky’s citizens become a non issue for Putin and that way
+Putin begins his takeover of more than just Ukraine by influencing public
+opinion throughout the world using his new proxy. What we need to do to
+combat that is to continue to support Zelensky daily no matter what. We
+need to make some concessions and get him those migs so as to get
+everything back on track. And we need to stop freaking saying we will or
 won’t do something beforehand–don’t let Putin know what we will or won’t do
-so it remains a mystery to him. But yea, never let Zelensky think he
-doesn't have our full support to the most extent possible–regardless of how
-much Putin tries to manipulate us–this is everyone’s entire future we are
-talking about here after all. Nobody wants to live under a brutal
-dictator/organized crime mafia ring for the rest of eternity.
+so it remains a mystery to him. (You can always reverse course tho too) But
+yea, never let Zelensky think he doesn't have our full support to the most
+extent possible–regardless of how much Putin tries to manipulate us or
+him–this is everyone’s entire future we are talking about here after all.
+Nobody wants to live under a brutal dictator/organized crime mafia ring for
+the rest of eternity.
 
 The shit with the jet airplane is just an attempt for Putin to manipulate
-our president into being submissive. If you let him, guess what he’s going
-to do? He’ll keep doing it and go even harder on it next time too. At the
-end of the day these Trumper Russian proxy guys aren’t going to do anything
-bad to their own hometowns nor their fellow troops–I mean like beyond maybe
-discreetly going after one person at a time who they are led to believe
-might have a different political ideology than them. But beyond that, I
-don’t see Putin’s proxies as being that reliable to him when it all comes
-down to it tbh. Nobody’s going to nuke their own hometown or even allow
-their hometown to be nuked or anything like that. They might try and
-undermine some things but they aren’t that big a deal tbh. It’s all a
-perception/illusion. I’d guess people like that are by far the minority,
-but it would be wise to figure out just how many of them there really are
-by doing our own investigation into it. Because if you just rely on them
-acting out then they will make it appear as though everyone is in on
-it–when in reality that is far from the truth. None of the proxies are
-going to follow any orders from Putin that might affect anyone they know or
-like period anyways. That’s the difference between say a foreign spy and a
-foreign proxy. The foreign proxy has boundaries in regards to who they will
+our president into being submissive if you ask me. If you let him, guess
+what he’s going to do? He’ll keep doing it and go even harder on it next
+time too. At the end of the day these Trumper Russian proxy guys aren’t
+going to do anything bad to their own hometowns nor their fellow troops–I
+mean like beyond maybe discreetly going after one person at a time who they
+are led to believe might have a different political ideology than them. But
+beyond that, I don’t see Putin’s proxies as being that reliable to Putin
+when it all comes down to it tbh. Nobody’s going to blow up their own
+hometown or even allow their hometown to be blown up or anything like that.
+They might try and undermine some things but they aren’t that big a deal
+tbh. It’s all a perception/illusion–it’s designed to get to you. I’d guess
+people like that are by far the minority anyways, but it would be wise to
+figure out just how many of them there really are by doing our own
+investigation into it. Because if you just rely on them acting out then
+they will make it appear as though everyone is in on it–when in reality
+that is far from the truth. None of the proxies are going to follow any
+orders from Putin that might affect anyone they know or like period
+anyways. That’s the difference between say a foreign spy and a foreign
+proxy. The foreign proxy has boundaries in regards to who they will
 undermine and how far they will go. Plus, worst case you can just make it
 personal to the proxies, do what Putin does but in reverse. Make it so they
 have to sell their other proxies out to save themselves. The churches and
@@ -9486,13 +9547,14 @@ BULLY, and to start applying these same concepts right back at them from
 what I’ve found. At least in Zelensky’s case he still has a ton of support
 from pretty much everyone in this world besides Putin, and pretty much
 everyone are actually willing to help him in fighting back in whatever way
-they can, but conversely that means if he joins Putin then he could easily
-bring others with him–I promise you–it’s psychology.
+they can, but conversely that means if Zelensky ever decides to join Putin
+to save his people then he could easily bring other countries with him–I
+promise you–it’s psychology.
 
 Two more things I think are important for anyone reading this to know.
 
-First, how to accomplish the “thinking 2-3 steps ahead” illusion. These
-guys seem to be smart and seem to have the ability to think 2-3 steps
+First, how to accomplish the “thinking 2-3 steps ahead” illusion. The
+Russians seem to be smart and seem to have the ability to think 2-3 steps
 ahead. But in reality what is really happening is they are using reflexive
 control theory to first set up a pretext and then to trigger you in a way
 they can predict your reaction to, and based on their predicted reaction of
@@ -9527,19 +9589,19 @@ network they began monitoring it and looking for other vulnerabilities to
 exploit while doing recon. I won’t get into all the details but fast
 forward and they begin emf-ing me. I ultimately figure out how to get their
 emfs to no longer bother me by creating a makeshift faraday cage that was
-connected to ground. As soon as they found out their attacks were no longer
-bothering me, they moved to another type of emf like ef or rf that went
-right through the grounded metal. So then I had to figure out what was
+connected to a ground. As soon as they found out their attacks were no
+longer bothering me, they moved to another type of emf like ef or rf that
+went right through the grounded metal. So then I had to figure out what was
 going on and I ended up adding an existing electrical current flowing
 through the faraday cage to try and combat their latest exploit. And then
 ultimately they realized they couldn’t get through with any light based
-directed energy anymore really whatsoever—so they then switched to using
-infrasound at that point instead—which went right through my faraday cage
-without issue because it was technically another vulnerability yet again.
-So then I figured out what the hell infrasound was and I figured out you
-need this foam shit to stop it, and I added that foam stuff to the faraday
-cage to block the infrasound as well at that point. But now I created
-another vulnerability in adding sound proofing, any ideas what it was? The
+directed energy weapon anymore—so they then switched to using infrasound at
+that point instead—which went right through my faraday cage without issue
+because it was technically another vulnerability yet again. So then I
+figured out what the hell infrasound was and I figured out you need this
+foam shit to stop it, and I added that foam stuff to the faraday cage to
+block the infrasound as well at that point. But now I created another
+vulnerability in adding sound proofing, any ideas what it was? The
 vulnerability at that point was well now that my enclosure was fully
 covered with few air gaps to keep the sound waves out—they then started
 gassing me while I was in there which completely terrified me and made me
@@ -9548,11 +9610,14 @@ me totally exposed again. They would essentially use my new protections as
 a new vulnerability to exploit, each step along the way, etc, etc. And as
 things have continued forward, they’ve even figured out how to add some
 nano tech to the inside of the faraday cage that allows them to pull power
-from the outer faraday cage shell and redirect it to emf on the inside
-before the power was ever grounded, which effectively made my faraday cage
-useless yet again. And on, and on, and on, and that’s just one example.
-Moral of the story is there are vulnerabilities everywhere in literally
-everything and on each step of the way there might be new
+from the outer faraday cage shell and redirect it to emf me on the inside
+before the power is ever grounded, which effectively made my faraday cage
+useless yet again. And on, and on, and on, all the way to the other
+night–and that’s just one broad example. How they broke in my house
+repeatedly was very similar in their constant exploiting of different
+vulnerabilities and mostly getting away with little to no evidence of their
+presence. Moral of the story is there are vulnerabilities everywhere in
+literally everything and on each step of the way there might be new
 vulnerabilities—all of which can be exploited–and it doesn’t take the most
 powerful country in the world to find them and to exploit them either—it
 just takes a certain mindset is all.
@@ -9564,13 +9629,13 @@ just trying to help. For the record, I’m for doing everything we can to
 help Ukraine before we lose support from Ukraine, before Russia intimidates
 the whole world, and before Russia becomes even more ruthless and powerful
 than they already are. Just make sure we have a good excuse for going in
-there is all I’d say—but we can’t let them intimidate us ourselves. The
-whole world is watching. Ukrainians are dying and they desperately need our
-help. Putin wouldn’t be trying to intimidate us into staying out of it if
-he wanted us to join in. It’s normally best to do what they don’t want you
-to do, although they will adapt and they will continue these same
-psychological baiting tactics each step of the way regardless of what we
-choose to do. I think it will bring us all closer together too—which is key.
+there is all I’d say—but we can’t let Russia intimidate us. The whole world
+is watching. Ukrainians are dying and they desperately need our help. Putin
+wouldn’t be trying to intimidate us into staying out of it if he wanted us
+to join in. It’s normally best to do what they don’t want you to do,
+although they will adapt and they will continue these same psychological
+baiting tactics each step of the way regardless of what we choose to do. I
+think it will bring us all closer together too—which is key.
 
 Final Answer
 
@@ -9580,13 +9645,14 @@ I think if we want to have a country we’ve got to help Zelensky/his people
 in Ukraine and soon even if it means a proxy war with Russia. We really are
 to that point. That will also help in ridding ourselves of Russian
 assets/proxies/influence. The alternative could very well ultimately prove
-defeat.
+defeat. (References hidden for now)
 
-I decided to post all this to try to help everyone make decisions
-accordingly, I didn’t want to come off as I was turning my back on
-anyone–especially our allies. The truth isn’t always pretty but it’s best
-if we all know both ourselves and our enemies so we can make the best
-decisions possible and so that we can all know what is truly at stake.
+I decided to re-post all this new less sensitive stuff here to try to help
+everyone make their own decisions accordingly, I didn’t want to come off as
+I was turning my back on anyone either–especially our allies. The truth
+isn’t always pretty but it’s best if we all know both ourselves and our
+enemies so we can make the best decisions possible and so that we can all
+know what is truly at stake.
 
 The real question is do you want to be known for being responsible for a
 tyrant possibly defeating the free world to create a new world order
@@ -9600,29 +9666,65 @@ it. Shit I’ll even put my money where my mouth is and I'll even go help
 fight.
 
 Please you guys–we are running out of time. They are putting the pressure
-on Zelensky to fold. He won’t fold if we just stand up to this bully and do
-what’s right–what’s right also happens to be what the world really needs us
-to do right now. I cannot stress the stakes of all this enough. I likely
-won’t make it through much longer myself tbh, either way, but at least this
-way our future generations will have a chance at living in peace. We need
-to come together. The only way we are ever going to come together at this
-point is if we stand up to Putin.
+on Zelensky to fold. He won’t fold if we just stand up to these Russian
+bullies and do what’s right–what’s right also happens to be what the world
+really needs us to do right now. I cannot stress the stakes of all this
+enough. I likely won’t make it through much longer myself tbh, either way,
+but at least this way our future generations will have a chance at living
+in peace. We need to come together. The only way we are ever going to come
+together at this point is if we stand up to Putin. I think the Russians are
+trying to make Joe Biden be the “fall guy” for Trump tbh.
 
 I’ve now seen evidence Russia is indeed now targeting our hackers as part
-of a “spread the word to Russians” campaign. (False flag operation) They
-are literally banking on us not sending those migs. We need to make some
-concessions and get them the damn jets. We need to show leadership. Why
-else would Russia be willing to take on so many sanctions right now if they
-weren’t banking on defeating us from within? Why else would they not have
-taken out Zelensky yet if they weren’t banking on gaining his support to
-avoid a never ending war? There’s no good legitimate reason. Russia has
-fooled us for long enough. Zelensky is an ally we really really need just
-as much as he needs us and he is an honestly an awesome ally to have. It’s
-time we help him save his people. It won’t be easy but it’ll be worth it in
-the end. I’m pretty positive I was just proven right about pretty much
-everything in Russia’s latest attempt to use me to send you guys a signal
-about our military and the jets the other day—now I really need you to
-believe me about this.
+of a “spread the word to Russians” campaign. (False flag operation) See
+references below.
+
+They are literally banking on us not sending those migs. We need to make
+some concessions to our allies and get them the damn jets. We need to show
+leadership. Why else would Russia be willing to take on so many sanctions
+right now if they weren’t banking on defeating us from within? Why else
+would they not have taken out Zelensky yet if they weren’t banking on
+gaining his support to avoid a never ending war? There’s no good legitimate
+reason. Russia has fooled us for long enough. Zelensky is an ally we really
+really need just as much as he needs us and he is honestly an awesome ally
+to have. It’s time we help him save his people. It won’t be easy but it’ll
+be worth it in the end. I’m pretty positive I was just proven right about
+pretty much everything in Russia’s latest attempt to use me to send you
+guys a signal about our military and the jets the other day—now I really
+need you to believe me about this. I feel highly confident in this final
+determination of Russia’s true intent btw.
+
+🙏🙏🙏
 
 #IStandWithUkraine #AmericaStandsWithUkraine #TheWorldStandsWithUkraine
-#FightForFreedom
+#TruthIsStrangerThanFiction #FightForFreedom
+
+Thank you,
+
+Chase G
+
+References
+
+
+
+
+
+Link to request concessions by our government on mig fighter planes:
+
+https://twitter.com/intent/retweet?tweet\_id=1502153102639591426
+
+Chase Gibbons  / Manager
+435-999-4722
+
+
+PO Box 747Logan, UT 84321
+gfic.io  
+
+[image: Mailtrack]
+
+Sender
+notified by
+Mailtrack
+
+03/11/22,
+12:55:48 AM
