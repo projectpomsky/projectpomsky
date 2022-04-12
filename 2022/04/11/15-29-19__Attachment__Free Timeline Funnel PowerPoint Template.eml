@@ -1,0 +1,966 @@
+Delivered-To: cwgibb@aggiemail.usu.edu
+Received: by 2002:a59:1b42:0:b0:29d:a803:69a9 with SMTP id u2csp2104973vqd;
+        Tue, 15 Mar 2022 18:42:22 -0700 (PDT)
+X-Google-Smtp-Source: ABdhPJxWEdS+Qfsd3qss2CTEzHo3CpFOtQblBTMqmeI7lsY1UWwEUx86BIT+P8IdPGUeg0Lzt23V
+X-Received: by 2002:a37:2d07:0:b0:508:1f88:a55c with SMTP id t7-20020a372d07000000b005081f88a55cmr19320354qkh.98.1647394942591;
+        Tue, 15 Mar 2022 18:42:22 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1647394942; cv=none;
+        d=google.com; s=arc-20160816;
+        b=IAFFX+0XNAtL75n2NT2B4+rTGR/R+xN3pbTPfaTJ6wrcNfttyfjtNT2DWnx9LymWOx
+         pBtXKLowsaR4WWarSRzcST38Fe0VjDPNjIQnCKUNX97Keys2Oxwm6J3H7opFcWnpQbiY
+         JSyN3A5AqRxFSEoTq30xT/mZjzjWLmlNtZKz5jtFZEpdvWjoObaIA/eyISOUc1dp32bf
+         KW1yRnUt/GmoSAzHyvi+VH9wY0GUJ6yoEq6RPI9c2VOm1ZoBFuXs7FJIKukUfZRg0RSU
+         5KXcfpD4lb8CwkOPAs8TkKzvmyzssqU2nZXGbK2DdlP9P3/vUuisyW3oek6KD74IemZx
+         t6AQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=feedback-id:subject:to:content-transfer-encoding:mime-version
+         :precedence:list-unsubscribe:message-id:reply-to:from:date
+         :dkim-signature:dkim-signature;
+        bh=QlRiPKZsLLasxWaazjQXUxFKPNpKB4WQbcfZ9dOW/q8=;
+        b=KIky9rAGH5g/blMKt3OMq6ouBMRW9s5bbiP/oNtA3sxxWv/ASYDKR/2kl2b+EmW8R7
+         KVDJMgLohrWiH+DZ2gDDy0EWs3ekNYtcX1BeWW01Eo6jUFCsp6Zm15tLx9NsVDQz3pRg
+         AdmsGduEy5puaON5uHFjhBNc9OEe2ZbtgdffML/XIJQeQrHoJ4jHEEd9vKb45H6tqhWX
+         A+mJC142FSqEnJ1JW0HTvRH0EfAEyp5yApgYN5aMrBoBMFJUaGndCS2XDHLVXVvoEA+e
+         jv0JsAWPW7Fp7eM9AIGvu3jLV1K92KAWhS4CbEgyiBCo0puzYuybPuhg9hSGU9zC9viq
+         7isQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@slidemodel.com header.s=rj3rls5tb3czon4kmptb5win5hdl3odg header.b=SMbAXQg7;
+       dkim=pass header.i=@amazonses.com header.s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw header.b=dayBsBwl;
+       spf=pass (google.com: domain of 0100017f9063ebc1-272ceb30-73d8-436e-bfcf-42de19f4499c-000000@amazonses.com designates 54.240.10.119 as permitted sender) smtp.mailfrom=0100017f9063ebc1-272ceb30-73d8-436e-bfcf-42de19f4499c-000000@amazonses.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=slidemodel.com
+Return-Path: <0100017f9063ebc1-272ceb30-73d8-436e-bfcf-42de19f4499c-000000@amazonses.com>
+Received: from a10-119.smtp-out.amazonses.com (a10-119.smtp-out.amazonses.com. [54.240.10.119])
+        by mx.google.com with ESMTPS id n25-20020a05620a223900b00648aacef6b5si121330qkh.627.2022.03.15.18.42.22
+        for <cwgibb@aggiemail.usu.edu>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 15 Mar 2022 18:42:22 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 0100017f9063ebc1-272ceb30-73d8-436e-bfcf-42de19f4499c-000000@amazonses.com designates 54.240.10.119 as permitted sender) client-ip=54.240.10.119;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@slidemodel.com header.s=rj3rls5tb3czon4kmptb5win5hdl3odg header.b=SMbAXQg7;
+       dkim=pass header.i=@amazonses.com header.s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw header.b=dayBsBwl;
+       spf=pass (google.com: domain of 0100017f9063ebc1-272ceb30-73d8-436e-bfcf-42de19f4499c-000000@amazonses.com designates 54.240.10.119 as permitted sender) smtp.mailfrom=0100017f9063ebc1-272ceb30-73d8-436e-bfcf-42de19f4499c-000000@amazonses.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=slidemodel.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=rj3rls5tb3czon4kmptb5win5hdl3odg; d=slidemodel.com; t=1647394942;
+	h=Date:From:Reply-To:Message-ID:List-Unsubscribe:MIME-Version:Content-Type:Content-Transfer-Encoding:To:Subject;
+	bh=TAtk4FgrM+PILwj39kzuHEJ9MVlxJzGb8qsjCq6jkuA=;
+	b=SMbAXQg7zywVHXK1b+Fzbx7O3wYpVU6c4xE4xuFlO2BZ9Qa0ToBrzs0NUvSiGhMR
+	5FT/rRQsAsazviPQu13O+WdrAYw5rygRPQELZ7RWb7zGClCOVyac6iighhQ4z/U/+lT
+	HDrZGuWXaU3ifASPEbpmPFPPXUhc+p5Kkd41Bl6g=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1647394942;
+	h=Date:From:Reply-To:Message-ID:List-Unsubscribe:MIME-Version:Content-Type:Content-Transfer-Encoding:To:Subject:Feedback-ID;
+	bh=TAtk4FgrM+PILwj39kzuHEJ9MVlxJzGb8qsjCq6jkuA=;
+	b=dayBsBwldv/hFojanu18iMQix90uKAXVm8TXPYrk5cQIUha9SoFG7yUu8OfH2grC
+	tb2MVI/f9MCRFOzogXf++Z4LrsYQc4DcODva0G6OqEE+jxjLLnn4s7VtC03eI3qw+r4
+	UqWSBDOSjF2j/y9GreFuEQgzoB1oXh6GsmEs9jzo=
+Date: Wed, 16 Mar 2022 01:42:21 +0000
+From: SlideModel <info@slidemodel.com>
+Reply-To: info@slidemodel.com
+Message-ID: <0100017f9063ebc1-272ceb30-73d8-436e-bfcf-42de19f4499c-000000@email.amazonses.com>
+X-Mailer: Mailster 3.0 (6.2.0)
+X-Mailster: 5e22b0eaf28f70023c7c8fff2741df8a
+X-Mailster-Campaign: 8651027
+X-Mailster-ID: 10bbb7d11c27a627b629b10d936b87f4
+List-Unsubscribe: =?us-ascii?Q?<https://slidemodel.com/newsletter-signup/unsub?=
+ =?us-ascii?Q?scribe/5e22b0eaf28f70023c7c8fff2741df8a/8651027?=
+ =?us-ascii?Q?/>?=
+Precedence: bulk
+X-Message-ID: =?us-ascii?Q?<6231407dd40c2-5e22b0eaf28f70023c7c8fff2741df8a?=
+ =?us-ascii?Q?-8651027|0-10bbb7d11c27a627b629b10d936b87f4@sli?=
+ =?us-ascii?Q?demodel.com>?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_cfIZqToQ1n7BomMRywm9wyfk3I2JmgQkqj9ui3bbuU"
+Content-Transfer-Encoding: 8bit
+To: Chase Gibbons <cwgibb@aggiemail.usu.edu>
+Subject: Free Timeline Funnel PowerPoint Template
+Feedback-ID: 1.us-east-1.fZ1JH59EeVj9LZq1mjWJM+/FrbfYlpD0ONIrjA0/BW4=:AmazonSES
+X-SES-Outgoing: 2022.03.16-54.240.10.119
+
+This is a multi-part message in MIME format.
+
+--b1_cfIZqToQ1n7BomMRywm9wyfk3I2JmgQkqj9ui3bbuU
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+We've published a free template today: Free Timeline Funnel PowerPoint Template ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+We have published a new free template today. 
+(To ensure you won't miss any future emails from us, please add us to your address book or to your priority inbox).
+
+View & Download
+UPGRADE TO PREMIUM ACCESS
+With a premium subscription you can choose from over 30,000 editable PowerPoint templates and finish your presentations in less time. Click here to apply a special coupon code and become premium
+today.
+Upgrade Now
+REMEMBER YOUR LOGIN IS
+cwgibb@aggiemail.usu.edu
+DO YOU HAVE ANY QUESTIONS?
+Contact our 24/7 Support Center: support@slidemodel.com
+Feel free to email us at any time.
+Newsletter issue #. You have received this email because you have subscribed to SlideModel [https://slidemodel.com]. If you no longer wish to receive emails please unsubscribe [https://slidemodel.com/mailster/unsubscribe/5e22b0eaf28f70023c7c8fff2741df8a/8651027/] © 2022 SlideModel, All rights reserved
+
+--b1_cfIZqToQ1n7BomMRywm9wyfk3I2JmgQkqj9ui3bbuU
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang=3D"en" xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+<!--[if !mso]><!-- --><meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3D=
+edge">
+<!--<![endif]-->
+<title>Free Timeline Funnel PowerPoint Template</title>
+</head>
+<body style=3D"width:100%!important;-webkit-text-size-adjust:100%;-ms-text-=
+size-adjust:100%;margin:0!important;padding:0!important;background-color:#F=
+3F4F4">
+<style type=3D"text/css">
+
+=09#outlook a{padding:0;}
+=09body{width:100%!important;-webkit-text-size-adjust:100%;-ms-text-size-ad=
+just:100%;margin:0!important;padding:0!important;}
+=09.ExternalClass{width:100%;}
+=09.ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass font,=
+.ExternalClass td,.ExternalClass div{line-height:100%;}
+=09.bodytbl {margin:0;padding:0;width:100% !important;}
+
+=09.bodytbl p { font-size: 16px; }
+ =20
+=09.bodytbl a.button {
+=09=09background-color: #1c7cc0;
+=09=09display: inline-block;
+=09=09    border: 1px solid #1c7cc0;
+=09=09    font-family:  'Helvetica neue',Helvetica,Arial,Verdana,sans-serif=
+;
+=09=09    font-size: 16px;
+=09=09    color: #ffffff;
+=09=09    text-decoration: none;
+=09=09    border-radius: 3px;
+=09=09    padding: 15px 40px;
+=09}
+=09.bodytbl a.button.blue { background-color: #0052cc; border: 1px solid #0=
+052cc; }
+=09.bodytbl a.button.orange { background-color: #ff9000; border: 1px solid =
+#ff9000; }
+=09.bodytbl a.button.red { background-color: #ff9000; border: 1px solid #ff=
+9000; }
+=09.bodytbl a.button.green { background-color: #6cb700; border: 1px solid #=
+6cb700; }
+ =20
+  .bodytbl a.button-small
+  {
+    padding: 5px 20px;
+  }
+
+=09.email-header h1 { font-family: 'Avenir Next', 'Open Sans', 'Helvetica';=
+ text-transform: uppercase; }
+
+=09img{outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;dis=
+play:block;max-width:100%;height:auto;}
+=09a img{border:none;}
+=09p{margin:1em 0;}
+
+=09table{border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt=
+;}
+=09table td{border-collapse:collapse;}
+=09.o-fix table,.o-fix td{mso-table-lspace:0pt;mso-table-rspace:0pt;}
+
+=09body,.bodytbl{background-color:#F3F4F4/*Background Color*/;}
+
+
+=09table{font-family: Helvetica,Arial,sans-serif;font-size:13px;color:#5858=
+58;}
+
+=09td,p{line-height:24px;color: rgb(57, 61, 62);  /* #585858*/ /*Text*/ }
+=09td,tr{padding:0;}
+=09ul,ol{margin-top:24px;margin-bottom:24px;}
+=09li{line-height:24px;}
+
+=09a{color: #0052cc /* #0000EE */ /*Contrast*/;  padding:2px 0px;}
+=09a:link{color:#0000EE;}
+=09a:visited{color:#551A8B;}
+=09a:hover{color:#0052cc;}
+ =20
+  .canspam a {color: #444 !important;}
+
+=09.h1{font-family:  'Helvetica neue',Helvetica,Arial,sans-serif;font-size:=
+26px; margin-bottom:16px;margin-top:2px;line-height:30px;}
+=09.h2{font-family:  'Helvetica neue',Helvetica,Arial,sans-serif;font-size:=
+20px;letter-spacing:0;margin-top:2px;line-height:30px;}
+=09h1,h2,h3,h4,h5,h6{font-family:  'Helvetica neue',Helvetica,Arial,sans-se=
+rif;font-weight:normal;}
+=09h1{font-size:20px; margin-bottom:16px;margin-top:4px;line-height:24px;}
+=09h2{font-size:18px;margin-bottom:12px;margin-top:2px;line-height:24px;}
+=09h3{font-size:14px;margin-bottom:12px;margin-top:2px;line-height:24px;}
+=09h4{font-size:14px;font-weight:bold;}
+=09h5{font-size:13px;}
+=09h6{font-size:13px;font-weight:bold;}
+
+.h1, h1 {
+=09font-weight: bold;
+=09font-size: 20px;
+}
+
+
+
+=09h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{color:#5ca8cd;}
+=09h1 a:active,h2 a:active,h3 a:active,h4 a:active,h5 a:active,h6 a:active{=
+color:#5ca8cd !important;}
+=09h1 a:visited,h2 a:visited,h3 a:visited,h4 a:visited,h5 a:visited,h6 a:vi=
+sited{color:#5ca8cd !important;}
+
+=09.wrap.body,.wrap.header,.wrap.footer{background-color:#FFFFFF/*Body Back=
+ground*/;}
+=09.padd{width:24px;}
+
+=09.small{font-size:12px;line-height:16px;}
+  .bodytbl p.small { font-size: 12px; }
+  .bodytbl .small p { font-size: 12px !important; }
+ =20
+=09.separator{border-top:1px dotted #E1E1E1/*Separator Line*/;}
+=09.btn{margin-top:10px;display:block;}
+=09.btn img{display:inline;}
+=09.subline{line-height:18px;font-size:16px; }
+
+=09table.textbutton td{background:#efefef/*Text Button Background*/;padding=
+:3px 14px 3px 14px;color:#585858;display:block;height:24px;border:1px solid=
+ #FEFEFE/*Text Button Border*/;vertical-align:top;margin-bottom:3px;border:=
+1px solid #ccc;-webkit-border-radius:2px;border-radius:2px;margin-right:4px=
+;margin-bottom:4px;}
+=09table.textbutton a{color:#585858;font-size:14px;font-weight:normal;line-=
+height:14px;width:100%;display:inline-block;}
+
+=09table.textbutton a{color:#585858;font-size:14px;font-weight:normal;line-=
+height:14px;width:100%;display:inline-block;}
+
+=09div.preheader{line-height:0px;font-size:0px;height:0px;display:none !imp=
+ortant;display:none;visibility:hidden;}
+
+=09table.responsive
+=09{
+=09=09width: 600px;
+=09}
+
+
+=09@media only screen and (max-width: 599px) {
+=09=09body{-webkit-text-size-adjust:120% !important;-ms-text-size-adjust:12=
+0% !important;}
+=09=09table{font-size:15px;}
+=09=09.subline{float:left;}
+=09=09.padd{width:12px !important;}
+=09=09.wrap{width:96% !important;}
+=09=09.wrap table{width:100% !important;}
+=09=09.wrap img{max-width:100% !important;height:auto !important;}
+=09=09.wrap .s{width:100% !important;}
+=09=09.wrap .m-0{width:0;display:none;}
+=09=09.wrap .m-b{margin-bottom:24px !important;}
+=09=09.wrap .m-b,.m-b img{display:block;min-width:100% !important;width:100=
+% !important;}
+=09=09table.textbutton td{height:auto !important;padding:8px 14px 8px 14px =
+!important;}
+=09=09table.textbutton a{font-size:18px !important;line-height:26px !import=
+ant;}
+
+=09=09img.responsive=20
+=09=09{
+=09=09=09max-width: 100%;
+=09=09=09width: 100%;
+=09=09=09height: auto;
+=09=09}
+=09=09a.responsive
+=09=09{
+=09=09=09width: 100%;
+=09=09}
+=09=09table.responsive
+=09=09{
+=09=09=09width: 100%;
+=09=09}
+=09}
+=09@media only screen and (max-width: 479px) {
+=09}
+=09@media only screen and (max-width: 320px) {
+=09}
+=09@media only screen and (min-device-width: 375px) and (max-device-width: =
+667px) {
+=09=09body{-webkit-text-size-adjust:170% !important;-ms-text-size-adjust:17=
+0% !important;}
+=09}
+=09@media only screen and (min-device-width: 414px) and (max-device-width: =
+736px) {
+=09=09body{-webkit-text-size-adjust:170% !important;-ms-text-size-adjust:17=
+0% !important;}
+=09}
+
+</style>
+<table class=3D"bodytbl" width=3D"100%" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"font-family: Helvetica,Arial,sans-serif;font-size:13px;color:#585=
+858;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;marg=
+in:0;padding:0;width:100% !important;background-color:#F3F4F4"><tbody><tr s=
+tyle=3D"padding:0">
+<td background=3D"" align=3D"center" style=3D"line-height:24px;color: rgb(5=
+7, 61, 62);padding:0;border-collapse:collapse">
+
+=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"wrap" style=3D"fo=
+nt-family: Helvetica,Arial,sans-serif;font-size:13px;color:#585858;border-c=
+ollapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt"><tbody><tr styl=
+e=3D"padding:0">
+<td height=3D"24" align=3D"center" valign=3D"middle" style=3D"line-height:2=
+4px;color: rgb(57, 61, 62);padding:0;border-collapse:collapse">
+=09=09=09=09<div class=3D"preheader" style=3D"line-height:0px;font-size:0px=
+;height:0px;display:none;visibility:hidden">We've published a free template=
+ today: Free Timeline Funnel PowerPoint Template=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C</div>
+=09=09=09</td>
+=09=09</tr>
+</tbody></table>
+
+
+  <table cellpadding=3D"0" cellspacing=3D"0" class=3D"wrap body email-heade=
+r responsive" style=3D"font-family: Helvetica,Arial,sans-serif;font-size:13=
+px;color:#585858;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rs=
+pace:0pt;width: 600px;background-color:#FFFFFF">
+    <tbody>
+<tr style=3D"padding:0">
+<td valign=3D"top" align=3D"left" style=3D"line-height:24px;color: rgb(57, =
+61, 62);padding:0;border-collapse:collapse">
+=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"o-fix" styl=
+e=3D"width: 100%;font-family: Helvetica,Arial,sans-serif;font-size:13px;col=
+or:#585858;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0=
+pt">
+=09=09=09=09=09<tbody><tr style=3D"padding:0">
+<td valign=3D"top" align=3D"center" bgcolor=3D"1c7cc0" style=3D"min-height:=
+ 90px !important;border-radius: 5px 5px 0 0;line-height:24px;color: rgb(57,=
+ 61, 62);padding:0;border-collapse:collapse;mso-table-lspace:0pt;mso-table-=
+rspace:0pt">
+<div style=3D"max-width:200px">
+=09=09=09=09=09=09<a href=3D"https://slidemodel.com/mailster/8651027/5e22b0=
+eaf28f70023c7c8fff2741df8a/aHR0cHM6Ly9zbGlkZW1vZGVsLmNvbS8" style=3D"color:=
+#0000EE;padding:2px 0px"><img src=3D"https://slidemodel.com/wp-content/uplo=
+ads/mailster/templates/slidemodel-automation/img/logo.png" alt=3D"SlideMode=
+l" style=3D"width:200px;padding: 30px 0px;position: relative;outline:none;t=
+ext-decoration:none;-ms-interpolation-mode:bicubic;display:block;max-width:=
+100%;height:auto;border:none" width=3D"200" border=3D"0" editable=3D"" labe=
+l=3D"Logo" class=3D"" height=3D"40"></a>
+</div>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+</tbody>
+</table>
+</td>
+=09=09</tr>
+
+  </tbody>
+</table>
+
+<table cellpadding=3D"0" cellspacing=3D"0" class=3D"wrap body responsive" s=
+tyle=3D"font-family: Helvetica,Arial,sans-serif;font-size:13px;color:#58585=
+8;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;width:=
+ 600px;background-color:#FFFFFF">
+    <tbody>
+<tr style=3D"padding:0">
+      <td height=3D"12" colspan=3D"3" style=3D"line-height:24px;color: rgb(=
+57, 61, 62);padding:0;border-collapse:collapse"></td>
+    </tr>
+
+    <tr style=3D"padding:0">
+<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: rgb(57, 61=
+, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09=09<td width=3D"552" valign=3D"top" align=3D"center" style=3D"line-he=
+ight:24px;color: rgb(57, 61, 62);padding:0;border-collapse:collapse">
+
+=09=09=09=09
+=09=09=09=09
+=09=09=09=09
+=09=09=09=09<p style=3D"line-height:24px;color: rgb(57, 61, 62);margin:1em =
+0;font-size: 16px">We have published a new free template today. <br><small>=
+(To ensure you won't miss any future emails from us, please add us to your =
+address book or to your priority inbox).</small><br></p>
+=09=09=09=09
+             =20
+=09=09=09            =20
+             =20
+=09=09=09</td>
+=09=09=09<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: r=
+gb(57, 61, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09</tr>
+
+    <tr style=3D"padding:0">
+      <td height=3D"12" colspan=3D"3" style=3D"line-height:24px;color: rgb(=
+57, 61, 62);padding:0;border-collapse:collapse"></td>
+    </tr>
+
+  </tbody>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" class=3D"wrap body responsive" s=
+tyle=3D"font-family: Helvetica,Arial,sans-serif;font-size:13px;color:#58585=
+8;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;width:=
+ 600px;background-color:#FFFFFF">
+=09=09<tbody>
+<tr style=3D"padding:0"><td height=3D"12" style=3D"line-height:24px;color: =
+rgb(57, 61, 62);padding:0;border-collapse:collapse"></td></tr>
+
+=09=09<tr style=3D"padding:0">
+=09=09=09<td valign=3D"top" align=3D"center" style=3D"line-height:24px;colo=
+r: rgb(57, 61, 62);padding:0;border-collapse:collapse">
+=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" sty=
+le=3D"font-family: Helvetica,Arial,sans-serif;font-size:13px;color:#585858;=
+border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt">
+=09=09=09=09<tbody>
+<tr style=3D"padding:0">
+=09=09=09=09=09<td width=3D"24" class=3D"padd" style=3D"line-height:24px;co=
+lor: rgb(57, 61, 62);padding:0;border-collapse:collapse;width:24px">=C2=
+=A0</td>
+
+=09=09=09=09=09<td valign=3D"top" align=3D"center" style=3D"line-height:24p=
+x;color: rgb(57, 61, 62);padding:0;border-collapse:collapse">
+=09=09=09=09=09=09
+                      <h1 style=3D"font-family:  'Helvetica neue',Helvetica=
+,Arial,sans-serif;font-weight: bold;font-size: 20px;margin-bottom:16px;marg=
+in-top:4px;line-height:24px">Free Timeline Funnel PowerPoint Template</h1>
+=09=09=09=09=09=09<p style=3D"line-height:24px;color: rgb(57, 61, 62);margi=
+n:1em 0;font-size: 16px">
+                            <a href=3D"https://slidemodel.com/mailster/8651=
+027/5e22b0eaf28f70023c7c8fff2741df8a/aHR0cHM6Ly9zbGlkZW1vZGVsLmNvbS9mcmVlLX=
+Bvd2VycG9pbnQtdGVtcGxhdGVzL2ZyZWUtdGltZWxpbmUtZnVubmVsLXBvd2VycG9pbnQtdGVtc=
+GxhdGUvP3NtbWt0PVkzZG5hV0ppUUdGbloybGxiV0ZwYkM1MWMzVXVaV1IxZkRJd01qSXRNRE10=
+TXpBJTNE" style=3D"color:#0000EE;padding:2px 0px"><img class=3D"m-b respons=
+ive" src=3D"https://slidemodel.com/wp-content/uploads/FF0370-01-4-step-time=
+line-funnel-powerpoint-template-16x9-1.jpg" style=3D"width:552px;position: =
+relative;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;d=
+isplay:block;max-width:100%;height:auto;border:none" width=3D"552" alt=3D"P=
+lease Enable Images for this Email - Here we will show you a thumbnail imag=
+e for the free template" height=3D"340" border=3D"0" editable=3D"" label=3D=
+"Image max width 600 pixel"></a>
+                      </p>
+                     =20
+                     =20
+=09=09=09=09=09
+                      <table class=3D"" align=3D"center" style=3D"font-fami=
+ly: Helvetica,Arial,sans-serif;font-size:13px;color:#585858;border-collapse=
+:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt"><tbody><tr style=3D"pa=
+dding:0"><td align=3D"center" width=3D"auto" style=3D"line-height:24px;colo=
+r: rgb(57, 61, 62);padding:0;border-collapse:collapse"><a href=3D"https://s=
+lidemodel.com/mailster/8651027/5e22b0eaf28f70023c7c8fff2741df8a/aHR0cHM6Ly9=
+zbGlkZW1vZGVsLmNvbS9mcmVlLXBvd2VycG9pbnQtdGVtcGxhdGVzL2ZyZWUtdGltZWxpbmUtZn=
+VubmVsLXBvd2VycG9pbnQtdGVtcGxhdGUvP3NtbWt0PVkzZG5hV0ppUUdGbloybGxiV0ZwYkM1M=
+WMzVXVaV1IxZkRJd01qSXRNRE10TXpBJTNE/1" label=3D"Read More Button" class=3D"=
+button" style=3D"background-color: #0f73ee !important;border-color: #0f73ee=
+ !important;color: #ffffff;padding: 15px 40px;display: inline-block;border:=
+ 1px solid #1c7cc0;font-family:  'Helvetica neue',Helvetica,Arial,Verdana,s=
+ans-serif;font-size: 16px;text-decoration: none;border-radius: 3px" rel=3D"=
+noopener">View &amp; Download</a></td></tr>
+</tbody></table>
+                      <br>
+=09=09=09=09=09</td>
+
+=09=09=09=09=09<td width=3D"24" class=3D"padd" style=3D"line-height:24px;co=
+lor: rgb(57, 61, 62);padding:0;border-collapse:collapse;width:24px">=C2=
+=A0</td>
+=09=09=09=09</tr>
+
+                 =20
+                 =20
+                 =20
+=09=09=09=09</tbody>
+</table>
+=09=09=09</td>
+=09=09</tr>
+
+=09=09<tr style=3D"padding:0"><td height=3D"12" style=3D"line-height:24px;c=
+olor: rgb(57, 61, 62);padding:0;border-collapse:collapse"></td></tr>
+
+=09=09</tbody>
+</table>
+
+
+=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"wrap body respons=
+ive" style=3D"font-family: Helvetica,Arial,sans-serif;font-size:13px;color:=
+#585858;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;=
+width: 600px;background-color:#FFFFFF">
+=09=09=09<tbody>
+<tr style=3D"padding:0"><td height=3D"12" colspan=3D"3" style=3D"line-heigh=
+t:24px;color: rgb(57, 61, 62);padding:0;border-collapse:collapse"></td></tr=
+>
+
+=09=09=09<tr style=3D"padding:0">
+<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: rgb(57, 61=
+, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09=09<td width=3D"552" align=3D"center" style=3D"line-height:24px;color=
+: rgb(57, 61, 62);padding:0;border-collapse:collapse"><table cellpadding=3D=
+"0" cellspacing=3D"0" class=3D"separator" style=3D"font-family: Helvetica,A=
+rial,sans-serif;font-size:13px;color:#585858;border-collapse:collapse;mso-t=
+able-lspace:0pt;mso-table-rspace:0pt;border-top:1px dotted #E1E1E1"><tbody>=
+<tr style=3D"padding:0"><td width=3D"552" height=3D"23" style=3D"line-heigh=
+t:24px;color: rgb(57, 61, 62);padding:0;border-collapse:collapse">=C2=A0</t=
+d></tr>
+</tbody></table></td>
+=09=09=09<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: r=
+gb(57, 61, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09=09</tr>
+
+=09=09</tbody>
+</table>
+
+=09
+
+
+   =20
+   =20
+<table cellpadding=3D"0" cellspacing=3D"0" class=3D"wrap body responsive" s=
+tyle=3D"font-family: Helvetica,Arial,sans-serif;font-size:13px;color:#58585=
+8;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;width:=
+ 600px;background-color:#FFFFFF">
+    <tbody>
+<tr style=3D"padding:0">
+      <td height=3D"0" colspan=3D"3" style=3D"line-height:24px;color: rgb(5=
+7, 61, 62);padding:0;border-collapse:collapse"></td>
+    </tr>
+
+    <tr style=3D"padding:0">
+<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: rgb(57, 61=
+, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09=09<td width=3D"552" valign=3D"top" align=3D"center" style=3D"line-he=
+ight:24px;color: rgb(57, 61, 62);padding:0;border-collapse:collapse">
+=09=09
+             =20
+              <table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" s=
+tyle=3D"border: 2px solid #dadada !important;background-color: #fafafa!impo=
+rtant;font-family: Helvetica,Arial,sans-serif;font-size:13px;color:#585858;=
+border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt">
+=09=09=09=09<tbody>
+<tr style=3D"padding:0">
+=09=09=09=09=09<td width=3D"24" class=3D"padd" style=3D"line-height:24px;co=
+lor: rgb(57, 61, 62);padding:0;border-collapse:collapse;width:24px">=C2=
+=A0</td>
+
+=09=09=09=09=09<td valign=3D"top" align=3D"center" style=3D"line-height:24p=
+x;color: rgb(57, 61, 62);padding:0;border-collapse:collapse">
+=09=09=09=09=09=09
+                      <h1 style=3D"padding-top: 15px;font-family:  'Helveti=
+ca neue',Helvetica,Arial,sans-serif;font-weight: bold;font-size: 20px;margi=
+n-bottom:16px;margin-top:4px;line-height:24px">Upgrade to Premium Access</h=
+1>
+=09=09=09=09=09=09<p style=3D"line-height:24px;color: rgb(57, 61, 62);margi=
+n:1em 0;font-size: 16px"><a href=3D"https://slidemodel.com/mailster/8651027=
+/5e22b0eaf28f70023c7c8fff2741df8a/aHR0cHM6Ly9zbGlkZW1vZGVsLmNvbS90ZW1wbGF0Z=
+XMv" style=3D"color:#0000EE;padding:2px 0px"><img src=3D"https://cdn.slidem=
+odel.com/images/latest-templates.jpg" class=3D"m-b responsive" alt=3D"Lates=
+t PowerPoint templates" style=3D"width:552px;position: relative;outline:non=
+e;text-decoration:none;-ms-interpolation-mode:bicubic;display:block;max-wid=
+th:100%;height:auto;border:none" width=3D"552" border=3D"0" editable=3D"" l=
+abel=3D"Image max width 264 pixel"></a>
+                      </p>
+                      <p style=3D"line-height:24px;color: rgb(57, 61, 62);m=
+argin:1em 0;font-size: 16px">With a premium subscription you can choose fro=
+m over 30,000 editable PowerPoint templates and finish your presentations i=
+n less time. <a href=3D"https://slidemodel.com/mailster/8651027/5e22b0eaf28=
+f70023c7c8fff2741df8a/aHR0cHM6Ly9zbGlkZW1vZGVsLmNvbS9hY2NvdW50L3BsYW5zLXVwZ=
+3JhZGUvP2NvZGU9V0VMQ09NRSZhbXA7c21ta3Q9WTNkbmFXSmlRR0ZuWjJsbGJXRnBiQzUxYzNV=
+dVpXUjFmREl3TWpJdE1ETXRNekElM0Q" data-mce-href=3D"https://slidemodel.com/ac=
+count/plans-upgrade/?code=3DWELCOME&amp;smmkt=3DY3dnaWJiQGFnZ2llbWFpbC51c3U=
+uZWR1fDIwMjItMDMtMzA%3D" style=3D"color:#0000EE;padding:2px 0px">Click here=
+ to apply a special coupon</a> code and become premium today.</p>
+=09=09=09=09=09=09
+                      <table class=3D"" align=3D"center" style=3D"font-fami=
+ly: Helvetica,Arial,sans-serif;font-size:13px;color:#585858;border-collapse=
+:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt"><tbody><tr style=3D"pa=
+dding:0"><td align=3D"center" width=3D"auto" style=3D"line-height:24px;colo=
+r: rgb(57, 61, 62);padding:0;border-collapse:collapse"><a target=3D"_top" h=
+ref=3D"https://slidemodel.com/mailster/8651027/5e22b0eaf28f70023c7c8fff2741=
+df8a/aHR0cHM6Ly9zbGlkZW1vZGVsLmNvbS9hY2NvdW50L3BsYW5zLXVwZ3JhZGUvP2NvZGU9V0=
+VMQ09NRSZhbXA7c21ta3Q9WTNkbmFXSmlRR0ZuWjJsbGJXRnBiQzUxYzNVdVpXUjFmREl3TWpJd=
+E1ETXRNekElM0Q/1" editable=3D"" label=3D"Read More Button" class=3D"button =
+orange" rel=3D"noopener" style=3D"color: #ffffff;padding: 15px 40px;backgro=
+und-color: #ff9000;display: inline-block;border: 1px solid #ff9000;font-fam=
+ily:  'Helvetica neue',Helvetica,Arial,Verdana,sans-serif;font-size: 16px;t=
+ext-decoration: none;border-radius: 3px">Upgrade Now</a></td></tr>
+</tbody></table>
+                      <br>
+=09=09=09=09=09</td>
+
+=09=09=09=09=09<td width=3D"24" class=3D"padd" style=3D"line-height:24px;co=
+lor: rgb(57, 61, 62);padding:0;border-collapse:collapse;width:24px">=C2=
+=A0</td>
+=09=09=09=09</tr>
+
+                 =20
+                 =20
+=09=09=09=09</tbody>
+</table>
+             =20
+            =20
+             =20
+=09=09=09</td>
+=09=09=09<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: r=
+gb(57, 61, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09</tr>
+
+    <tr style=3D"padding:0">
+      <td height=3D"0" colspan=3D"3" style=3D"line-height:24px;color: rgb(5=
+7, 61, 62);padding:0;border-collapse:collapse"></td>
+    </tr>
+
+  </tbody>
+</table>
+
+
+
+
+=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"wrap body respons=
+ive" style=3D"font-family: Helvetica,Arial,sans-serif;font-size:13px;color:=
+#585858;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;=
+width: 600px;background-color:#FFFFFF">
+=09=09=09<tbody>
+<tr style=3D"padding:0"><td height=3D"12" colspan=3D"3" style=3D"line-heigh=
+t:24px;color: rgb(57, 61, 62);padding:0;border-collapse:collapse"></td></tr=
+>
+
+=09=09=09<tr style=3D"padding:0">
+<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: rgb(57, 61=
+, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09=09<td width=3D"552" align=3D"center" style=3D"line-height:24px;color=
+: rgb(57, 61, 62);padding:0;border-collapse:collapse"><table cellpadding=3D=
+"0" cellspacing=3D"0" class=3D"separator" style=3D"font-family: Helvetica,A=
+rial,sans-serif;font-size:13px;color:#585858;border-collapse:collapse;mso-t=
+able-lspace:0pt;mso-table-rspace:0pt;border-top:1px dotted #E1E1E1"><tbody>=
+<tr style=3D"padding:0"><td width=3D"552" height=3D"23" style=3D"line-heigh=
+t:24px;color: rgb(57, 61, 62);padding:0;border-collapse:collapse">=C2=A0</t=
+d></tr>
+</tbody></table></td>
+=09=09=09<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: r=
+gb(57, 61, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09=09</tr>
+
+=09=09</tbody>
+</table>
+
+=09
+<table cellpadding=3D"0" cellspacing=3D"0" class=3D"wrap body responsive" s=
+tyle=3D"font-family: Helvetica,Arial,sans-serif;font-size:13px;color:#58585=
+8;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;width:=
+ 600px;background-color:#FFFFFF">
+    <tbody>
+<tr style=3D"padding:0">
+      <td height=3D"0" colspan=3D"3" style=3D"line-height:24px;color: rgb(5=
+7, 61, 62);padding:0;border-collapse:collapse"></td>
+    </tr>
+
+    <tr style=3D"padding:0">
+<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: rgb(57, 61=
+, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09=09<td width=3D"552" valign=3D"top" align=3D"center" style=3D"line-he=
+ight:24px;color: rgb(57, 61, 62);padding:0;border-collapse:collapse">
+=09=09
+=09=09=09  <p style=3D"line-height:24px;color: rgb(57, 61, 62);margin:1em 0=
+;font-size: 16px">
+               =20
+                <strong>Remember your login is</strong><br>
+                cwgibb@aggiemail.usu.edu
+
+              </p>
+
+            =20
+             =20
+=09=09=09</td>
+=09=09=09<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: r=
+gb(57, 61, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09</tr>
+
+    <tr style=3D"padding:0">
+      <td height=3D"0" colspan=3D"3" style=3D"line-height:24px;color: rgb(5=
+7, 61, 62);padding:0;border-collapse:collapse"></td>
+    </tr>
+
+  </tbody>
+</table>
+
+
+=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"wrap body respons=
+ive" style=3D"font-family: Helvetica,Arial,sans-serif;font-size:13px;color:=
+#585858;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;=
+width: 600px;background-color:#FFFFFF">
+=09=09=09<tbody>
+<tr style=3D"padding:0"><td height=3D"12" colspan=3D"3" style=3D"line-heigh=
+t:24px;color: rgb(57, 61, 62);padding:0;border-collapse:collapse"></td></tr=
+>
+
+=09=09=09<tr style=3D"padding:0">
+<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: rgb(57, 61=
+, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09=09<td width=3D"552" align=3D"center" style=3D"line-height:24px;color=
+: rgb(57, 61, 62);padding:0;border-collapse:collapse"><table cellpadding=3D=
+"0" cellspacing=3D"0" class=3D"separator" style=3D"font-family: Helvetica,A=
+rial,sans-serif;font-size:13px;color:#585858;border-collapse:collapse;mso-t=
+able-lspace:0pt;mso-table-rspace:0pt;border-top:1px dotted #E1E1E1"><tbody>=
+<tr style=3D"padding:0"><td width=3D"552" height=3D"23" style=3D"line-heigh=
+t:24px;color: rgb(57, 61, 62);padding:0;border-collapse:collapse">=C2=A0</t=
+d></tr>
+</tbody></table></td>
+=09=09=09<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: r=
+gb(57, 61, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09=09</tr>
+
+=09=09</tbody>
+</table>
+
+=09
+<table cellpadding=3D"0" cellspacing=3D"0" class=3D"wrap body responsive" s=
+tyle=3D"font-family: Helvetica,Arial,sans-serif;font-size:13px;color:#58585=
+8;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;width:=
+ 600px;background-color:#FFFFFF">
+    <tbody>
+<tr style=3D"padding:0">
+      <td height=3D"0" colspan=3D"3" style=3D"line-height:24px;color: rgb(5=
+7, 61, 62);padding:0;border-collapse:collapse"></td>
+    </tr>
+
+    <tr style=3D"padding:0">
+<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: rgb(57, 61=
+, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09=09<td width=3D"552" valign=3D"top" align=3D"center" style=3D"line-he=
+ight:24px;color: rgb(57, 61, 62);padding:0;border-collapse:collapse">
+=09=09
+=09=09=09  <p style=3D"line-height:24px;color: rgb(57, 61, 62);margin:1em 0=
+;font-size: 16px">
+               =20
+                <strong>Do you have any questions?</strong><br>Contact our =
+24/7 Support Center: <a href=3D"mailto:support@slidemodel.com?subject=3DQue=
+stion" style=3D"color:#0000EE;padding:2px 0px">support@slidemodel.com</a><b=
+r>Feel free to email us at any time.=20
+
+              </p>
+
+            =20
+             =20
+=09=09=09</td>
+=09=09=09<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: r=
+gb(57, 61, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09</tr>
+
+    <tr style=3D"padding:0">
+      <td height=3D"0" colspan=3D"3" style=3D"line-height:24px;color: rgb(5=
+7, 61, 62);padding:0;border-collapse:collapse"></td>
+    </tr>
+
+  </tbody>
+</table>
+
+
+
+
+=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"wrap body respons=
+ive" style=3D"font-family: Helvetica,Arial,sans-serif;font-size:13px;color:=
+#585858;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;=
+width: 600px;background-color:#FFFFFF">
+=09=09=09<tbody>
+<tr style=3D"padding:0"><td height=3D"12" colspan=3D"3" style=3D"line-heigh=
+t:24px;color: rgb(57, 61, 62);padding:0;border-collapse:collapse"></td></tr=
+>
+
+=09=09=09<tr style=3D"padding:0">
+<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: rgb(57, 61=
+, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09=09<td width=3D"552" align=3D"center" style=3D"line-height:24px;color=
+: rgb(57, 61, 62);padding:0;border-collapse:collapse"><table cellpadding=3D=
+"0" cellspacing=3D"0" class=3D"separator" style=3D"font-family: Helvetica,A=
+rial,sans-serif;font-size:13px;color:#585858;border-collapse:collapse;mso-t=
+able-lspace:0pt;mso-table-rspace:0pt;border-top:1px dotted #E1E1E1"><tbody>=
+<tr style=3D"padding:0"><td width=3D"552" height=3D"23" style=3D"line-heigh=
+t:24px;color: rgb(57, 61, 62);padding:0;border-collapse:collapse">=C2=A0</t=
+d></tr>
+</tbody></table></td>
+=09=09=09<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: r=
+gb(57, 61, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09=09</tr>
+
+=09=09</tbody>
+</table>
+
+=09
+<table cellpadding=3D"0" cellspacing=3D"0" class=3D"wrap footer" style=3D"f=
+ont-family: Helvetica,Arial,sans-serif;font-size:13px;color:#585858;border-=
+collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;background-colo=
+r:#FFFFFF">
+<tbody>
+<tr style=3D"padding:0"><td height=3D"12" colspan=3D"3" style=3D"line-heigh=
+t:24px;color: rgb(57, 61, 62);padding:0;border-collapse:collapse"></td></tr=
+>
+
+<tr style=3D"padding:0">
+<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: rgb(57, 61=
+, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09=09<td valign=3D"top" align=3D"center" style=3D"line-height:24px;colo=
+r: rgb(57, 61, 62);padding:0;border-collapse:collapse">
+=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"o-fix" styl=
+e=3D"font-family: Helvetica,Arial,sans-serif;font-size:13px;color:#585858;b=
+order-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt"><tbody><=
+tr style=3D"padding:0">
+<td width=3D"552" valign=3D"top" align=3D"left" style=3D"line-height:24px;c=
+olor: rgb(57, 61, 62);padding:0;border-collapse:collapse;mso-table-lspace:0=
+pt;mso-table-rspace:0pt">
+=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" align=3D"left"=
+ style=3D"font-family: Helvetica,Arial,sans-serif;font-size:13px;color:#585=
+858;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt">
+=09=09=09=09=09=09=09<tbody><tr style=3D"padding:0">
+<td width=3D"552" valign=3D"top" align=3D"center" class=3D"small m-b" style=
+=3D"line-height:16px;color: rgb(57, 61, 62);padding:0;border-collapse:colla=
+pse;font-size:12px;mso-table-lspace:0pt;mso-table-rspace:0pt">
+=09=09=09=09=09=09=09<div class=3D"btn" style=3D"margin-top:10px;display:bl=
+ock">
+<a editable=3D"" label=3D"Social Media Button" href=3D"https://slidemodel.c=
+om/mailster/8651027/5e22b0eaf28f70023c7c8fff2741df8a/aHR0cHM6Ly90d2l0dGVyLm=
+NvbS9zbGlkZW1vZGVs" class=3D"ui-sortable-handle" style=3D"color:#0000EE;pad=
+ding:2px 0px"><img src=3D"https://slidemodel.com/wp-content/uploads/mailste=
+r/templates/slidemodel-automation/img/social/dark/twitter.png" alt=3D"Twitt=
+er" style=3D"width:32px;outline:none;text-decoration:none;-ms-interpolation=
+-mode:bicubic;display:inline;max-width:100%;height:auto;border:none" width=
+=3D"32" height=3D"32" border=3D"0"></a>
+=09=09=09=09=09=09=09=09<a editable=3D"" label=3D"Social Media Button" href=
+=3D"https://slidemodel.com/mailster/8651027/5e22b0eaf28f70023c7c8fff2741df8=
+a/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1NsaWRlTW9kZWwv" class=3D"ui-sortable-ha=
+ndle" style=3D"color:#0000EE;padding:2px 0px"><img src=3D"https://slidemode=
+l.com/wp-content/uploads/mailster/templates/slidemodel-automation/img/socia=
+l/dark/facebook.png" alt=3D"facebook" style=3D"width:32px;outline:none;text=
+-decoration:none;-ms-interpolation-mode:bicubic;display:inline;max-width:10=
+0%;height:auto;border:none" width=3D"32" height=3D"32" border=3D"0"></a>
+=09=09=09=09=09=09=09<a href=3D"https://slidemodel.com/mailster/8651027/5e2=
+2b0eaf28f70023c7c8fff2741df8a/aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvc=
+2xpZGVtb2RlbC8" editable=3D"" label=3D"Button" style=3D"color:#0000EE;paddi=
+ng:2px 0px"><img alt=3D"linkedin" src=3D"https://slidemodel.com/wp-content/=
+uploads/mailster/templates/slidemodel-automation/img/social/dark/linkedin.p=
+ng" style=3D"width:26px;outline:none;text-decoration:none;-ms-interpolation=
+-mode:bicubic;display:inline;max-width:100%;height:auto;border:none" width=
+=3D"26" height=3D"26"></a><a editable=3D"" label=3D"Social Media Button" hr=
+ef=3D"https://slidemodel.com/mailster/8651027/5e22b0eaf28f70023c7c8fff2741d=
+f8a/aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ0NmM2Q4RnZFZTJ1ZUtyaU9XOFN=
+3d0E" class=3D"ui-sortable-handle" style=3D"color:#0000EE;padding:2px 0px">=
+<img src=3D"https://slidemodel.com/wp-content/uploads/mailster/templates/my=
+mail2-slidemodel/img/social/dark/youtube.png" alt=3D"youtube" style=3D"widt=
+h:32px;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;dis=
+play:inline;max-width:100%;height:auto;border:none" width=3D"32" height=3D"=
+32" border=3D"0"></a>
+</div>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+</tbody>
+</table>
+</td>
+
+=09=09=09=09</tr>
+</tbody></table>
+</td>
+=09=09=09<td width=3D"24" class=3D"padd" style=3D"line-height:24px;color: r=
+gb(57, 61, 62);padding:0;border-collapse:collapse;width:24px">=C2=A0</td>
+=09=09</tr>
+
+<tr style=3D"padding:0"><td height=3D"24" colspan=3D"3" style=3D"line-heigh=
+t:24px;color: rgb(57, 61, 62);padding:0;border-collapse:collapse"></td></tr=
+>
+
+</tbody>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" class=3D"wrap" style=3D"font-fam=
+ily: Helvetica,Arial,sans-serif;font-size:13px;color:#585858;border-collaps=
+e:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt">
+<tbody>
+<tr style=3D"padding:0">
+<td valign=3D"top" align=3D"center" class=3D"m-b" style=3D"line-height:24px=
+;color: rgb(57, 61, 62);padding:0;border-collapse:collapse">
+=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"o-fix" styl=
+e=3D"font-family: Helvetica,Arial,sans-serif;font-size:13px;color:#585858;b=
+order-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt"><tbody><=
+tr style=3D"padding:0">
+<td valign=3D"top" class=3D"m-b" align=3D"center" style=3D"line-height:24px=
+;color: rgb(57, 61, 62);padding:0;border-collapse:collapse;mso-table-lspace=
+:0pt;mso-table-rspace:0pt">
+=09=09=09=09=09=09<img src=3D"https://slidemodel.com/wp-content/uploads/mai=
+lster/templates/slidemodel-automation/img/shadow.png" alt=3D"" height=3D"34=
+0" border=3D"0" style=3D"max-width:600px;max-height:25px;outline:none;text-=
+decoration:none;-ms-interpolation-mode:bicubic;display:block;height:auto">
+</td>
+=09=09=09=09</tr>
+</tbody></table>
+</td>
+=09=09</tr>
+
+<tr style=3D"padding:0">
+<td valign=3D"top" align=3D"left" class=3D"m-b" style=3D"line-height:24px;c=
+olor: rgb(57, 61, 62);padding:0;border-collapse:collapse">
+=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"o-fix" styl=
+e=3D"font-family: Helvetica,Arial,sans-serif;font-size:13px;color:#585858;b=
+order-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt"><tbody><=
+tr style=3D"padding:0">
+<td valign=3D"top" class=3D"m-b" align=3D"center" style=3D"line-height:24px=
+;color: rgb(57, 61, 62);padding:0;border-collapse:collapse;mso-table-lspace=
+:0pt;mso-table-rspace:0pt">
+=09=09=09=09=09=09
+  <div style=3D"color: #666;font-size: 12px">Newsletter issue #42. You have=
+ received this email because you have subscribed to <a href=3D"https://slid=
+emodel.com/mailster/8651027/5e22b0eaf28f70023c7c8fff2741df8a/aHR0cHM6Ly9zbG=
+lkZW1vZGVsLmNvbQ" style=3D"color:#0000EE;padding:2px 0px">SlideModel</a>. I=
+f you no longer wish to receive emails please <a href=3D"https://slidemodel=
+.com/mailster/8651027/5e22b0eaf28f70023c7c8fff2741df8a/aHR0cHM6Ly9zbGlkZW1v=
+ZGVsLmNvbS9tYWlsc3Rlci91bnN1YnNjcmliZS81ZTIyYjBlYWYyOGY3MDAyM2M3YzhmZmYyNzQ=
+xZGY4YS84NjUxMDI3Lw" style=3D"color:#0000EE;padding:2px 0px">unsubscribe</a=
+> =C2=A9 2022 SlideModel, All rights reserved </div>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+</tbody></table>
+</td>
+=09=09</tr>
+
+</tbody>
+</table>
+</td>
+</tr>
+</tbody></table>
+
+<img src=3D"https://www.google-analytics.com/collect?v=3D1&amp;tid=3DUA-440=
+50325-1&amp;uid=3D2441369&amp;cid=3D2441369&amp;t=3Devent&amp;ec=3Demail&am=
+p;ea=3Dopen&amp;el=3D2441369&amp;cs=3Dmymail&amp;cm=3Demail&amp;cn=3Dauto-f=
+reetemplate-freeuser&amp;ni=3D1" style=3D"outline:none;text-decoration:none=
+;-ms-interpolation-mode:bicubic;display:block;max-width:100%;height:auto">
+
+<img src=3D"https://slidemodel.com/mailster/8651027/5e22b0eaf28f70023c7c8ff=
+f2741df8a/?t=3D1647394941" alt=3D"" width=3D"1" height=3D"1"></body>
+</html>
+
+
+--b1_cfIZqToQ1n7BomMRywm9wyfk3I2JmgQkqj9ui3bbuU--

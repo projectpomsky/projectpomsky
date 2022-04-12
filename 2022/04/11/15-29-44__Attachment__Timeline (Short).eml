@@ -1,0 +1,2654 @@
+Delivered-To: cwgibb@aggiemail.usu.edu
+Received: by 2002:a59:1b42:0:b0:29d:a803:69a9 with SMTP id u2csp1330583vqd;
+        Mon, 14 Mar 2022 19:40:25 -0700 (PDT)
+X-Received: by 2002:a17:907:6d0e:b0:6d7:c85:5bf5 with SMTP id sa14-20020a1709076d0e00b006d70c855bf5mr20847677ejc.31.1647312025214;
+        Mon, 14 Mar 2022 19:40:25 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1647312025; cv=none;
+        d=google.com; s=arc-20160816;
+        b=FZBRHvqCVALbEi3qMQLLkLrvorfrWfYuoNc5yyLy2gDJ2SzZ5a0a5jEALdpYVXSvnc
+         IJkMHbdLHh3ejSy/z4BmYrx93XBkdpJInMmWuP1HUSp5cyo3mdUp1OTEwuxT6dKIzWjc
+         ON7kBF+uKPiKoE2jfSOWli6Ste38Ya38sz6r9N3ETu+vkze6cKRD6A1EW5nGl9ZOT7+g
+         KwF/dtgSkvozSEii8s6X/gQGaJ/RzZiC4TPNHt6XvdJZhre/gn/RcD3iBqE7ViaTMavr
+         yhYiunQj4pg4zr1pCRfuCb25JmGhzhIlGoBEELjdqZnO7fFFdYdeERUlh02GVw83wr64
+         JsoA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=zJFnMjQevUAruMj2+RKZtYqzZDMqD39XlIsQQO/RgAM=;
+        b=aE5Vgs5v+LD1mjJHViHD5Xdi5vBO1O3YpqPiYakONWaO3AvozBDpj0EWzCWkKdUKxk
+         6GOgKWZmha6rxUvKYDczgp8WlS+N7pPpATZhGFP2tL/kYYnYQ/JAVO2bxYl/gDKzVgLK
+         csHTInDcFzVDO6ldLMNKj7brBjfpD7K4y6ROp/opDlZkoeMs2VAt26Hv1egufaq1dPbF
+         MDuq/F1/XUD0J0uJtrbIiyash9mcZzQJH+T9HWl6PhC74yhrNxfM0TyLw0bFRggwOCbu
+         wxEEyH0ALXixUb+kcGiqV2TZytDe7VOUSt89kH5g8754Ki7PsrEecmd8XfQnKyL3uCKo
+         HkXQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gfic.io header.s=google header.b=PJsiTe+D;
+       spf=pass (google.com: domain of chase@gfic.io designates 209.85.220.65 as permitted sender) smtp.mailfrom=chase@gfic.io;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=gfic.io
+Return-Path: <chase@gfic.io>
+Received: from mail-sor-f65.google.com (mail-sor-f65.google.com. [209.85.220.65])
+        by mx.google.com with SMTPS id m7-20020a50e1c7000000b00415942aff85sor9312386edl.35.2022.03.14.19.40.25
+        for <cwgibb@aggiemail.usu.edu>
+        (Google Transport Security);
+        Mon, 14 Mar 2022 19:40:25 -0700 (PDT)
+Received-SPF: pass (google.com: domain of chase@gfic.io designates 209.85.220.65 as permitted sender) client-ip=209.85.220.65;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gfic.io header.s=google header.b=PJsiTe+D;
+       spf=pass (google.com: domain of chase@gfic.io designates 209.85.220.65 as permitted sender) smtp.mailfrom=chase@gfic.io;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=gfic.io
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gfic.io; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=zJFnMjQevUAruMj2+RKZtYqzZDMqD39XlIsQQO/RgAM=;
+        b=PJsiTe+DJaKBO1O0GCa8C3y4YwXjDBEPxDFC7bG8E0wnTfd4oxVvc0ydjaMG97GKl7
+         y+8QW9UfyLjefXnXGcFwM32LI6Z3Kw/5pqH8clzp1PNFbdzgJspfUcr0Eld4mMrYyeL5
+         Z4ru3OyrDcjYNghrcvMxhDcDAfNuAHE+5y8wjNKTZSNZnJEEXjCnvcFIqsgUiQ+4x43m
+         rny5aq39F0mMNlwwWF869/cFwdf2oS2S7ifh7rMUN2TP0EO85JYCDawEjNqQJlJiA1EJ
+         YNuDhTX3iuXvCf04BEbsr4mDuK+MrYGhxdcpwE3W2u4Tfpp/AYysHDVl+Ed6Am+uSSnr
+         Ir6Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=zJFnMjQevUAruMj2+RKZtYqzZDMqD39XlIsQQO/RgAM=;
+        b=Yuw3Wy7bzUrVM12mbFy84aAXvTtLAGYPz1Qy7SOKweTf9Kt9M0HQsOFfLFofXPI5xR
+         NLqlkE6W9tlS3M4bihExr47RGlvIhqbadJlXTw7OZ8w/SZlIatkV/KFVu2gnu2oYKER7
+         J4gjHrOY7hicfkcDSM4z/ve4oOrL6sI+EuU45XPBz3XTxozI4YrzwFwY5atDS7/8IxHG
+         3vsuLSR5BdFmihf1jHLvADNHXWSJyPZY3S9tidVVJTYsbbGWeNOUVqdY1pI7/jJg0Oeu
+         jZgGmrzw6kJ7U2yUcuDQH+9nZga10hyX0AsmtFyKmLk/k6T5kUWV1pKzworvT8iyZpyS
+         qlNg==
+X-Gm-Message-State: AOAM532T1klXONKlBR36jqFLGU8TcZKxYfXSoXiqD9IxqNJN3xbPt5Mx
+	5rDe9dz0ynF34sH3SLlWWqNhW2BUx1ovYgGrHBfyu6DA6/Qf1J5daG0=
+X-Google-Smtp-Source: ABdhPJzkmhJ0erliYnQ1xBiQdtt0ztlBQLUziwKJ2eIirrXkL/+jg4XJyBHRJwtSvRoMmTDZio+iGckTxwPk58oMWK8=
+X-Received: by 2002:a05:6402:2066:b0:416:158e:39a7 with SMTP id
+ bd6-20020a056402206600b00416158e39a7mr23309425edb.104.1647312022434; Mon, 14
+ Mar 2022 19:40:22 -0700 (PDT)
+MIME-Version: 1.0
+From: Chase Gibbons <chase@gfic.io>
+Date: Mon, 14 Mar 2022 20:40:10 -0600
+Message-ID: <CAABgT3a6hCFTetz6HiAFUU-59tWx+PzypBN5u+zqmE3eXNM=Mg@mail.gmail.com>
+Subject: Timeline (Short)
+To: Chase Gibbons <cwgibb@aggiemail.usu.edu>
+Content-Type: multipart/alternative; boundary="000000000000ee8ef405da38b796"
+
+--000000000000ee8ef405da38b796
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Notice
+<https://docs.google.com/document/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAz=
+WHylE/edit#heading=3Dh.85w83dva92mg>
+
+As of March 10, 2022
+<https://docs.google.com/document/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAz=
+WHylE/edit#heading=3Dh.c8y9xlj6biu6>
+
+What Putin is Doing
+<https://docs.google.com/document/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAz=
+WHylE/edit#heading=3Dh.63g09yc00o8b>
+
+Final Answer
+<https://docs.google.com/document/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAz=
+WHylE/edit#heading=3Dh.dzsml3v52u64>
+
+References
+<https://docs.google.com/document/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAz=
+WHylE/edit#heading=3Dh.7fo9ai5un3el>
+
+As of March 12, 2022
+<https://docs.google.com/document/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAz=
+WHylE/edit#heading=3Dh.szw89m8y46gp>
+
+As of March 14, 2022
+<https://docs.google.com/document/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAz=
+WHylE/edit#heading=3Dh.99e61kh9nt2b>
+
+Notice
+
+To whom it may concern,
+
+I temporarily pulled the previous content located in this folder out of
+fear this information might have gotten into the wrong hands. More
+directly, I pulled it out of fear that a certain someone might be trying to
+use my own words to try and divide the US and it=E2=80=99s strategic allian=
+ces
+rather than to try and bring us together.
+
+If this ever goes to court then it=E2=80=99s best if not everyone sees it
+beforehand.
+
+And to be clear, the opinions laid out are/were all my own. The facts laid
+out are/were all personal testimony as to what happened either directly to
+me or directly in front of me.
+
+I do not give anybody consent to reference any of my content contained
+herein or previously contained herein in any public media articles or
+public appearances or otherwise, at this time, unless otherwise agreed to.
+
+Just know that at the end of the day it=E2=80=99s my information that I wor=
+ked
+extremely hard on, a lot of which is pretty freaking personal and has
+pretty freaking huge consequences for at least myself, my family, and my
+hometown of Logan; and therefore I can do what I want with my own
+information but I=E2=80=99d appreciate you not actively trying to jeopardiz=
+e our
+safety.
+
+I=E2=80=99ll be re-sharing the previous content to those whom I trust again
+shortly. Everyone else I shared it with previously has been perfectly
+honorable btw..
+
+If you want to request access to the previous information in this folder,
+request access at the following link=E2=80=93just do not use it to divide o=
+ur
+country or alliances in any way. Also i=E2=80=99m hacked so the attackers c=
+ould
+very well delete the email before I ever see it, so if you don=E2=80=99t he=
+ar back
+from me then try again. I just ask you use it for good, use it to bring
+down the kremlin. (I=E2=80=99m still thinking about exposing it publicly ag=
+ain tbh,
+for now you still have got to request access=E2=80=93I=E2=80=99ve got to de=
+termine how the
+info may be used both for good and for evil to decide whether or not to
+share it publicly again)
+
+https://docs.google.com/document/d/1KtnfL3WqWM2PGLCSWt1m4RCGprRhlCzhZkuw0ps=
+A3-4/edit#heading=3Dh.6lpjf7x8jzj
+
+
+My apologies for any inconvenience, I appreciate your understanding.
+
+#UnitedWeStand #DividedWeFall #IStandWithUkraine #NobodyIsPerfect
+#PutinIsEvilAsHell #BewareOfPsychologicalManipulation
+#PsychologyIsAPowerfulTool #NeverGiveUp #WeAreAllInThisTogether #Allies
+#WeGotThis #ActWeakWhenYouAreStrong #ActStrongWhenYouAreWeak
+
+Thank you,
+
+Chase Gibbons
+As of March 10, 2022
+
+[Opinion]
+
+I pulled all the content from this original google drive folder which was
+open to public viewing yesterday. I don=E2=80=99t know if it was the right =
+move,
+but my gut told me it was the right move at the time. I started getting a
+sense that someone had leaked this info either to try and cause a lack of
+confidence in us/cause divisions amongst our allies or else to make it seem
+as though the United States was attacking its own citizens. (Which goes
+with Russia=E2=80=99s recent narrative from that NRA chick that she couldn=
+=E2=80=99t
+believe that anyone would bomb their own people, while insinuating that
+Ukraine was bombing it=E2=80=99s own citizens=E2=80=93it=E2=80=99s all extr=
+emely coordinated
+information desemination and whatnot on Russia=E2=80=99s part, it=E2=80=99s=
+ all part of
+their sick and twisted =E2=80=9Cshow=E2=80=9D they are putting on) I even s=
+tarted having a
+surge of people looking into my linkedin profile yesterday out of nowhere
+too, which I also temporarily deactivated, as if the =E2=80=9CJet Airplane =
+Assault=E2=80=9D
+incident from the other night was on the verge of becoming published as
+news or something. I don=E2=80=99t know if pulling everything down was the =
+right
+move, because again maybe if all this got out then these people would
+actually fucking stop harrassing me and my brother might actually face
+accountability for once because everyone would know the truth; and maybe
+all this would have been further looked into and further legitimized by the
+American public.
+
+So I=E2=80=99m torn on the subject but the last thing I want is to be used =
+by these
+guys to further their information warfare campaign against us and to cause
+strategic divisions amongst our allies at such a critical time. These guys
+do that to literally everyone=E2=80=93they try and manipulate everyone into=
+ doing
+what=E2=80=99s in their own personal best interest rather than what=E2=80=
+=99s in the best
+interest of the group. My fear on the other hand of never letting this
+information truly get out however is that people will never know what I
+view to be important information, and the attackers will continue on all
+but forgotten, encircled in a shroud of mystery to everyone but to those in
+the highest levels of our government=E2=80=93which could also prove to be
+undesirable in my view. So it=E2=80=99s a tough one tbh. I don=E2=80=99t wa=
+nt to undermine
+our country but I want people to know the truth.
+
+What Putin is Doing
+
+[Opinion]
+
+Do you want to know what Putin is really doing? People talk about well
+Putin didn=E2=80=99t plan for occupying Ukraine long term, he=E2=80=99s cle=
+arly going to
+have a hostile people to deal with for years to come in Ukraine, etc, etc.
+But do you want to know Putin=E2=80=99s way out of that? His way out of tha=
+t is to
+essentially convince Zelensky to join Putin rather than to join the
+European Union and the West. And how he=E2=80=99s going to do that is by le=
+veraging
+his previous exploitations of the West to make us look weak by doing shit
+like what they did to me the other night which might make our government
+fear that we might not have full control of our military, (if I even was
+right about that incident) and that we have our own Russian Sympathizers,
+etc. and Putin=E2=80=99s hoping that will be interpreted by Zelensky that D=
+emocracy
+can be exploited and that he can=E2=80=99t fully rely on us as friends. (In=
+ reality
+however, every type of government can be exploited just as much but in
+their own unique ways=E2=80=93for every strength there is a weakness=E2=80=
+=93you just have
+to get into that frame of mind and be willing to do exactly that and
+actually exploit them in every way possible just like they do to us=E2=80=
+=93believe
+me=E2=80=93I guarantee you these attackers could think of numerous ways to
+completely exploit Putin=E2=80=99s government just as effectively as our de=
+mocracy
+because they can exploit literally anything and everything=E2=80=93we can
+too=E2=80=93that=E2=80=99s the thing. And I assure you we are doing everyth=
+ing in our power
+to help Ukraine as much as we possibly can. it=E2=80=99s actually been real=
+ly cool
+to see all the different ways everyone has jumped in to try and help=E2=80=
+=93me
+personally I=E2=80=99ve been helping anonymous where I can, etc)
+
+But yea, you=E2=80=99ve got to understand gangstalking to understand how th=
+is all
+is ultimately planned to play out.
+
+Essentially in gangstalking the attackers ultimately end up rigging it to
+where it literally feels like everyone is against you, just due to the
+nature of how extraordinary what they are doing to you is, and due to the
+fact that they are actively manipulating everyone else in subtle ways too.
+(Whether everyone else realizes it or not) By creating/exploiting conflicts
+of interest primarily. It makes it so a lot of people either don=E2=80=99t =
+fully
+understand what=E2=80=99s happening, they don=E2=80=99t believe you, they p=
+retend like they
+don=E2=80=99t believe you, they are scared, or else they seem to only care =
+about
+themselves and not care about you from the victim=E2=80=99s point of view. =
+Everyone
+you thought you knew and everyone you thought you could rely on seem to not
+care anymore almost. And so after a while the smartest people in the room
+seem to be the attackers over everyone else=E2=80=93they are the only ones =
+who seem
+to truly get it. Like the attackers at least get what you are going through
+and believe you in regards to all the manipulation going on when nobody
+else really will=E2=80=93do to the attackers making it in everyone else=E2=
+=80=99s best
+interest not to help you. But even beyond that, the attackers begin to show
+they can at least make it better or make it stop (temporarily) for you=E2=
+=80=93when
+nobody else can make it stop=E2=80=93even though the attackers are the ones
+freaking doing all this fucked up shit to you. (But in reality it=E2=80=99s=
+ a trap,
+what they are really doing is just manipulating you to do what they want
+you to do in that very moment they need something from you and the next
+time they want something from you or even just they next time they want to
+show their dominance over you then they are right back on top of you=E2=80=
+=93so
+it=E2=80=99s not a real solution to work with them=E2=80=93at least in my e=
+xperiences it
+hasn=E2=80=99t been=E2=80=93they are fucking ruthless and unforgiving and v=
+ery
+transactional in nature=E2=80=93but they will never stop trying to manipula=
+te you
+regardless of whether you work with them or not) So over time, you end up
+being faced with a hard road and an easy road=E2=80=93but the easy road is =
+a trap
+every fucking time=E2=80=93it=E2=80=99s like selling your soul to the devil=
+ pretty much at
+best=E2=80=93but it sure is tempting nonetheless.
+
+That has got to be Putin=E2=80=99s plan for Zelensky, which is to get him t=
+o turn
+on the West essentially. To get Zelensky to work out a deal with the devil.
+That way all Zelensky=E2=80=99s citizens become a non issue for Putin and t=
+hat way
+Putin begins his takeover of more than just Ukraine by influencing public
+opinion throughout the world using his new proxy. MEANWHILE PUTIN IS USING
+THIS WHOLE ORDEAL TO TARGET OUR HACKERS FOR HIS TAKEOVER OF THE USA. What
+we need to do to combat all this is to continue to support Zelensky daily
+no matter what. We need to make some concessions and get him those migs so
+as to get everything back on track. And we need to stop freaking saying we
+will or won=E2=80=99t do something beforehand=E2=80=93don=E2=80=99t let Put=
+in know what we will or
+won=E2=80=99t do so it remains a mystery to him. (You can always reverse co=
+urse tho
+too) But yea, never let Zelensky think he doesn't have our full support to
+the most extent possible=E2=80=93regardless of how much Putin tries to mani=
+pulate
+us or him=E2=80=93this is everyone=E2=80=99s entire future we are talking a=
+bout here after
+all. Nobody wants to live under a brutal dictator/organized crime mafia
+ring for the rest of eternity. Also=E2=80=93do something about the Russians=
+ now
+targeting our hackers please. If we lose them we will lose ourselves.
+
+The shit with the jet airplane is just an attempt for Putin to manipulate
+our president into being submissive if you ask me. If you let him, guess
+what he=E2=80=99s going to do? He=E2=80=99ll keep doing it and go even hard=
+er on it next
+time too. At the end of the day these Trumper Russian proxy guys aren=E2=80=
+=99t
+going to do anything bad to their own hometowns nor their fellow troops=E2=
+=80=93I
+mean like beyond maybe discreetly going after one person at a time who they
+are led to believe might have a different political ideology than them or
+that they are directed to. But beyond that, I don=E2=80=99t see Putin=E2=80=
+=99s proxies as
+being that reliable to Putin when it all comes down to it tbh. Nobody=E2=80=
+=99s
+going to blow up their own hometown or even allow their hometown to be
+blown up or anything like that. They might try and undermine some things
+but they aren=E2=80=99t that big a deal tbh. It=E2=80=99s all a perception/=
+illusion=E2=80=93it=E2=80=99s
+designed to get to you. I=E2=80=99d guess people like that are by far the m=
+inority
+anyways, but it would be wise to figure out just how many of them there
+really are by doing our own investigation into it. Because if you just rely
+on them acting out then they will make it appear as though everyone is in
+on it=E2=80=93when in reality that is far from the truth. None of the proxi=
+es are
+going to follow any orders from Putin that might affect anyone they know or
+like period anyways. That=E2=80=99s the difference between say a foreign sp=
+y and a
+foreign proxy. The foreign proxy has boundaries in regards to who they will
+undermine and how far they will go=E2=80=93a lot of them might be looking f=
+or a way
+out tbh. Plus, worst case you can just make it personal to the proxies, do
+what Putin does but in reverse. Make it so they have to sell their other
+proxies out to save themselves. The churches and the communities themselves
+need to start working on this issue in their communities as well however,
+in my opinion, to ensure people don=E2=80=99t continue to get radicalized. =
+Because
+that=E2=80=99s what it is=E2=80=93radicalization=E2=80=93just in a slightly=
+ different slightly
+easier to reach form, as compared to full blown terrorist radicalization.
+
+In a way Putin is targeting our executive branch with his psychological
+manipulation just as much or more than he targets everyone else. It would
+really be wise for everyone making decisions in our government and our
+allies government=E2=80=99s to read/listen to a book or two on =E2=80=9Cpsy=
+chology and
+manipulation=E2=80=9D btw before determining how to proceed and protect our=
+selves
+going forward. (i.e. Don=E2=80=99t let their psychological mind control gam=
+es
+defeat you)
+
+I fundamentally now believe that =E2=80=9CHitlerism=E2=80=9D is very much r=
+ooted in
+psychology. It=E2=80=99s about people realizing the power of
+psychology/manipulation and then using it to get what they want no matter
+what they have to convince the broader population of. They go after the
+perceived =E2=80=9Cweak=E2=80=9D links. And sadly I am viewed as a weak lin=
+k whereas I live
+alone in a mormon community when I=E2=80=99m not mormon; and thanks to hist=
+ory,
+jewish people are viewed as weak too sadly. The Russians saying they are
+going after nazis is such a slap in the face tbh, when Zelensky is a jewish
+man himself, but it=E2=80=99s common psychological manipulation tactics bot=
+h in
+hitler=E2=80=99s time and in the current day and age apparently. It pisses =
+me off.
+I fully believe both Hitler and Putin might have done this to anybody that
+they viewed as =E2=80=9Cweak=E2=80=9D though, the fact Putin is doing it ag=
+ainst the leader
+of a free country who happens to be jewish is just such a slap in the face.
+And how you get to where they won=E2=80=99t view you as weak is to learn
+psychology, band together, call out their manipulation, STAND UP TO THE
+BULLY, and to start applying these same concepts right back at them from
+what I=E2=80=99ve found. At least in Zelensky=E2=80=99s case he still has a=
+ ton of support
+from pretty much everyone in this world besides Putin, and pretty much
+everyone are actually willing to help him in fighting back in whatever way
+they can, but conversely that means if Zelensky ever decides to join Putin
+to save his people then he could easily bring other countries with him=E2=
+=80=93I
+promise you=E2=80=93it=E2=80=99s psychology.
+
+Two more things I think are important for anyone reading this to know.
+
+First, how to accomplish the =E2=80=9Cthinking 2-3 steps ahead=E2=80=9D ill=
+usion. The
+Russians seem to be smart and seem to have the ability to think 2-3 steps
+ahead. But in reality what is really happening is they are using reflexive
+control theory to first set up a pretext and then to trigger you in a way
+they can predict your reaction to, and based on their predicted reaction of
+what they think you will do when they trigger you, they will then think
+about how they will be able to exploit your most probable reaction to their
+triggering you=E2=80=93and whether that would benefit them or not=E2=80=93b=
+efore they ever
+even trigger you to begin with. And if they decide your most probable
+reaction is exploitable in a fashion that suits them=E2=80=93then they go f=
+orward
+with setting up the pretext and triggering you while banking on your
+reaction being what they=E2=80=99d expect. That=E2=80=99s literally how it =
+works. From your
+perspective it seems as though they are smart as hell and they are thinking
+two to three steps ahead, and in reality it=E2=80=99s technically kinda sor=
+ta true,
+but it=E2=80=99s a lot easier to do than one might think when you are the o=
+ne doing
+the psychological triggering. From there you can take it and chain it, like
+okay if I set up this pretext and I trigger Putin in this way, his most
+probable reaction is he=E2=80=99ll likely respond in this way. And if he re=
+sponds
+in this way will I then be able to take advantage of his response and use
+it to further exploit him? I=E2=80=99m just giving an example of how their =
+thinking
+2-3 steps ahead theoretically works. Information gathering definitely comes
+into play here as well though, information is power and it enables you to
+do this reflexive control theory stuff a lot more effectively, the more
+information you have the better.
+
+Secondly I want to give you a quick example of how they exploit
+vulnerabilities in anything and everything, and how it=E2=80=99s possible f=
+or you
+to do the same. The attackers whom I now believe to be Russian proxies
+including my very own brother first started targeting me using social
+engineering. My brother took advantage of the trust I had for him while
+playing like he still loved me and he used my love for him as a
+vulnerability for him to exploit essentially. Once they got access to my
+network they began monitoring it and looking for other vulnerabilities to
+exploit while doing recon. I won=E2=80=99t get into all the details but fas=
+t
+forward and they begin emf-ing me. I ultimately figure out how to get their
+emfs to no longer bother me by creating a makeshift faraday cage that was
+connected to a ground. As soon as they found out their attacks were no
+longer bothering me, they moved to another type of emf like ef or rf that
+went right through the grounded metal. So then I had to figure out what was
+going on and I ended up adding an existing electrical current flowing
+through the faraday cage to try and combat their latest exploit. And then
+ultimately they realized they couldn=E2=80=99t get through with any light b=
+ased
+directed energy weapon anymore=E2=80=94so they then switched to using infra=
+sound at
+that point instead=E2=80=94which went right through my faraday cage without=
+ issue
+because it was technically another vulnerability yet again. So then I
+figured out what the hell infrasound was and I figured out you need this
+foam shit to stop it, and I added that foam stuff to the faraday cage to
+block the infrasound as well at that point. But now I created another
+vulnerability in adding sound proofing, any ideas what it was? The
+vulnerability at that point was well now that my enclosure was fully
+covered with few air gaps to keep the sound waves out=E2=80=94they then sta=
+rted
+gassing me while I was in there which completely terrified me and made me
+scared to even seek shelter in my faraday cage anymore whatsoever=E2=80=94l=
+eaving
+me totally exposed again. They would essentially use my new protections as
+a new vulnerability to exploit, each step along the way, etc, etc. And as
+things have continued forward, they=E2=80=99ve even figured out how to add =
+some
+nano tech to the inside of the faraday cage that allows them to pull power
+from the outer faraday cage shell and redirect it to emf me on the inside
+before the power is ever grounded, which effectively made my faraday cage
+useless yet again. And on, and on, and on, all the way to the other
+night=E2=80=93and that=E2=80=99s just one broad example. How they broke in =
+my house
+repeatedly was very similar in their constant exploiting of different
+vulnerabilities and mostly getting away with little to no evidence of their
+presence. Moral of the story is there are vulnerabilities everywhere in
+literally everything and on each step of the way there might be new
+vulnerabilities=E2=80=94all of which can be exploited=E2=80=93and it doesn=
+=E2=80=99t take the most
+powerful country in the world to find them and to exploit them either=E2=80=
+=94it
+just takes a certain mindset is all.
+
+Just wanted to share some lessons learned in case it might help anybody in
+their deliberations. These are all my own personal opinions based on my own
+personal experiences with these guys and how they operate, just know I=E2=
+=80=99m
+just trying to help. For the record, I=E2=80=99m for doing everything we ca=
+n to
+help Ukraine before we lose support from Ukraine, before Russia intimidates
+the whole world, and before Russia becomes even more ruthless and powerful
+than they already are. Just make sure we have a good excuse for going in
+there is all I=E2=80=99d say=E2=80=94but we can=E2=80=99t let Russia intimi=
+date us. The whole world
+is watching. Ukrainians are dying and they desperately need our help. Putin
+wouldn=E2=80=99t be trying to intimidate us into staying out of it if he wa=
+nted us
+to join in. It=E2=80=99s normally best to do what they don=E2=80=99t want y=
+ou to do,
+although they will adapt and they will continue these same psychological
+baiting tactics each step of the way regardless of what we choose to do. I
+think it will bring us all closer together too=E2=80=94which is key.
+
+Final Answer
+
+(see google docs comment on photo as well)
+
+I think if we want to have a country we=E2=80=99ve got to help Zelensky/his=
+ people
+in Ukraine and soon even if it means a proxy war with Russia. We really are
+to that point. That will also help in ridding ourselves of Russian
+assets/proxies/influence. The alternative could very well ultimately prove
+defeat. (References hidden for now)
+
+I decided to re-post all this new less sensitive stuff here to try to help
+everyone make their own decisions accordingly, I didn=E2=80=99t want to com=
+e off as
+I was turning my back on anyone either=E2=80=93especially our allies. The t=
+ruth
+isn=E2=80=99t always pretty but it=E2=80=99s best if we all know both ourse=
+lves and our
+enemies so we can make the best decisions possible and so that we can all
+know what is truly at stake.
+
+The real question is do you want to be known for being responsible for a
+tyrant possibly defeating the free world to create a new world order
+without so much as a fight? Or do you want to be known for fighting for
+freedom=E2=80=93regardless of what people may say later? That=E2=80=99s the=
+ real question.
+My brother hasn=E2=80=99t pulled the nuke card on me yet, I don=E2=80=99t t=
+hink Putin will
+either.
+
+The tide is totally in our favor right now=E2=80=93we=E2=80=99ve got to mak=
+e the most of
+it. Shit I=E2=80=99ll even put my money where my mouth is and I'll even go =
+help
+fight. (Once i drop the microchip)
+
+I=E2=80=99ve now seen evidence Russia could indeed be targeting our hackers=
+ now as
+part of a =E2=80=9Cspread the word to Russians=E2=80=9D campaign. (False fl=
+ag/Reverse
+psychology operation) See references below.
+
+Please you guys=E2=80=93we are running out of time. They are putting the pr=
+essure
+on Zelensky to fold. He won=E2=80=99t fold if we just stand up to these Rus=
+sian
+bullies and do what=E2=80=99s right=E2=80=93what=E2=80=99s right also happe=
+ns to be what the world
+really needs us to do right now. They are targeting our hackers right now I
+swear. What are we going to do once they have infiltrated over half of our
+freaking critical sectors? At some point people are going to find out and
+they are going to be faced with a choice of whether it=E2=80=99s already to=
+o late
+or not to try and fight back. I cannot stress the stakes of all this
+enough. I likely won=E2=80=99t make it through much longer myself tbh, eith=
+er way,
+but at least this way our future generations will have a chance at living
+free. We need to come together. The only way we are ever going to come
+together at this point is if we stand up to Putin.
+
+I think the Russians are trying to make Joe Biden be the =E2=80=9Cfall guy=
+=E2=80=9D for
+Trump tbh.
+
+The Russians are literally banking on us not sending those migs. We need to
+make some concessions to our allies and get them the damn jets.
+(discretely) The key is to keep Zelensky happy. We need to show leadership
+tho. Why else would Russia be willing to take on so many sanctions right
+now if they weren=E2=80=99t banking on defeating us from within? Why else w=
+ould
+they not have taken out Zelensky yet if they weren=E2=80=99t banking on gai=
+ning his
+support to avoid a never ending war? There=E2=80=99s no good legitimate rea=
+son.
+Russia has fooled us for long enough. Zelensky is an ally we really really
+need just as much as he needs us and he is honestly an awesome ally to
+have. It=E2=80=99s time we help him save his people. It won=E2=80=99t be ea=
+sy but it=E2=80=99ll be
+worth it in the end. I=E2=80=99m pretty positive I was just proven right ab=
+out
+pretty much everything in Russia=E2=80=99s latest attempt to use me to send=
+ you
+guys a signal about our military and the jets the other day=E2=80=94now I r=
+eally
+need you to believe me about this. I feel highly confident in this final
+determination of Russia=E2=80=99s true intent btw.
+
+P.s. You guys, do you want to know my ultimate hope? My ultimate hope is we
+defeat the kremlin and free all the people under its control. The kremlin
+only knows negative reinforcement, they do not know positive reinforcement.
+I have little doubt that a lot of our fellow colleagues will thank us later
+for it later if so. A lot of Russia's proxies are actually victims to the
+kremlin themselves. And plus, I really want to see my brother again
+someday. I still think he has time to make up for anything he may have done
+previously.
+
+=F0=9F=A4=9E=F0=9F=A4=9E=F0=9F=A4=9E
+
+Last thought, if we don=E2=80=99t act soon we may never be free.
+
+#IStandWithUkraine #AmericaStandsWithUkraine #TheWorldStandsWithUkraine
+#TruthIsStrangerThanFiction #FightForFreedom
+
+Thank you,
+
+Chase G
+
+=F0=9F=99=8F=F0=9F=99=8F=F0=9F=99=8F
+References
+
+
+
+This is fake. I was able to get behind their cloudflare account so that
+means Russia could as well if it really wanted to. Plus those numbers look
+fake as hell and in real charts it=E2=80=99s normally a lot more spread out=
+ than
+that because Russia itself uses servers in other countries, etc, etc.
+
+This is indicative of a Russian social media troll farm account. 14.9k
+followers in something like 7 days for a brand new account/alias. What they
+are doing is cataloging our dissenters through a massive honeypot operation
+and getting evidence on them for breaking Putin=E2=80=99s new law.. (You kn=
+ow, cuz
+Putin is about to defeat us from within as I=E2=80=99ve been saying=E2=80=
+=9315 years
+penalty for each person they catch in traps like this) https://1920.in &
+https://mail.1920.in
+
+Look how professional their seo is. And how fast they freaking grew. Their
+social media troll farms are still healthy and doing as well as
+ever=E2=80=93arguably better than ever=E2=80=93it looks like they finally m=
+anaged to
+corrupt some western ui/ux people and some social media experts against us
+or something. (They are now working on corrupting the left) This is the
+problem. And yet we do nothing. We do nothing about this nor their hacking
+and strategically corrupting our entire fucking society. According to you
+guys if Russia attacks any NATO country then we will have to respond, that
+doesn=E2=80=99t hold any fucking water when they are already fucking attack=
+ing us
+in every possible way besides using real-life bombs and whatnot and yet we
+have still yet to fucking acknowledge it or respond. It makes it seem like
+our alliance is a fucking joke. It=E2=80=99s not hard for Putin to exploit =
+this
+vulnerability of ours and make us look foolish as an alliance. He did the
+same thing with Ukraine. The real alliance should be any god damn democracy
+rather than only a select few, democracy vs dictatorship is the real battle
+that=E2=80=99s playing out in this world after all. Then maybe they wouldn=
+=E2=80=99t have
+attacked Ukraine in the first place. And now we are on the verge of defeat
+and you guys still won=E2=80=99t recognize the fact that they are fucking a=
+ttacking
+us. All they have to do is continue on this path, defeat America, and every
+other democracy in the world will fall. And yet they are doing this to
+everyone. (Trust me, I researched Brexit social media dissemination and I
+can tell something similar is up with Australia, etc, etc) It=E2=80=99s not=
+ that
+democracies suck, it=E2=80=99s that we aren=E2=80=99t fucking aggressive en=
+ough and haven=E2=80=99t
+been taking hints from what Putin is doing and responding in kind. And any
+person who is elected who is actually aggressive enough is already a Putin
+proxy. (From 2016 onwards I mean, there=E2=80=99s no way that anyone is goi=
+ng to
+beat out Trump for the Republican nomination in 2024. We are currently
+engaged in the battle of our lives=E2=80=93and we won=E2=80=99t even fuckin=
+g recognize it)
+All those people who died for freedom will have died in vain.
+
+
+
+Fixed some stuff in this illustration including the =E2=80=9CProbability of
+Overcoming Defeat Overtime=E2=80=9D chart, I changed it to make it more acc=
+urate by
+beginning it=E2=80=99s decline once Trump took office, and I made it so the=
+ top
+=E2=80=9CHackers=E2=80=9D takeover quadrant better corresponds to the war i=
+n Ukraine. To be
+clear, Trump claiming =E2=80=9CRussia is not so bad=E2=80=9D did have effec=
+ts on our
+churches and businesses and police and congressmen getting hacked. I am
+highly confident it had an effect on our businesses getting hacked because
+that=E2=80=99s when we started hiring Russian contractors at my work. And I=
+'ve
+witnessed it all go down first-hand myself.
+
+I think I=E2=80=99ve now pretty much confirmed Russia is indeed now targeti=
+ng some
+of our hackers now as well=E2=80=A6 =F0=9F=92=A3 =F0=9F=92=A3 =F0=9F=92=A3 =
+=F0=9F=92=A5=F0=9F=92=A5=F0=9F=92=A5 -> This is how you=E2=80=99ve got to
+think about it because =F0=9F=92=A5 is what it is. (21st century superpower=
+ style of
+attacking your enemies from within without them even knowing they are under
+attack) From now on anytime Russia or China does anything like
+hacking/corrupting our society or interfering with our social media then do
+me a favor and picture an =F0=9F=92=A3 =F0=9F=92=A5 going off in your mind=
+=E2=80=93if we don=E2=80=99t do just
+that=E2=80=93then we will most definitely regret it later=E2=80=93mark my w=
+ords.
+
+
+
+Link to request concessions by our government on mig fighter jets to
+Ukraine:
+
+https://twitter.com/intent/retweet?tweet_id=3D1502153102639591426
+
+
+As of March 12, 2022
+
+I=E2=80=99m doing as well as I can be given the circumstances btw. I could =
+use some
+help disabling this damn microchip like I said and then getting the hell
+out of here but that=E2=80=99s it. At least it gives me something to work t=
+owards
+though. I honestly enjoy combatting Russia in any way I can=E2=80=93it=E2=
+=80=99s fun. I=E2=80=99ll
+admit, it=E2=80=99s arguably even funner now that they already know who I a=
+m=E2=80=93it
+means I don=E2=80=99t have to worry about making mistakes nearly as much. I=
+t sucks
+they are so far ahead of us and that I=E2=80=99m at such a disadvantage but=
+ beyond
+that, I still enjoy it. Take that Russia. The very nature of you coming
+after me is enjoyable to me.
+
+Russia is in its final stages of targeting our society and defeating us
+from within. When you think about it from the perspective I=E2=80=99ve laid=
+ out,
+and when you consider this whole Ukraine ordeal might really be at least in
+part meant to bait our people into =E2=80=9Creflexing=E2=80=9D in the way t=
+he kremlin
+expected us to reflex, with the intent of them exploiting our reflexes,
+then technically Russia is accurate in their statement about Ukraine just
+being a =E2=80=9Cspecial military operation=E2=80=9D. The real operation is=
+ regarding the
+remainder of the free world and its citizens, particularly those who are
+willing to fight back. They seem to be already creating lists of people to
+prosecute for breaking their new =E2=80=9Cmisinformation=E2=80=9D law, for =
+when they defeat
+us from within, which carries a fine of up to 15 years in prison. That is
+at least in part what Ukraine is all about in my opinion. That is why it
+was not in their best interest to take Zelensky out in short order. That is
+also why it=E2=80=99s best for them to piss the whole world off at this tim=
+e and do
+things that are otherwise unthinkable. Because their real goal is to
+catalogue all of the resistance.
+
+I got a vibe from the hackers that this is what Ukraine is really all
+about=E2=80=93before I ever started telling you all about it and before I s=
+tarted
+digging into it further myself. They legit act like they have already
+defeated us to me. And they warn me whenever I=E2=80=99m about to break one=
+ of
+Russia=E2=80=99s laws as if I=E2=80=99m now governed by Russia. One of thes=
+e days, anyone
+who doesn=E2=80=99t fight back is going to regret it for years to come.
+
+https://1920.in
+
+https://twitter.com/i/status/1502799750814482438
+
+One last thing, I think it would be wise if our military reported some of
+their NSA exploits that the Russsians are now using to defeat us to the
+corresponding companies like apple, netgear, and anything else using a
+broadcom wifi chip, etc, etc=E2=80=93if it is indeed true that the exploits=
+ the
+Russians are using are the same as the NSA=E2=80=99s exploits=E2=80=93so th=
+at those
+vulnerabilities can be patched and so that it would even the playing field
+a little bit. Because I=E2=80=99m pretty certain Russia and China are now u=
+sing OUR
+NSA=E2=80=99s malware to defeat us from within, and they are way ahead of u=
+s in
+doing so, and so the only real way to get it all to stop would be to force
+every country to restart from scratch with their most sophisticated
+automated malware and to patch all of the devices around the globe
+asap=E2=80=93even if that means we can no longer hack ppl as effectively fo=
+r a
+little while. If things are really going as they seem=E2=80=93doing so migh=
+t well
+pay dividends in the long run. And it wouldn=E2=80=99t be risking starting =
+a
+nuclear war or anything=E2=80=93if anything=E2=80=93it would potentially sa=
+ve the free
+world in my opinion.
+
+P.s. I opened the original folder back up again for now=E2=80=94please don=
+=E2=80=99t make
+me regret doing so. I still don=E2=80=99t want anyone referencing any of it
+publicly however=E2=80=94without my consent=E2=80=94nor using it to undermi=
+ne our alliances
+or unity. I=E2=80=99ll be honest. I don=E2=80=99t know what is the best rou=
+te to take in
+all this. The whole ordeal with my brother seems like it may never goto
+court unless we reign Russia in first anyways.
+
+I=E2=80=99m know I=E2=80=99m not qualified to even come close to trying to =
+make a call on
+something of this magnitude really, and I realize I clearly don=E2=80=99t h=
+ave all
+the information that the people in our government have. But I do know that
+freedom is definitely worth fighting for. And I do think I know we are
+already in the midst of a shadow war here at home and we are seemingly not
+doing so hot in that shadow war. If anything, we are strongest when it
+comes to our conventional military=E2=80=94and Russia knows that. Plus, nev=
+er
+underestimate the power of unity. All I know is if we were to always let
+the fact that someone has nuclear weapons hold us back from getting
+involved in anything, then this world is going to quickly turn into a
+complete shit show. In addition, I wish we would just be honest about what
+Russia is doing to us here at home=E2=80=94it=E2=80=99s better we say it th=
+en someone else
+saying it in my view. Maybe then we could gain more support for a direct
+conflict with Russia. But who knows, it=E2=80=99s hard to say what Russia r=
+eally
+wants. They use false flags and whatnot so much that it becomes hard to
+tell. But it=E2=80=99s not impossible to tell, if I had to guess right now=
+=E2=80=94my bet
+would be Russia wants us to stay out of it=E2=80=94they are banking on us s=
+taying
+out of it actually=E2=80=94and therefore they=E2=80=99ve already determined=
+ their result
+will be much better if we do stay out of it. They wouldn=E2=80=99t be intim=
+idating
+us to stay out of it if they wanted us to take part. I really do stand
+behind my hypothesis on Russia btw. Our government has got to know that
+Russia and China have been hacking/targeting all these different key
+segments of our society for some time=E2=80=94not just ours but Europe's to=
+o=E2=80=94all of
+our democracies tbh=E2=80=94and I would hope our governments would realize =
+the
+significant consequences of them doing so.
+
+I=E2=80=99m therefore scared for the free would if we don=E2=80=99t get inv=
+olved at this
+point tbh. Russia knows we have the advantage in the conventional military
+arena=E2=80=94it also knows they have the advantage in the shadow war arena=
+. That
+should tell you everything you need to know for the most part. All I know
+is I would be wiling to bet Russia would jump in and help a fellow
+dictatorship if the roles were ever reversed. But that=E2=80=99s the thing=
+=E2=80=94the
+roles are likely never going to be reversed. If nothing else please at
+least consider the potential consequences of if we don=E2=80=99t get involv=
+ed and
+what all could happen if we don=E2=80=99t=E2=80=94worst case. Because I pro=
+mise you people
+will remember the fact that we didn=E2=80=99t get involved and will hold yo=
+u
+accountable at the ballot box=E2=80=94especially if it turns out how I thin=
+k it
+might. Things are going to get a lot worse pretty quickly now too in
+Ukraine, Russia is now closing in on Kiev. I guess on the other hand tho,
+trump never got involved with the Kurds but this one feels a little
+different.
+
+Anyways, you don=E2=80=99t have to worry too much about me btw, I should be=
+ fine
+regardless of what happens. I=E2=80=99m fighting for my country and for fre=
+edom
+after all, what could be better than that? (Beyond not having to have to
+fight for freedom in the first place I guess) Please keep supporting
+Ukraine as much as physically possible and don=E2=80=99t let them give up h=
+ope. I
+realize this being halfway across the world puts us at a disadvantage as
+well. And I realize how many lives are on the line. But if I=E2=80=99m righ=
+t about
+Russia anyways, then that many lives are likely on the line anyways. And
+freedom is worth quite a bit.
+
+https://drive.google.com/drive/folders/1N4w5q-SJ-2aZXt4iiajGkpBJEa9gHYnU
+<https://drive.google.com/drive/folders/1N4w5q-SJ-2aZXt4iiajGkpBJEa9gHYnU>
+
+As of March 14, 2022
+
+My brother is a cold blooded killer you guys. I don=E2=80=99t know if he ev=
+er
+deserves being forgiven. I think that=E2=80=99s just wishful thinking on my=
+ part.
+I=E2=80=99m pretty sure they just made another attempt at my life.
+
+I=E2=80=99m fine. I just need to get out of here.
+
+It=E2=80=99s scary cuz they literally think of ways to kill me that they ca=
+n cause
+plausible deniability and they wait for times to kill me when think they
+are most likely to get away with it. And they monitor me 24/7 and they have
+a tunnel somewhere into my house. And they did successfully defeat the RF
+encryption algorithm on my latest SimplySafe security system=E2=80=93it did=
+n=E2=80=99t take
+them very long to do so. They have hacked literally everything in my
+house=E2=80=93and my house is full of digital gadgets tbh. They use their d=
+amn
+tunnel to get in my house and take pictures of my keys when I leave them
+anywhere so that they can then 3D print my various keys as well, including
+the keys to any safe I buy.
+
+I would leave but I haven=E2=80=99t been able to disable the microchip yet.=
+ So why
+risk going somewhere I am unfamiliar with when I know they will just follow
+me there? That=E2=80=99s opening myself up to another situation where they =
+could
+just kill me and get away with it.
+
+To be clear, I am grateful for everybody=E2=80=99s help. I=E2=80=99m just t=
+rying to point
+out that we clearly have some problems in our country that need to be
+resolved. These guys wouldn=E2=80=99t be pursuing me to begin with if I wer=
+en=E2=80=99t at
+least mostly right about what I have alleged=E2=80=93it really is that simp=
+le. Like
+think of all the different people Putin could put on his hit lists, the
+oligarch who just put a $1 million dollar reward on Putin=E2=80=99s head fo=
+r
+instance, etc, etc=E2=80=93and yet for some reason they chose me=E2=80=93an=
+d they devote
+all their resources to me. All based on a couple twitter postings about
+them interfering with our social media and being behind QAnon previously,
+and based on my brother=E2=80=99s desire to get rid of me, etc. And yet the=
+y are
+completely determined to kill me now.
+
+It=E2=80=99s as if we already don=E2=80=99t have freedom of speech in some =
+regards=E2=80=93which is
+just infuriating tbh.
+
+To be clear, Dusty does deserve being locked up for the rest of his life in
+my opinion=E2=80=93regardless of what I may say at any point in the future.=
+ He=E2=80=99s
+killed my whole family. All that about seeing him again and whatnot is just
+wishful thinking and always has been and always will be wishful
+thinking=E2=80=93Dusty really deserves the death penalty tbh=E2=80=93maybe =
+life in
+prison=E2=80=93whichever he wants less is what he truly deserves. Plus I re=
+ally
+don=E2=80=99t think he=E2=80=99s ever going to do the right thing at this s=
+tage.
+
+One last thing, I was watching this youtube video just barely made by
+Alexei Navaly, one of the guy=E2=80=99s Putin locked up fairly recently, (
+https://www.youtube.com/watch?v=3DT_tFSWZXKN0) and the hackers started
+prohibiting my internet access as soon as it got to the part where it was
+explaining how Putin=E2=80=99s palace was funded through bribes, etc. I too=
+k two
+takeaways from it.
+
+
+   1.
+
+   You could likely use that same model of bribery to bust my brother and
+   his Russian cronies who are helping him in trying to kill me, specifical=
+ly
+   in regards to how they likely get paid and/or how their assets are likel=
+y
+   paid for.
+   2.
+
+   These guys continue to engage in federally prohibited cell and wifi
+   jamming activities in their blocking of all my communications
+   regularly=E2=80=93particularly after an attack when urgent phone and ema=
+il
+   communications are most needed.
+
+
+I do get frustrated sometimes that this doesn=E2=80=99t move faster. I get
+frustrated sometimes that you guys haven=E2=80=99t arrested my brother yet.=
+ Etc,
+etc. But at the end of the day I have been able to learn the true scope of
+the issue first hand myself and I therefore realize why it is taking so
+long. I now understand that this is about a lot more than just me, my dog
+turbo, my father Tim, and my sister Karie. It=E2=80=99s about our whole cou=
+ntry and
+our allies=E2=80=99 countries and it=E2=80=99s about democracy itself. I ju=
+st don=E2=80=99t want to
+see us continue making the same mistakes nor get defeated is all. In a way,
+we all rise and fall together.
+
+I have since changed my mind on intervening in Ukraine with the jets. See
+this video:
+
+=F0=9F=91=87=F0=9F=91=87=F0=9F=91=87=F0=9F=A4=99
+
+https://www.youtube.com/watch?v=3Dxguam0TKMw8
+
+Someone should show Trump supporters this video. It=E2=80=99s clear if we g=
+et along
+we are a lot less likely to have anyone challenge us. Biden needs to work
+on the inflation part of it as well.
+
+We need to watch inflation closely to avoid falling out of our dominating
+status and we need to avoid getting involved in wars to avoid another
+rising super power from taking us out. It=E2=80=99s as if the adversaries a=
+re
+following this exact video only in attempting to use it against us to
+defeat us. And plus it=E2=80=99s clear you guys are playing the long game w=
+hich is
+smart=E2=80=93your strategy really is the smartest strategy after all=E2=80=
+=93the sanctions
+will most definitely get to Russia over time without really even risking
+ourselves. How that works exactly when countries like Russia are
+essentially taunting you and your citizens constantly=E2=80=93idk=E2=80=93b=
+ut I=E2=80=99m sure all
+the sanctions will help. There=E2=80=99s plenty of ways to get creative to =
+get them
+to stop without causing a full blown war however I now feel. Some
+sacrifices will likely have to be made but it=E2=80=99s all for the greater=
+ good,
+and that is okay with me I feel. In a way this was another trap cuz we
+cannot fight another world war right next to Russia and China, so I=E2=80=
+=99ll
+admit I was most definitely wrong on that one. It really is a battle of
+good vs evil.
+
+Ukraine is doing pretty darn well without the fighter jets all else
+considered. No use giving them jets and risking starting another world war.
+However I will say=E2=80=93we should condition Russia to talk to us diploma=
+tically
+rather than constantly sending us =E2=80=9Csignals=E2=80=9D. The =E2=80=9Cs=
+ignals=E2=80=9D are complete bs
+tbh. Talk to our faces and quit being scared. Just sayin.
+
+Again just wishful thinking on my part that we will ever be able to truly
+stop Putin=E2=80=99s mafia=E2=80=99s aggressions. So my apologies for my ha=
+ving a lack of
+context on that subject as well. I just want Putin to go away that=E2=80=99=
+s all. I
+feel this world will be a better place without him tbh. I can=E2=80=99t bel=
+ieve his
+whole government is essentially a mafia that operates globally. It=E2=80=99=
+s nuts.
+I=E2=80=99ve been encouraging anonymous to make sure they remain anonymous =
+when
+targeting Russia lately for this reason.
+
+Anyways, if you=E2=80=99ve learned one thing about me throughout all of thi=
+s it=E2=80=99s
+that I am extremely honest. I say what I think at the time for the most
+part. Some of it is right, some of it is wrong, but the overall theme of
+what I say is normally at least pointed in the right direction especially
+if I=E2=80=99ve maintained the same viewpoint overtime, and I really do jus=
+t want
+to try and do what=E2=80=99s best for both my family and my country.
+
+We really are all in this together as democracies anyways. Like Putin has
+been undermining all of our democracies in similar ways, and while it may
+sometimes seem tempting to go towards a dictatorship model, we all love our
+freedom and it can be easy to take it for granted sometimes, but at the end
+of the day we shouldn=E2=80=99t. Because freedom is everything. I can=E2=80=
+=99t imagine a
+world led by someone like Putin tbh. I wouldn=E2=80=99t want to play a part=
+.
+
+I hope my feedback has helped. I noticed we are working on passing a law in
+congress to make it required for businesses to report when they=E2=80=99ve =
+been
+hacked to the government=E2=80=93which is a huge step in the right directio=
+n as
+well.
+
+I can=E2=80=99t imagine having a high level government job, that must be so
+stressful. But you guys are honestly doing a really good job at it, all
+things considered. It=E2=80=99s definitely a balance though that=E2=80=99s =
+for sure.
+
+One last thing, and I=E2=80=99m sure we are researching it ourselves. But t=
+hese
+guys have taken infrasound and electromagnetics and nanotechnology to the
+next level. We should look into doing all that ourselves.
+
+https://www.youtube.com/watch?v=3Dm_SqYNWgs58
+
+Part 2
+
+You guys, if my brother Dusty manages to give me cancer, like I suspect
+he's been trying to do=E2=80=93I=E2=80=99m going to have a really hard time=
+ restraining
+myself from going after him. Like put yourself in my shoes=E2=80=93you woul=
+d too.
+But like no seriously=E2=80=93sometimes I want to deck him so fucking hard =
+it=E2=80=99s not
+even funny. I realize that=E2=80=99s not in my best interest to ever go aft=
+er him
+if I want this case to ever be prosecuted. But I just found more poison
+shit in my hat for instance. It gave me hives every fucking day I put my
+hat on only I didn=E2=80=99t narrow it down to my hat until just today.
+
+You have no idea how much patience and faith in law enforcement it takes to
+not retaliate in any way. I=E2=80=99ve given Dusty the benefit of doubt rep=
+eatedly
+for years and yet he never stops. They are like convinced that we have
+already been defeated or something but in reality them doing all this shit
+to me to try to silence me or what have you has caused our government to
+become aware of all these things and take actions to avoid it. So
+essentially them coming after me to begin with has been and will ultimately
+prove to be the seed of their own demise.
+
+Part 3
+
+K so I just thought of something. I could be off but I feel like it
+actually fits quite well. What if this whole ordeal is actually meant to
+convince you all that democracy is actually sub-par to communism? Like
+seems how they keep doing this shit that is pretty obvious its them doing
+it but given the way our laws are structured, it makes it a lot harder to
+bring charges against or prosecute? What if they are really just trying to
+convince the broader population not only that communism is better but that
+communism is already inevitable for us essentially? Hear me out. I thought
+of this because for one, I realized the timing of when Dusty went missing
+previously, it was right after I called him out for essentially flipping
+his political affiliation right when he started coming after me. If this
+really is/was their goal then that would make sense because they know that
+as soon as you know my brother is playing you in regards to his political
+affiliation then that would be counterproductive to what they are trying to
+do. In addition, it fits in the sense of my family=E2=80=99s past history a=
+nd just
+the notoriety of it all. It makes it so they could try and manipulate a
+large audience into losing faith in things like our freedom from search and
+seizure, right to stay silent, our democracy in general, etc, etc=E2=80=93a=
+ll at
+once. It also fits in that I think that=E2=80=99s what they were trying to =
+do in
+sharing this with Ukraine tbh. Now that=E2=80=99s some psychology for you.
+
+I specifically recall them being touchy about both political affiliation
+and the time I said I prayed=E2=80=93which I did but they didn=E2=80=99t li=
+ke it as if
+their really trying to target you.
+
+Let me give you my counter arguments to that just incase that is what they
+are ultimately trying to do. First, this wouldn=E2=80=99t be happening if a=
+ foreign
+country weren=E2=80=99t trying to interfere with our politics. It also woul=
+dn=E2=80=99t
+happen with so little concrete evidence if it were being carried out by
+anyone else besides a sophisticated foreign government. There would most
+definitely be more mistakes made by anyone who doesn=E2=80=99t have all the
+resources these guys have. Which disqualifies the notion of communism
+potentially being better than democracies based on what=E2=80=99s happened =
+here
+right away in my view. That would be like us corrupting some foreign
+communist leader and having him convince his people that democracy is
+better. Second, imagine if the person with the best relationship with the
+boss/leader always won in cases like this=E2=80=93that would mean I would b=
+e
+completely and totally screwed. I wouldn=E2=80=99t even have a chance I mea=
+n. It
+would mean people like my brother could kill whomever they wanted without
+repercussions essentially=E2=80=93not based on what they know but based on =
+who they
+know and how corrupt they are. Third, I=E2=80=99ll just say that the first =
+officers
+I spoke to about all the EMF stuff I think actually did mainly just take my
+word for it and I think they were able to get some kind of warrant based on
+my word alone. So it=E2=80=99s not impossible in a democracy to do things l=
+ike that
+I don=E2=80=99t think.
+
+I=E2=80=99ll admit, I can do a better job myself at not feeding into this p=
+otential
+narrative myself, I always get caught in their damn traps tbh=E2=80=94not
+intentionally but just because they have such an advantage over me and
+because they switch up their false flags behavior from real meaningful
+behavior constantly. Bottom line is any non foreign superpower would have
+made more mistakes by now and this wouldn=E2=80=99t be happening if they we=
+ren=E2=80=99t
+trying to interfere in our country to begin with. And if it did still
+happen=E2=80=94Dusty would have been totally busted by now. This is the fir=
+st time
+anyone has had any real reason to even question him about it tbh, so if he
+did kill my father and sister, that wouldn=E2=80=99t have been any differen=
+t either
+way.
+
+Me personally, I like being given my fair shot at justice=E2=80=94even if t=
+he
+wheels of justice turn exceeding slow. I apologize what I said earlier btw,
+sometimes I just get heated in the moment.
+
+To be clear, dusty is still involved he=E2=80=99s just not as obvious about=
+ it
+these days. I get tired of their =E2=80=9Cshows=E2=80=9D they put on using =
+real peoples
+lives tbh.
+
+
+Chase Gibbons <chase@gfic.io> / Manager
+435-999-4722
+
+
+PO Box 747Logan, UT 84321
+gfic.io <https://www.gfic.io>  <https://www.linkedin.com/company/gficllc/>
+
+[image: Mailtrack]
+<https://mailtrack.io?utm_source=3Dgmail&utm_medium=3Dsignature&utm_campaig=
+n=3Dsignaturevirality11&>
+Sender
+notified by
+Mailtrack
+<https://mailtrack.io?utm_source=3Dgmail&utm_medium=3Dsignature&utm_campaig=
+n=3Dsignaturevirality11&>
+03/14/22,
+08:40:07 PM
+
+--000000000000ee8ef405da38b796
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><span id=3D"gmail-docs-internal-guid-4b0c3f6f-7fff-2c14-b3=
+bb-7e524f9bf97f"><br><p dir=3D"ltr" style=3D"line-height:1.2;margin-top:4pt=
+;margin-bottom:0pt"><a href=3D"https://docs.google.com/document/d/1lK0mGt9S=
+44aFu39nnGZ6ZRYl57FW8IbhYzPjAzWHylE/edit#heading=3Dh.85w83dva92mg" style=3D=
+"text-decoration-line:none"><span style=3D"font-size:11pt;font-family:Arial=
+;background-color:transparent;font-variant-numeric:normal;font-variant-east=
+-asian:normal;text-decoration-line:underline;vertical-align:baseline;white-=
+space:pre-wrap">Notice</span></a></p><p dir=3D"ltr" style=3D"line-height:1.=
+2;margin-top:10pt;margin-bottom:0pt"><a href=3D"https://docs.google.com/doc=
+ument/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAzWHylE/edit#heading=3Dh.c8y9x=
+lj6biu6" style=3D"text-decoration-line:none"><span style=3D"font-size:11pt;=
+font-family:Arial;background-color:transparent;font-variant-numeric:normal;=
+font-variant-east-asian:normal;text-decoration-line:underline;vertical-alig=
+n:baseline;white-space:pre-wrap">As of March 10, 2022</span></a></p><p dir=
+=3D"ltr" style=3D"line-height:1.2;margin-top:10pt;margin-bottom:0pt"><a hre=
+f=3D"https://docs.google.com/document/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYz=
+PjAzWHylE/edit#heading=3Dh.63g09yc00o8b" style=3D"text-decoration-line:none=
+"><span style=3D"font-size:11pt;font-family:Arial;background-color:transpar=
+ent;font-variant-numeric:normal;font-variant-east-asian:normal;text-decorat=
+ion-line:underline;vertical-align:baseline;white-space:pre-wrap">What Putin=
+ is Doing</span></a></p><p dir=3D"ltr" style=3D"line-height:1.2;margin-top:=
+10pt;margin-bottom:0pt"><a href=3D"https://docs.google.com/document/d/1lK0m=
+Gt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAzWHylE/edit#heading=3Dh.dzsml3v52u64" styl=
+e=3D"text-decoration-line:none"><span style=3D"font-size:11pt;font-family:A=
+rial;background-color:transparent;font-variant-numeric:normal;font-variant-=
+east-asian:normal;text-decoration-line:underline;vertical-align:baseline;wh=
+ite-space:pre-wrap">Final Answer</span></a></p><p dir=3D"ltr" style=3D"line=
+-height:1.2;margin-top:10pt;margin-bottom:0pt"><a href=3D"https://docs.goog=
+le.com/document/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAzWHylE/edit#heading=
+=3Dh.7fo9ai5un3el" style=3D"text-decoration-line:none"><span style=3D"font-=
+size:11pt;font-family:Arial;background-color:transparent;font-variant-numer=
+ic:normal;font-variant-east-asian:normal;text-decoration-line:underline;ver=
+tical-align:baseline;white-space:pre-wrap">References</span></a></p><p dir=
+=3D"ltr" style=3D"line-height:1.2;margin-top:10pt;margin-bottom:0pt"><a hre=
+f=3D"https://docs.google.com/document/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYz=
+PjAzWHylE/edit#heading=3Dh.szw89m8y46gp" style=3D"text-decoration-line:none=
+"><span style=3D"font-size:11pt;font-family:Arial;background-color:transpar=
+ent;font-variant-numeric:normal;font-variant-east-asian:normal;text-decorat=
+ion-line:underline;vertical-align:baseline;white-space:pre-wrap">As of Marc=
+h 12, 2022</span></a></p><p dir=3D"ltr" style=3D"line-height:1.2;margin-top=
+:10pt;margin-bottom:4pt"><a href=3D"https://docs.google.com/document/d/1lK0=
+mGt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAzWHylE/edit#heading=3Dh.99e61kh9nt2b" sty=
+le=3D"text-decoration-line:none"><span style=3D"font-size:11pt;font-family:=
+Arial;background-color:transparent;font-variant-numeric:normal;font-variant=
+-east-asian:normal;text-decoration-line:underline;vertical-align:baseline;w=
+hite-space:pre-wrap">As of March 14, 2022</span></a></p><br><p dir=3D"ltr" =
+style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"=
+font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transpar=
+ent;font-variant-numeric:normal;font-variant-east-asian:normal;vertical-ali=
+gn:baseline;white-space:pre-wrap"><span style=3D"width:100px;display:inline=
+-block"></span></span></p><h3 dir=3D"ltr" style=3D"line-height:1.38;margin-=
+top:16pt;margin-bottom:4pt"><span style=3D"font-size:14pt;font-family:Arial=
+;color:rgb(67,67,67);background-color:transparent;font-weight:400;font-vari=
+ant-numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;w=
+hite-space:pre-wrap">Notice</span></h3><br><p dir=3D"ltr" style=3D"line-hei=
+ght:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;fo=
+nt-family:Arial;color:rgb(0,0,0);background-color:transparent;font-variant-=
+numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;white=
+-space:pre-wrap">To whom it may concern,</span></p><br><p dir=3D"ltr" style=
+=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-=
+size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;f=
+ont-variant-numeric:normal;font-variant-east-asian:normal;vertical-align:ba=
+seline;white-space:pre-wrap">I temporarily pulled the previous content loca=
+ted in this folder out of fear this information might have gotten into the =
+wrong hands. More directly, I pulled it out of fear that a certain someone =
+might be trying to use my own words to try and divide the US and it=E2=80=
+=99s strategic alliances rather than to try and bring us together.</span></=
+p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom=
+:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);back=
+ground-color:transparent;font-variant-numeric:normal;font-variant-east-asia=
+n:normal;vertical-align:baseline;white-space:pre-wrap">If this ever goes to=
+ court then it=E2=80=99s best if not everyone sees it beforehand.=C2=A0</sp=
+an></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-b=
+ottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0)=
+;background-color:transparent;font-variant-numeric:normal;font-variant-east=
+-asian:normal;text-decoration-line:underline;vertical-align:baseline;white-=
+space:pre-wrap">And to be clear, the opinions laid out are/were all my own<=
+/span><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);back=
+ground-color:transparent;font-variant-numeric:normal;font-variant-east-asia=
+n:normal;vertical-align:baseline;white-space:pre-wrap">. The facts laid out=
+ are/were all personal testimony as to what happened either directly to me =
+or directly in front of me.=C2=A0</span></p><br><p dir=3D"ltr" style=3D"lin=
+e-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11=
+pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;font-var=
+iant-numeric:normal;font-variant-east-asian:normal;text-decoration-line:lin=
+e-through;vertical-align:baseline;white-space:pre-wrap">I do not give anybo=
+dy consent to reference any of my content contained herein or previously co=
+ntained herein in any public media articles or public appearances or otherw=
+ise, at this time, </span><span style=3D"font-size:11pt;font-family:Arial;c=
+olor:rgb(0,0,0);background-color:transparent;font-variant-numeric:normal;fo=
+nt-variant-east-asian:normal;text-decoration-line:underline line-through;ve=
+rtical-align:baseline;white-space:pre-wrap">unless otherwise agreed to</spa=
+n><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);backgrou=
+nd-color:transparent;font-variant-numeric:normal;font-variant-east-asian:no=
+rmal;text-decoration-line:line-through;vertical-align:baseline;white-space:=
+pre-wrap">.</span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-t=
+op:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;c=
+olor:rgb(0,0,0);background-color:transparent;font-variant-numeric:normal;fo=
+nt-variant-east-asian:normal;text-decoration-line:line-through;vertical-ali=
+gn:baseline;white-space:pre-wrap">Just know that at the end of the day it=
+=E2=80=99s my information that I worked extremely hard on, a lot of which i=
+s pretty freaking personal and has pretty freaking huge consequences for at=
+ least myself, my family, and my hometown of Logan; and therefore I can do =
+what I want with my own information but I=E2=80=99d appreciate you not acti=
+vely trying to jeopardize our safety.=C2=A0</span></p><br><p dir=3D"ltr" st=
+yle=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"fo=
+nt-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparen=
+t;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoratio=
+n-line:line-through;vertical-align:baseline;white-space:pre-wrap">I=E2=80=
+=99ll be re-sharing the previous content to those whom I trust again shortl=
+y. Everyone else I shared it with previously has been perfectly honorable b=
+tw..</span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;=
+margin-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rg=
+b(0,0,0);background-color:transparent;font-variant-numeric:normal;font-vari=
+ant-east-asian:normal;text-decoration-line:underline;vertical-align:baselin=
+e;white-space:pre-wrap">If you want to request access to the previous infor=
+mation in this folder</span><span style=3D"font-size:11pt;font-family:Arial=
+;color:rgb(0,0,0);background-color:transparent;font-variant-numeric:normal;=
+font-variant-east-asian:normal;vertical-align:baseline;white-space:pre-wrap=
+">, request access at the following link=E2=80=93just do not use it to divi=
+de our country or alliances in any way. Also i=E2=80=99m hacked so the atta=
+ckers could very well delete the email before I ever see it, so if you don=
+=E2=80=99t hear back from me then try again. I just ask you use it for good=
+, use it to bring down the kremlin. (I=E2=80=99m still thinking about expos=
+ing it publicly again tbh, for now you still have got to request access=E2=
+=80=93I=E2=80=99ve got to determine how the info may be used both for good =
+and for evil to decide whether or not to share it publicly again)</span></p=
+><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:=
+0pt"><a href=3D"https://docs.google.com/document/d/1KtnfL3WqWM2PGLCSWt1m4RC=
+GprRhlCzhZkuw0psA3-4/edit#heading=3Dh.6lpjf7x8jzj" style=3D"text-decoration=
+-line:none"><span style=3D"font-size:11pt;font-family:Arial;background-colo=
+r:transparent;font-variant-numeric:normal;font-variant-east-asian:normal;te=
+xt-decoration-line:underline;vertical-align:baseline;white-space:pre-wrap">=
+https://docs.google.com/document/d/1KtnfL3WqWM2PGLCSWt1m4RCGprRhlCzhZkuw0ps=
+A3-4/edit#heading=3Dh.6lpjf7x8jzj</span></a><span style=3D"font-size:11pt;f=
+ont-family:Arial;color:rgb(0,0,0);background-color:transparent;font-variant=
+-numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;whit=
+e-space:pre-wrap">=C2=A0</span></p><br><p dir=3D"ltr" style=3D"line-height:=
+1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;font-f=
+amily:Arial;color:rgb(0,0,0);background-color:transparent;font-variant-nume=
+ric:normal;font-variant-east-asian:normal;vertical-align:baseline;white-spa=
+ce:pre-wrap">My apologies for any inconvenience, I appreciate your understa=
+nding.</span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0p=
+t;margin-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:=
+rgb(0,0,0);background-color:transparent;font-variant-numeric:normal;font-va=
+riant-east-asian:normal;vertical-align:baseline;white-space:pre-wrap">#Unit=
+edWeStand #DividedWeFall </span><span style=3D"font-size:11pt;font-family:A=
+rial;color:rgb(0,0,0);background-color:transparent;font-weight:700;font-var=
+iant-numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;=
+white-space:pre-wrap">#IStandWithUkraine</span><span style=3D"font-size:11p=
+t;font-family:Arial;color:rgb(0,0,0);background-color:transparent;font-vari=
+ant-numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;w=
+hite-space:pre-wrap"> #NobodyIsPerfect #PutinIsEvilAsHell #BewareOfPsycholo=
+gicalManipulation #PsychologyIsAPowerfulTool #NeverGiveUp </span><span styl=
+e=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:tra=
+nsparent;font-weight:700;font-variant-numeric:normal;font-variant-east-asia=
+n:normal;vertical-align:baseline;white-space:pre-wrap">#WeAreAllInThisToget=
+her</span><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);=
+background-color:transparent;font-variant-numeric:normal;font-variant-east-=
+asian:normal;vertical-align:baseline;white-space:pre-wrap"> #Allies #WeGotT=
+his #ActWeakWhenYouAreStrong #ActStrongWhenYouAreWeak</span></p><br><p dir=
+=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span =
+style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color=
+:transparent;font-variant-numeric:normal;font-variant-east-asian:normal;ver=
+tical-align:baseline;white-space:pre-wrap">Thank you,</span></p><p dir=3D"l=
+tr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=
+=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:tran=
+sparent;font-variant-numeric:normal;font-variant-east-asian:normal;vertical=
+-align:baseline;white-space:pre-wrap">Chase Gibbons</span></p><h3 dir=3D"lt=
+r" style=3D"line-height:1.38;margin-top:16pt;margin-bottom:4pt"><span style=
+=3D"font-size:14pt;font-family:Arial;color:rgb(67,67,67);background-color:t=
+ransparent;font-weight:400;font-variant-numeric:normal;font-variant-east-as=
+ian:normal;vertical-align:baseline;white-space:pre-wrap">As of March 10, 20=
+22</span></h3><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margi=
+n-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0=
+,0);background-color:transparent;font-variant-numeric:normal;font-variant-e=
+ast-asian:normal;vertical-align:baseline;white-space:pre-wrap">[Opinion]</s=
+pan></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-=
+bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0=
+);background-color:transparent;font-variant-numeric:normal;font-variant-eas=
+t-asian:normal;vertical-align:baseline;white-space:pre-wrap">I pulled all t=
+he content from this original google drive folder which was open to public =
+viewing yesterday. I don=E2=80=99t know if it was the right move, but my gu=
+t told me it was the right move at the time. I started getting a sense that=
+ someone had leaked this info either to try and cause a lack of confidence =
+in us/cause divisions amongst our allies or else to make it seem as though =
+the United States was attacking its own citizens. (Which goes with Russia=
+=E2=80=99s recent narrative from that NRA chick that she couldn=E2=80=99t b=
+elieve that anyone would bomb their own people, while insinuating that Ukra=
+ine was bombing it=E2=80=99s own citizens=E2=80=93it=E2=80=99s all extremel=
+y coordinated information desemination and whatnot on Russia=E2=80=99s part=
+, it=E2=80=99s all part of their sick and twisted =E2=80=9Cshow=E2=80=9D th=
+ey are putting on) I even started having a surge of people looking into my =
+linkedin profile yesterday out of nowhere too, which I also temporarily dea=
+ctivated, as if the =E2=80=9CJet Airplane Assault=E2=80=9D incident from th=
+e other night was on the verge of becoming published as news or something. =
+I don=E2=80=99t know if pulling everything down was the right move, because=
+ again maybe if all this got out then these people would actually fucking s=
+top harrassing me and my brother might actually face accountability for onc=
+e because everyone would know the truth; and maybe all this would have been=
+ further looked into and further legitimized by the American public.=C2=A0=
+=C2=A0</span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0p=
+t;margin-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:=
+rgb(0,0,0);background-color:transparent;font-variant-numeric:normal;font-va=
+riant-east-asian:normal;vertical-align:baseline;white-space:pre-wrap">So I=
+=E2=80=99m torn on the subject but the last thing I want is to be used by t=
+hese guys to further their information warfare campaign against us and to c=
+ause strategic divisions amongst our allies at such a critical time. These =
+guys do that to literally everyone=E2=80=93they try and manipulate everyone=
+ into doing what=E2=80=99s in their own personal best interest rather than =
+what=E2=80=99s in the best interest of the group. My fear on the other hand=
+ of never letting this information truly get out however is that people wil=
+l never know what I view to be important information, and the attackers wil=
+l continue on all but forgotten, encircled in a shroud of mystery to everyo=
+ne but to those in the highest levels of our government=E2=80=93which could=
+ also prove to be undesirable in my view. So it=E2=80=99s a tough one tbh. =
+I don=E2=80=99t want to undermine our country but I want people to know the=
+ truth.</span></p><br><h3 dir=3D"ltr" style=3D"line-height:1.38;margin-top:=
+16pt;margin-bottom:4pt"><span style=3D"font-size:14pt;font-family:Arial;col=
+or:rgb(67,67,67);background-color:transparent;font-weight:400;font-variant-=
+numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;white=
+-space:pre-wrap">What Putin is Doing</span></h3><p dir=3D"ltr" style=3D"lin=
+e-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11=
+pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;font-var=
+iant-numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;=
+white-space:pre-wrap">[Opinion]</span></p><br><p dir=3D"ltr" style=3D"line-=
+height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt=
+;font-family:Arial;color:rgb(0,0,0);background-color:transparent;font-varia=
+nt-numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;wh=
+ite-space:pre-wrap">Do you want to know what Putin is really doing? People =
+talk about well Putin didn=E2=80=99t plan for occupying Ukraine long term, =
+he=E2=80=99s clearly going to have a hostile people to deal with for years =
+to come in Ukraine, etc, etc. But do you want to know Putin=E2=80=99s way o=
+ut of that? His way out of that is to essentially convince Zelensky to join=
+ Putin rather than to join the European Union and the West. And how he=E2=
+=80=99s going to do that is by leveraging his previous exploitations of the=
+ West to make us look weak by doing shit like what they did to me the other=
+ night which might make our government fear that we might not have full con=
+trol of our military, (if I even was right about that incident) and that we=
+ have our own Russian Sympathizers, etc. and Putin=E2=80=99s hoping that wi=
+ll be interpreted by Zelensky that Democracy can be exploited and that he c=
+an=E2=80=99t fully rely on us as friends. (In reality however, every type o=
+f government can be exploited just as much but in their own unique ways=E2=
+=80=93for every strength there is a weakness=E2=80=93you just have to get i=
+nto that frame of mind and be willing to do exactly that and actually explo=
+it them in every way possible just like they do to us=E2=80=93believe me=E2=
+=80=93I guarantee you these attackers could think of numerous ways to compl=
+etely exploit Putin=E2=80=99s government just as effectively as our democra=
+cy because they can exploit literally anything and everything=E2=80=93we ca=
+n too=E2=80=93that=E2=80=99s the thing. And I assure you we are doing every=
+thing in our power to help Ukraine as much as we possibly can. it=E2=80=99s=
+ actually been really cool to see all the different ways everyone has jumpe=
+d in to try and help=E2=80=93me personally I=E2=80=99ve been helping anonym=
+ous where I can, etc)=C2=A0</span></p><br><p dir=3D"ltr" style=3D"line-heig=
+ht:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;fon=
+t-family:Arial;color:rgb(0,0,0);background-color:transparent;font-variant-n=
+umeric:normal;font-variant-east-asian:normal;vertical-align:baseline;white-=
+space:pre-wrap">But yea, you=E2=80=99ve got to understand gangstalking to u=
+nderstand how this all is ultimately planned to play out.</span></p><br><p =
+dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><sp=
+an style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-co=
+lor:transparent;font-variant-numeric:normal;font-variant-east-asian:normal;=
+vertical-align:baseline;white-space:pre-wrap">Essentially in gangstalking t=
+he attackers ultimately end up rigging it to where it literally feels like =
+everyone is against you, just due to the nature of how extraordinary what t=
+hey are doing to you is, and due to the fact that they are actively manipul=
+ating everyone else in subtle ways too. (Whether everyone else realizes it =
+or not) By creating/exploiting conflicts of interest primarily. It makes it=
+ so a lot of people either don=E2=80=99t fully understand what=E2=80=99s ha=
+ppening, they don=E2=80=99t believe you, they pretend like they don=E2=80=
+=99t believe you, they are scared, or else they seem to only care about the=
+mselves and not care about you from the victim=E2=80=99s point of view. Eve=
+ryone you thought you knew and everyone you thought you could rely on seem =
+to not care anymore almost. And so after a while the smartest people in the=
+ room seem to be the attackers over everyone else=E2=80=93they are the only=
+ ones who seem to truly get it. Like the attackers at least get what you ar=
+e going through and believe you in regards to all the manipulation going on=
+ when nobody else really will=E2=80=93do to the attackers making it in ever=
+yone else=E2=80=99s best interest not to help you. But even beyond that, th=
+e attackers begin to show they can at least make it better or make it stop =
+(temporarily) for you=E2=80=93when nobody else can make it stop=E2=80=93eve=
+n though the attackers are the ones freaking doing all this fucked up shit =
+to you. (But in reality it=E2=80=99s a trap, what they are really doing is =
+just manipulating you to do what they want you to do in that very moment th=
+ey need something from you and the next time they want something from you o=
+r even just they next time they want to show their dominance over you then =
+they are right back on top of you=E2=80=93so it=E2=80=99s not a real soluti=
+on to work with them=E2=80=93at least in my experiences it hasn=E2=80=99t b=
+een=E2=80=93they are fucking ruthless and unforgiving and very transactiona=
+l in nature=E2=80=93but they will never stop trying to manipulate you regar=
+dless of whether you work with them or not) So over time, you end up being =
+faced with a hard road and an easy road=E2=80=93but the easy road is a trap=
+ every fucking time=E2=80=93it=E2=80=99s like selling your soul to the devi=
+l pretty much at best=E2=80=93but it sure is tempting nonetheless.</span></=
+p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom=
+:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);back=
+ground-color:transparent;font-variant-numeric:normal;font-variant-east-asia=
+n:normal;vertical-align:baseline;white-space:pre-wrap">That has got to be P=
+utin=E2=80=99s plan for Zelensky, which is to get him to turn on the West e=
+ssentially. To get Zelensky to work out a deal with the devil. That way all=
+ Zelensky=E2=80=99s citizens become a non issue for Putin and that way Puti=
+n begins his takeover of more than just Ukraine by influencing public opini=
+on throughout the world using his new proxy. MEANWHILE PUTIN IS USING THIS =
+WHOLE ORDEAL TO TARGET OUR HACKERS FOR HIS TAKEOVER OF THE USA. </span><spa=
+n style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-col=
+or:transparent;font-variant-numeric:normal;font-variant-east-asian:normal;t=
+ext-decoration-line:underline;vertical-align:baseline;white-space:pre-wrap"=
+>What we need to do to combat all this is to continue to support Zelensky d=
+aily no matter what</span><span style=3D"font-size:11pt;font-family:Arial;c=
+olor:rgb(0,0,0);background-color:transparent;font-variant-numeric:normal;fo=
+nt-variant-east-asian:normal;vertical-align:baseline;white-space:pre-wrap">=
+. We need to make some concessions and get him those migs so as to get ever=
+ything back on track. And we need to stop freaking saying we will or won=E2=
+=80=99t do something beforehand=E2=80=93don=E2=80=99t let Putin know what w=
+e will or won=E2=80=99t do so it remains a mystery to him. (You can always =
+reverse course tho too) But yea, </span><span style=3D"font-size:11pt;font-=
+family:Arial;color:rgb(0,0,0);background-color:transparent;font-style:itali=
+c;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoratio=
+n-line:underline;vertical-align:baseline;white-space:pre-wrap">n</span><spa=
+n style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-col=
+or:transparent;font-variant-numeric:normal;font-variant-east-asian:normal;t=
+ext-decoration-line:underline;vertical-align:baseline;white-space:pre-wrap"=
+>ever let Zelensky think he doesn&#39;t have our full support to the most e=
+xtent possible=E2=80=93regardless of how much Putin tries to manipulate us =
+or him=E2=80=93this is everyone=E2=80=99s entire future we are talking abou=
+t here after all.</span><span style=3D"font-size:11pt;font-family:Arial;col=
+or:rgb(0,0,0);background-color:transparent;font-variant-numeric:normal;font=
+-variant-east-asian:normal;vertical-align:baseline;white-space:pre-wrap"> N=
+obody wants to live under a brutal dictator/organized crime mafia ring for =
+the rest of eternity. Also=E2=80=93do something about the Russians now targ=
+eting our hackers please. If we lose them we will lose ourselves.</span></p=
+><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:=
+0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);backg=
+round-color:transparent;font-variant-numeric:normal;font-variant-east-asian=
+:normal;vertical-align:baseline;white-space:pre-wrap">The shit with the jet=
+ airplane is just an attempt for Putin to manipulate our president into bei=
+ng submissive if you ask me. If you let him, guess what he=E2=80=99s going =
+to do? He=E2=80=99ll keep doing it and go even harder on it next time too. =
+At the end of the day these Trumper Russian proxy guys aren=E2=80=99t going=
+ to do anything bad to their own hometowns nor their fellow troops=E2=80=93=
+I mean like beyond maybe discreetly going after one person at a time who th=
+ey are led to believe might have a different political ideology than them o=
+r that they are directed to. But beyond that, I don=E2=80=99t see Putin=E2=
+=80=99s proxies as being that reliable to Putin when it all comes down to i=
+t tbh. Nobody=E2=80=99s going to blow up their own hometown or even allow t=
+heir hometown to be blown up or anything like that. They might try and unde=
+rmine some things but they aren=E2=80=99t that big a deal tbh. It=E2=80=99s=
+ all a perception/illusion=E2=80=93it=E2=80=99s designed to get to you. I=
+=E2=80=99d guess people like that are by far the minority anyways, but it w=
+ould be wise to figure out just how many of them there really are by doing =
+our own investigation into it. Because if you just rely on them acting out =
+then they will make it appear as though everyone is in on it=E2=80=93when i=
+n reality that is far from the truth. None of the proxies are going to foll=
+ow any orders from Putin that might affect anyone they know or like period =
+anyways. That=E2=80=99s the difference between say a foreign spy and a fore=
+ign proxy. The foreign proxy has boundaries in regards to who they will und=
+ermine and how far they will go=E2=80=93a lot of them might be looking for =
+a way out tbh. Plus, worst case you can just make it personal to the proxie=
+s, do what Putin does but in reverse. Make it so they have to sell their ot=
+her proxies out to save themselves. The churches and the communities themse=
+lves need to start working on this issue in their communities as well howev=
+er, in my opinion, to ensure people don=E2=80=99t continue to get radicaliz=
+ed. Because that=E2=80=99s what it is=E2=80=93radicalization=E2=80=93just i=
+n a slightly different slightly easier to reach form, as compared to full b=
+lown terrorist radicalization.</span></p><br><p dir=3D"ltr" style=3D"line-h=
+eight:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;=
+font-family:Arial;color:rgb(0,0,0);background-color:transparent;font-varian=
+t-numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;whi=
+te-space:pre-wrap">In a way Putin is targeting our executive branch with hi=
+s psychological manipulation just as much or more than he targets everyone =
+else. It would really be wise for everyone making decisions in our governme=
+nt and our allies government=E2=80=99s to read/listen to a book or two on =
+=E2=80=9Cpsychology and manipulation=E2=80=9D btw before determining how to=
+ proceed and protect ourselves going forward. (i.e. Don=E2=80=99t let their=
+ psychological mind control games defeat you)</span></p><br><p dir=3D"ltr" =
+style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"=
+font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transpar=
+ent;font-variant-numeric:normal;font-variant-east-asian:normal;vertical-ali=
+gn:baseline;white-space:pre-wrap">I fundamentally now believe that =E2=80=
+=9CHitlerism=E2=80=9D is very much rooted in psychology. It=E2=80=99s about=
+ people realizing the power of psychology/manipulation and then using it to=
+ get what they want no matter what they have to convince the broader popula=
+tion of. They go after the perceived =E2=80=9Cweak=E2=80=9D links. And sadl=
+y I am viewed as a weak link whereas I live alone in a mormon community whe=
+n I=E2=80=99m not mormon; and thanks to history, jewish people are viewed a=
+s weak too sadly. The Russians saying they are going after nazis is such a =
+slap in the face tbh, when Zelensky is a jewish man himself, but it=E2=80=
+=99s common psychological manipulation tactics both in hitler=E2=80=99s tim=
+e and in the current day and age apparently. It pisses me off. I fully beli=
+eve both Hitler and Putin might have done this to anybody that they viewed =
+as =E2=80=9Cweak=E2=80=9D though, the fact Putin is doing it against the le=
+ader of a free country who happens to be jewish is just such a slap in the =
+face. And how you get to where they won=E2=80=99t view you as weak is to le=
+arn psychology, band together, call out their manipulation, STAND UP TO THE=
+ BULLY, and to start applying these same concepts right back at them from w=
+hat I=E2=80=99ve found. At least in Zelensky=E2=80=99s case he still has a =
+ton of support from pretty much everyone in this world besides Putin, and p=
+retty much everyone are actually willing to help him in fighting back in wh=
+atever way they can, but conversely that means if Zelensky ever decides to =
+join Putin to save his people then he could easily bring other countries wi=
+th him=E2=80=93I promise you=E2=80=93it=E2=80=99s psychology.</span></p><br=
+><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"=
+><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);backgroun=
+d-color:transparent;font-variant-numeric:normal;font-variant-east-asian:nor=
+mal;vertical-align:baseline;white-space:pre-wrap">Two more things I think a=
+re important for anyone reading this to know.=C2=A0</span></p><br><p dir=3D=
+"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span sty=
+le=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:tr=
+ansparent;font-variant-numeric:normal;font-variant-east-asian:normal;vertic=
+al-align:baseline;white-space:pre-wrap">First, how to accomplish the =E2=80=
+=9Cthinking 2-3 steps ahead=E2=80=9D illusion. The Russians seem to be smar=
+t and seem to have the ability to think 2-3 steps ahead. But in reality wha=
+t is really happening is they are using reflexive control theory to first s=
+et up a pretext and then to trigger you in a way they can predict your reac=
+tion to, and based on their predicted reaction of what they think you will =
+do when they trigger you, they will then think about how they will be able =
+to exploit your most probable reaction to their triggering you=E2=80=93and =
+whether that would benefit them or not=E2=80=93before they ever even trigge=
+r you to begin with. And if they decide your most probable reaction is expl=
+oitable in a fashion that suits them=E2=80=93then they go forward with sett=
+ing up the pretext and triggering you while banking on your reaction being =
+what they=E2=80=99d expect. That=E2=80=99s literally how it works. From you=
+r perspective it seems as though they are smart as hell and they are thinki=
+ng two to three steps ahead, and in reality it=E2=80=99s technically kinda =
+sorta true, but it=E2=80=99s a lot easier to do than one might think when y=
+ou are the one doing the psychological triggering. From there you can take =
+it and chain it, like okay if I set up this pretext and I trigger Putin in =
+this way, his most probable reaction is he=E2=80=99ll likely respond in thi=
+s way. And if he responds in this way will I then be able to take advantage=
+ of his response and use it to further exploit him? I=E2=80=99m just giving=
+ an example of how their thinking 2-3 steps ahead theoretically works. Info=
+rmation gathering definitely comes into play here as well though, informati=
+on is power and it enables you to do this reflexive control theory stuff a =
+lot more effectively, the more information you have the better.</span></p><=
+br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0p=
+t"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);backgro=
+und-color:transparent;font-variant-numeric:normal;font-variant-east-asian:n=
+ormal;vertical-align:baseline;white-space:pre-wrap">Secondly I want to give=
+ you a quick example of how they exploit vulnerabilities in anything and ev=
+erything, and how it=E2=80=99s possible for you to do the same. The attacke=
+rs whom I now believe to be Russian proxies including my very own brother f=
+irst started targeting me using social engineering. My brother took advanta=
+ge of the trust I had for him while playing like he still loved me and he u=
+sed my love for him as a vulnerability for him to exploit essentially. Once=
+ they got access to my network they began monitoring it and looking for oth=
+er vulnerabilities to exploit while doing recon. I won=E2=80=99t get into a=
+ll the details but fast forward and they begin emf-ing me. I ultimately fig=
+ure out how to get their emfs to no longer bother me by creating a makeshif=
+t faraday cage that was connected to a ground. As soon as they found out th=
+eir attacks were no longer bothering me, they moved to another type of emf =
+like ef or rf that went right through the grounded metal. So then I had to =
+figure out what was going on and I ended up adding an existing electrical c=
+urrent flowing through the faraday cage to try and combat their latest expl=
+oit. And then ultimately they realized they couldn=E2=80=99t get through wi=
+th any light based directed energy weapon anymore=E2=80=94so they then swit=
+ched to using infrasound at that point instead=E2=80=94which went right thr=
+ough my faraday cage without issue because it was technically another vulne=
+rability yet again. So then I figured out what the hell infrasound was and =
+I figured out you need this foam shit to stop it, and I added that foam stu=
+ff to the faraday cage to block the infrasound as well at that point. But n=
+ow I created another vulnerability in adding sound proofing, any ideas what=
+ it was? The vulnerability at that point was well now that my enclosure was=
+ fully covered with few air gaps to keep the sound waves out=E2=80=94they t=
+hen started gassing me while I was in there which completely terrified me a=
+nd made me scared to even seek shelter in my faraday cage anymore whatsoeve=
+r=E2=80=94leaving me totally exposed again. They would essentially use my n=
+ew protections as a new vulnerability to exploit, each step along the way, =
+etc, etc. And as things have continued forward, they=E2=80=99ve even figure=
+d out how to add some nano tech to the inside of the faraday cage that allo=
+ws them to pull power from the outer faraday cage shell and redirect it to =
+emf me on the inside before the power is ever grounded, which effectively m=
+ade my faraday cage useless yet again. And on, and on, and on, all the way =
+to the other night=E2=80=93and that=E2=80=99s just one broad example. How t=
+hey broke in my house repeatedly was very similar in their constant exploit=
+ing of different vulnerabilities and mostly getting away with little to no =
+evidence of their presence. Moral of the story is there are vulnerabilities=
+ everywhere in literally everything and on each step of the way there might=
+ be new vulnerabilities=E2=80=94all of which can be exploited=E2=80=93and i=
+t doesn=E2=80=99t take the most powerful country in the world to find them =
+and to exploit them either=E2=80=94it just takes a certain mindset is all.<=
+/span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margi=
+n-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0=
+,0);background-color:transparent;font-variant-numeric:normal;font-variant-e=
+ast-asian:normal;vertical-align:baseline;white-space:pre-wrap">Just wanted =
+to share some lessons learned in case it might help anybody in their delibe=
+rations. These are all my own personal opinions based on my own personal ex=
+periences with these guys and how they operate, just know I=E2=80=99m just =
+trying to help. For the record, I=E2=80=99m for doing everything we can to =
+help Ukraine </span><span style=3D"font-size:11pt;font-family:Arial;color:r=
+gb(0,0,0);background-color:transparent;font-weight:700;font-variant-numeric=
+:normal;font-variant-east-asian:normal;text-decoration-line:underline;verti=
+cal-align:baseline;white-space:pre-wrap">before we lose support from Ukrain=
+e,</span><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);b=
+ackground-color:transparent;font-variant-numeric:normal;font-variant-east-a=
+sian:normal;vertical-align:baseline;white-space:pre-wrap"> before Russia in=
+timidates the whole world, and before Russia becomes even more ruthless and=
+ powerful than they already are. Just make sure we have a good excuse for g=
+oing in there is all I=E2=80=99d say=E2=80=94but we can=E2=80=99t let Russi=
+a intimidate us. The whole world is watching. Ukrainians are dying and they=
+ desperately need our help. Putin wouldn=E2=80=99t be trying to intimidate =
+us into staying out of it if he wanted us to join in. It=E2=80=99s normally=
+ best to do what they don=E2=80=99t want you to do, although they will adap=
+t and they will continue these same psychological baiting tactics each step=
+ of the way regardless of what we choose to do. I think it will bring us al=
+l closer together too=E2=80=94which is key.</span></p><br><h3 dir=3D"ltr" s=
+tyle=3D"line-height:1.38;margin-top:16pt;margin-bottom:4pt"><span style=3D"=
+font-size:14pt;font-family:Arial;color:rgb(67,67,67);background-color:trans=
+parent;font-weight:400;font-variant-numeric:normal;font-variant-east-asian:=
+normal;vertical-align:baseline;white-space:pre-wrap"><span style=3D"width:1=
+00px;display:inline-block"></span></span></h3><h3 dir=3D"ltr" style=3D"line=
+-height:1.38;margin-top:16pt;margin-bottom:4pt"><span style=3D"font-size:14=
+pt;font-family:Arial;color:rgb(67,67,67);background-color:transparent;font-=
+weight:400;font-variant-numeric:normal;font-variant-east-asian:normal;verti=
+cal-align:baseline;white-space:pre-wrap">Final Answer</span></h3><br><p dir=
+=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span =
+style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color=
+:transparent;font-variant-numeric:normal;font-variant-east-asian:normal;ver=
+tical-align:baseline;white-space:pre-wrap"><span style=3D"border:none;displ=
+ay:inline-block;overflow:hidden;width:191px;height:415px"><img src=3D"https=
+://lh4.googleusercontent.com/j19QYZJT0TxCDW2X5KLCTykF3DEFzi5njQrRmK1ozaR5JH=
+S3Vox-OiVo7sObIqxdfGi6YR96kx_-Y0N2vVc4MClLdDBp3Bf77l8OsM7SwAqPug6BYgQ5Cl2e4=
+4zbvlW4adFOipmf" width=3D"191" height=3D"415" style=3D"margin-left: 0px; ma=
+rgin-top: 0px;"></span></span><span style=3D"font-size:11pt;font-family:Ari=
+al;color:rgb(0,0,0);background-color:transparent;font-variant-numeric:norma=
+l;font-variant-east-asian:normal;vertical-align:baseline;white-space:pre-wr=
+ap">(see google docs comment on photo as well)</span></p><br><p dir=3D"ltr"=
+ style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D=
+"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transpa=
+rent;font-variant-numeric:normal;font-variant-east-asian:normal;vertical-al=
+ign:baseline;white-space:pre-wrap">I think if we want to have a country we=
+=E2=80=99ve got to help Zelensky/his people in Ukraine and soon even if it =
+means a proxy war with Russia. We really are to that point. That will also =
+help in ridding ourselves of Russian assets/proxies/influence. The alternat=
+ive could very well ultimately prove defeat. (References hidden for now)</s=
+pan></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-=
+bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0=
+);background-color:transparent;font-variant-numeric:normal;font-variant-eas=
+t-asian:normal;vertical-align:baseline;white-space:pre-wrap">I decided to r=
+e-post all this new less sensitive stuff here to try to help everyone make =
+their own decisions accordingly, I didn=E2=80=99t want to come off as I was=
+ turning my back on anyone either=E2=80=93especially our allies. The truth =
+isn=E2=80=99t always pretty but it=E2=80=99s best if we all know both ourse=
+lves and our enemies so we can make the best decisions possible and so that=
+ we can all know what is truly at stake.</span></p><br><p dir=3D"ltr" style=
+=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-=
+size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;f=
+ont-variant-numeric:normal;font-variant-east-asian:normal;vertical-align:ba=
+seline;white-space:pre-wrap">The real question is do you want to be known f=
+or being responsible for a tyrant possibly defeating the free world to crea=
+te a new world order without so much as a fight? Or do you want to be known=
+ for fighting for freedom=E2=80=93regardless of what people may say later? =
+That=E2=80=99s the real question. My brother hasn=E2=80=99t pulled the nuke=
+ card on me yet, I don=E2=80=99t think Putin will either.</span></p><br><p =
+dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><sp=
+an style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-co=
+lor:transparent;font-variant-numeric:normal;font-variant-east-asian:normal;=
+vertical-align:baseline;white-space:pre-wrap">The tide is totally in our fa=
+vor right now=E2=80=93we=E2=80=99ve got to make the most of it. Shit I=E2=
+=80=99ll even put my money where my mouth is and I&#39;ll even go help figh=
+t. (Once i drop the microchip)</span></p><br><p dir=3D"ltr" style=3D"line-h=
+eight:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;=
+font-family:Arial;color:rgb(0,0,0);background-color:transparent;font-weight=
+:700;font-variant-numeric:normal;font-variant-east-asian:normal;vertical-al=
+ign:baseline;white-space:pre-wrap">I=E2=80=99ve now seen evidence Russia co=
+uld indeed be targeting our hackers now as part of a =E2=80=9Cspread the wo=
+rd to Russians=E2=80=9D campaign. (False flag/Reverse psychology operation)=
+ See references below.</span></p><br><p dir=3D"ltr" style=3D"line-height:1.=
+38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;font-fam=
+ily:Arial;color:rgb(0,0,0);background-color:transparent;font-weight:700;fon=
+t-variant-numeric:normal;font-variant-east-asian:normal;vertical-align:base=
+line;white-space:pre-wrap">Please you guys=E2=80=93we are running out of ti=
+me. They are putting the pressure on Zelensky to fold. He won=E2=80=99t fol=
+d if we just stand up to these Russian bullies and do what=E2=80=99s right=
+=E2=80=93what=E2=80=99s right also happens to be what the world really need=
+s us to do right now. They are targeting our hackers right now I swear. Wha=
+t are we going to do once they have infiltrated over half of our freaking c=
+ritical sectors? At some point people are going to find out and they are go=
+ing to be faced with a choice of whether it=E2=80=99s already too late or n=
+ot to try and fight back. I cannot stress the stakes of all this enough. I =
+likely won=E2=80=99t make it through much longer myself tbh, either way, bu=
+t at least this way our future generations will have a chance at living fre=
+e. We need to come together. The only way we are ever going to come togethe=
+r at this point is if we stand up to Putin.=C2=A0</span></p><br><p dir=3D"l=
+tr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=
+=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:tran=
+sparent;font-weight:700;font-variant-numeric:normal;font-variant-east-asian=
+:normal;text-decoration-line:underline;vertical-align:baseline;white-space:=
+pre-wrap">I think the Russians are trying to make Joe Biden be the =E2=80=
+=9Cfall guy=E2=80=9D for Trump tbh.</span></p><br><p dir=3D"ltr" style=3D"l=
+ine-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:=
+11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;font-w=
+eight:700;font-variant-numeric:normal;font-variant-east-asian:normal;vertic=
+al-align:baseline;white-space:pre-wrap">The Russians are literally banking =
+on us not sending those migs. We need to make some concessions to our allie=
+s and get them the damn jets. (discretely) The key is to keep Zelensky happ=
+y. We need to show leadership tho. Why else would Russia be willing to take=
+ on so many sanctions right now if they weren=E2=80=99t banking on defeatin=
+g us from within? Why else would they not have taken out Zelensky yet if th=
+ey weren=E2=80=99t banking on gaining his support to avoid a never ending w=
+ar? There=E2=80=99s no good legitimate reason. Russia has fooled us for lon=
+g enough. Zelensky is an ally we really really need just as much as he need=
+s us and he is honestly an awesome ally to have. It=E2=80=99s time we help =
+him save his people. It won=E2=80=99t be easy but it=E2=80=99ll be worth it=
+ in the end. I=E2=80=99m pretty positive I was just proven right about pret=
+ty much everything in Russia=E2=80=99s latest attempt to use me to send you=
+ guys a signal about our military and the jets the other day=E2=80=94now I =
+really need you to believe me about this. I feel highly confident in this f=
+inal determination of Russia=E2=80=99s true intent btw.=C2=A0</span></p><br=
+><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"=
+><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);backgroun=
+d-color:transparent;font-weight:700;font-variant-numeric:normal;font-varian=
+t-east-asian:normal;vertical-align:baseline;white-space:pre-wrap">P.s. You =
+guys, do you want to know my ultimate hope? My ultimate hope is we defeat t=
+he kremlin and free all the people under its control. The kremlin only know=
+s negative reinforcement, they do not know positive reinforcement. I have l=
+ittle doubt that a lot of our fellow colleagues will thank us later for it =
+later if so. A lot of Russia&#39;s proxies are actually victims to the krem=
+lin themselves. And plus, I really want to see my brother again someday. I =
+still think he has time to make up for anything he may have done previously=
+.=C2=A0</span></p><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;m=
+argin-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb=
+(0,0,0);background-color:transparent;font-weight:700;font-variant-numeric:n=
+ormal;font-variant-east-asian:normal;vertical-align:baseline;white-space:pr=
+e-wrap">=F0=9F=A4=9E=F0=9F=A4=9E=F0=9F=A4=9E</span></p><br><p dir=3D"ltr" s=
+tyle=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"f=
+ont-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transpare=
+nt;font-weight:700;font-variant-numeric:normal;font-variant-east-asian:norm=
+al;vertical-align:baseline;white-space:pre-wrap">Last thought, if we don=E2=
+=80=99t act soon we may never be free.</span></p><br><p dir=3D"ltr" style=
+=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-=
+size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;f=
+ont-weight:700;font-variant-numeric:normal;font-variant-east-asian:normal;v=
+ertical-align:baseline;white-space:pre-wrap">#IStandWithUkraine #AmericaSta=
+ndsWithUkraine #TheWorldStandsWithUkraine #TruthIsStrangerThanFiction #Figh=
+tForFreedom=C2=A0</span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;ma=
+rgin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;font-family:A=
+rial;color:rgb(0,0,0);background-color:transparent;font-weight:700;font-var=
+iant-numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;=
+white-space:pre-wrap">Thank you,</span></p><p dir=3D"ltr" style=3D"line-hei=
+ght:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;fo=
+nt-family:Arial;color:rgb(0,0,0);background-color:transparent;font-weight:7=
+00;font-variant-numeric:normal;font-variant-east-asian:normal;vertical-alig=
+n:baseline;white-space:pre-wrap">Chase G</span></p><br><p dir=3D"ltr" style=
+=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-=
+size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;f=
+ont-weight:700;font-variant-numeric:normal;font-variant-east-asian:normal;v=
+ertical-align:baseline;white-space:pre-wrap">=F0=9F=99=8F=F0=9F=99=8F=F0=9F=
+=99=8F</span></p><h3 dir=3D"ltr" style=3D"line-height:1.38;margin-top:16pt;=
+margin-bottom:4pt"><span style=3D"font-size:14pt;font-family:Arial;color:rg=
+b(67,67,67);background-color:transparent;font-weight:400;font-variant-numer=
+ic:normal;font-variant-east-asian:normal;vertical-align:baseline;white-spac=
+e:pre-wrap">References</span></h3><p dir=3D"ltr" style=3D"line-height:1.38;=
+margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;font-family=
+:Arial;color:rgb(0,0,0);background-color:transparent;font-weight:700;font-v=
+ariant-numeric:normal;font-variant-east-asian:normal;vertical-align:baselin=
+e;white-space:pre-wrap"><span style=3D"border:none;display:inline-block;ove=
+rflow:hidden;width:624px;height:824px"><img src=3D"https://lh6.googleuserco=
+ntent.com/WySzhTacTfBlJRiJvYKGkcgnSXA7lVHl1eI8ogIwbJaAyRoOlYR8SAi77gaZeXEOA=
+e7cQpQIALu8oNI59nFLgod1IY3wvtlYOOw8d6BedUUzTffchtRuTxOH06hYTsBkUJYRxS-Z" wi=
+dth=3D"624" height=3D"824" style=3D"margin-left: 0px; margin-top: 0px;"></s=
+pan></span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;=
+margin-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rg=
+b(0,0,0);background-color:transparent;font-weight:700;font-variant-numeric:=
+normal;font-variant-east-asian:normal;vertical-align:baseline;white-space:p=
+re-wrap"><span style=3D"border:none;display:inline-block;overflow:hidden;wi=
+dth:624px;height:832px"><img src=3D"https://lh4.googleusercontent.com/-icz6=
+nXsfpmGhFNB-5uhalzFC-3q8dmtb3p_vIowdYPaGqObuS7yQxUQMwyTvmKWQb3kWIfi5Ng1JDxx=
+5OQ6BzHLojojek-YBjzDpEQiGVXZC_Xo8eWInxSByamBajQbm4DvUTVG" width=3D"624" hei=
+ght=3D"832" style=3D"margin-left: 0px; margin-top: 0px;"></span></span></p>=
+<br><div dir=3D"ltr" style=3D"margin-left:0.75pt" align=3D"left"><table sty=
+le=3D"border:none;border-collapse:collapse"><colgroup><col width=3D"311"><c=
+ol width=3D"312"></colgroup><tbody><tr style=3D"height:0pt"><td style=3D"bo=
+rder-width:1pt;border-style:solid;border-color:rgb(0,0,0);vertical-align:to=
+p;padding:5pt;overflow:hidden"><p dir=3D"ltr" style=3D"line-height:1.38;tex=
+t-align:center;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:1=
+1pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;font-we=
+ight:700;font-variant-numeric:normal;font-variant-east-asian:normal;vertica=
+l-align:baseline;white-space:pre-wrap"><span style=3D"border:none;display:i=
+nline-block;overflow:hidden;width:298px;height:308px"><img src=3D"https://l=
+h5.googleusercontent.com/W4B0oGolC1ivS8ah_ihe78p4vive0V2CFK7_mUwfue60XxbAxS=
+b6TWDiBh28W_WUZ5bB4pATDUibCVwQfUGYbyuHa1VRm4qJxLO4WXg1R0cQRXR367X6KCYniSF8W=
+QGIdCVEACdY" width=3D"298" height=3D"308" style=3D"margin-left: 0px; margin=
+-top: 0px;"></span></span></p></td><td style=3D"border-width:1pt;border-sty=
+le:solid;border-color:rgb(0,0,0);vertical-align:top;padding:5pt;overflow:hi=
+dden"><p dir=3D"ltr" style=3D"line-height:1.2;margin-top:0pt;margin-bottom:=
+0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);backg=
+round-color:transparent;font-variant-numeric:normal;font-variant-east-asian=
+:normal;vertical-align:baseline;white-space:pre-wrap">This is fake. I was a=
+ble to get behind their cloudflare account so that means Russia could as we=
+ll if it really wanted to. Plus those numbers look fake as hell and in real=
+ charts it=E2=80=99s normally a lot more spread out than that because Russi=
+a itself uses servers in other countries, etc, etc.</span></p></td></tr><tr=
+ style=3D"height:0pt"><td style=3D"border-width:1pt;border-style:solid;bord=
+er-color:rgb(0,0,0);vertical-align:top;padding:5pt;overflow:hidden"><p dir=
+=3D"ltr" style=3D"line-height:1.38;text-align:center;margin-top:0pt;margin-=
+bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0=
+);background-color:transparent;font-weight:700;font-variant-numeric:normal;=
+font-variant-east-asian:normal;vertical-align:baseline;white-space:pre-wrap=
+"><span style=3D"border:none;display:inline-block;overflow:hidden;width:298=
+px;height:367px"><img src=3D"https://lh4.googleusercontent.com/mwyRG0AnYGOm=
+2GeFKRry0v_47IBx5B-rKcBtXxX1jH0M8T-6yuLwD01X5A5BUnnyufF_2RUmMHEDf6NuJeZ6g5V=
+lyvqlzUsVK-h_KbzPcme5m0T3PgFeCM4YAN7N00h1UioUwu-m" width=3D"298" height=3D"=
+367" style=3D"margin-left: 0px; margin-top: 0px;"></span></span></p></td><t=
+d style=3D"border-width:1pt;border-style:solid;border-color:rgb(0,0,0);vert=
+ical-align:top;padding:5pt;overflow:hidden"><p dir=3D"ltr" style=3D"line-he=
+ight:1.2;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;fo=
+nt-family:Arial;color:rgb(0,0,0);background-color:transparent;font-variant-=
+numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;white=
+-space:pre-wrap">This is indicative of a Russian social media troll farm ac=
+count. 14.9k followers in something like 7 days for a brand new account/ali=
+as. What they are doing is cataloging our dissenters through a massive hone=
+ypot operation and getting evidence on them for breaking Putin=E2=80=99s ne=
+w law.. (You know, cuz Putin is about to defeat us from within as I=E2=80=
+=99ve been saying=E2=80=9315 years penalty for each person they catch in tr=
+aps like this) </span><a href=3D"https://1920.in" style=3D"text-decoration-=
+line:none"><span style=3D"font-size:11pt;font-family:Arial;background-color=
+:transparent;font-variant-numeric:normal;font-variant-east-asian:normal;tex=
+t-decoration-line:underline;vertical-align:baseline;white-space:pre-wrap">h=
+ttps://1920.in</span></a><span style=3D"font-size:11pt;font-family:Arial;co=
+lor:rgb(0,0,0);background-color:transparent;font-variant-numeric:normal;fon=
+t-variant-east-asian:normal;vertical-align:baseline;white-space:pre-wrap"> =
+&amp; </span><a href=3D"https://mail.1920.in" style=3D"text-decoration-line=
+:none"><span style=3D"font-size:11pt;font-family:Arial;background-color:tra=
+nsparent;font-variant-numeric:normal;font-variant-east-asian:normal;text-de=
+coration-line:underline;vertical-align:baseline;white-space:pre-wrap">https=
+://mail.1920.in</span></a><span style=3D"font-size:11pt;font-family:Arial;c=
+olor:rgb(0,0,0);background-color:transparent;font-variant-numeric:normal;fo=
+nt-variant-east-asian:normal;vertical-align:baseline;white-space:pre-wrap">=
+=C2=A0</span></p></td></tr><tr style=3D"height:0pt"><td style=3D"border-wid=
+th:1pt;border-style:solid;border-color:rgb(0,0,0);vertical-align:top;paddin=
+g:5pt;overflow:hidden"><p dir=3D"ltr" style=3D"line-height:1.38;text-align:=
+center;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;font=
+-family:Arial;color:rgb(0,0,0);background-color:transparent;font-weight:700=
+;font-variant-numeric:normal;font-variant-east-asian:normal;vertical-align:=
+baseline;white-space:pre-wrap"><span style=3D"border:none;display:inline-bl=
+ock;overflow:hidden;width:297px;height:295px"><img src=3D"https://lh5.googl=
+eusercontent.com/NOTPdy0huCZjtEyZCoVQyRnLms1F_SFpTbj19T_Keka13yi5FWThk0DqM1=
+WMW7zfG-W1LZ8dJFyjiKYtsyvFtAM_v_LtJpUJTMPn8XFAfy4VnKcmGKOtEH6H-NrDP3ouAKrB7=
+Ev-" width=3D"297" height=3D"295" style=3D"margin-left: 0px; margin-top: 0p=
+x;"></span></span></p></td><td style=3D"border-width:1pt;border-style:solid=
+;border-color:rgb(0,0,0);vertical-align:top;padding:5pt;overflow:hidden"><p=
+ dir=3D"ltr" style=3D"line-height:1.2;margin-top:0pt;margin-bottom:0pt"><sp=
+an style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-co=
+lor:transparent;font-variant-numeric:normal;font-variant-east-asian:normal;=
+vertical-align:baseline;white-space:pre-wrap">Look how professional their s=
+eo is. And how fast they freaking grew. Their social media troll farms are =
+still healthy and doing as well as ever=E2=80=93arguably better than ever=
+=E2=80=93it looks like they finally managed to corrupt some western ui/ux p=
+eople and some social media experts against us or something. (They are now =
+working on corrupting the left) This is the problem. And yet we do nothing.=
+ We do nothing about this nor their hacking and strategically corrupting ou=
+r entire fucking society. According to you guys if Russia attacks any NATO =
+country then we will have to respond, that doesn=E2=80=99t hold any fucking=
+ water when they are already fucking attacking us in every possible way bes=
+ides using real-life bombs and whatnot and yet we have still yet to fucking=
+ acknowledge it or respond. It makes it seem like our alliance is a fucking=
+ joke. It=E2=80=99s not hard for Putin to exploit this vulnerability of our=
+s and make us look foolish as an alliance. He did the same thing with Ukrai=
+ne. The real alliance should be any god damn democracy rather than only a s=
+elect few, democracy vs dictatorship is the real battle that=E2=80=99s play=
+ing out in this world after all. Then maybe they wouldn=E2=80=99t have atta=
+cked Ukraine in the first place. And now we are on the verge of defeat and =
+you guys still won=E2=80=99t recognize the fact that they are fucking attac=
+king us. All they have to do is continue on this path, defeat America, and =
+every other democracy in the world will fall. And yet they are doing this t=
+o everyone. (Trust me, I researched Brexit social media dissemination and I=
+ can tell something similar is up with Australia, etc, etc) It=E2=80=99s no=
+t that democracies suck, it=E2=80=99s that we aren=E2=80=99t fucking aggres=
+sive enough and haven=E2=80=99t been taking hints from what Putin is doing =
+and responding in kind. And any person who is elected who is actually aggre=
+ssive enough is already a Putin proxy. (From 2016 onwards I mean, there=E2=
+=80=99s no way that anyone is going to beat out Trump for the Republican no=
+mination in 2024. We are currently engaged in the battle of our lives=E2=80=
+=93and we won=E2=80=99t even fucking recognize it) All those people who die=
+d for freedom will have died in vain.</span></p></td></tr></tbody></table><=
+/div><br><br><br><div dir=3D"ltr" style=3D"margin-left:0pt" align=3D"left">=
+<table style=3D"border:none;border-collapse:collapse;table-layout:fixed;wid=
+th:468pt"><colgroup><col></colgroup><tbody><tr style=3D"height:0pt"><td sty=
+le=3D"border-width:1pt;border-style:solid;border-color:rgb(0,0,0);vertical-=
+align:top;padding:5pt;overflow:hidden"><p dir=3D"ltr" style=3D"line-height:=
+1.38;text-align:center;margin-top:0pt;margin-bottom:0pt"><span style=3D"fon=
+t-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent=
+;font-weight:700;font-variant-numeric:normal;font-variant-east-asian:normal=
+;vertical-align:baseline;white-space:pre-wrap"><span style=3D"border:none;d=
+isplay:inline-block;overflow:hidden;width:568px;height:426px"><img src=3D"h=
+ttps://lh5.googleusercontent.com/oqUO_SPNJSBIhlUYrRJvXTdnk_7Btf-jaVqU9ZQtAK=
+oSdc-i12Sz2RRV2kuHG95XMvhYcL_Wf6Uf3jULg7MXV0trLDlFrt4SbS9wYYp5SU-FZT4pbfXtv=
+loJECCobyXxe6fk_Owh" width=3D"568.2314782249465" height=3D"426" style=3D"ma=
+rgin-top: 0px;"></span></span></p></td></tr><tr style=3D"height:0pt"><td st=
+yle=3D"border-width:1pt;border-style:solid;border-color:rgb(0,0,0);vertical=
+-align:top;padding:5pt;overflow:hidden"><p dir=3D"ltr" style=3D"line-height=
+:1.2;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;font-f=
+amily:Arial;color:rgb(0,0,0);background-color:transparent;font-variant-nume=
+ric:normal;font-variant-east-asian:normal;vertical-align:baseline;white-spa=
+ce:pre-wrap">Fixed some stuff in this illustration including the =E2=80=9CP=
+robability of Overcoming Defeat Overtime=E2=80=9D chart, I changed it to ma=
+ke it more accurate by beginning it=E2=80=99s decline once Trump took offic=
+e, and I made it so the top =E2=80=9CHackers=E2=80=9D takeover quadrant bet=
+ter corresponds to the war in Ukraine. To be clear, Trump claiming =E2=80=
+=9CRussia is not so bad=E2=80=9D did have effects on our churches and busin=
+esses and police and congressmen getting hacked. I am highly confident it h=
+ad an effect on our businesses getting hacked because that=E2=80=99s when w=
+e started hiring Russian contractors at my work. And I&#39;ve witnessed it =
+all go down first-hand myself.=C2=A0</span></p><br><p dir=3D"ltr" style=3D"=
+line-height:1.2;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:=
+11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;font-v=
+ariant-numeric:normal;font-variant-east-asian:normal;vertical-align:baselin=
+e;white-space:pre-wrap">I think I=E2=80=99ve now pretty much confirmed Russ=
+ia is indeed now targeting some of our hackers now as well=E2=80=A6 </span>=
+<span style=3D"font-size:12pt;font-family:Roboto,sans-serif;color:rgb(32,33=
+,36);font-variant-numeric:normal;font-variant-east-asian:normal;vertical-al=
+ign:baseline;white-space:pre-wrap">=F0=9F=92=A3 =F0=9F=92=A3 =F0=9F=92=A3 <=
+/span><span style=3D"font-size:15pt;font-family:Roboto,sans-serif;color:rgb=
+(32,33,36);font-variant-numeric:normal;font-variant-east-asian:normal;verti=
+cal-align:baseline;white-space:pre-wrap">=F0=9F=92=A5=F0=9F=92=A5=F0=9F=92=
+=A5</span><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);=
+background-color:transparent;font-variant-numeric:normal;font-variant-east-=
+asian:normal;vertical-align:baseline;white-space:pre-wrap"> -&gt; This is h=
+ow you=E2=80=99ve got to think about it because </span><span style=3D"font-=
+size:15pt;font-family:Roboto,sans-serif;color:rgb(32,33,36);font-variant-nu=
+meric:normal;font-variant-east-asian:normal;vertical-align:baseline;white-s=
+pace:pre-wrap">=F0=9F=92=A5</span><span style=3D"font-size:11pt;font-family=
+:Arial;color:rgb(0,0,0);background-color:transparent;font-variant-numeric:n=
+ormal;font-variant-east-asian:normal;vertical-align:baseline;white-space:pr=
+e-wrap"> is what it is. (21st century superpower style of attacking your en=
+emies from within without them even knowing they are under attack) From now=
+ on anytime Russia or China does anything like hacking/corrupting our socie=
+ty or interfering with our social media then do me a favor and picture an <=
+/span><span style=3D"font-size:12pt;font-family:Roboto,sans-serif;color:rgb=
+(32,33,36);font-variant-numeric:normal;font-variant-east-asian:normal;verti=
+cal-align:baseline;white-space:pre-wrap">=F0=9F=92=A3 </span><span style=3D=
+"font-size:15pt;font-family:Roboto,sans-serif;color:rgb(32,33,36);font-vari=
+ant-numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;w=
+hite-space:pre-wrap">=F0=9F=92=A5</span><span style=3D"font-size:11pt;font-=
+family:Arial;color:rgb(0,0,0);background-color:transparent;font-variant-num=
+eric:normal;font-variant-east-asian:normal;vertical-align:baseline;white-sp=
+ace:pre-wrap"> going off in your mind=E2=80=93if we don=E2=80=99t do just t=
+hat=E2=80=93then we will most definitely regret it later=E2=80=93mark my wo=
+rds.</span></p></td></tr></tbody></table></div><br><br><br><p dir=3D"ltr" s=
+tyle=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"f=
+ont-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transpare=
+nt;font-weight:700;font-variant-numeric:normal;font-variant-east-asian:norm=
+al;vertical-align:baseline;white-space:pre-wrap">Link to request concession=
+s by our government on mig fighter jets to Ukraine:</span></p><br><p dir=3D=
+"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><a href=
+=3D"https://twitter.com/intent/retweet?tweet_id=3D1502153102639591426" styl=
+e=3D"text-decoration-line:none"><span style=3D"font-size:11pt;font-family:A=
+rial;background-color:transparent;font-weight:700;font-variant-numeric:norm=
+al;font-variant-east-asian:normal;text-decoration-line:underline;vertical-a=
+lign:baseline;white-space:pre-wrap">https://twitter.com/intent/retweet?twee=
+t_id=3D1502153102639591426</span></a><span style=3D"font-size:11pt;font-fam=
+ily:Arial;color:rgb(0,0,0);background-color:transparent;font-weight:700;fon=
+t-variant-numeric:normal;font-variant-east-asian:normal;vertical-align:base=
+line;white-space:pre-wrap">=C2=A0</span></p><br><br><h3 dir=3D"ltr" style=
+=3D"line-height:1.38;margin-top:16pt;margin-bottom:4pt"><span style=3D"font=
+-size:14pt;font-family:Arial;color:rgb(67,67,67);background-color:transpare=
+nt;font-weight:400;font-variant-numeric:normal;font-variant-east-asian:norm=
+al;vertical-align:baseline;white-space:pre-wrap">As of March 12, 2022</span=
+></h3><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bo=
+ttom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);=
+background-color:transparent;font-variant-numeric:normal;font-variant-east-=
+asian:normal;vertical-align:baseline;white-space:pre-wrap">I=E2=80=99m doin=
+g as well as I can be given the circumstances btw. I could use some help di=
+sabling this damn microchip like I said and then getting the hell out of he=
+re but that=E2=80=99s it. At least it gives me something to work towards th=
+ough. I honestly enjoy combatting Russia in any way I can=E2=80=93it=E2=80=
+=99s fun. I=E2=80=99ll admit, it=E2=80=99s arguably even funner now that th=
+ey already know who I am=E2=80=93it means I don=E2=80=99t have to worry abo=
+ut making mistakes nearly as much. It sucks they are so far ahead of us and=
+ that I=E2=80=99m at such a disadvantage but beyond that, I still enjoy it.=
+ Take that Russia. The very nature of you coming after me is enjoyable to m=
+e.</span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;ma=
+rgin-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(=
+0,0,0);background-color:transparent;font-variant-numeric:normal;font-varian=
+t-east-asian:normal;vertical-align:baseline;white-space:pre-wrap">Russia is=
+ in its final stages of targeting our society and defeating us from within.=
+ When you think about it from the perspective I=E2=80=99ve laid out, and wh=
+en you consider this whole Ukraine ordeal might really be at least in part =
+meant to bait our people into =E2=80=9Creflexing=E2=80=9D in the way the kr=
+emlin expected us to reflex, with the intent of them exploiting our reflexe=
+s, then technically Russia is accurate in their statement about Ukraine jus=
+t being a =E2=80=9Cspecial military operation=E2=80=9D. The real operation =
+is regarding the remainder of the free world and its citizens, particularly=
+ those who are willing to fight back. They seem to be already creating list=
+s of people to prosecute for breaking their new =E2=80=9Cmisinformation=E2=
+=80=9D law, for when they defeat us from within, which carries a fine of up=
+ to 15 years in prison. That is at least in part what Ukraine is all about =
+in my opinion. That is why it was not in their best interest to take Zelens=
+ky out in short order. That is also why it=E2=80=99s best for them to piss =
+the whole world off at this time and do things that are otherwise unthinkab=
+le. </span><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0)=
+;background-color:transparent;font-variant-numeric:normal;font-variant-east=
+-asian:normal;text-decoration-line:underline;vertical-align:baseline;white-=
+space:pre-wrap">Because their real goal is to catalogue all of the resistan=
+ce.</span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;m=
+argin-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb=
+(0,0,0);background-color:transparent;font-variant-numeric:normal;font-varia=
+nt-east-asian:normal;vertical-align:baseline;white-space:pre-wrap">I got a =
+vibe from the hackers that this is what Ukraine is really all about=E2=80=
+=93before I ever started telling you all about it and before I started digg=
+ing into it further myself. They legit act like they have already defeated =
+us to me. And they warn me whenever I=E2=80=99m about to break one of Russi=
+a=E2=80=99s laws as if I=E2=80=99m now governed by Russia. One of these day=
+s, anyone who doesn=E2=80=99t fight back is going to regret it for years to=
+ come.</span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0p=
+t;margin-bottom:0pt"><a href=3D"https://1920.in" style=3D"text-decoration-l=
+ine:none"><span style=3D"font-size:11pt;font-family:Arial;background-color:=
+transparent;font-variant-numeric:normal;font-variant-east-asian:normal;text=
+-decoration-line:underline;vertical-align:baseline;white-space:pre-wrap">ht=
+tps://1920.in</span></a><span style=3D"font-size:11pt;font-family:Arial;col=
+or:rgb(0,0,0);background-color:transparent;font-variant-numeric:normal;font=
+-variant-east-asian:normal;vertical-align:baseline;white-space:pre-wrap">=
+=C2=A0</span></p><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;ma=
+rgin-bottom:0pt"><a href=3D"https://twitter.com/i/status/150279975081448243=
+8" style=3D"text-decoration-line:none"><span style=3D"font-size:11pt;font-f=
+amily:Arial;background-color:transparent;font-variant-numeric:normal;font-v=
+ariant-east-asian:normal;text-decoration-line:underline;vertical-align:base=
+line;white-space:pre-wrap">https://twitter.com/i/status/1502799750814482438=
+</span></a><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0)=
+;background-color:transparent;font-variant-numeric:normal;font-variant-east=
+-asian:normal;vertical-align:baseline;white-space:pre-wrap">=C2=A0=C2=A0</s=
+pan></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-=
+bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0=
+);background-color:transparent;font-variant-numeric:normal;font-variant-eas=
+t-asian:normal;vertical-align:baseline;white-space:pre-wrap">One last thing=
+, I think it would be wise if our military reported some of their NSA explo=
+its that the Russsians are now using to defeat us to the corresponding comp=
+anies like apple, netgear, and anything else using a broadcom wifi chip, et=
+c, etc=E2=80=93if it is indeed true that the exploits the Russians are usin=
+g are the same as the NSA=E2=80=99s exploits=E2=80=93so that those vulnerab=
+ilities can be patched and so that it would even the playing field a little=
+ bit. Because I=E2=80=99m pretty certain Russia and China are now using OUR=
+ NSA=E2=80=99s malware to defeat us from within, and they are way ahead of =
+us in doing so, and so the only real way to get it all to stop would be to =
+force every country to restart from scratch with their most sophisticated a=
+utomated malware and to patch all of the devices around the globe asap=E2=
+=80=93even if that means we can no longer hack ppl as effectively for a lit=
+tle while. If things are really going as they seem=E2=80=93doing so might w=
+ell pay dividends in the long run. And it wouldn=E2=80=99t be risking start=
+ing a nuclear war or anything=E2=80=93if anything=E2=80=93it would potentia=
+lly save the free world in my opinion.</span></p><br><p dir=3D"ltr" style=
+=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-=
+size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;f=
+ont-variant-numeric:normal;font-variant-east-asian:normal;vertical-align:ba=
+seline;white-space:pre-wrap">P.s. I opened the original folder back up agai=
+n for now=E2=80=94please don=E2=80=99t make me regret doing so. I still don=
+=E2=80=99t want anyone referencing any of it publicly however=E2=80=94witho=
+ut my consent=E2=80=94nor using it to undermine our alliances or unity. I=
+=E2=80=99ll be honest. I don=E2=80=99t know what is the best route to take =
+in all this. The whole ordeal with my brother seems like it may never goto =
+court unless we reign Russia in first anyways.=C2=A0</span></p><br><p dir=
+=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span =
+style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color=
+:transparent;font-variant-numeric:normal;font-variant-east-asian:normal;ver=
+tical-align:baseline;white-space:pre-wrap">I=E2=80=99m know I=E2=80=99m not=
+ qualified to even come close to trying to make a call on something of this=
+ magnitude really, and I realize I clearly don=E2=80=99t have all the infor=
+mation that the people in our government have. But I do know that freedom i=
+s definitely worth fighting for. And I do think I know we are already in th=
+e midst of a shadow war here at home and we are seemingly not doing so hot =
+in that shadow war. If anything, we are strongest when it comes to our conv=
+entional military=E2=80=94and Russia knows that. Plus, never underestimate =
+the power of unity. All I know is if we were to always let the fact that so=
+meone has nuclear weapons hold us back from getting involved in anything, t=
+hen this world is going to quickly turn into a complete shit show. In addit=
+ion, I wish we would just be honest about what Russia is doing to us here a=
+t home=E2=80=94it=E2=80=99s better we say it then someone else saying it in=
+ my view. Maybe then we could gain more support for a direct conflict with =
+Russia. But who knows, it=E2=80=99s hard to say what Russia really wants. T=
+hey use false flags and whatnot so much that it becomes hard to tell. But i=
+t=E2=80=99s not impossible to tell, if I had to guess right now=E2=80=94my =
+bet would be Russia wants us to stay out of it=E2=80=94they are banking on =
+us staying out of it actually=E2=80=94and therefore they=E2=80=99ve already=
+ determined their result will be much better if we do stay out of it. They =
+wouldn=E2=80=99t be intimidating us to stay out of it if they wanted us to =
+take part. I really do stand behind my hypothesis on Russia btw. Our govern=
+ment has got to know that Russia and China have been hacking/targeting all =
+these different key segments of our society for some time=E2=80=94not just =
+ours but Europe&#39;s too=E2=80=94all of our democracies tbh=E2=80=94and I =
+would hope our governments would realize the significant consequences of th=
+em doing so.=C2=A0</span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;m=
+argin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;font-family:=
+Arial;color:rgb(0,0,0);background-color:transparent;font-variant-numeric:no=
+rmal;font-variant-east-asian:normal;vertical-align:baseline;white-space:pre=
+-wrap">I=E2=80=99m therefore scared for the free would if we don=E2=80=99t =
+get involved at this point tbh. Russia knows we have the advantage in the c=
+onventional military arena=E2=80=94it also knows they have the advantage in=
+ the shadow war arena. That should tell you everything you need to know for=
+ the most part. All I know is I would be wiling to bet Russia would jump in=
+ and help a fellow dictatorship if the roles were ever reversed. But that=
+=E2=80=99s the thing=E2=80=94the roles are likely never going to be reverse=
+d. If nothing else please at least consider the potential consequences of i=
+f we don=E2=80=99t get involved and what all could happen if we don=E2=80=
+=99t=E2=80=94worst case. Because I promise you people will remember the fac=
+t that we didn=E2=80=99t get involved and will hold you accountable at the =
+ballot box=E2=80=94especially if it turns out how I think it might. Things =
+are going to get a lot worse pretty quickly now too in Ukraine, Russia is n=
+ow closing in on Kiev. I guess on the other hand tho, trump never got invol=
+ved with the Kurds but this one feels a little different.</span></p><br><p =
+dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><sp=
+an style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-co=
+lor:transparent;font-variant-numeric:normal;font-variant-east-asian:normal;=
+vertical-align:baseline;white-space:pre-wrap">Anyways, you don=E2=80=99t ha=
+ve to worry too much about me btw, I should be fine regardless of what happ=
+ens. I=E2=80=99m fighting for my country and for freedom after all, what co=
+uld be better than that? (Beyond not having to have to fight for freedom in=
+ the first place I guess) Please keep supporting Ukraine as much as physica=
+lly possible and don=E2=80=99t let them give up hope. I realize this being =
+halfway across the world puts us at a disadvantage as well. And I realize h=
+ow many lives are on the line. But if I=E2=80=99m right about Russia anyway=
+s, then that many lives are likely on the line anyways. And freedom is wort=
+h quite a bit.</span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margi=
+n-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;font-family:Aria=
+l;color:rgb(0,0,0);background-color:transparent;font-variant-numeric:normal=
+;font-variant-east-asian:normal;vertical-align:baseline;white-space:pre-wra=
+p">h</span><a href=3D"https://drive.google.com/drive/folders/1N4w5q-SJ-2aZX=
+t4iiajGkpBJEa9gHYnU" style=3D"text-decoration-line:none"><span style=3D"fon=
+t-size:11pt;font-family:Arial;background-color:transparent;font-variant-num=
+eric:normal;font-variant-east-asian:normal;text-decoration-line:underline;v=
+ertical-align:baseline;white-space:pre-wrap">ttps://drive.google.com/drive/=
+folders/1N4w5q-SJ-2aZXt4iiajGkpBJEa9gHYnU</span></a><span style=3D"font-siz=
+e:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;font=
+-variant-numeric:normal;font-variant-east-asian:normal;vertical-align:basel=
+ine;white-space:pre-wrap">=C2=A0</span></p><br><h3 dir=3D"ltr" style=3D"lin=
+e-height:1.38;margin-top:16pt;margin-bottom:4pt"><span style=3D"font-size:1=
+4pt;font-family:Arial;color:rgb(67,67,67);background-color:transparent;font=
+-weight:400;font-variant-numeric:normal;font-variant-east-asian:normal;vert=
+ical-align:baseline;white-space:pre-wrap">As of March 14, 2022</span></h3><=
+br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0p=
+t"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);backgro=
+und-color:transparent;font-variant-numeric:normal;font-variant-east-asian:n=
+ormal;vertical-align:baseline;white-space:pre-wrap">My brother is a cold bl=
+ooded killer you guys. I don=E2=80=99t know if he ever deserves being forgi=
+ven. I think that=E2=80=99s just wishful thinking on my part. I=E2=80=99m p=
+retty sure they just made another attempt at my life.</span></p><br><p dir=
+=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span =
+style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color=
+:transparent;font-variant-numeric:normal;font-variant-east-asian:normal;ver=
+tical-align:baseline;white-space:pre-wrap">I=E2=80=99m fine. I just need to=
+ get out of here.=C2=A0</span></p><br><p dir=3D"ltr" style=3D"line-height:1=
+.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;font-fa=
+mily:Arial;color:rgb(0,0,0);background-color:transparent;font-variant-numer=
+ic:normal;font-variant-east-asian:normal;vertical-align:baseline;white-spac=
+e:pre-wrap">It=E2=80=99s scary cuz they literally think of ways to kill me =
+that they can cause plausible deniability and they wait for times to kill m=
+e when think they are most likely to get away with it. And they monitor me =
+24/7 and they have a tunnel somewhere into my house. And they did successfu=
+lly defeat the RF encryption algorithm on my latest SimplySafe security sys=
+tem=E2=80=93it didn=E2=80=99t take them very long to do so. They have hacke=
+d literally everything in my house=E2=80=93and my house is full of digital =
+gadgets tbh. They use their damn tunnel to get in my house and take picture=
+s of my keys when I leave them anywhere so that they can then 3D print my v=
+arious keys as well, including the keys to any safe I buy.=C2=A0</span></p>=
+<br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0=
+pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);backgr=
+ound-color:transparent;font-variant-numeric:normal;font-variant-east-asian:=
+normal;vertical-align:baseline;white-space:pre-wrap">I would leave but I ha=
+ven=E2=80=99t been able to disable the microchip yet. So why risk going som=
+ewhere I am unfamiliar with when I know they will just follow me there? Tha=
+t=E2=80=99s opening myself up to another situation where they could just ki=
+ll me and get away with it.</span></p><br><p dir=3D"ltr" style=3D"line-heig=
+ht:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;fon=
+t-family:Arial;color:rgb(0,0,0);background-color:transparent;font-variant-n=
+umeric:normal;font-variant-east-asian:normal;vertical-align:baseline;white-=
+space:pre-wrap">To be clear, I am grateful for everybody=E2=80=99s help. I=
+=E2=80=99m just trying to point out that we clearly have some problems in o=
+ur country that need to be resolved. These guys wouldn=E2=80=99t be pursuin=
+g me to begin with if I weren=E2=80=99t at least mostly right about what I =
+have alleged=E2=80=93it really is that simple. Like think of all the differ=
+ent people Putin could put on his hit lists, the oligarch who just put a $1=
+ million dollar reward on Putin=E2=80=99s head for instance, etc, etc=E2=80=
+=93and yet for some reason they chose me=E2=80=93and they devote all their =
+resources to me. All based on a couple twitter postings about them interfer=
+ing with our social media and being behind QAnon previously, and based on m=
+y brother=E2=80=99s desire to get rid of me, etc. And yet they are complete=
+ly determined to kill me now.=C2=A0</span></p><br><p dir=3D"ltr" style=3D"l=
+ine-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:=
+11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;font-v=
+ariant-numeric:normal;font-variant-east-asian:normal;vertical-align:baselin=
+e;white-space:pre-wrap">It=E2=80=99s as if we already don=E2=80=99t have fr=
+eedom of speech in some regards=E2=80=93which is just infuriating tbh.</spa=
+n></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bo=
+ttom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);=
+background-color:transparent;font-variant-numeric:normal;font-variant-east-=
+asian:normal;vertical-align:baseline;white-space:pre-wrap">To be clear, Dus=
+ty does deserve being locked up for the rest of his life in my opinion=E2=
+=80=93</span><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,=
+0);background-color:transparent;font-variant-numeric:normal;font-variant-ea=
+st-asian:normal;text-decoration-line:underline;vertical-align:baseline;whit=
+e-space:pre-wrap">regardless of what I may say at any point in the future</=
+span><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);backg=
+round-color:transparent;font-variant-numeric:normal;font-variant-east-asian=
+:normal;vertical-align:baseline;white-space:pre-wrap">. He=E2=80=99s killed=
+ my whole family. All that about seeing him again and whatnot is just wishf=
+ul thinking and always has been and always will be wishful thinking=E2=80=
+=93Dusty really deserves the death penalty tbh=E2=80=93maybe life in prison=
+=E2=80=93whichever he wants less is what he truly deserves. Plus I really d=
+on=E2=80=99t think he=E2=80=99s ever going to do the right thing at this st=
+age.</span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;=
+margin-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rg=
+b(0,0,0);background-color:transparent;font-variant-numeric:normal;font-vari=
+ant-east-asian:normal;vertical-align:baseline;white-space:pre-wrap">One las=
+t thing, I was watching this youtube video just barely made by Alexei Naval=
+y, one of the guy=E2=80=99s Putin locked up fairly recently, (</span><a hre=
+f=3D"https://www.youtube.com/watch?v=3DT_tFSWZXKN0" style=3D"text-decoratio=
+n-line:none"><span style=3D"font-size:11pt;font-family:Arial;background-col=
+or:transparent;font-variant-numeric:normal;font-variant-east-asian:normal;t=
+ext-decoration-line:underline;vertical-align:baseline;white-space:pre-wrap"=
+>https://www.youtube.com/watch?v=3DT_tFSWZXKN0</span></a><span style=3D"fon=
+t-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent=
+;font-variant-numeric:normal;font-variant-east-asian:normal;vertical-align:=
+baseline;white-space:pre-wrap">) and the hackers started prohibiting my int=
+ernet access as soon as it got to the part where it was explaining how Puti=
+n=E2=80=99s palace was funded through bribes, etc. I took two takeaways fro=
+m it.=C2=A0</span></p><br><ol style=3D"margin-top:0px;margin-bottom:0px"><l=
+i dir=3D"ltr" style=3D"list-style-type:decimal;font-size:11pt;font-family:A=
+rial;color:rgb(0,0,0);background-color:transparent;font-variant-numeric:nor=
+mal;font-variant-east-asian:normal;vertical-align:baseline;white-space:pre"=
+><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"=
+ role=3D"presentation"><span style=3D"font-size:11pt;background-color:trans=
+parent;font-variant-numeric:normal;font-variant-east-asian:normal;vertical-=
+align:baseline;white-space:pre-wrap">You could likely use that same model o=
+f bribery to bust my brother and his Russian cronies who are helping him in=
+ trying to kill me, specifically in regards to how they likely get paid and=
+/or how their assets are likely paid for.</span></p></li><li dir=3D"ltr" st=
+yle=3D"list-style-type:decimal;font-size:11pt;font-family:Arial;color:rgb(0=
+,0,0);background-color:transparent;font-variant-numeric:normal;font-variant=
+-east-asian:normal;vertical-align:baseline;white-space:pre"><p dir=3D"ltr" =
+style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt" role=3D"present=
+ation"><span style=3D"font-size:11pt;background-color:transparent;font-vari=
+ant-numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;w=
+hite-space:pre-wrap">These guys continue to engage in federally prohibited =
+cell and wifi jamming activities in their blocking of all my communications=
+ regularly=E2=80=93particularly after an attack when urgent phone and email=
+ communications are most needed.</span></p></li></ol><br><p dir=3D"ltr" sty=
+le=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"fon=
+t-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent=
+;font-variant-numeric:normal;font-variant-east-asian:normal;vertical-align:=
+baseline;white-space:pre-wrap">I do get frustrated sometimes that this does=
+n=E2=80=99t move faster. I get frustrated sometimes that you guys haven=E2=
+=80=99t arrested my brother yet. Etc, etc. But at the end of the day I have=
+ been able to learn the true scope of the issue first hand myself and I the=
+refore realize why it is taking so long. I now understand that this is abou=
+t a lot more than just me, my dog turbo, my father Tim, and my sister Karie=
+. It=E2=80=99s about our whole country and our allies=E2=80=99 countries an=
+d it=E2=80=99s about democracy itself. I just don=E2=80=99t want to see us =
+continue making the same mistakes nor get defeated is all. In a way, we all=
+ rise and fall together.</span></p><br><p dir=3D"ltr" style=3D"line-height:=
+1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;font-f=
+amily:Arial;color:rgb(0,0,0);background-color:transparent;font-variant-nume=
+ric:normal;font-variant-east-asian:normal;vertical-align:baseline;white-spa=
+ce:pre-wrap">I have since changed my mind on intervening in Ukraine with th=
+e jets. See this video:</span></p><br><p dir=3D"ltr" style=3D"line-height:1=
+.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;font-fa=
+mily:Arial;color:rgb(0,0,0);background-color:transparent;font-variant-numer=
+ic:normal;font-variant-east-asian:normal;vertical-align:baseline;white-spac=
+e:pre-wrap">=F0=9F=91=87=F0=9F=91=87=F0=9F=91=87=F0=9F=A4=99</span></p><p d=
+ir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><a h=
+ref=3D"https://www.youtube.com/watch?v=3Dxguam0TKMw8" style=3D"text-decorat=
+ion-line:none"><span style=3D"font-size:11pt;font-family:Arial;background-c=
+olor:transparent;font-variant-numeric:normal;font-variant-east-asian:normal=
+;text-decoration-line:underline;vertical-align:baseline;white-space:pre-wra=
+p">https://www.youtube.com/watch?v=3Dxguam0TKMw8</span></a><span style=3D"f=
+ont-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transpare=
+nt;font-variant-numeric:normal;font-variant-east-asian:normal;vertical-alig=
+n:baseline;white-space:pre-wrap">=C2=A0</span></p><br><p dir=3D"ltr" style=
+=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-=
+size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;f=
+ont-variant-numeric:normal;font-variant-east-asian:normal;vertical-align:ba=
+seline;white-space:pre-wrap">Someone should show Trump supporters this vide=
+o. It=E2=80=99s clear if we get along we are a lot less likely to have anyo=
+ne challenge us. Biden needs to work on the inflation part of it as well.</=
+span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin=
+-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,=
+0);background-color:transparent;font-variant-numeric:normal;font-variant-ea=
+st-asian:normal;vertical-align:baseline;white-space:pre-wrap">We need to wa=
+tch inflation closely to avoid falling out of our dominating status and we =
+need to avoid getting involved in wars to avoid another rising super power =
+from taking us out. It=E2=80=99s as if the adversaries are following this e=
+xact video only in attempting to use it against us to defeat us. And plus i=
+t=E2=80=99s clear you guys are playing the long game which is smart=E2=80=
+=93your strategy really is the smartest strategy after all=E2=80=93the sanc=
+tions will most definitely get to Russia over time without really even risk=
+ing ourselves. How that works exactly when countries like Russia are essent=
+ially taunting you and your citizens constantly=E2=80=93idk=E2=80=93but I=
+=E2=80=99m sure all the sanctions will help. There=E2=80=99s plenty of ways=
+ to get creative to get them to stop without causing a full blown war howev=
+er I now feel. Some sacrifices will likely have to be made but it=E2=80=99s=
+ all for the greater good, and that is okay with me I feel. In a way this w=
+as another trap cuz we cannot fight another world war right next to Russia =
+and China, so I=E2=80=99ll admit I was most definitely wrong on that one. I=
+t really is a battle of good vs evil.</span></p><br><p dir=3D"ltr" style=3D=
+"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-siz=
+e:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;font=
+-variant-numeric:normal;font-variant-east-asian:normal;vertical-align:basel=
+ine;white-space:pre-wrap">Ukraine is doing pretty darn well without the fig=
+hter jets all else considered. No use giving them jets and risking starting=
+ another world war. However I will say=E2=80=93we should condition Russia t=
+o talk to us diplomatically rather than constantly sending us =E2=80=9Csign=
+als=E2=80=9D. The =E2=80=9Csignals=E2=80=9D are complete bs tbh. Talk to ou=
+r faces and quit being scared. Just sayin.=C2=A0</span></p><br><p dir=3D"lt=
+r" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=
+=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:tran=
+sparent;font-variant-numeric:normal;font-variant-east-asian:normal;vertical=
+-align:baseline;white-space:pre-wrap">Again just wishful thinking on my par=
+t that we will ever be able to truly stop Putin=E2=80=99s mafia=E2=80=99s a=
+ggressions. So my apologies for my having a lack of context on that subject=
+ as well. I just want Putin to go away that=E2=80=99s all. I feel this worl=
+d will be a better place without him tbh. I can=E2=80=99t believe his whole=
+ government is essentially a mafia that operates globally. It=E2=80=99s nut=
+s. I=E2=80=99ve been encouraging anonymous to make sure they remain anonymo=
+us when targeting Russia lately for this reason.</span></p><br><p dir=3D"lt=
+r" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=
+=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:tran=
+sparent;font-variant-numeric:normal;font-variant-east-asian:normal;vertical=
+-align:baseline;white-space:pre-wrap">Anyways, if you=E2=80=99ve learned on=
+e thing about me throughout all of this it=E2=80=99s that I am extremely ho=
+nest. I say what I think at the time for the most part. Some of it is right=
+, some of it is wrong, but the overall theme of what I say is normally at l=
+east pointed in the right direction especially if I=E2=80=99ve maintained t=
+he same viewpoint overtime, and I really do just want to try and do what=E2=
+=80=99s best for both my family and my country.=C2=A0</span></p><br><p dir=
+=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span =
+style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color=
+:transparent;font-variant-numeric:normal;font-variant-east-asian:normal;ver=
+tical-align:baseline;white-space:pre-wrap">We really are all in this togeth=
+er as democracies anyways. Like Putin has been undermining all of our democ=
+racies in similar ways, and while it may sometimes seem tempting to go towa=
+rds a dictatorship model, we all love our freedom and it can be easy to tak=
+e it for granted sometimes, but at the end of the day we shouldn=E2=80=99t.=
+ Because freedom is everything. I can=E2=80=99t imagine a world led by some=
+one like Putin tbh. I wouldn=E2=80=99t want to play a part.</span></p><br><=
+p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><=
+span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-=
+color:transparent;font-variant-numeric:normal;font-variant-east-asian:norma=
+l;vertical-align:baseline;white-space:pre-wrap">I hope my feedback has help=
+ed. I noticed we are working on passing a law in congress to make it requir=
+ed for businesses to report when they=E2=80=99ve been hacked to the governm=
+ent=E2=80=93which is a huge step in the right direction as well.=C2=A0</spa=
+n></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bo=
+ttom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);=
+background-color:transparent;font-variant-numeric:normal;font-variant-east-=
+asian:normal;vertical-align:baseline;white-space:pre-wrap">I can=E2=80=99t =
+imagine having a high level government job, that must be so stressful. But =
+you guys are honestly doing a really good job at it, all things considered.=
+ It=E2=80=99s definitely a balance though that=E2=80=99s for sure.</span></=
+p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom=
+:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);back=
+ground-color:transparent;font-variant-numeric:normal;font-variant-east-asia=
+n:normal;vertical-align:baseline;white-space:pre-wrap">One last thing, and =
+I=E2=80=99m sure we are researching it ourselves. But these guys have taken=
+ infrasound and electromagnetics and nanotechnology to the next level. We s=
+hould look into doing all that ourselves.</span></p><br><p dir=3D"ltr" styl=
+e=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><a href=3D"https://=
+www.youtube.com/watch?v=3Dm_SqYNWgs58" style=3D"text-decoration-line:none">=
+<span style=3D"font-size:11pt;font-family:Arial;background-color:transparen=
+t;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoratio=
+n-line:underline;vertical-align:baseline;white-space:pre-wrap">https://www.=
+youtube.com/watch?v=3Dm_SqYNWgs58</span></a><span style=3D"font-size:11pt;f=
+ont-family:Arial;color:rgb(0,0,0);background-color:transparent;font-variant=
+-numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;whit=
+e-space:pre-wrap">=C2=A0</span></p><br><h4 dir=3D"ltr" style=3D"line-height=
+:1.38;margin-top:14pt;margin-bottom:4pt"><span style=3D"font-size:12pt;font=
+-family:Arial;color:rgb(102,102,102);background-color:transparent;font-weig=
+ht:400;font-variant-numeric:normal;font-variant-east-asian:normal;vertical-=
+align:baseline;white-space:pre-wrap">Part 2</span></h4><br><p dir=3D"ltr" s=
+tyle=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"f=
+ont-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transpare=
+nt;font-variant-numeric:normal;font-variant-east-asian:normal;vertical-alig=
+n:baseline;white-space:pre-wrap">You guys, if my brother Dusty manages to g=
+ive me cancer, like I suspect he&#39;s been trying to do=E2=80=93I=E2=80=99=
+m going to have a really hard time restraining myself from going after him.=
+ Like put yourself in my shoes=E2=80=93you would too. But like no seriously=
+=E2=80=93sometimes I want to deck him so fucking hard it=E2=80=99s not even=
+ funny. I realize that=E2=80=99s not in my best interest to ever go after h=
+im if I want this case to ever be prosecuted. But I just found more poison =
+shit in my hat for instance. It gave me hives every fucking day I put my ha=
+t on only I didn=E2=80=99t narrow it down to my hat until just today.=C2=A0=
+</span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;marg=
+in-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,=
+0,0);background-color:transparent;font-variant-numeric:normal;font-variant-=
+east-asian:normal;vertical-align:baseline;white-space:pre-wrap">You have no=
+ idea how much patience and faith in law enforcement it takes to not retali=
+ate in any way. I=E2=80=99ve given Dusty the benefit of doubt repeatedly fo=
+r years and yet he never stops. They are like convinced that we have alread=
+y been defeated or something but in reality them doing all this shit to me =
+to try to silence me or what have you has caused our government to become a=
+ware of all these things and take actions to avoid it. So essentially them =
+coming after me to begin with has been and will ultimately prove to be the =
+seed of their own demise.</span></p><br><h4 dir=3D"ltr" style=3D"line-heigh=
+t:1.38;margin-top:14pt;margin-bottom:4pt"><span style=3D"font-size:12pt;fon=
+t-family:Arial;color:rgb(102,102,102);background-color:transparent;font-wei=
+ght:400;font-variant-numeric:normal;font-variant-east-asian:normal;vertical=
+-align:baseline;white-space:pre-wrap">Part 3</span></h4><br><p dir=3D"ltr" =
+style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"=
+font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transpar=
+ent;font-variant-numeric:normal;font-variant-east-asian:normal;vertical-ali=
+gn:baseline;white-space:pre-wrap">K so I just thought of something. I could=
+ be off but I feel like it actually fits quite well. What if this whole ord=
+eal is actually meant to convince you all that democracy is actually sub-pa=
+r to communism? Like seems how they keep doing this shit that is pretty obv=
+ious its them doing it but given the way our laws are structured, it makes =
+it a lot harder to bring charges against or prosecute? What if they are rea=
+lly just trying to convince the broader population not only that communism =
+is better but that communism is already inevitable for us essentially? Hear=
+ me out. I thought of this because for one, I realized the timing of when D=
+usty went missing previously, it was right after I called him out for essen=
+tially flipping his political affiliation right when he started coming afte=
+r me. If this really is/was their goal then that would make sense because t=
+hey know that as soon as you know my brother is playing you in regards to h=
+is political affiliation then that would be counterproductive to what they =
+are trying to do. In addition, it fits in the sense of my family=E2=80=99s =
+past history and just the notoriety of it all. It makes it so they could tr=
+y and manipulate a large audience into losing faith in things like our free=
+dom from search and seizure, right to stay silent, our democracy in general=
+, etc, etc=E2=80=93all at once. It also fits in that I think that=E2=80=99s=
+ what they were trying to do in sharing this with Ukraine tbh. Now that=E2=
+=80=99s some psychology for you.</span></p><br><p dir=3D"ltr" style=3D"line=
+-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11p=
+t;font-family:Arial;color:rgb(0,0,0);background-color:transparent;font-vari=
+ant-numeric:normal;font-variant-east-asian:normal;vertical-align:baseline;w=
+hite-space:pre-wrap">I specifically recall them being touchy about both pol=
+itical affiliation and the time I said I prayed=E2=80=93which I did but the=
+y didn=E2=80=99t like it as if their really trying to target you.</span></p=
+><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:=
+0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);backg=
+round-color:transparent;font-variant-numeric:normal;font-variant-east-asian=
+:normal;vertical-align:baseline;white-space:pre-wrap">Let me give you my co=
+unter arguments to that just incase that is what they are ultimately trying=
+ to do. First, this wouldn=E2=80=99t be happening if a foreign country were=
+n=E2=80=99t trying to interfere with our politics. It also wouldn=E2=80=99t=
+ happen with so little concrete evidence if it were being carried out by an=
+yone else besides a sophisticated foreign government. There would most defi=
+nitely be more mistakes made by anyone who doesn=E2=80=99t have all the res=
+ources these guys have. Which disqualifies the notion of communism potentia=
+lly being better than democracies based on what=E2=80=99s happened here rig=
+ht away in my view. That would be like us corrupting some foreign communist=
+ leader and having him convince his people that democracy is better. Second=
+, imagine if the person with the best relationship with the boss/leader alw=
+ays won in cases like this=E2=80=93that would mean I would be completely an=
+d totally screwed. I wouldn=E2=80=99t even have a chance I mean. It would m=
+ean people like my brother could kill whomever they wanted without repercus=
+sions essentially=E2=80=93not based on what they know but based on who they=
+ know and how corrupt they are. Third, I=E2=80=99ll just say that the first=
+ officers I spoke to about all the EMF stuff I think actually did mainly ju=
+st take my word for it and I think they were able to get some kind of warra=
+nt based on my word alone. So it=E2=80=99s not impossible in a democracy to=
+ do things like that I don=E2=80=99t think.</span></p><br><p dir=3D"ltr" st=
+yle=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"fo=
+nt-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparen=
+t;font-variant-numeric:normal;font-variant-east-asian:normal;vertical-align=
+:baseline;white-space:pre-wrap">I=E2=80=99ll admit, I can do a better job m=
+yself at not feeding into this potential narrative myself, I always get cau=
+ght in their damn traps tbh=E2=80=94not intentionally but just because they=
+ have such an advantage over me and because they switch up their false flag=
+s behavior from real meaningful behavior constantly. Bottom line is any non=
+ foreign superpower would have made more mistakes by now and this wouldn=E2=
+=80=99t be happening if they weren=E2=80=99t trying to interfere in our cou=
+ntry to begin with. And if it did still happen=E2=80=94Dusty would have bee=
+n totally busted by now. This is the first time anyone has had any real rea=
+son to even question him about it tbh, so if he did kill my father and sist=
+er, that wouldn=E2=80=99t have been any different either way.</span></p><br=
+><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"=
+><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);backgroun=
+d-color:transparent;font-variant-numeric:normal;font-variant-east-asian:nor=
+mal;vertical-align:baseline;white-space:pre-wrap">Me personally, I like bei=
+ng given my fair shot at justice=E2=80=94even if the wheels of justice turn=
+ exceeding slow. I apologize what I said earlier btw, sometimes I just get =
+heated in the moment.=C2=A0</span></p><br><p dir=3D"ltr" style=3D"line-heig=
+ht:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;fon=
+t-family:Arial;color:rgb(0,0,0);background-color:transparent;font-variant-n=
+umeric:normal;font-variant-east-asian:normal;vertical-align:baseline;white-=
+space:pre-wrap">To be clear, dusty is still involved he=E2=80=99s just not =
+as obvious about it these days. I get tired of their =E2=80=9Cshows=E2=80=
+=9D they put on using real peoples lives tbh.</span></p><br><br></span><div=
+><div dir=3D"ltr" class=3D"gmail_signature" data-smartmail=3D"gmail_signatu=
+re"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><di=
+v dir=3D"ltr"><div dir=3D"ltr"><p style=3D"color:rgb(0,0,0);font-family:Hel=
+vetica,Arial,sans-serif;font-size:12px;line-height:14px;margin-bottom:15px"=
+><a href=3D"mailto:chase@gfic.io" style=3D"color:rgb(251,229,162);font-weig=
+ht:bold;display:inline" target=3D"_blank">Chase Gibbons</a>=C2=A0/=C2=A0<sp=
+an style=3D"color:rgb(68,68,68)">Manager</span>=C2=A0<span style=3D"color:r=
+gb(68,68,68)"></span><br><a href=3D"tel:435-999-4722" style=3D"color:rgb(68=
+,68,68);font-weight:bold;display:inline" target=3D"_blank">435-999-4722</a>=
+=C2=A0</p><p style=3D"font-family:Helvetica,Arial,sans-serif;font-size:12px=
+;line-height:14px;color:rgb(33,33,33);margin-bottom:10px"><br><span style=
+=3D"color:rgb(68,68,68)">PO Box 747</span><span style=3D"display:block"></s=
+pan><span style=3D"color:rgb(68,68,68)">Logan, UT 84321</span>=C2=A0<br><a =
+href=3D"https://www.gfic.io" style=3D"color:rgb(251,229,162);display:inline=
+" target=3D"_blank">gfic.io</a><a href=3D"https://www.linkedin.com/company/=
+gficllc/" style=3D"font-size:0px;display:inline" target=3D"_blank">=C2=A0</=
+a></p></div></div></div></div></div></div></div></div><br><div id=3D"mt-sig=
+nature">
+        <table border=3D"0" cellpadding=3D"8" cellspacing=3D"0" style=3D"us=
+er-select: none;">
+            <tbody><tr>
+                <td>
+                    <a id=3D"signatureLink-logo" href=3D"https://mailtrack.=
+io?utm_source=3Dgmail&amp;utm_medium=3Dsignature&amp;utm_campaign=3Dsignatu=
+revirality11&amp;" class=3D"" style=3D"text-decoration:none">
+                        <img src=3D"https://s3.amazonaws.com/mailtrack-sign=
+ature/sender-notified-72.gif" alt=3D"Mailtrack" class=3D"" width=3D"32" hei=
+ght=3D"32">
+                    </a>
+                </td>
+                <td>
+                    <span style=3D"color:#777">Sender notified by</span> <b=
+r>
+                    <a id=3D"signatureLink-text" href=3D"https://mailtrack.=
+io?utm_source=3Dgmail&amp;utm_medium=3Dsignature&amp;utm_campaign=3Dsignatu=
+revirality11&amp;" class=3D"mt-install" style=3D"color:#4374f7">Mailtrack</=
+a>
+                   =20
+    </td><td><span style=3D"color:transparent;font-size:0">03/14/22, 08:40:=
+07 PM</span></td>
+
+               =20
+                <td>
+                   =20
+                </td>
+            </tr>
+        </tbody></table>
+    </div><img width=3D"0" height=3D"0" class=3D"mailtrack-img" alt=3D"" st=
+yle=3D"display:flex" src=3D"https://mailtrack.io/trace/mail/c24d6a9f267d17f=
+8f5ad75a83b7ef3eadcd4109f.png?u=3D8280360"></div>
+
+--000000000000ee8ef405da38b796--

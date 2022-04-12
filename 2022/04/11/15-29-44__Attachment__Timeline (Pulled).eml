@@ -1,0 +1,258 @@
+Delivered-To: cwgibb@aggiemail.usu.edu
+Received: by 2002:a59:cd84:0:b0:297:bdfc:7442 with SMTP id r4csp214457vqm;
+        Wed, 9 Mar 2022 02:52:33 -0800 (PST)
+X-Received: by 2002:a05:6402:1941:b0:413:2b80:b245 with SMTP id f1-20020a056402194100b004132b80b245mr20745512edz.252.1646823153822;
+        Wed, 09 Mar 2022 02:52:33 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1646823153; cv=none;
+        d=google.com; s=arc-20160816;
+        b=i+wYh5Gr4aapOr0GLaDSbiZgRX3b5hggCSPHHRqgRRE/gxFgyeZO/++cTYcAJjY/Rr
+         9rFY+LwcYG+1+gpLGuFmFfCNvi2JyP8H5gmr8sf1oz28mq55l0pbdVwYsUJ5i75dhwQ6
+         /3PC6ouo0n5x6+4fTO5MpijPU+RXLals6UzYcSdiHgqZuFpeL0MAE6rNOwOQo1oos1eM
+         0wRDnuL8I8skvPQ5l0HXX3GeVLzO97hmsQCgJ8X8bCBnE6SKAthqOlQFlSCXC7gswpkB
+         r0MIflRSQgMyTSAgDYFOhgfzG7xYOAHwmhecX3LPtq2ecSyAMK8kQz6JHFbvsHcsnIAN
+         y8Mw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=vEoZmbbB5czG3L5bMGUIlcTRwp9VgJCXapKDhdd6nYI=;
+        b=TqfitfNKrxNxLV5FxIsRjCvyPd6DQj89DW06kZ5kc29nmM2o99GF+d7MLdKVpFFKXa
+         UnD0UNSLCjejTCjYg/zOdaWIi44wEMbH/q0Hma1bD4wVRBuS4nYoYMDzOboysJSpJIAc
+         Zu0A76DnWxjF9A5ul/REp0M0m59HNEu+i8TORmWe2x0bLaJUHNCr7Cl/ONGHPD46QY0l
+         DW3se+w3b25BjY6jZUfyYk1RikGuQsNIELiNA1YoCzX+IsP8IL2RpA4Eb6s42NVOQGxv
+         yVqbtf1516LIBYol+IflstGWYHk02IS+d5uuFcRDZfdeOCjDeD8OLtpeE1BU9YS9pO+w
+         YUeg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gfic.io header.s=google header.b=IRwKrfbf;
+       spf=neutral (google.com: 209.85.220.41 is neither permitted nor denied by domain of chase@gfic.io) smtp.mailfrom=chase@gfic.io;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=gfic.io
+Return-Path: <chase@gfic.io>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id f14-20020a50a6ce000000b00415e329ed5bsor5359326edc.3.2022.03.09.02.52.33
+        for <cwgibb@aggiemail.usu.edu>
+        (Google Transport Security);
+        Wed, 09 Mar 2022 02:52:33 -0800 (PST)
+Received-SPF: neutral (google.com: 209.85.220.41 is neither permitted nor denied by domain of chase@gfic.io) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gfic.io header.s=google header.b=IRwKrfbf;
+       spf=neutral (google.com: 209.85.220.41 is neither permitted nor denied by domain of chase@gfic.io) smtp.mailfrom=chase@gfic.io;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=gfic.io
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gfic.io; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=vEoZmbbB5czG3L5bMGUIlcTRwp9VgJCXapKDhdd6nYI=;
+        b=IRwKrfbfzw2Rt+ADt584vlx+EJkrK0Cr8wuKKProyFCRl97IAcn0OFNY/cHb1iZuXt
+         /egQvlkOCPGHVHEPHvDx/liEapWtGob/HpsfowPiaWSJuUzHXGjSAs3ft3JH3isZxQby
+         1ChMicizfvvQhKtC+FOSDlAJJhpaRD7Z89IQl1yGcW3HzhtdZjEhp4rguxK76i029Mu5
+         6bkYxtRsx4e8aIDRVkn8F1GG6DEQ4swxIA1K7F3863shP5pcKAJx2Oj6wi/i9pCr20sR
+         fKbC81tIazSf2JDodVAi8S4VzItg2zjWj3ahcsktQoQAQDxgrciWBGz7Edril0ZNQlvI
+         5Gcg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=vEoZmbbB5czG3L5bMGUIlcTRwp9VgJCXapKDhdd6nYI=;
+        b=pG22IYk0NbGh8CWXW9XBqgXvzWemMxn2IhXuYQ26MfDLAw8MAO4BpyugtUfowbQhFz
+         wp7S8Gy345sPOqmtERAOfrae0+wqnTehB1TflS7AqPuAvAI+MYcIRnR+BEWrUC1zaDcV
+         fFOBMxGneOXyOfTFv8Ko8YUdeHYqLYszZXM36XUZmlNCj3mx1GZW9qy/7uLkvB+niwqV
+         1XA/ziMmlSHj9NXSSjF3RDAtNNMOO34WwfYkysws0z9ox+4ue4OAIoBnxfn/MCGoIYkv
+         qv/Hbo0ErmkahrWhU/6sQ7SFBqalG0NnIB29qv307M408bCHlecYuA93fwnW8aj7SpmJ
+         WNlQ==
+X-Gm-Message-State: AOAM530G2YNFDxhCzCH5ejxUcD9p+Ib3u5XKjW5shOiatvXpMGN6/Zvt
+	kLGip/MdAC7ZSccOoGYRYWLoQwqK1KA8ies5oZBNVpohOzw0AuXF
+X-Google-Smtp-Source: ABdhPJzp9lwEIeJ7NOix4dmDnsEQkwo0YsEamDvcT6712pOst30WH3G9Bq7A2H4rwNLVDnOCnJH0m1PPOQ/23PZ7WDo=
+X-Received: by 2002:a05:6402:2549:b0:415:c31c:f9c2 with SMTP id
+ l9-20020a056402254900b00415c31cf9c2mr20761863edb.335.1646823153109; Wed, 09
+ Mar 2022 02:52:33 -0800 (PST)
+MIME-Version: 1.0
+From: Chase Gibbons <chase@gfic.io>
+Date: Wed, 9 Mar 2022 03:52:21 -0700
+Message-ID: <CAABgT3ao4JWtMJW=Q1uKiwu5DhzTCqD-7ocNKEiFT8qEs8ZKhQ@mail.gmail.com>
+Subject: Timeline (Pulled)
+To: Chase Gibbons <cwgibb@aggiemail.usu.edu>
+Content-Type: multipart/alternative; boundary="0000000000000ca93905d9c6e572"
+
+--0000000000000ca93905d9c6e572
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+To whom it may concern,
+
+
+I temporarily pulled the previous content located in this folder out of
+fear this information might have gotten into the wrong hands. More
+directly, I pulled it out of fear that a certain someone might be trying to
+use my own words to try and divide the US and it=E2=80=99s strategic allian=
+ces
+rather than to try and bring us together.
+
+
+If this ever goes to court then it=E2=80=99s best if not everyone sees it
+beforehand.
+
+
+And to be clear, the opinions laid out are/were all my own. The facts laid
+out are/were all personal testimony as to what happened either directly to
+me or directly in front of me.
+
+
+I do not give anybody consent to reference any of my content contained
+herein or previously contained herein in any public media articles or
+public appearances or otherwise at this time.
+
+
+Just know that at the end of the day it=E2=80=99s my information that I wor=
+ked
+extremely hard on, a lot of which is pretty freaking personal and has
+pretty freaking huge consequences for at least myself, my family, and my
+hometown of Logan; and therefore I can do what I want with my own
+information but I=E2=80=99d appreciate you not actively trying to jeopardiz=
+e our
+safety.
+
+
+I=E2=80=99ll be re-sharing the previous content to those whom I trust again
+shortly. Everyone else I shared it with previously has been perfectly
+honorable btw..
+
+
+My apologies for any inconvenience, I appreciate your understanding.
+
+
+#IStandWithUkraine #UnitedWeStand #DividedWeFall #NobodyIsPerfect
+#PutinIsEvil #WeGotThis #BewareOfPsychologicalManipulation
+#PsychologyIsAPowerfulTool
+
+
+Thank you,
+
+Chase Gibbons
+
+
+
+Thank you,
+
+Chase Gibbons
+
+Chase Gibbons <chase@gfic.io> / Manager
+435-999-4722
+
+
+PO Box 747Logan, UT 84321
+gfic.io <https://www.gfic.io>  <https://www.linkedin.com/company/gficllc/>
+
+--0000000000000ca93905d9c6e572
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><span id=3D"gmail-docs-internal-guid-be84c2f1-7fff-ecd9-d1=
+35-dda1750881d8"><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;ma=
+rgin-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(=
+0,0,0);background-color:transparent;font-weight:400;font-style:normal;font-=
+variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre=
+-wrap">To whom it may concern,</span></p><p dir=3D"ltr" style=3D"line-heigh=
+t:1.38;margin-top:0pt;margin-bottom:0pt"><b style=3D"font-weight:normal" id=
+=3D"gmail-docs-internal-guid-9da8d960-7fff-af67-4ae1-c16cb044bf42"><br></b>=
+</p><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0=
+pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);backgr=
+ound-color:transparent;font-weight:400;font-style:normal;font-variant:norma=
+l;text-decoration:none;vertical-align:baseline;white-space:pre-wrap">I temp=
+orarily pulled the previous content located in this folder out of fear this=
+ information might have gotten into the wrong hands. More directly, I pulle=
+d it out of fear that a certain someone might be trying to use my own words=
+ to try and divide the US and it=E2=80=99s strategic alliances rather than =
+to try and bring us together.</span></p><p dir=3D"ltr" style=3D"line-height=
+:1.38;margin-top:0pt;margin-bottom:0pt"><b style=3D"font-weight:normal"><br=
+></b></p><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bot=
+tom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);b=
+ackground-color:transparent;font-weight:400;font-style:normal;font-variant:=
+normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap">I=
+f this ever goes to court then it=E2=80=99s best if not everyone sees it be=
+forehand.=C2=A0</span></p><p dir=3D"ltr" style=3D"line-height:1.38;margin-t=
+op:0pt;margin-bottom:0pt"><b style=3D"font-weight:normal"><br></b></p><p di=
+r=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span=
+ style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-colo=
+r:transparent;font-weight:400;font-style:normal;font-variant:normal;text-de=
+coration:underline;vertical-align:baseline;white-space:pre-wrap">And to be =
+clear, the opinions laid out are/were all my own</span><span style=3D"font-=
+size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;f=
+ont-weight:400;font-style:normal;font-variant:normal;text-decoration:none;v=
+ertical-align:baseline;white-space:pre-wrap">. The facts laid out are/were =
+all personal testimony as to what happened either directly to me or directl=
+y in front of me.=C2=A0</span></p><p dir=3D"ltr" style=3D"line-height:1.38;=
+margin-top:0pt;margin-bottom:0pt"><b style=3D"font-weight:normal"><br></b><=
+/p><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0p=
+t"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);backgro=
+und-color:transparent;font-weight:400;font-style:normal;font-variant:normal=
+;text-decoration:none;vertical-align:baseline;white-space:pre-wrap">I do no=
+t give anybody consent to reference any of my content contained herein or p=
+reviously contained herein in any public media articles or public appearanc=
+es or otherwise at this time.</span></p><p dir=3D"ltr" style=3D"line-height=
+:1.38;margin-top:0pt;margin-bottom:0pt"><b style=3D"font-weight:normal"><br=
+></b></p><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bot=
+tom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);b=
+ackground-color:transparent;font-weight:400;font-style:normal;font-variant:=
+normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap">J=
+ust know that at the end of the day it=E2=80=99s my information that I work=
+ed extremely hard on, a lot of which is pretty freaking personal and has pr=
+etty freaking huge consequences for at least myself, my family, and my home=
+town of Logan; and therefore I can do what I want with my own information b=
+ut I=E2=80=99d appreciate you not actively trying to jeopardize our safety.=
+=C2=A0</span></p><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;ma=
+rgin-bottom:0pt"><b style=3D"font-weight:normal"><br></b></p><p dir=3D"ltr"=
+ style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D=
+"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:transpa=
+rent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:=
+none;vertical-align:baseline;white-space:pre-wrap">I=E2=80=99ll be re-shari=
+ng the previous content to those whom I trust again shortly. Everyone else =
+I shared it with previously has been perfectly honorable btw..=C2=A0</span>=
+</p><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0=
+pt"><b style=3D"font-weight:normal"><br></b></p><p dir=3D"ltr" style=3D"lin=
+e-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11=
+pt;font-family:Arial;color:rgb(0,0,0);background-color:transparent;font-wei=
+ght:400;font-style:normal;font-variant:normal;text-decoration:none;vertical=
+-align:baseline;white-space:pre-wrap">My apologies for any inconvenience, I=
+ appreciate your understanding.</span></p><p dir=3D"ltr" style=3D"line-heig=
+ht:1.38;margin-top:0pt;margin-bottom:0pt"><b style=3D"font-weight:normal"><=
+br></b></p><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-b=
+ottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0)=
+;background-color:transparent;font-weight:400;font-style:normal;font-varian=
+t:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap"=
+>#IStandWithUkraine #UnitedWeStand #DividedWeFall #NobodyIsPerfect #PutinIs=
+Evil #WeGotThis #BewareOfPsychologicalManipulation #PsychologyIsAPowerfulTo=
+ol=C2=A0</span></p><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;=
+margin-bottom:0pt"><b style=3D"font-weight:normal"><br></b></p><p dir=3D"lt=
+r" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=
+=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-color:tran=
+sparent;font-weight:400;font-style:normal;font-variant:normal;text-decorati=
+on:none;vertical-align:baseline;white-space:pre-wrap">Thank you,</span></p>=
+<p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt">=
+<span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background=
+-color:transparent;font-weight:400;font-style:normal;font-variant:normal;te=
+xt-decoration:none;vertical-align:baseline;white-space:pre-wrap">Chase Gibb=
+ons</span></p><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margi=
+n-bottom:0pt"><br></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-t=
+op:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;c=
+olor:rgb(0,0,0);background-color:transparent;font-variant-numeric:normal;fo=
+nt-variant-east-asian:normal;vertical-align:baseline;white-space:pre-wrap">=
+Thank you,</span></p><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0p=
+t;margin-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:=
+rgb(0,0,0);background-color:transparent;font-variant-numeric:normal;font-va=
+riant-east-asian:normal;vertical-align:baseline;white-space:pre-wrap">Chase=
+ Gibbons</span></p><br></span><div><div dir=3D"ltr" class=3D"gmail_signatur=
+e" data-smartmail=3D"gmail_signature"><div dir=3D"ltr"><div dir=3D"ltr"><di=
+v dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><p style=
+=3D"color:rgb(0,0,0);font-family:Helvetica,Arial,sans-serif;font-size:12px;=
+line-height:14px;margin-bottom:15px"><a href=3D"mailto:chase@gfic.io" style=
+=3D"color:rgb(251,229,162);font-weight:bold;display:inline" target=3D"_blan=
+k">Chase Gibbons</a>=C2=A0/=C2=A0<span style=3D"color:rgb(68,68,68)">Manage=
+r</span>=C2=A0<span style=3D"color:rgb(68,68,68)"></span><br><a href=3D"tel=
+:435-999-4722" style=3D"color:rgb(68,68,68);font-weight:bold;display:inline=
+" target=3D"_blank">435-999-4722</a>=C2=A0</p><p style=3D"font-family:Helve=
+tica,Arial,sans-serif;font-size:12px;line-height:14px;color:rgb(33,33,33);m=
+argin-bottom:10px"><br><span style=3D"color:rgb(68,68,68)">PO Box 747</span=
+><span style=3D"display:block"></span><span style=3D"color:rgb(68,68,68)">L=
+ogan, UT 84321</span>=C2=A0<br><a href=3D"https://www.gfic.io" style=3D"col=
+or:rgb(251,229,162);display:inline" target=3D"_blank">gfic.io</a><a href=3D=
+"https://www.linkedin.com/company/gficllc/" style=3D"font-size:0px;display:=
+inline" target=3D"_blank">=C2=A0</a></p></div></div></div></div></div></div=
+></div></div></div>
+
+--0000000000000ca93905d9c6e572--
