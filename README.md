@@ -2504,34 +2504,33 @@ Let’s take a look at all their options real quick:
  first place. If I were them—I would have definitely taken this option.
  2.
 
- Kill me to silence me
+ Kill me to silence me, then they could plant something or something to
+ try and discredit me.
  3.
 
  Frame me using all their advanced insight, resources, and hacking
  abilities
  4.
 
- Frame somebody else
- 5.
-
  What else? Write to the police everything they’ve done line by line in
  real time accusing me? Yea right. They know that would backfire on them
  bigly assuming they are guilty.
- 6.
+ 5.
 
  Try to discredit me/make me look crazy by gangstalking ME
- 7.
+ 6.
 
  “Fake” like THEY are victims of gangstalking THEMSELVES to try and make
  it look like it’s not them when nobody had even accused them of anything
  anyways? Yea fucking right. That would only discredit them anyways.
- 8.
+ 7.
 
  Force me out of town, force me to quit my jobs, etc; like they have been
  trying to do, along with framing me, gangstalking me, discrediting me, and
  trying to kill me. (Essentially an “all the above” option among those above
- that are even noteworthy—all besides the “fucking stop” option—this “all
- the above” option is the option they have seemingly chosen)
+ that are even noteworthy—all the noteworthy options besides the “fucking
+ stop” option—this “all the above” option is the option they have seemingly
+ chosen)
 
 
 As opposed to my one option:
@@ -2545,8 +2544,7 @@ As opposed to my one option:
  doing it to you, etc, and figure out a way to document everything fully and
  get it all to the police despite all the hacking—while risking potential
  insanity allegations, risking losing all your assets, risking being framed,
- risking your life, etc, etc—all in hopes you are indeed right about
- everything and in hopes of actually being able to have a
+ risking your life, etc, etc—all in hopes of actually being able to have a
  desirable/just/happy life/outcome again one day that will also help protect
  the rest of your family.
 
@@ -2562,9 +2560,9 @@ accountable one day and because we feel safest here. The people doing the
 attacking on the other hand are going to feel safest elsewhere—it’s just
 human nature. Plus, there really is only one group of people who HAVE NOT
 been poisoned or killed left standing, out of the natural divides within my
-father’s family—if I were you, I would look to the remaining tribe for
-suspects, you know, the tribe who has not had all this bad shit happening
-to them..
+father’s family, in my opinion—if I were you, I would look to the remaining
+tribe for suspects, you know, the tribe who has not had all this bad shit
+happening to them..
 
 I’ll give you a clue, I’m the only one left in the hacked/poisoned/killed
 tribe of my fathers family—I always sided with my father over Cindy—same
