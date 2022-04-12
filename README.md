@@ -1201,19 +1201,47 @@ Todo: add references. This is still a work in progress just know that, some
 items may be out of order initially until I go back and find exact
 references.
 
+
+~2006
+
+Met my girlfriend, Annie, around 2006. (
+https://drive.google.com/file/d/1eElmCgTJMhIZGUrNWuxHT6BjtmO0vbHd/view?usp=sharing
+)
+
+~2007
+
+Got my dog, Turbo, with my girlfriend Annie during the early part of 2007.
+
+Graduated from Logan High School.
+
+~2008
+
+I started going to college in I think 2008, but I didn’t take it seriously
+at first and I ended up applying for a leave of absence going to work at
+icon instead. (Which showed me what life would be like if I didn’t get a
+degree)
+
 ~2009
 
-Dusty, my brother, and Cindy, my stepmom, were always close. They would
-always stay up drinking at nights together along with Cindy’s son Shawn.
+Dusty, my brother, (
+https://drive.google.com/file/d/16htiaOfvTWqNEHQNWD\_h4aIrhLKcB1dm/view?usp=sharing
+) and Cindy, (
+https://drive.google.com/file/d/1HqEtatP91f-1UF0n6mgzEou4ShGlkJj4/view?usp=sharing
+) my stepmom, were always close. They would always stay up drinking alcohol
+at nighttimes together along with Cindy’s son Shawn. I’ve never been big
+into alcohol myself, I’d occasionally drink during parties or whatever,
+plus I was always hanging out with my girlfriend, Annie, all the time
+around this time myself, whenever I wasn’t working at the assembly line at
+icon.
 
-My father, Tim Gibbons, took me fishing in Alaska. My father told me Dusty
-would not be joining us that time because he was in trouble essentially.
+My father, Tim Gibbons, (
+https://drive.google.com/file/d/1eElmCgTJMhIZGUrNWuxHT6BjtmO0vbHd/view?usp=sharing
+) took me fishing in Alaska. My father told me Dusty would not be joining
+us that time because he was in trouble essentially.
 
 My father develops an “infection” by bumping into a bedframe at night
 supposedly in Alaska. It was in one of his feet, he ultimately has to get
 one of his big toes cut off.
-
-
 
 
 2010
@@ -1227,7 +1255,9 @@ returning from the gas station closeby. He finds our father laying in the
 middle of the hallway next to the piano where he supposedly proceeded to do
 CPR on him and call the paramedics. My father was on his way out the door
 to pick up my little sister, (half sister) Taylor, from the mall at the
-time. My brother apparently called some of his friends right after. I don’t
+time. (
+https://drive.google.com/file/d/1QwC3FA8S1wsD7\_XoQW77Izx3nw0WBYh7/view?usp=sharing
+) My brother apparently called some of his friends right after. I don’t
 know if my brother was on the best terms with my father at the time. I know
 my brother held resentment towards my father for “making” him follow in his
 footsteps as a civil engineer. My brother was set to graduate with his
@@ -1270,7 +1300,16 @@ other all that much.
 
 ~2011
 
-My brother and Cindy quickly become displeased with Karie--to say the least.
+My brother and Cindy quickly become displeased with Karie and the job she
+was doing as trustee--to say the least. (Cindy frustrated about Karie in
+relation to my little sister Taylor’s trust, Dusty frustrated about Karie
+in relation to his trust) To be clear, I had my frustrations with Karie,
+mostly just in their lack of transparency and their being a little shady
+trying to get us to sign something saying none of us could be trustee if
+she couldn’t serve previously, I had questioned their selling of all our
+dad’s assets previously, including their giving away our dad’s companies
+for next to nothing, but beyond that I actually always had a pretty decent
+relationship with Karie)
 
 I go back to college determined to take it more seriously this time. Karie
 does a good job at holding me accountable and ensuring I do well.
@@ -1292,6 +1331,9 @@ credible person at the time. But once I found out he was referring to Karie
 and that his wife’s father actually worked with Raedell, who was Karie’s
 mother, I honestly didn’t know what to think. I brought it up to like Dusty
 and Taylor at the time but again, I didn’t know if it was true or not.
+
+I suspect this is when my brother first started using some kind of poison
+against me meant to discredit me.
 
 Karie and the trust lawyer and Paul, the successor trustee accountant, had
 actually tried getting us all to sign something saying in the event Karie
@@ -1457,16 +1499,17 @@ mexicans came up and deliberately put what appeared to be this strange
 poison substance on my dog while pretending to pet him--my phone got hot at
 the time. My brother had told me he thinks my dog should die the day prior.
 My brother texted into the group conversation between my siblings and I
-right after the mexicans put that shit on turbo, disparaging our mother
-further--even though he said he was blocking us all the day prior. I knew
-it had to have been poison cuz it made both me and my dog feel funny, (I
-wiped it off him cuz he wouldn’t walk any further until I got it off) and
-even then my dog didn’t want to walk more than 100ft more that day, which
-was uncharacteristic for him at the time. It made me feel like messed up at
-first, then it made my whole ache for days afterwards. I couldn’t get it
-off--it kept seeping out of my pours for days--despite repeated washing. I
-finally figured out that rubbing alcohol/apple cider vinegar helped in
-washing it off.
+right after the mexicans put that shit on turbo, (
+https://drive.google.com/file/d/1TwEBUWSWpaOQLLgTQGL-Wq\_tqkWIKc4W/view?usp=sharing
+) disparaging our mother further--even though he said he was blocking us
+all the day prior. I knew it had to have been poison cuz it made both me
+and my dog feel funny, (I wiped it off him cuz he wouldn’t walk any further
+until I got it off) and even then my dog didn’t want to walk more than
+100ft more that day, which was uncharacteristic for him at the time. It
+made me feel like messed up at first, then it made my whole ache for days
+afterwards. I couldn’t get it off--it kept seeping out of my pours for
+days--despite repeated washing. I finally figured out that rubbing
+alcohol/apple cider vinegar helped in washing it off.
 
 2nd perfect circle of black feathers left in my yard the same night we were
 poisoned--which again was the day after my brother straight up told me he
@@ -1476,7 +1519,8 @@ the fireworks going off in 2019.
 I confront my brother saying he’d be crazy to try and kill me right then
 essentially--because if he had still lived in logan he’d know people are
 suspicious of all the deaths in our family as is and how there was a
-pattern of them being 5 years apart.
+pattern of them being 5 years apart. (Notice the timing of the attack, it
+was mid way through 2019)
 
 To be continued…
 
@@ -1509,30 +1553,40 @@ The police track him down and pull him over and arrest him. Jacade Rausch
 is his name. I guess he had drugs on him at the time. He’s now facing up to
 40 years in prison.
 
-My dog Turbo dies literally like 27 hours later.
+My dog Turbo dies literally like 27 hours later. (
+https://drive.google.com/drive/folders/1z5nyeLN4a5-Nyb2fLSiRFfEsj8\_di8hx?usp=sharing
+)
 
 I begin to do a ring neighbors social media post to notify the neighbors of
 what had happened with the suspected stalking/guy pulling a gun on me.
 (Initially I thought he may have just been lost doing a drug delivery or
 something until I found out that guy actually lived around here even though
-he had licensee plates from another state)
+he had licensee plates from another state) (
+https://neighbors.ring.com/event/Vxp7yxNSxV )
 
 Child abuser’s kid starts showing up at my house for the first time out of
 the whole time they’ve lived next to me, asking to “play” initially. I
-didn’t know who’s kid it was until some time later.
+didn’t know who’s kid it was until some time later. (
+https://drive.google.com/drive/folders/1u5IDbtDskD\_X8bowDJAY9ukE-xuI5MlS?usp=sharing
+)
 
 Posted the ring neighbor’s app post after the kid started being sent to
-intimidate me.
+intimidate me--not before. (Meaning nobody even knew about the guy pulling
+a gun on me yet) (https://neighbors.ring.com/event/Vxp7yxNSxV )
 
-Child abuser’s kid starts coming to my house again and again--every week.
-Saying a different thing each time. The first few times he asked to “play”.
-Then he started saying something having to do with “kill” or “death” or
-whether I was going to “kill him” or something like that. He would show up
-at my house on key dates to like on my birthday for instance. Like it
-clearly wasn’t random.
+Child abuser’s kid starts coming to my house again and again--every
+week--on key dates. Saying a different thing each time. The first few times
+he asked to “play”. Then he started saying something having to do with
+“kill” or “death” or something like “kill him” or something like that. He
+would show up at my house on key dates too like on my birthday and labor
+day for instance. Like it clearly wasn’t random. (
+https://drive.google.com/drive/folders/1u5IDbtDskD\_X8bowDJAY9ukE-xuI5MlS?usp=sharing
+)
 
 Emf started--they made it extra intense on my dog’s would be sixteenth
-birthday.
+birthday. (
+https://drive.google.com/file/d/1r2-oTX8gWahAlVI3CuLgKKTg0p1nw4uT/view?usp=sharing
+)
 
 Skipping a bunch here for now...
 
