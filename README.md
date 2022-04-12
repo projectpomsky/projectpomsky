@@ -10811,9 +10811,10 @@ take out the kremlin before they bring about the apocalypse.
 
 I no longer think China is directly involved.
 
-I suspect they have tampered with my water. They use things that are
-impossible to test for. I don’t even know if you could even find a test for
-what they use. Everything they do is meant for them to get away with it.
+I suspect they have tampered with my water. I suspected this a long time
+ago tbh–but they are still doing it. They use things that are impossible to
+test for. I don’t even know if you could even find a test for what they
+use. Everything they do is meant for them to get away with it.
 
 Chase Gibbons  / Manager
 435-999-4722
