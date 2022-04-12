@@ -230,30 +230,30 @@ As for me, I’m a senior software engineer so I know computers and
 technology pretty well myself and even still--these guys have proven they
 can hack literally anything and everything over and over again--and they
 can hack my whole house and turn it into a giant death trap without my
-consent by adding all these little electronic bugs everywhere. (See
-Credentials section below for more on my credentials) Again there’s no
-smoking gun--yet--but just try living all of this yourself, it’s not my
-prescriptions, I’ve been on the same dose for some time and I’ve gone
-without to rule them out and I am quitting them just so they can’t use them
-against me anymore. These guys are just extremely sophisticated and their
-end game is to kill me and get away with it. So of course they are going to
-deny it and try and smear campaign me--even though they are way worse than
-me at everything they accuse me of. I don’t think it’s a prank either;
-that’s way too much money and resources devoted to me daily for months on
-end just for a prank and I still don’t know what the hell substances they
-are using to make me feel that way and at the end of the day they are still
-breaking the law and making me feel like they are trying to kill me—at the
-very least. They may have already succeeded we just don’t know it
-yet—that’s what is so scary. Plus, I feel like I could have died multiple
-times now if I hadn’t been so vigilant--I feel I’ve been to within inches
-of my life at times—what kind of prank is that? The poisonings are very
-real, some even pull all my blood from my extremities. Others make my lymph
-nodes hurt for days. Others make me feel wobbly. Others seem to be meant to
-like discredit me. They seem to use different kinds of poisons meant to do
-different things. And they have adamantly tried to make me like deemed
-crazy or something--it’s not a prank. Even though sometimes I wish it was
-all a prank because I really do love my brother and I really don’t want to
-lose any more family members.
+consent. (See Credentials section below for more on my credentials) Again
+there’s no smoking gun--yet--but just try living all of this yourself, it’s
+not my prescriptions, I’ve been on the same dose for some time and I’ve
+gone without to rule them out and I am quitting them just so they can’t use
+them against me anymore. These guys are just extremely sophisticated and
+their end game is to kill me and get away with it. So of course they are
+going to deny it and try and smear campaign me--even though they are way
+worse than me at everything they accuse me of.
+
+I don’t think it’s a prank either; that’s way too much money and resources
+devoted to me daily for months on end just for a prank and I still don’t
+know what the hell substances they are using to make me feel that way and
+at the end of the day they are still breaking the law and making me feel
+like they are trying to kill me—at the very least. They may have already
+succeeded we just don’t know it yet—that’s what is so scary. Plus, I feel
+like I could have died multiple times now if I hadn’t been so vigilant--I
+feel I’ve been to within inches of my life at times—what kind of prank is
+that? The poisonings are very real, some even pull all my blood from my
+extremities. Others make my lymph nodes hurt for days. Others make me feel
+wobbly. Others seem to be meant to like discredit me. They seem to use
+different kinds of poisons meant to do different things. And they have
+adamantly tried to make me like deemed crazy or something--it’s not a
+prank. Even though sometimes I wish it was all a prank because I really do
+love my brother and I really don’t want to lose any more family members.
 
 Imagine you being in my shoes. You’ve lost half your family. Your brother
 has completely ripped your family apart--on both sides. And now he and his
@@ -665,7 +665,8 @@ they stole my keychain along with all of my keys. (I had two pairs of car
 keys on me at the time) I couldn’t even get back into my house when I
 returned home.
 
-(See keys folder)
+https://drive.google.com/drive/folders/1DjMvSosYzbVGZyJmn36qerDSPErQ5vQk?usp=sharing
+
 
 
 As of November 22, 2021
@@ -677,15 +678,16 @@ https://drive.google.com/drive/folders/1-3uwLSYouTmeEgRUdch86RrlTeA0lPZt
 
 As of November 24, 2021
 
-They locked me out of my 1Password today. Meaning they have access to all
-of my passwords. Luckily they had already changed up my 2-factor auth
-settings on my 1Password fairly recently, which I was lucky enough to find
-a way around, and so I took a backup of all my passwords at that time just
-as a precaution whereas they literally showed me they had full control of
-my account at that time pretty much—in order to be able to completely
-invalidate my 2-factor auth settings and swap them out for something else
-like that. The only way past it this time however is by starting a whole
-new account—and even then I know I won’t be able to keep them out.
+I suspect they locked me out of my 1Password today. Meaning they likely
+have access to all of my passwords. Luckily they had already changed up my
+2-factor auth settings on my 1Password fairly recently, which I was lucky
+enough to find a way around, and so I took a backup of all my passwords at
+that time just as a precaution whereas they literally showed me they had
+full control of my account at that time pretty much—in order to be able to
+completely invalidate my 2-factor auth settings and swap them out for
+something else like that. The only way past it this time however is by
+starting a whole new account—and even then I know I won’t be able to keep
+them out.
 
 As of November 26, 2021
 
@@ -1112,62 +1114,13 @@ Timeline coming soon, which will hopefully put everything in a little
 better perspective..
 
 
-As of December 15, 2021
 
-[Opinion]
-
-My brother is trying to kill me you guys. Like I know that sounds bad, but
-I swear it’s the truth. Do you know how much money and time his “people”
-have spent on me? It’s insane. Sometimes I become desensitized like I said,
-but the truth is I can’t grow hair on like half of my legs anymore--which
-isn’t normal. Most older men can still grow hair on their legs--let alone
-men my age. I know deep down this is no joke. Sometimes I suspect they may
-still be getting into my house despite my best efforts to keep them out. I
-don’t know if it’s just PTSD or whether I’m still being re-exposed to
-something they did previously while in my house somehow or else whether
-it’s from my car or what. All of this likely implicates way more than just
-my brother too. So it’s like a small army of people want me dead. And
-nobody is going to truly take this seriously until it ultimately happens.
-That’s the position I find myself in. The worst part is my brother has
-ripped apart my whole family.
-
-These guys can hack anything--you have been warned. It’s scary. I suspect
-they buy exploits off of the dark web btw, I don’t think they program
-everything from scratch.
-
-I wish I knew the name of what hacking gang or mob or cult or whatever it
-is these guys belong to. Because these guys are extremely dangerous. Some
-of them seem to be like hired contractors or hitmen, whereas others seem to
-be more persistent in nature. But going after people seems to be legit all
-this hacking gang does all day every day. Most hackers aren’t killers but
-the two together are a deadly mix. My brother really had no reason to hack
-me other than if he wanted to kill me. Do you want to know who’s websites
-my brother has done previously btw? Karie’s and my father’s. Crazy right? I
-wonder if he hacked them too.
-
-Regardless, I hope someone takes all this and runs with it and holds my
-brother and everyone else who has been involved accountable some day,
-assuming they are indeed guilty as I strongly suspect--don’t let them
-mislead you. If I can do anything further to help, just let me know. If my
-brother and any other key members of this unnamed group are one day held
-responsible--it will have all been worth it. Even just raising the alarm
-like this is huge. Hopefully when I’m done with all this then people can
-make up their own minds about my brother and whatever happens to me from
-here on out. My fear is a lot of what I have shared here is electronic at
-the end of the day, and it could therefore be hacked and manipulated and
-therefore it could be argued to not be authentic in court--when in fact
-everything I’ve written here thus far is authentic--I just could still do
-it in a more official way is all I guess. I’ll do that on the key parts
-once I’m through. But then I need to get out of here for my own safety and
-leave this all behind me I think, in pursuit of happiness elsewhere.
-
-Regardless, thank you for your support.
 
 Indicators of being hacked
 
 The following outlines some indicators of being hacked based on what I’ve
-learned myself. If you have multiple of these indicators--then you are
-likely hacked.
+learned myself. If you have multiple of these indicators--then you could
+very well be hacked.
 
 Most the bigger company websites you visit will make you do captchas before
 they allow you to proceed to their website out of nowhere like even
@@ -1185,8 +1138,9 @@ https://drive.google.com/file/d/1jj3jJMOPSpfNHU57zSXVAOU8PjRju9vY/view?usp=drive
 
 
 Another indicator is your mouse will move without you moving it—without any
-other legitimate explanation for your mouse to be moving at the time. If
-this happens repeatedly over time, then you could very well be hacked.
+other legitimate explanation for your mouse to be moving at the time–and at
+odd times. (The hackers like send you signals based on what you are doing)
+If this happens repeatedly over time, then you could very well be hacked.
 Works on desktop only.
 
 Another indicator is your screen color might change hues just slightly,
@@ -1244,6 +1198,18 @@ indicate someone is actively tracking your location)
 A lot of times virus detectors won’t even detect the malware my brother is
 using btw--believe me, I have tried a lot of them. I recall my brother used
 to try a lot of them himself.
+
+Other things that have happened to me is they’ll interfere with what I
+type, especially on mobile. They will cut my internet connection on both
+desktop and mobile or else throttle it–depending on what I'm doing at the
+time. They’ll change up my spotify music queue to play songs of their
+choosing. They will essentially re-program parts of mobile applications so
+that they can do things they display a false feed on my arlo video cameras,
+when I’m monitoring whether or not they are breaking into my house in real
+time, so as to not raise suspicion. (But I caught them doing this
+previously by having two cameras side by side, and having the cars not come
+through synchronously–I initiated my arlo alarm when I saw that–then they
+changed it so I couldn’t initiate my arlo alarm anymore)
 
 The best thing you can do if you do suspect you are hacked, that I have
 found at least, is to report it to the Utah Department of Public Safety -
@@ -1542,17 +1508,17 @@ hurting him again. Then the wife sees me. They follow me that day on my
 walk.
 
 I see two dudes with I think beanies on sitting in a van sitting outside my
-house a little while later--both with laptops, as soon as they see me peak
-out the window they drive off. I later see the occupants of that van go
+house a few months later--both with laptops, as soon as they see me peak
+out the window they drive soff. I later see the occupants of that van go
 into the child abuser’s house.
 
-My brother asks me to do his website for his new recording studio, whereas
-he had all the sudden distanced himself from everyone I told him I would
-just to try and develop some kind of a relationship with him again. (Who
-makes all these enemies and pushes away their family right when trying to
-start a new business anyhow?) He asked me to come work with him at the time
-but he was clearly being shady so I denied. Plus my brother has always been
-difficult to work with.
+My brother Dusty asks me to do his website for his new recording studio,
+whereas he had all the sudden distanced himself from everyone I told him I
+would just to try and develop some kind of a relationship with him again.
+(Who makes all these enemies and pushes away their family right when trying
+to start a new business anyhow?) He asked me to come work with him at the
+time but he was clearly being shady so I denied. Plus my brother has always
+been difficult to work with.
 
 I get hacked by my brother through his website files he shared with me at
 the time.
@@ -1823,6 +1789,59 @@ Infrasound
 Radiation poisoning
 
 2022
+
+
+
+As of December 15, 2021
+
+[Opinion]
+
+My brother is trying to kill me you guys. Like I know that sounds bad, but
+I swear it’s the truth. Do you know how much money and time his “people”
+have spent on me? It’s insane. Sometimes I become desensitized like I said,
+but the truth is I can’t grow hair on like half of my legs anymore--which
+isn’t normal. Most older men can still grow hair on their legs--let alone
+men my age. I know deep down this is no joke. Sometimes I suspect they may
+still be getting into my house despite my best efforts to keep them out. I
+don’t know if it’s just PTSD or whether I’m still being re-exposed to
+something they did previously while in my house somehow or else whether
+it’s from my car or what. All of this likely implicates way more than just
+my brother too. So it’s like a small army of people want me dead. And
+nobody is going to truly take this seriously until it ultimately happens.
+That’s the position I find myself in. The worst part is my brother has
+ripped apart my whole family.
+
+These guys can hack anything--you have been warned. It’s scary. I suspect
+they buy exploits off of the dark web btw, I don’t think they program
+everything from scratch.
+
+I wish I knew the name of what hacking gang or mob or cult or whatever it
+is these guys belong to. Because these guys are extremely dangerous. Some
+of them seem to be like hired contractors or hitmen, whereas others seem to
+be more persistent in nature. But going after people seems to be legit all
+this hacking gang does all day every day. Most hackers aren’t killers but
+the two together are a deadly mix. My brother really had no reason to hack
+me other than if he wanted to kill me. Do you want to know who’s websites
+my brother has done previously btw? Karie’s and my father’s. Crazy right? I
+wonder if he hacked them too.
+
+Regardless, I hope someone takes all this and runs with it and holds my
+brother and everyone else who has been involved accountable some day,
+assuming they are indeed guilty as I strongly suspect--don’t let them
+mislead you. If I can do anything further to help, just let me know. If my
+brother and any other key members of this unnamed group are one day held
+responsible--it will have all been worth it. Even just raising the alarm
+like this is huge. Hopefully when I’m done with all this then people can
+make up their own minds about my brother and whatever happens to me from
+here on out. My fear is a lot of what I have shared here is electronic at
+the end of the day, and it could therefore be hacked and manipulated and
+therefore it could be argued to not be authentic in court--when in fact
+everything I’ve written here thus far is authentic--I just could still do
+it in a more official way is all I guess. I’ll do that on the key parts
+once I’m through. But then I need to get out of here for my own safety and
+leave this all behind me I think, in pursuit of happiness elsewhere.
+
+Regardless, thank you for your support.
 
 Chase Gibbons  / Manager
 435-999-4722
