@@ -8859,10 +8859,11 @@ access to it using psychology–i.e. as part of their psychological
 manipulation campaign against our country, by turning us against each
 other, exploiting conflicts of interest to where they made it so it was in
 somebody’s best interest to give them access to it and that certain someone
-cared more about themselves than everybody else–or just from the toxic
-divisions lately leading to someone giving them access to it for free–or I
-guess they might could have re-engineered it but I doubt it–things like
-these are compiled in ways to be difficult to re-engineer)
+cared more about themselves than everybody else–or just from all the toxic
+divisions and corruption lately leading to someone giving them access to it
+for free–or I guess they might could have re-engineered it but I doubt
+it–things like these are compiled in ways to be difficult to re-engineer)
+We need to come together people.
 
 Chase Gibbons  / Manager
 435-999-4722
