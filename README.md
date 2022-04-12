@@ -11176,14 +11176,19 @@ videos I shared previously–and these guys actually have 0days–seemingly a
 lot of them–I assure you. If I weren’t completely gangstalked and whatnot
 right now–I’d work on developing some sort of tool for the average
 person/hacker to be able to tell whether or not they are hacked using
-everything from scanning of networks to port monitoring to arp monitoring
-to packet monitoring and replaying to machine learning to easy setup
-without having to be a freaking security expert to behavioral analysis
-to–you know just like a kick ass all encompassing intrusion
-detection/prevention system geared towards the home user–without dollar
-signs being the motive behind it like every other vendor does–in reality
-the motive behind it would be straight up freedom and to help save our
-country. It’s on my bucket list ;)
+everything from scanning of internal and external networks to port
+monitoring to arp monitoring to packet monitoring and replay functionality
+to machine learning to easy setup without having to be a freaking security
+expert to behavioral analysis to–you know just like a kick ass all
+encompassing intrusion detection/prevention system geared towards the home
+user–without dollar signs being the motive behind it like every other
+vendor does–in reality the motive behind it would be straight up freedom
+and to help save our country. I could still charge for it but the
+difference is every other company who develops something that nice ends up
+only targeting huge corporations with their products–leaving us normal
+people exposed–and us normal people is who Russia primarily seems to be
+trying to corrupt and manipulate–in addition to all the corporations but
+they get in through people like us. But yea, it’s on my bucket list ;)
 
 
 Chase Gibbons  / Manager
