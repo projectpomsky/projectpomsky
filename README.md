@@ -2699,8 +2699,8 @@ but more elaborate quote of what I put above here:
  (So now I got to figure out what in the hell will successfully wash off
  this new substance and all the chemistry or whatever involved with soaps
  and different kinds of oils, etc, etc—if I want to freaking get it off me
- fully–read the bullet points below–I guess it’s in my best interest not to
- research this or continue trying to get it off me at his point)
+ fully–read the bullet points below–I guess it’s in my best interest NOT to
+ research this or continue trying to get it off me at his point after all)
  -
 
  A better description of their overall pattern is that they will always
@@ -2738,10 +2738,10 @@ but more elaborate quote of what I put above here:
  I can now see it. My brother is essentially forcing me through these
  steps making me learn these things to frame me, only he’s doing it by
  actually doing these things to me—knowing his search history will never be
- found and mine will. But that would only help him for future murders
- essentially.. (Cuz I just searched how to get wax off my skin starting just
- yesterday or the day before when I woke up with hives and I noticed I had a
- waxy substance on my hands yet again that wouldn’t come off for days
+ found and mine will. ⚠️ But that would only help him for future murders
+ essentially.. (Cuz I just searched how to get wax off my skin starting
+ just yesterday or the day before when I woke up with hives and I noticed I
+ had a waxy substance on my hands yet again that wouldn’t come off for days
  starting when I said I suspect they were still getting in my house—which is
  why I said that..) I guess framing me is yet another way for him to dismiss
  all my allegations against him. Now I almost have to be able to prove all
@@ -2769,7 +2769,7 @@ but more elaborate quote of what I put above here:
  and just ignore it whenever I am poisoned/whenever I do have some strange
  substance on my hand out of nowhere. (They can put that stuff anywhere, on
  doorknobs for instance, etc) If I die from it then I dunno, I guess so be
- it–but even then he could blame me for it. #worstbrotherever v
+ it–but even then he could blame me for it. #worstbrotherever #mindf@#$
  -
 
  My brother is smart you guys, I just wish he wouldn’t drag me into all
@@ -2777,12 +2777,22 @@ but more elaborate quote of what I put above here:
  mind games–I don’t want to learn all his psychological mind games just to
  combat him either. I don’t know what to do. I need to find a roommate and
  asap I guess. No wonder he told me I’d regret not having people around me
- previously.. (But the thing is, he’s kinda helped make it that way for me
+ previously.. (But the thing is, he’s kinda helped make it this way for me
  in numerous different ways especially as of lately–I swear he thinks he’s
  god–or the devil I guess he’d like being called the devil better..)
  -
 
- Anyways, Happy Holidays all. ✌️
+ So having realized this, I think it might be in my best interest to
+ close all my accounts and shut off all my devices and get a new mailbox key
+ and move someplace else with roommates like asap to make it more difficult
+ for my brother to try and frame me. I guess I might have to start a new
+ career as well. I’m still thinking about it, but the longer any of my
+ devices are turned on–the more of a potential liability they are for my
+ brother to frame me–seems I still haven’t figured out how to get him off my
+ network/devices.
+ -
+
+ Happy Holidays all, wish me luck. 🎄🎅✌️
 
 
 
