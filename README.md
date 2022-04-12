@@ -1136,7 +1136,7 @@ The following outlines some indicators of being hacked based on what I’ve
 learned myself. If you have multiple of these indicators--then you could
 very well be hacked.
 
-Most the bigger company websites you visit will make you do captchas before
+Most the bigger company websites you visit may make you do captchas before
 they allow you to proceed to their website out of nowhere like even
 google.com. It’s because the hackers actually rig your browser to send
 multiple requests per request that is made, or they rig it to create
@@ -1150,25 +1150,49 @@ https://drive.google.com/file/d/1B9GXyp2bXY\_85LdPhwuy1Bver9Yr255W/view?usp=driv
 
 https://drive.google.com/file/d/1jj3jJMOPSpfNHU57zSXVAOU8PjRju9vY/view?usp=drivesdk
 
+You may start getting invalid certificate errors on legitimate websites
+that would never have an invalid cert by themselves. Like
+https://drive.google.com for example. The following means there is
+something going on with my network where I’m being exposed to a man in the
+middle attack.
+
+
+This is not the right certificate for google–I’ll just say that right now.
+Your browser will make it pretty obvious.
+
+
+You may start receiving strange text messages like the following which look
+more like they are spam and not meant for you more than anything. (In
+reality, they are secret commands meant to control your phone based on my
+research and experience–it could mean your sim card is hacked) My
+understanding is that if they have control of your router then they can
+also send these binary sms messages to your phones to take over your sim.
+These are definite indicators of being hacked. Works on mobile phones only.
+
+
 
 Another indicator is your mouse will move without you moving it—without any
 other legitimate explanation for your mouse to be moving at the time–and at
-odd times. (The hackers like send you signals based on what you are doing)
-If this happens repeatedly over time, then you could very well be hacked.
-Works on desktop only.
+odd times. (The hackers like send you signals based on what you are doing,
+I also just think the mouse moving is just a side effect of their
+hacking/remote viewing/remote accessing) If this happens to you repeatedly
+over time, especially if there’s no other possible explanation–then you
+could very well be hacked. Works on desktop only.
 
 Another indicator is your screen color might change hues just slightly,
 whenever the hackers start watching your screen remotely, from a whiter hue
 to a bluer hue. It’s a side effect of the hackers watching your screen is
 what I have come to find out. The hackers can actually change this side
 effect to a different one that is not hue related—but there will always be
-a small side effect of some sort if you are observant enough tmk. This
-happens both on mobile and desktop devices.
+a small side effect of some sort if you are observant enough tmk. The color
+hue side effect of being watched happens both on mobile and desktop
+devices.
 
 Another indicator is a ton of open ports when you do a network scan. The
 open ports are necessary for the hackers to access your devices remotely
 essentially. Works for desktop and mobile and your router and everything
-else connected to your network.
+else connected to your network. I’ve been using an app called Zenmap as of
+lately myself.
 
 Another indicator is your modem may regularly cut out and start downloading
 new configurations—like it might even stop your Comcast cable tv from
@@ -1207,8 +1231,12 @@ passwords/security questions had been altered. So that’s another way to
 tell you are hacked either via stuff being deleted that you know you didn’t
 delete, (both in your accounts and on your computer itself)
 passwords/security questions being invalid out of nowhere that you know you
-didn’t change, and your phone getting hot at odd times. (which could
-indicate someone is actively tracking your location)
+didn’t change–especially pay attention to you router admin password, and
+your phone getting hot at odd times. (which could indicate someone is
+actively tracking your location)
+
+Strange router logs can also indicate your router may be hacked. [Reference
+here]
 
 A lot of times virus detectors won’t even detect the malware my brother is
 using btw--believe me, I have tried a lot of them. I recall my brother used
@@ -1225,10 +1253,10 @@ me from being able to work when next to other coworkers who’s computers are
 behaving just fine, they do it in odd ways and always at key times, they
 also have cut my internet access both on my phone and on my computer in
 order to prevent me from checking on my cameras previously, prevent me from
-uploading stuff to this folder, etc) They’ll change up my spotify music
-queue to play songs of their choosing to try and send me signals. They will
-essentially re-program parts of mobile applications so that they can do
-things like display a false feed on my arlo video cameras, when I’m
+uploading stuff to this folder, etc, etc) They’ll change up my spotify
+music queue to play songs of their choosing to try and send me signals.
+They will essentially re-program parts of mobile applications so that they
+can do things like display a false feed on my arlo video cameras, when I’m
 monitoring whether or not they are breaking into my house in real time
 while I’m away, so as to prevent any chance of me seeing them
 whatsoever–even if I check on it in real-time. (I caught them doing this
@@ -1246,8 +1274,8 @@ is the only way I’ve found to get anything on my ring account to load
 again. They reprogram my phone number to forward to other phone numbers or
 to not work altogether. They’ll make my phone not block contacts that are
 clearly marked as being blocked. (Like my brother for instance, he can
-still text me even though he’s blocked) What else? I’ll think of more and
-add it here.
+still text me even when he’s blocked) What else? I’ll think of more and add
+it here.
 
 They can act as the middle man between texts and add malicious payloads
 and/or change the timing of when texts are sent, change up the wording, or
@@ -1255,18 +1283,36 @@ else prevent them from going out entirely.
 
 They can act as the middle man between emails and prevent me from being
 able to send/receive emails, add malicious payloads, change the timing,
-etc, etc
+etc, etc.
+
+They can listen to you through your microphones at any time–without any
+indication they are even listening.
+
+They can tap into your cameras at any time–without any indication they are
+even watching. (I recommend getting camera covers)
 
 
 
-The best thing you can do if you do suspect you are hacked, that I have
-found at least, is to report it to the Utah Department of Public Safety -
-Cyber Division.
+The best thing you can do if you do suspect you are hacked by my brother,
+that I have found at least, is to report it to the Utah Department of
+Public Safety - Cyber Division.
 
 https://siac.utah.gov/cyber-security/
 
+I recommend turning your computers off at nighttimes, so they can’t access
+all your stuff while you are asleep.
 
+I recommend you take regular backups of your devices. That way you won’t
+ever lose anything that is important to you and theoretically you could
+revert to a non hacked state if you get hacked. (Depending on how deep into
+the file system your backups cover)
 
+I wish I had better advice for everyone in regards to how to get unhacked
+once you are hacked, but I’m honestly still figuring that part out myself…
+(I guess it also just depends on how hacked you are, identifying the scope
+of the hack is key) The best bet might be to document it and report it to
+the manufacturers–or else find a way to get the manufacturers to dig into
+it themselves.
 Timeline (Rough Draft)
 
 Todo: add references. This is still a work in progress just know that, some
@@ -2958,14 +3004,21 @@ appointments for me when I couldn’t find any appointments myself. I suspect
 the microchip could be how they know where I’m at at all times, how they
 know exactly where to point the EMF, etc, etc.
 
-My brother has always been into nanotechnology too which is scary.
+My brother has always been into nanotechnology too which is scary. He also
+started trying to tell me how important it is to have rich friends or
+whatever before all this began.
 
-More info: 👇👇
+More info on suspected mind hacking/microchip hypothesis: 👇👇
 
 https://docs.google.com/document/d/1ubgIsPG6MQ5S1Apkb4MCGLP1pwJhTi2EMG0b6rhEFK0/edit?usp=sharing
 
+I plan to goto the doctor to try and either confirm or deny this latest
+suspicion of mine. Worst case I figure I’m only as bad as all the people
+who were scared to get shots over microchip concerns–only in my case I now
+have reason to believe I may have actually already gotten one. Maybe I
+should have been more cautious myself to begin with..
 
-My plan:
+My overall plan:
 
 https://bit.ly/cwg-plan
 
