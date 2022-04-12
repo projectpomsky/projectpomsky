@@ -1,3 +1,10 @@
+---------- Forwarded message ---------
+From: Chase Gibbons 
+Date: Tue, Mar 1, 2022 at 3:48 AM
+Subject: Timeline - Says i edited it today when I didn’t
+To: Chase Gibbons 
+
+
 README
 
 I’ll admit, the break-in footage located within this folder isn’t the best.
@@ -8024,6 +8031,14 @@ Idk it’s not my speciality I’m just trying to learn more about all this
 stuff to try and make some headway on this microchip tbh. My actual
 speciality is full stack web programming—but I’ve been learning a ton about
 security lately as well for the same reasons—to try and protect myself.
+-- 
+
+Chase Gibbons  / Manager
+435-999-4722
+
+
+PO Box 747Logan, UT 84321
+gfic.io  
 -- 
 
 Chase Gibbons  / Manager
