@@ -3498,7 +3498,7 @@ As of December 30, 2021
 What these people are doing with the feed from my brain to my eyes might
 actually be caused by another variation of infrasound based on me
 experiencing it last night while hearing the sound/feeling the
-vibrations–which would be a relief if so. I don’t like the idea of my brain
+vibrations–which would be a relief if so—I don’t like the idea of my brain
 being reprogrammed through a microchip after all. But yea, it could just be
 infrasound at a different frequency/rhythm than the one that messed with my
 heart previously. Infrasound is how your body controls your organs. So
@@ -3508,18 +3508,19 @@ sending out their own infrasound using a combination of my house's
 electricity, my house's duct work, whatever they installed in my house
 previously, and when I shut off all my power, some external infrasound
 source that isn’t quite as powerful–to give me that effect in my eyes. (It
-happened again last night, last night it was pretty loud too—it was
-seemingly shaking my whole room/shelter just depending on where they were
-seemingly pointing it at the time)
+happened again last night, last night it was pretty loud too before I shut
+off all the power to my house—it was seemingly shaking my whole
+room/shelter just depending on where they were seemingly pointing it at the
+time)
 
 I also have suspected for some time that they are capable of using sound to
-act as sonar or radar, by triangulating it or something, allowing them to
-map out any surrounding area in real time. (Hence why it seems to me to be
-like some foreign government or something cuz who even has that capability?
-That would be worth some money is all I’m saying) I suspect there’s still
-something in my ear though that beeps regardless of where I’m located, but
-it varies. Therefore I now suspect that thing in my ear to be primarily a
-tracker microchip.
+act as sonar or radar, by triangulating their infrasound or something,
+allowing them to map out any surrounding area in real time. (Hence why it
+seems to me to be like some foreign government or something cuz who even
+has that capability? That would be worth some money is all I’m saying) I
+suspect there’s still something in my ear though that beeps regardless of
+where I’m located, but it varies. Therefore I now suspect that thing in my
+ear to be primarily a tracker microchip.
 
 Most all the references I’ve been referring to throughout this entire
 document should now be present somewhere in this google drive folder just
@@ -3589,6 +3590,22 @@ out where I’m going, etc.
 Regardless, thank you for reading. Thank you for your help as well, it’s
 been a little better lately, at least in terms of them not stealing my
 keys, not constantly breaking into my house, etc, etc. Happy new year!
+
+P.s. I’m not giving up btw. They made a huge mistake in admitting to
+killing my dog the other day—regardless of whether they did or not. My dog
+was a local celebrity. What they are trying to do is make any memory of my
+dog a bad one—and I simply will not let that happen. (It’s more Charles
+Manson psychology tactics I suspect) Regardless, Dusty needs some serious
+help. I hope you all will join me in helping to ensure dusty is brought to
+justice, if not for me, if not for karie or my father—but for turbo. What
+dusty does to all these people/animals makes him deserve being locked up
+for the rest of his life—regardless of how smart he is. I’m happy to do
+whatever is necessary to bring down such a horrific person who happens to
+be my brother. He tries making my life and turbos life miserable for no
+reason other than for his own personal enjoyment. I said my kryptonite is
+my love for my brother—and it is—but dusty can fuck off as far as I’m
+concerned at this stage.
+-- 
 
 Chase Gibbons  / Manager
 435-999-4722
