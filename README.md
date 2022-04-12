@@ -3635,7 +3635,7 @@ get the fuck away from Dusty at this stage–at least until he’s caught–and
 stay away from shots especially if you have any suspicions you might be
 hacked..
 
-I now suspect Dusty can fuck with me both through infrasound and the
+I now suspect Dusty can screw with me both through infrasound and the
 mircochip btw. I suspect Dusty’s Ogden Recording Company LLC and/or ELIXEY,
 LLC could really just be a weapons testing facility, at least in part.
 (infrasound)
@@ -3648,32 +3648,37 @@ time I logged into the account that owns that main hacking\_poisoning notes
 folder when I was merely just reading through and commenting on some of the
 files to link to as references later.. (And files only reload like that
 when a new file is uploaded, plus that account I purposely never log into
-for that exact reason–to avoid tampering)
+for that exact reason–to avoid tampering) No hacker would tamper with that
+folder unless my brother is truly the one behind everything—cuz that folder
+outlines a ton of stuff to do with my conversations about my brother. I’ve
+caught him in situations like this more than once too. Like him deleting
+all his messages off my phone previously. Like what hacker who wanted to
+frame him would keep doing that?
 
 Now it’s not just hacking and assault and poisoning and emf-ing and
 infrasound and attempted explosions and attempted gassings I have to worry
-about with my brother Dusty–he can now legit start fucking with my brain
-through a nanotechnology microchip he somehow had put into I suspect my
-vaccine to try and negatively reinforce whatever I’m doing.. (He’s the new
-Charles Manson)
+about with my brother Dusty–he can now legit start f-ing with my brain’s
+signals through a nanotechnology microchip he somehow had put into I
+suspect my vaccine to try and negatively reinforce whatever I’m doing..
+(He’s the new Charles Manson)
 
 If he really loved me I don’t think he’d be doing all of this to me. My
 only thing is it’s hard for me to stop loving my family–regardless of what
 they put me through. I love my brother so freaking much. But I really do
-think Dusty needs some serious help. He enjoys hurting others.
-
+think Dusty needs some serious help. He legit enjoys hurting others.
 
 Dusty didn’t even show up to the appointment I made for him and I to go see
-the psychologist together previously. (Even though he originally indicated
-he would)
+a psychologist together previously. (Even though he originally indicated he
+would)
 
 Dusty never stops–he will never stop unless he’s completely forced to–he’s
 shown me that time and time again.
 
 My hope is Dusty gets charged with something that will just cause him to
 wake the hell up and stop hurting people. Losing him for the rest of my
-life would be really really tough. But I'll likely always fear when he gets
-out for anything less than that. These are all my honest/genuine emotions.
+life would be really really tough tbh. But then again I'll likely always
+fear the day he gets out for anything less than that. These are all my
+honest/genuine emotions.
 
 I have little doubt he’s going to end up sending at least one person to
 follow me wherever I end up moving to btw, likely multiple..
@@ -3715,7 +3720,11 @@ he’s a gangster. As much as I hate to say this—Dusty really needs to be in
 jail tbh. Like straight up.
 
 Dusty clearly now thinks of me as less than human. And him thinking of me
-that way seemingly happened in like a flip of a switch it seems.
+that way seemingly happened in like a flip of a switch it seems. I just
+wish I knew how to flip that switch back the other way or something. I
+really wouldn’t be doing all this unless I truly genuinely felt that this
+isn’t going to end well unless something is done. Like dusty will not stop
+with just me. He has too much capabilities.
 -- 
 
 Chase Gibbons  / Manager
