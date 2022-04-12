@@ -11673,7 +11673,8 @@ this early on. I hope by now we have all seen the kinds of problems that
 arise when we are divided as a nation and how we become prone to exploit
 across all levels if so. And I hope we all can agree that us being defeated
 is a bad thing, like you can’t trust Putin. Putin’s own army can’t even
-trust Putin.
+trust Putin. Plus we are better together. That’s like teamMgmt101–the more
+diverse the ideas brought to any team–the better the results.
 
 Chase Gibbons  / Manager
 435-999-4722
