@@ -3703,7 +3703,8 @@ map out any building in real time to find his victims. Like that’s as big a
 slap in the face to any parent I could ever possibly even think of. (Well
 besides killing them) Then he uses it to go after all my dads children
 besides the one who was birthed by Cindy. Now that is some hate right
-there. That is extreme hatred.
+there. That is extreme hatred. Like Cindy seemingly somehow completely
+fucked my brother up. I feel bad for him but I don’t.
 
 Dusty has always been very childish/rebellious at heart. It’s like he never
 fully matured. Just being honest. He never lets anything go either. He’s
@@ -3713,7 +3714,8 @@ shady things to make that happen. All he cares about is himself, he thinks
 he’s a gangster. As much as I hate to say this—Dusty really needs to be in
 jail tbh. Like straight up.
 
-
+Dusty clearly now thinks of me as less than human. And him thinking of me
+that way seemingly happened in like a flip of a switch it seems.
 -- 
 
 Chase Gibbons  / Manager
