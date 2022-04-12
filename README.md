@@ -6873,12 +6873,15 @@ cares about himself. Everyone else is just a pawn in his sick and twisted
 game essentially. He actually enjoys manipulating others to be “in on it”,
 either knowingly or unknowingly–or else somewhere in between. I suspect
 that’s another way he corrupts people tbh, is by first social engineering
-them to be “in on” something like this to the police only for them to find
-out the truth later..
+them to be “in on” something like this to the police only for them to later
+find out the truth..
 
 Social engineering is the biggest most crucial aspect of hacking as well
-btw. It actually all makes quite a bit of sense if you ask me–more sense
-than anything tbh.
+btw. Therefore someone who is good at social engineering is also good at
+hacking–and visa versa.
+
+It actually all makes quite a bit of sense if you ask me–more sense than
+anything tbh.
 
 Chase Gibbons  / Manager
 435-999-4722
