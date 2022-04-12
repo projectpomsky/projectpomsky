@@ -12241,13 +12241,14 @@ doing what’s right even when it’s particularly difficult.
 
 These guys get their power through all their manipulation. Without all the
 people allowing them to manipulate them–none of this would be possible.
-Meaning anyone that succumbs to their manipulation and actively plays a
-role in any way is technically guilty of all the crimes these guys are
-carrying out–including but not limited to their killing of me. (And that’s
-just not even being involved in any direct way–which some are) And I
-promise you–they are indeed killing me. They’ve likely already taken
-decades off of my life at the very least and they don’t plan to stop until
-they succeed–and they can’t do it without your help.
+Meaning anyone that succumbs to their manipulation and plays a role in any
+way is technically guilty of all the crimes these guys are carrying out
+which banks on that manipulation–including but not limited to their
+murdering of me. (And that’s just not even being involved in any direct
+way–which some are) And I promise you–they are indeed murdering me. They’ve
+likely already taken decades off of my life at the very least and they
+don’t plan to stop until they succeed–and they can’t do it without your
+help.
 
 It’s a slippery slope, that’s for damn sure. I’d rather go down knowing I
 did what’s right than go down helping satan. At least then, if the
@@ -12255,9 +12256,12 @@ religions are right–then I won’t be forsaken to hell for the rest of
 eternity. And who knows, maybe I’ll even help save this country through my
 brave actions. Plus, I don’t want to let our forefathers down, I personally
 really like our constitution. Just because some of your friends might be
-corrupt doesn’t make it okay for you to be corrupt as well either.
+corrupt doesn’t make it okay for you to be corrupt either.
 
-
+Being corrupt isn’t “cool” in any way either. It’s more like a disease that
+spreads if left unchecked. Nobody seems to think about our children or our
+children’s children–and how what they do today will affect their lives and
+their freedom.
 
 
 Chase Gibbons  / Manager
