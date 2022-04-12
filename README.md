@@ -476,6 +476,9 @@ Status Update
 Hacker People
 
 
+My Brother
+
+
 
 
 README
@@ -11189,6 +11192,29 @@ only targeting huge corporations with their products–leaving us normal
 people exposed–and us normal people is who Russia primarily seems to be
 trying to corrupt and manipulate–in addition to all the corporations but
 they get in through people like us. But yea, it’s on my bucket list ;)
+
+My Brother
+
+If you want to go into the belly of the beast and if you want to attempt to
+hack my brother, his name is Dustin Timothy Bay and he lives at 3655 S 635
+W Ogden, UT 84405. Not suggesting you should–just sayin. I only say this
+because like I just found out even my yubikey can technically be hacked
+which just makes it so like literally everything can be hacked–I’m not
+saying they have succeeded in hacking my yubikey cuz apparently it can take
+up to 10 hours of them having access to your yubikey per account to hack
+but that was my main last hope and finding that out just barely is just
+devastating. It means if they did so then all my stuff I worked so hard to
+prevent them from accessing–they could still access. And it just makes it
+so literally everything is so heavily weighted towards the hackers over the
+hackees in every single case–even that much more now. Even a super skilled
+hacker can be hacked regardless of their defenses is what I’m saying. And I
+promise you these guys got some really good malware. Multiple 0days if I
+had to guess–and that’s not even exaggerating. They are working on behalf
+of Russia too based on everything I have found, which is also a pretty big
+incentive I might add. Plus you might help save our country like
+for-real–and I know I would appreciate no longer being gangstalked anymore
+that’s for damn sure. But yea, be super careful if you do–do not ever allow
+yourself to get overconfident. Last I was aware of he uses Macs. Just fyi..
 
 
 Chase Gibbons  / Manager
