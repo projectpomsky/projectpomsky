@@ -73,8 +73,6 @@ time. It’s pretty unstructured and large right now, I still need to create
 a simplified timeline of it, but I have shared the following google drive
 folder with you guys previously.
 https://drive.google.com/drive/folders/1HVVndeMbrKuNdTOIp39iaTPXBWY-8QrM?usp=sharing
-
-
 (Don’t focus on all that right now though--focus on this latest series of
 break-ins in this google drive folder right now please—just know what I
 have alleged has been consistent and if anything it’s been verified over
@@ -1917,6 +1915,11 @@ though, but I’m honestly not sure. The cops did show me solidarity I think
 on more than one occasion, however they obviously don’t tell me whether any
 of my tips led to them discovering anything or not directly. #emf
 
+
+Hotels
+
+Tbd
+
 Eagles Incident - Murder by Suicide Plot
 
 I suspect my brother Dusty purposely misconstrued a message I sent to him
@@ -2627,20 +2630,16 @@ my ability to protect myself and my family.
 As of December 16, 2021
 
 I suspect they followed me to Cache Valley Bank today, around 1:46pm.
-#signal?
 
 As of December 17, 2021
 
 I woke up with my right arm burning today. (Which was the side I was laying
 on in bed) They may have gotten in my house again, I read in gangstalking
 it’s common for them to use tunnels. I also read it’s common for them to
-use microchips. Not saying that’s what they are doing though. If they were
-going to use a tunnel then now would be about that time when they would use
-it though, assuming I am indeed being gangstalked, because it’s all about
-making it seem more and more far-fetched as time goes on. But yea, I do
-suspect them putting something on my bedding is what may have contributed
-to my loss of hair on my legs previously and my arm burning this
-morning–well that and/or all the emf stuff.
+use microchips. Not saying that’s what they are doing though. I do suspect
+them putting something on my bedding is what may have contributed to my
+loss of hair on my legs previously and my arm burning this morning–well
+that and/or all the emf stuff.
 
 https://drive.google.com/drive/folders/17bzBc6v8X\_Oijsj2hLYF4LJavrScWmaU?usp=sharing
 (Notice how the missing hair coincides with where my bare legs would touch
@@ -2659,7 +2658,7 @@ That eagles incident is pretty damning after all, not to mention everything
 else I can link back to that guy and how I can link him back to my brother
 through all the hacking, eagles incident, kid coming over repeatedly on
 dates that only someone who is deeply familiar with me would know, all the
-intimidation, etc, etc. (At least preliminarily)
+intimidation, deletion of videos, etc, etc. (At least preliminarily)
 
 Not only do they fine tune their attacks to the individual–they seem to
 fine tune their attacks to the individual circumstances at the time of that
@@ -2721,18 +2720,19 @@ but more elaborate quote of what I put above here:
  -
 
  By exploiting vulnerabilities in the physical realm I mean for instance
- they’ll start emf-ing me until I figure out a way to block it successfully,
- then they’ll use like a different type of emf like ef or rf which goes
- right through the existing defenses I have in place, or else they’ll
- reposition their attacks at that time to maybe come in at another angle
- that I hadn’t covered all that well, and once I figure out how to block all
- that then they’ll start infrasounding me instead which requires a whole
- different approach to try and block out, etc—all with the intent of having
- a continuous ongoing pressure or torture (It’s an intelligence game of my
- brothers like I said, it requires knowledge of all sorts of different
- things to advance on to the next stage and I am being forced to play for my
- life essentially—and I never even signed up for this to begin with—and it
- keeps getting harder)
+ they’ll get in my safe leading me to get a new more secure safe then
+ they’ll steal my keys, or else they’ll start emf-ing me until I figure out
+ a way to block it successfully, then they’ll use like a different type of
+ emf like ef or rf which goes right through the existing defenses I have in
+ place, or else they’ll reposition their attacks at that time to maybe come
+ in at another angle that I hadn’t covered all that well, and once I figure
+ out how to block all that then they’ll start infrasounding me instead which
+ requires a whole different approach to try and block out, etc—all with the
+ intent of having a continuous ongoing pressure or torture (It’s an
+ intelligence game of my brothers like I said, it requires knowledge of all
+ sorts of different things to advance on to the next stage and I am being
+ forced to play for my life essentially—and I never even signed up for this
+ to begin with—and it keeps getting harder)
  -
 
  I can now see it. My brother is essentially forcing me through these
@@ -2744,11 +2744,9 @@ but more elaborate quote of what I put above here:
  had a waxy substance on my hands yet again that wouldn’t come off for days
  starting when I said I suspect they were still getting in my house—which is
  why I said that..) I guess framing me is yet another way for him to dismiss
- all my allegations against him. Now I almost have to be able to prove all
- this and definitively. Then he poisons me every time I go out to
+ all my allegations against him. Then he poisons me every time I go out to
  essentially reinforce me to stay home and therefore not have anyone who can
- vouge for me. It’s like reverse psychology or something but I now believe
- my brother could essentially be conditioning me to frame me. This is a
+ vouge for me. It’s like reverse psychology or something. This is a
  fucking nightmare tbh.
  -
 
@@ -2765,43 +2763,19 @@ but more elaborate quote of what I put above here:
  to frame me before. And now I write all this and can see it all in a
  relatively short overview and yea, I think that’s what is ultimately going
  on here. Now I’ve got to ponder on how I can best defend against being
- framed going forward, whereas someone who is attacked will likely have
- similar search history as the attacker and whereas my brother is like
- extremely good at hacking and hiding all his digital stuff and hiding stuff
- in general from what I gather. I think the best way to defend against it is
- to entrust that’s really what he’s ultimately trying to do and just ignore
- it whenever I am poisoned/whenever I do have some strange substance on my
- hand out of nowhere. (They can put that stuff anywhere, on doorknobs for
+ framed going forward. I think the best way to defend against it is to
+ entrust that’s really what he’s ultimately trying to do and just ignore it
+ whenever I am poisoned/whenever I do have some strange substance on my hand
+ out of nowhere. (They can put that stuff anywhere, on doorknobs for
  instance, and it’s not even immediately noticeable, etc) If I die from
  what’s left on my hand/body then I dunno, I guess so be it–but even then he
- could blame me for it–omg. #worstbrotherever #mindf@#$
+ could blame me for it–omg. #worstbrotherever
  -
 
- My brother is smart you guys, I just wish he wouldn’t drag me into all
- this let alone try and frame me using all his Charles Manson psychology
- mind games–I don’t want to learn all his psychological mind games just to
- combat him either. I don’t know what to do. I need to find a roommate and
- asap I guess. No wonder he told me I’d regret not having people around me
- previously.. (But the thing is, he’s kinda helped make it this way for me
- in numerous different ways especially as of lately–I swear he thinks he’s
- god–or the devil I guess he’d like being called the devil better..)
+ No wonder Dusty told me I’d regret not having people around me
+ previously..
+ https://drive.google.com/file/d/1MPPe0Tox0-VSfmKER74yayxrx0fpWK4C/view?usp=sharing
 
-https://drive.google.com/file/d/1MPPe0Tox0-VSfmKER74yayxrx0fpWK4C/view?usp=sharing
-
-
- -
-
- So having realized this after writing all this, I think it might be in
- my best interest to close all my accounts and shut off all my devices and
- get a new mailbox key and move someplace else with roommates like asap–to
- get away from technology and take back my life as my other brother said.
- That way it will make it more difficult for Dusty to try and frame me and
- that way I can hopefully move forward. I guess I might have to start a new
- career as well. I’m still thinking about it, but the longer any of my
- devices are turned on–the more of a potential liability they are for my
- brother to frame me–seems I still haven’t figured out how to get him off my
- network/devices yet–and seems how based on everything I’ve documented
- here–that seems to be what he is aiming for after all, at least to me.
  -
 
  I’ll try and provide all the references to this doc when I get a sec but
@@ -2813,6 +2787,191 @@ https://drive.google.com/file/d/1MPPe0Tox0-VSfmKER74yayxrx0fpWK4C/view?usp=shari
  Happy Holidays all, wish me luck. 🎄🎅✌️
 
 
+As of December 22
+
+I think it’s in my best interest to keep writing these given I think they
+are trying to frame me so what I notice could make the difference between
+someone else’s life and death.
+
+I went to Murray today to pick up my Lexus. They did a good job at cleaning
+it but I don’t think they actually changed the signature of my key because
+after I picked it up I had to get gas to make it back to Logan and in the
+middle of me getting gas my car locked for no reason. I suspect the
+attackers were there at the gas station across from Larry h miller Lexus in
+Murray.
+
+I also think it’s in my best interest not to go outside Logan anymore for a
+while—well after I fix my key. I just called them, the word must not have
+gotten passed on to the service advisor correctly—he said he could do it in
+an hour and a half as soon as tomorrow. I think I might do that cuz it’s in
+my best interest for them not to have ready access to my car at any given
+point—especially whereas they stole my keys.
+
+I do also think it’s best for me to keep my computers off for the most
+part. I tried resetting my one computer back to an old operating system
+which doesn’t respect the option rom’s hashing algorithm and therefore
+shouldn’t be fooled by any malware on the option rom that would be there if
+the computer is rooted as I suspect, but it’s still a work in progress. And
+even once I get passed that I still need a non infected network.
+Thunderstrike 2 essentially roots itself to be loaded first thing, before
+anything else. That’s how they are able to make it persist across factory
+resets. I figured out that you’ve got to go back to macOS Sierra or earlier
+to make it so thunderstrike2 virus cannot fool the new operating system
+installation into thinking the option rom is valid signed apple software
+when it’s not—cuz the older versions don’t even check they just overwrite
+the option rom software regardless essentially, based on my research
+anyways. Then you got to make sure you are doing the installation on a non
+infected network so they can’t reinfect it while it’s installing, and you
+got to make sure you have a clean boot drive with a non corrupted version
+of macOS downloaded from a non infected network. (Preferably) Then once you
+go back to a clean version of like macOS Sierra or earlier and you are
+confident the option rom efi has been rewritten, then you can install a new
+fresh clean version of something like Big Sur or Monterey. And even still
+it’s only a matter of connecting to the wrong network again and you could
+be reinfected—and if you are me—that could spell doom for you if so. So you
+got to completely lock it down while you are confident it’s clean, so that
+way it should take them longer to get it as reinfected as it was previously
+again. (Take them longer to go through the privilege escalation steps, etc)
+
+Someone just called me on one of my phones as I was typing this as well—no
+response when I answered. They’ve got to be planning something to try and
+frame me or something. It’s not hard when they know literally everything
+about me and in real time. I wish the police had that much capability tbh.
+
+My brother texted me today as well. He always texts me at odd times. Like
+the last time he texted me was the day of the bug sweep—then his text was
+deleted right after I noticed he had texted and said something about it to
+the bug sweep guy. I’ve got to figure out a way to block my brother again,
+this time he texted me on my recently reset iphone so that’s probably why
+he wasn’t blocked again yet on this phone at least. (I reset it trying to
+get rid of the malware to no avail) In a way what he’s doing with all the
+hacking, etc, does set me up to look suspicious when in reality I’m just
+trying to avoid being a victim of his myself. I hope the police are
+vigilant in this investigation and don’t just go after the low hanging
+fruit cuz from what I gather, my brother is specifically trying to make me
+look like low hanging fruit. At the end of the day you can put me away all
+you want and it’s not going to resolve the underlying issue at hand—cuz
+it’s not me—it’s him. I swear on my dog's grave/soul that it’s not me.
+Dusty seemingly does this shit for a living and he’s good at it. I’m just
+trying to help.
+
+I still don’t even know what he put in my garage the last time Dusty was at
+my house with me, when he brought his shady friend Tom Finn, and when they
+first started acting all hostile towards me. But I have a feeling whatever
+it was wasn’t good. If I knew what it was I’d give it to you.
+
+Think what you want about the following pics/doc, but just know when the
+bug sweeper guy saw this—he knew it wasn’t just in my head. If it were in
+my head—I wouldn’t have had to make it this complex and feature specific.
+This is where I have to sleep at nights these days if I want to get any
+sleep at all. Each thing has a specific purpose—but even still they still
+have been getting through at times. Just know, I wouldn’t be sleeping in
+this unless I had to. I want a family one day after all, this isn’t
+necessarily the best thing to have to sleep in if you want to pick up
+chicks. As of most recently, I’ve found out a lot of the directed energy
+stuff is coming from above, that’s what the heat signatures are saying at
+least. (So it’s coming from either my attic or else a satellite, etc)
+
+https://docs.google.com/file/d/16E4WgZUy9mRhwrt\_esRTI0mbFfGXf0Y7/edit?usp=docslist\_api&filetype=msword
+
+
+P.s. I used to do painkillers but I quit—I wouldn’t have come forward with
+all this if I were on drugs. I used to be frustrated with my neighbors for
+acting all suspicious of my garage and some for being rude to my dog turbo
+until I realized I was likely framed by Dusty and Tom Finn putting
+something in my garage. I had my frustrations with karie--we all did. The
+difference is I'm open about it. But at the end of the day my love for
+karie was far greater than my frustrations with karie. And I've never been
+one to want to harm others. I suspect my brother is the opposite. I’m
+concerned about Dusty’s actions more than his words. Me coming forward with
+all this should be a testament to the fact that I care about karie and my
+father. Sometimes I simply don't know how to best get that point across. I
+do love Mormons otherwise I wouldn’t have put them on my trust. Imagine
+being completely innocent and being in my position. Like regardless of what
+you think, just imagine that I am completely innocent and all this is
+really happening to me for a second. It's as if Dusty has set me up to be
+his fall guy or else he wants me dead. Think how terrifying that would
+feel. I’m not perfect but I do my best with the cards I have been dealt.
+
+As of December 23, 2021
+
+I woke up in the middle of the night last night with my bowels and stomach
+feeling as though they were about to explode. I went to the bathroom and
+recall smelling a combination of almonds and diesel fuel. I didn’t eat
+almonds nor drink diesel fuel. Could be just a coincidence, idk, but I
+found it odd.
+
+They may have gotten in my car one more time before the key signature was
+changed, idk. All I know is that was strange to me, like not normal. Those
+were main symptoms I experienced and I started feeling a little better
+today.
+
+I got my car key signature changed out today—the only issue I’ve since
+realized is these guys still have my damn physical key (seems they stole m
+whole keychain previously) so they can still get in my car manually.
+
+God it sucks being targeted by this group. It’s like you can’t even make
+one mistake or you are screwed and have to sell your car or get a new
+computer, phone, safe, etc—and they aren’t even going to get caught for
+most everything they do to me.
+
+I’ve come to realize I may very well be one of the luckiest persons to
+still be alive and in decent health. They’ve tried poisoning me so many
+different times now in so many different ways—it’s insane. Not to mention
+all the emf/infrasound stuff and all their tampering with my house, etc.
+I’ve just made sure to try and be as careful as possible just in general
+and then I always try and wash it off as best I can each time I’ve had
+reason to suspect I may have just been poisoned. Either I’m extremely lucky
+or they are actively trying to frame/discredit me or both. I will say some
+of the times I do feel like I most definitely could have died however. I’m
+still concerned about my lack of hair growth too, like I don’t even know
+what could possibly cause that—it’s been that way on my calves for
+literally months now. (Since before I ever even started trying to combat
+all the emf stuff) Like what would possibly cause my hair to not grow
+anymore in certain areas like that?
+
+
+
+As of December 24, 2021
+
+Latest conversation with Dusty
+
+https://drive.google.com/file/d/12iVLI0D29-ZnEviikAiJthOsn25gUbJo/view?usp=sharing
+
+I have reason to suspect Dusty may be trying to hack my mind. That’s what
+all the EMF stuff is for essentially. They can shift the magnetic polarity
+of my brain and cause me to be sedated using all the EMF stuff, then they
+can brute force my brain to try and decode its signals using a combination
+of a microchip and AI. That’s what happens when you are sedated is it
+reverses the magnetic polarity of your brain–only through whatever drug
+they give you. There has been research done that demonstrates this can also
+be done with a strong enough magnet or EMF. I have experienced sleeping for
+a lot longer durations of time as of the last few months since all this
+started. It seems to change day to day based on my level of EMF protection
+on any given night.
+
+I also have reason to suspect I may have actually been microchipped
+previously, likely when getting my second covid shot in May if so. There’s
+records of me having heart aches right after that time. I recall the second
+needle seemed a lot bigger than the first too. My mom had gotten the
+appointments for me when I couldn’t find any appointments myself. I suspect
+the microchip could be how they know where I’m at at all times, how they
+know exactly where to point the EMF, etc, etc.
+
+My brother has always been into nanotechnology too which is scary.
+
+More info: 👇👇
+
+https://docs.google.com/document/d/1ubgIsPG6MQ5S1Apkb4MCGLP1pwJhTi2EMG0b6rhEFK0/edit?usp=sharing
+
+
+My plan:
+
+https://bit.ly/cwg-plan
+
+
+
+Merry Christmas All.
 
 Chase Gibbons  / Manager
 435-999-4722
