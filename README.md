@@ -12553,13 +12553,12 @@ physiologically/psychologically disruptive to me. I also stated there IS
 MOST DEFINITELY still residual poison pretty much everywhere in my home
 from their past attempts. Just in trying to prove the point that any other
 source they could possibly blame me get cancer from is just complete bs. On
-my candies, on my floor, on a thorn bush spike—what got me thinking about
-it is they put it on one of my open candies again just today.. You guys I
-really do think dusty is already on the higher end of that poisoners
-spectrum in terms of people he’s likely responsible for killing. That’s
-what my gut tells me anyways—even tho it pains me to say it. Bottom line is
-they’ve likely already killed me. Now it’s time for me to get them locked
-up for the rest of their lives.
+my candies, on my floor, on a thorn bush spike. You guys I really do think
+dusty is already on the higher end of that poisoners spectrum in terms of
+people he’s likely responsible for killing. That’s what my gut tells me
+anyways—even tho it pains me to say it. Bottom line is they’ve likely
+already killed me. Now it’s time for me to get them locked up for the rest
+of their lives.
 
 They are now playing the sounds of turbo suffering to me again as if to try
 and punish me for re-pointing out the fact that they seemingly have access
