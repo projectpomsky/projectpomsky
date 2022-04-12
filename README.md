@@ -9734,10 +9734,12 @@ As of March 12, 2022
 I’m doing as well as I can be given the circumstances btw. I could use some
 help disabling this damn microchip like I said and then getting the hell
 out of here but that’s it. At least it gives me something to work towards
-though. I honestly enjoy combatting Russia in any way I can–it’s fun. It
-sucks they are so far ahead of us and that I’m at such a disadvantage but
-beyond that, I still enjoy it. Take that Russia. The very nature of you
-coming after me is enjoyable to me.
+though. I honestly enjoy combatting Russia in any way I can–it’s fun. I’ll
+admit, it’s arguably even funner now that they already know who I am–it
+means I don’t have to worry about making mistakes nearly as much. It sucks
+they are so far ahead of us and that I’m at such a disadvantage but beyond
+that, I still enjoy it. Take that Russia. The very nature of you coming
+after me is enjoyable to me.
 
 Russia is in its final stages of targeting our society and defeating us
 from within. When you think about it from the perspective I’ve laid out,
@@ -9753,8 +9755,8 @@ within, which carries a fine of up to 15 years in prison. That is at least
 in part what Ukraine is all about in my opinion. That is why it was not in
 their best interest to take Zelensky out in short order. That is also why
 it’s best for them to piss the whole world off at this time and do things
-that are otherwise unthinkable. Because their real goal is cataloging all
-the resistance.
+that are otherwise unthinkable. Because their real goal is to catalogue all
+of the resistance.
 
 I got a vibe from the hackers that this is what Ukraine is really all
 about–before I ever started telling you all about it and before I started
@@ -9780,7 +9782,9 @@ the devices around the globe asap–even if that means we can no longer hack
 ppl as effectively for a little while. If things are really going as they
 seem–doing so might well pay dividends in the long run. And it wouldn’t be
 risking starting a nuclear war or anything–if anything–it would potentially
-save the free world.
+save the free world in my opinion.
+
+
 
 
 
@@ -9798,4 +9802,4 @@ notified by
 Mailtrack
 
 03/12/22,
-10:12:26 PM
+10:27:28 PM
