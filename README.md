@@ -1807,6 +1807,7 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
+​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -4385,6 +4386,13 @@ me to leave? Because I have too much support around here or what?
 Regardless, I need to get the microchip out first. That’s my number one
 priority as of right now. Then I’ll probably leave.
 
+I think they may have put something in my body wash. I got a whole bunch of
+random evidence like that just when you are ready for it. From my vape
+juices to my tooth paste to my body wash, etc, etc. Hopefully one day
+you’ll know what to test it for..
+
+
+-- 
 
 Chase Gibbons  / Manager
 435-999-4722
