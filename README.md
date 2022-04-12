@@ -1387,7 +1387,7 @@ grades this time. (Which my father never did, my father helped pay for my
 college beforehand but he never really held me to account for my grades
 previously, etc)
 
-2015
+Eyes of a Killer2015
 Before Sister’s Death
 
 I received word from one of my friends at the time, Nick Poppleton, that my
@@ -1470,8 +1470,16 @@ Taylor) Right after that Dusty insisted we all leave so that Taylor could
 next day but ended up not being able to because Karie was pronounced dead
 later on that evening. Later on that same evening I called my mom crying
 just overwhelmed with everything. I told my mom what I had saw Dusty do to
-Karie. All I’m saying is why did Dusty even show up if that’s all he was
-going to do to her?
+Karie. My mom apparently told Dusty that I had seen him do that to Karie
+right after, and he apologized to me over sms later. I wish I hadn’t told
+my mom I saw him do that tbh, I wouldn’t have ever even said anything to
+him about it had it been up to me–it was that serious–like I’d prefer him
+to not know I saw him do that to her.
+
+All I’m saying is why did Dusty even show up that evening if that’s all he
+was going to do to her?
+
+Dusty had time off before/after Karie’s death.
 
 
 ~2016
@@ -1479,11 +1487,7 @@ After Sister’s Death
 
 Dusty treating Karie that way was odd to say the least but at the end of
 the day he was my brother and I loved him/looked up to him. So I gave him
-the benefit of doubt. My mom apparently told Dusty that I had seen him do
-that to Karie, and he apologized to me over sms later. (I wish she hadn’t
-told him tbh, I wouldn’t have ever said anything to him about it to him had
-it been up to me–it was that strange–like I’d prefer him to not know I saw
-him do that to her just incase but what can you do)
+the benefit of doubt.
 
 In hanging out at Dusty’s house around this time I recall my brother
 showing some friends and I the dark web for the first and only time. He
@@ -1495,8 +1499,10 @@ he was on. I never even dug into the dark web myself until much later, when
 doing research on what all was possible after I started being attacked
 myself. (Now I think he may have deliberately showed us that potentially so
 he could try and frame me later--but in this case it backfired because this
-is how I know dusty has access to hitmen) He also encouraged me to get a
-new apple phone around this time..
+is how I know dusty has access to hitmen)
+
+Dusty got a new phone after both deaths in my family. Dusty encouraged me
+to get a new apple phone around this time..
 
 Dusty has always been better at computers than me--even though he hides it,
 he was into them long before I ever was. I didn’t even get into computers
@@ -1531,11 +1537,13 @@ have gotten none of his wealth) Cindy hung out with biker dudes at the
 time, she owned a biker bar in Ogden, she had a biker dude stay over at the
 house something like 2 weeks after my dad’s death, etc, etc.
 
-2019
-Brother Distancing
+2019Brother Distancing/Time Off
 
 I purchase one of my father’s commercial unit’s from my little sister
 Taylor. (Thereby continuing my father’s legacy)
+
+Dusty doesn’t show up for dinner with me, Cindy, and Taylor–the dinner
+meant to finalize my purchase agreement with Taylor.
 
 My brother Dusty begins distancing himself from everyone besides Cindy,
 from what I gather.
@@ -1556,18 +1564,28 @@ house a few months later--both with laptops, as soon as they see me peek
 out the window they drive off. I later see the occupants of that van go
 into the child abuser’s house.
 
-Brother Hacking
+
+Last Visit/Website/Brother Hacking
+
+My brother and Tom Finn come over to my house and act all rude to me out of
+nowhere. Dusty takes back his Christmas present, they ask if they can go in
+my garage for some reason while I’m busy doing something else.
 
 My brother Dusty asks me to do his website for his new recording studio,
-whereas he had all the sudden distanced himself from everyone, I told him I
+even though he was perfectly capable to do it himself. Whereas he had all
+the sudden distanced himself from all his friends and family, I told him I
 would do it for him just to try and develop some kind of a relationship
 with him again. (Who makes all these enemies and pushes away their family
 right when trying to start a new business anyhow?) He asked me to come work
 with him around that time but he was clearly being shady so I denied. Plus
 my brother has always been difficult to work with.
 
+Dusty flakes out on hanging out anymore.
+
+
+
 I get hacked by my brother through some of his website files he shared with
-me at the time.
+me at the time–the only time he talked to me on the phone the whole time.
 
 Someone Tries to Fill My Prescriptions
 
@@ -1602,10 +1620,11 @@ First Poisoning
 My dog and I get poisoned for the first time on our walk--a group of
 Mexicans came up and deliberately put what appeared to be this strange
 grayish paste poison substance on my dog’s forearm--while pretending to pet
-him/pick him up--my phone got hot at the time. My brother had told me he
-thinks my dog should die the day prior over imessage/sms. My brother texted
-into the group conversation between my siblings and I right after the
-mexicans put that shit on turbo, (
+him/pick him up--my phone got hot at the time. My brother had taken
+advantage of me opening up to him about some of my frustrations, says he
+thinks my dog should die–the day before over imessage/sms. My brother
+texted into the group conversation between my siblings and I right after
+the mexicans put that shit on turbo, (
 https://drive.google.com/file/d/1TwEBUWSWpaOQLLgTQGL-Wq\_tqkWIKc4W/view?usp=sharing
 ) disparaging our mother further--even though he said he was blocking us
 all the day prior–as if to send me a signal. I knew it had to have been
@@ -1624,6 +1643,40 @@ and I were first poisoned--which again was the day after my brother
 straight up told me he thinks my dog should die all rudely over sms for no
 reason whatsoever. They did it on the night of the fireworks going off in
 2019.
+
+Phone got hot.
+
+Dusty tells me I’m going to regret not coming to work with him.
+
+Dusty encourages me to use social media more.
+
+Dusty blames him being the way he is on our mother.
+
+Dusty says he’ll have Paul take “his money” out of my account.
+
+I discover the hacking for the first time definitively.
+
+Dusty disparages Karie.
+
+Dusty starts talking like a gangster.
+
+Dusty doen’t deny being a serial killer nor does he deny being in a gang.
+
+I send Dusty an email worried about there being holes in his brain from all
+the acid–he takes offense to it.
+
+I notice what I thought were cops were now following me, neighbors seem
+suspicious of something in my garage.
+
+I hear people outside my house in middle of the night, smell cigarette
+smoke through my bedroom window.
+
+Dusty says he has been learning AI, won’t elaborate any further.
+
+Dusty begins deleting all his previous messages. (Including deleting shit
+off MY DEVICES)
+
+I love you Dusty. I just wish you would stop.
 
 I confront my brother saying he’d be crazy to try and kill me right then
 essentially--because if he had still lived in Logan he’d know people are
