@@ -497,7 +497,10 @@ Gangstalking
 If It Helps
 
 
-I’m Out of Time
+As of March 28, 2022
+
+
+I’m Now Out of Time
 
 
 
@@ -11796,15 +11799,16 @@ didn’t do anything wrong. Just cuz I care about our country doesn’t make me
 a bad person either. At least I’m honest unlike my brother. Plus, I have a
 really good memory.
 
-I’m Out of Time
+As of March 28, 2022 I’m Now Out of Time
 
 I’m now out of time you guys. The attackers have managed to add something
-to my water which gives me hives just by exposure to it–not even drinking
-it. Which explains how all my clothes and whatnot give me hives lately as
-well. And I honestly don’t trust it. Like it giving me hives could be the
-least of my worries. And so that means I can no longer even shower if I
-stay here. It also means likely for the past 2-3 weeks I’ve been exposed to
-one of their poisons without being able to ever fully wash it off.
+to my water which gives me hives just by exposure to it–and that’s not even
+me drinking it. Which explains how all my clothes and whatnot give me hives
+lately as well. And I honestly don’t trust it. Like it giving me hives
+could be the least of my worries. And so that means I can no longer even
+shower if I stay here. It also means likely for the past 2-3 weeks I’ve
+been exposed to one of their poisons without being able to ever fully wash
+it off.
 
 Alright so I took a sample of my water today. I pretended like I was
 getting in the bath then I took a sample of my water and put it in my
@@ -11813,40 +11817,66 @@ that said, I ended up taking a picture of what was in my security deposit
 box so incase they get in there and steal something then I’ll have proof
 but I now get the sense they are trying to get access to my keys to take a
 picture of my security deposit box keys then they plan to 3d print a
-duplicate key and create a fake id of me so that they can then get access
+duplicate key and create a fake ID of me so that they can then get access
 to my security deposit box and tamper with all my evidence without my
 consent. I’m pretty sure I heard someone in my house earlier and I think
-that is what they are up to now–they were trying to get access to my keys I
-left in the other room to take a picture is what they were doing.
+that is what they were up to–they were trying to get access to my keys I
+left in the other room to take a picture of my keys again is what they were
+doing. (Only this time they were targeting my security deposit keys)
 
 The problem is I store stuff like some of my backups and whatnot in my
-security deposit box, along with this water from today and whatnot. So
-theoretically they could get in there, erase my content, replace the water,
-without them really ever even technically stealing anything. Meaning they
-can tamper with all the evidence and it would be hard to even know they did.
+security deposit box, along with this water sample from today and whatnot.
+So theoretically they could get in there, erase my backups, replace the
+water, without them really ever even technically “stealing” anything.
+Meaning they can tamper with all the evidence and it would be hard to even
+know they did.
 
 How can I possibly keep anything safe from these guys? Like seriously? How
 can I keep anything from them? I wouldn't be surprised if they even went so
 far as to hack my bank's camera systems so that there is no trace for when
-they do go in there and access my security deposit box illegally. Cache
-Valley Bank on 100 N is where it’s at.
+they do go in there and access my security deposit box illegally. They hack
+literally everyone else so why wouldn’t they hack them too? If they haven’t
+hacked my bank already then it is definitely now a target. Cache Valley
+Bank on 100 N is the bank I’m referring to.
 
-My constraints for keeping shit safe are as follows. Essentially they have
-my home and car rigged to be able to “watch” me and they do so literally
-24/7–using infrasound primarily–and they “listen” to whatever the hell I do
+I told you these guys constantly evolve based on the latest intel. It's not
+fun to go up against any entity like this, that’s for damn sure. Russia’s
+whole performance in Ukraine is exactly that–a performance. They haven't
+even taken out Ukraine’s internet as if they want the whole world to see
+their atrocities. None of what Russia is doing in Ukraine or anywhere else
+for that matter can be taken at face value. Why would they not try to keep
+all their atrocities hidden? My answer to that is because they want people
+to react because they are actively cataloging all of the resistance–like
+I’ve been saying. But then again, my brother would know a hell of a lot
+more than I do..
+
+My constraints for keeping shit safe/secret are as follows. Essentially
+they have my home and car rigged to be able to “watch” me and they do so
+literally 24/7 these days–using infrasound and electromagnetics and
+nanotechnology primarily–and then they “listen” to whatever the hell I do
 or say 24/7 too–using any microphone around that they have hacked. Their
 damn microchips themselves might act as a microphone too, idk, I haven’t
-figured that part out yet. I know it acts as a GPS device.
+figured that part out yet. I know it can act as a standalone GPS device
+somehow.
 
-Any key I have they can just take a picture of and 3D print a copy of it.
-Any ID I have they can just forge it. Any combination I have they can just
-watch me use it. Any friend I might give a key to they can just do the same
-with them–like believe me–nobody is as secure as I am after all this and
-they still get through. I’d almost have to give it all to the police or
-something before they tamper with it..
+Plus, any key I have they can just take a picture of and 3D print a copy of
+it. Any ID I have they can just forge it. Any combination I have they can
+just “watch” me use it and then simply replicate it later. Any friend I
+might give a key to they can just do the same with them–like believe
+me–nobody is as secure as I am after all this and they still get through.
+I’d almost have to give it all to the police or something before they
+tamper with it.
 
 And even then I can’t give the police things like my dog’s ashes to keep
 safe.
+
+I hope the police will take my evidence from me and treat it with the level
+of importance it deserves. Whatever substances they use aren’t going to be
+easy to trace, just because that is how they operate, but ideally we’d
+simply store everything until a later date when we actually have a better
+idea of what to test for exactly.. (Like I was doing)
+
+
 
 
 
