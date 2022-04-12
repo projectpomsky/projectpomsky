@@ -1197,7 +1197,9 @@ to try a lot of them himself.
 
 Timeline (Rough Draft)
 
-Todo: add references.
+Todo: add references. This is still a work in progress just know that, some
+items may be out of order initially until I go back and find exact
+references.
 
 ~2009
 
@@ -1372,7 +1374,8 @@ the dark web myself until much later, when doing research on what all was
 possible after I started being attacked myself. (Now I think he may have
 deliberately showed us that potentially so he could try and frame me
 later--but in this case it backfired because this is how I know dusty has
-access to hitmen)
+access to hitmen) He also encouraged me to get a new apple phone around
+this time.
 
 I recall after Karie’s death in talking to my brother, Dusty said something
 like people tend to die from that which they fear the most or something.
@@ -1478,7 +1481,164 @@ pattern of them being 5 years apart.
 To be continued…
 
 2020
+
+Poisoned again this time from a key I left out for a tenant who was
+interested in renting one of my little sister’s commercial units--when they
+left the key in the drop spot to give back to me. Similar substance as the
+first time except this time it was clear but it gave me a similar initial
+feeling and it made all my lymph nodes swell up for days afterwards. Sound
+familiar? Lymph nodes are what are affected in non hodgkin's lymphoma.
+
+Again I can tie it back to Dusty.
+
 2021
+
+I notify my brother that my dog turbo, is in bad shape, he has multiple
+organ failure and is not going to be around much longer, in trying to give
+Dusty the benefit of doubt from what happened in the past. I specifically
+pointed out how he used to like turbo and be close to turbo, secretly
+hoping I could take turbo to go say goodbye to dusty.
+
+Hispanic male starts stalking my neighborhood literally like 25 minutes
+after I sent that message to my brother. Seems turbo’s prognosis was grim
+anyways, I go out to try and take a picture of the guy’s car. The guy stops
+all irritated with me, ends up pulling a gun on me. I call the police only
+because he pulled a freaking gun on me. (I was just trying to spook him
+away initially--I had nothing on him prior to him pulling his gun on me)
+The police track him down and pull him over and arrest him. Jacade Rausch
+is his name. I guess he had drugs on him at the time. He’s now facing up to
+40 years in prison.
+
+My dog Turbo dies literally like 27 hours later.
+
+I begin to do a ring neighbors social media post to notify the neighbors of
+what had happened with the suspected stalking/guy pulling a gun on me.
+(Initially I thought he may have just been lost doing a drug delivery or
+something until I found out that guy actually lived around here even though
+he had licensee plates from another state)
+
+Child abuser’s kid starts showing up at my house for the first time out of
+the whole time they’ve lived next to me, asking to “play” initially. I
+didn’t know who’s kid it was until some time later.
+
+Posted the ring neighbor’s app post after the kid started being sent to
+intimidate me.
+
+Child abuser’s kid starts coming to my house again and again--every week.
+Saying a different thing each time. The first few times he asked to “play”.
+Then he started saying something having to do with “kill” or “death” or
+whether I was going to “kill him” or something like that. He would show up
+at my house on key dates to like on my birthday for instance. Like it
+clearly wasn’t random.
+
+Emf started--they made it extra intense on my dog’s would be sixteenth
+birthday.
+
+Skipping a bunch here for now...
+
+All that culminated with the time my superiors at work invited me while at
+work to goto the Eagles bar with him that night at 7pm. I said I would go.
+This was when we were working on my computer being hacked at work and I had
+been issued a brand new computer--and I was being careful as hell with even
+potentially re-exposing the new computer to any viruses through any oof my
+other potentially infected devices. Like I would go clear over to the other
+side of the room just to turn bluetooth/wifi on on my phone just to avoid
+infecting the new computer I had been issued. I later found out that
+despite my best efforts, the new computer showed similar signs of being
+infected. Anyways, I went home that night after being invited to the Eagles
+and I recall I was on one of my computers doing something when the same kid
+knocked/rang the doorbell for the seventh time. My network was down at the
+time so this time, once I saw who it was, I started recording on my cell
+phone instead prior to answering. Sure enough it was the same kid again,
+only this time I saw who was directing him myself in walking out with my
+cell phone camera rolling. It was the child abuser guy. As soon as he saw
+me he tucked back into his garage so he couldn’t be recorded. The kid
+initially said something like “why you always working”, but then after his
+dad tucked behind his garage door, the kid looked back for direction and
+didn’t know what to do once he saw his dad was now gone. I would be willing
+to bet the dad had been standing right there every single time--because it
+had become clear the kid was being directed. Anyways, the significance of
+what the kid said the last time was the kid was essentially coercing me to
+goto the bar where I would later be poisoned.
+
+Describe eagles bar poisoning incident in full here..
+
+One thing I want to add right now about the eagles bar poisoning is they
+ended up getting in my car while I was at the eagles and put poison in
+there, they also left a bunch of thorn-bush spikes on my floormat that I
+later dumped out thinking they were odd whereas I hadn’t been near any
+thornbushes at all lately--let alone that many of them. It was only after
+one of the next poisonings where they left similar thorn bush spikes on my
+porch when I put two and two together, that that would be a great way for
+someone to get poison into me internally--and that those thornbush spikes
+were likely left there deliberately--even though the main poisoning in the
+eagles incident came from them leaving some heat activated clear substance
+on I think like my shifter in my car, which I ended up getting exposed to 2
+separate times because at first I thought it was from a guy who came and
+touched me in the bar that night right before I left--when in reality it
+was that same guy who came and touched me in the bar that night although he
+had been in my car prior--because my whole car had wreaked like his
+cologne.
+
+The significance of the thorn bush spikes is what happened to my dad before
+he died? He got some strange “infection” in his foot--leading to him having
+to get his big toe cut off. Which occured right around the time my brother
+Dusty had been denied going to Alaska fishing with us.
+
+When they were in my car at the eagles is when I suspect they added the
+capabilities to track my location through my car. It’s also when I suspect
+they stole my garage door opener which they later used to get into my house
+on at least one occasion--before I found out it had gone missing.
+
+Time they poisoned me which pulled all the blood from my extremities was
+from the eagles incident--on my second exposure to be specific. The first
+exposure I felt while at walmart right after I left the eagles and it made
+me feel drugged. The substance was a clear liquidy substance that doesn’t
+feel like liquid to the touch. Like my hands didn’t feel wet but I noticed
+it from looking at my vape and it being all over my vape. From past
+experiences I knew I had to wash it off immediately--both the first and
+second exposure.
+
+String of break-ins #1
+
+Thorn bush spikes added to my porch--one of which I barely stepped on.
+
+Tried to frame me as a druggy by planting paraphernalia in my house and by
+somehow lighting off a smell bomb or something which made my whole house
+reak like drugs.
+
+Put something in my vape juice.
+
+Tampered with my prescriptions.
+
+Tampered with literally anything and everything they could in my house.
+
+I suspect this is when they installed the gassing capabilities to my
+furnace.
+
+All cameras showed completely blank for over a full day--even the hard
+wired ones--which was unheard of. (I had been staying in a hotel to try and
+get away from all the EMF stuff)
+
+Wet spot in the middle of the walkway on the carpet in one of my
+bedrooms--which I also stepped on. Between this and the thorn bush spike,
+made me feel wobbly. Vape juice made me feel drugged.
+
+It was as if they planned on the thorn bush spike, wet spot they had left
+for me to kill me, and they had set it all up to frame me to the police as
+being a druggy.
+
+I didn’t drive my car for days afterwards because I was afraid they had
+succeeded in drugging me that day/evening.
+
+String of break-ins #2
+
+
+Infrasound
+
+Radiation poisoning
+
+2022
 
 Chase Gibbons  / Manager
 435-999-4722
