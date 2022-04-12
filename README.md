@@ -10921,11 +10921,18 @@ its inner selves. Only time will tell. (Everyone knows Russia is brutal
 now, but China 🇨🇳 is still a tbd—they could just be playing good cop 👮
 bad cop 👮‍♂️ still—but in reverse this time)
 
-My superpower === Ability to see through people
+My superpower💪 === Ability to see through people 👓
 
-It’s a good superpower to have during these trying times..
-
-
+It’s a good superpower to have especially during these trying times.. You
+all can do it too, you just got to think and make determinations based on
+patterns and probabilities like me, and research a ton of shit whenever you
+get the chance. Add in continuous learning and the studying of
+competition—regardless of whether you are on top or not. And a sprinkle of
+being willing to admit when you are wrong and always being willing to
+change your mind if the bulk of the evidence permits. Plus
+reading/listening to a book or two on psychology and manipulation is a must
+in this day and age. Then practice makes perfect as with anything. 😉 Hard
+work too I guess. And utilize common sense. But yea, that’s really it.
 
 
 
