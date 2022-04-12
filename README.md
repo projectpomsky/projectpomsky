@@ -8597,6 +8597,7 @@ The most fundamental way to do this is to locate the weak link in the
 system and exploit it through moral arguments, psychological tactics, or
 appeals to specific leaders’ character.[v]
 
+(Aka Exploiting vulnerabilities)
 
 Just a thought… We need to be careful. Russia is smarter and stronger than
 it is leading us to believe. Never underestimate Russia and/or China. It’s
@@ -8722,14 +8723,14 @@ Putin punished one group just recently but that was probably just to serve
 as another deception in my mind—to keep us from picking up on their
 critical advantage.
 
-Whether you realize it or not the war with Russia may already here—whether
-we like it or not. You have got to understand these guys don’t behave as
-normal civilized citizens. They behave as barbarians. They are bloodthirsty
-killers who enjoy killing. No amount of pleading with them will change that
-fact. Putin has been planning this for a long time—he’s not going to change
-his mind now. After all, what is he projecting in Ukraine right now? He’s
-been projecting weakness. What does that mean? That therefore means he’s
-actually strong as hell.
+Whether you realize it or not the war with Russia may already be
+here—whether we like it or not. You have got to understand these guys don’t
+behave as normal civilized citizens. They behave as barbarians. They are
+bloodthirsty killers who enjoy killing. No amount of pleading with them
+will change that fact. Putin has been planning this for a long time—he’s
+not going to change his mind now. After all, what is he projecting in
+Ukraine right now? He’s been projecting weakness. What does that mean? That
+therefore means he’s actually strong as hell.
 
 We should step in and help Ukraine before we are funding a resergency, idk
 it’s tough. All im saying is this might actually prove to be a worthwhile
@@ -8762,7 +8763,7 @@ been targeting Russia all along with all the effort we could muster in my
 view. Then maybe we’d know more about both ourselves and our enemy by now.
 Same goes for social media too.
 
-As of March 5, 2022
+ As of March 5, 2022
 
 They are going to make me regret saying this–they always do. But I think
 it’s important to say nonetheless because it shows how they might have
@@ -8774,12 +8775,12 @@ Suggesting to me that Kyle French hasn’t been as active for some reason.
 And the only reason I can think of is if he were getting looked into
 further.
 
-These guys are definitely set up to get away with all of this. Because
-information is power and they have already hacked a lot of our
-infrastructure I suspect. So they already have access to all the
-information they need to get away with it essentially. I strongly suspect
-they’ve hacked rocky mountain power to turn on and off my power when
-breaking in and tampering with my power previously. All that is
+Even if that is not the case, these guys are definitely set up to get away
+with all of this. Because information is power and they have already hacked
+a lot of our infrastructure. So they already have access to all the
+information they need to get away with whatever they want essentially. I
+strongly suspect they’ve hacked rocky mountain power to turn on and off my
+power when breaking in and tampering with my power previously. All that is
 computerized these days after all. I know they hacked sirius xm radio
 because they made that one about as obvious as them hacking rocky mountain
 power. Plus they couldn’t access my location through sirius xm without
@@ -8793,35 +8794,36 @@ over this country–because again, I’ve seen it first hand as part of my
 profession. What else? Church’s, media, congress, organized crime. As for
 church’s, I don't know if they’ve hacked them or just infiltrated them or
 what but it’s all part of their bigger effort to silently defeat us from
-within. Our media, some of them are extremely biased these days, all they
-would have had to do is use the same tactics on our media as they do on our
-businesses to gain some level of control over them essentially. (Exploit
-capitalism, nobody wants to take a huge hit to their bottom line by going
-public with the fact that they’ve been hacked and all their customer’s data
-is potentially now in harm’s way) As for congress, I mean there’s been some
-strange acting congress members recently is all I’m saying. On the right
-and on the left. Russia doesn’t like one or the other–they infiltrate both
-and try and cause divisions. I don’t know for sure but them corrupting some
-of our congress members is definitely plausible if you ask me. All they got
-to do is hack them and monitor for anything they could use against them
-that would be embarrassing to them and then once found, begin pulling that
-embarrassing thing up on their phone at odd times, etc, to let them know
-they are indeed hacked and the hackers are essentially threatening them. A
-lot of people won’t take that to the police, especially if what the hackers
-found is indeed embarrassing or could otherwise get them in trouble. Then
-the hackers just use similar “signals” whenever they want them to behave a
-certain way. For instance, maybe later the person is reading a news article
-on their phone about Ukraine, all they have to do is start wigging their
-phone out at certain key points or provide other timely signals that are
-learned over time–and that my friends is how Vladimir Putin and Xi Jingping
-have managed to corrupt our society and exploit our law and order in an
-almost impossible to prove manner from within. And each piece of
-infrastructure they hack they use it to amplify their ability to take over
-the rest. That’s part of why hacking is so powerful. That doesn’t even get
-into how they strategically create/exploit conflicts of interest and
-control the interconnected society as a whole from afar, nor does it get
-into their mass social media psychological manipulation efforts, etc, etc.
-(What they are doing is honestly impressive but scary as hell)
+within. Our media, some of them are extremely biased and pro Russia these
+days, all they would have had to do is use the same tactics on our media as
+they do on our businesses to gain some level of control over them
+essentially. (Exploit capitalism, nobody wants to take a huge hit to their
+bottom line by going public with the fact that they’ve been hacked and all
+their customer’s data is potentially now in harm’s way) As for congress, I
+mean there’s been some strange acting congress members recently is all I’m
+saying. On the right and on the left. Russia doesn’t like one or the
+other–they infiltrate both and try and cause divisions. I don’t know for
+sure but them corrupting some of our congress members is definitely
+plausible if you ask me. All they got to do is hack them and monitor for
+anything they could use against them that would be embarrassing to them and
+then once found, begin pulling that embarrassing thing up on their phone at
+odd times, etc, to let them know they are indeed hacked and the hackers are
+essentially threatening them. A lot of people won’t take that to the
+police, especially if what the hackers found is indeed embarrassing or
+could otherwise get them in trouble. Then the hackers just use similar
+“signals” whenever they want them to behave a certain way. For instance,
+maybe later the person is reading a news article on their phone about
+Ukraine, all they have to do is start wigging their phone out at certain
+key points or provide other timely signals that are learned over time–and
+that my friends is how Vladimir Putin and Xi Jingping have managed to
+corrupt our society and exploit our law and order in an almost impossible
+to prove manner from within. And each piece of infrastructure they hack
+they use it to amplify their ability to take over the rest. That’s part of
+why hacking is so powerful. That doesn’t even get into how they
+strategically create/exploit conflicts of interest and control the
+interconnected society as a whole from afar, nor does it get into their
+mass social media psychological manipulation efforts, etc, etc. (What they
+are doing is honestly impressive but scary as hell)
 
 I wish one of these guys would come forward and do what they know is in the
 best interest of our country. All Putin’s terrorism scares everyone into
@@ -8848,9 +8850,9 @@ least been making progress on that front. Plus I just now know they
 primarily target routers and they can exploit anything with wifi. If I
 could get to the bottom of their exact 0day they are using then it could
 potentially help turn everything around. The only problem is from what I
-could tell I think they might be using similar 0days as our own military
-themselves. (Yet another conflict of interest) Plus I got a ton to do
-already as is myself..
+can tell I think they might be using similar 0days as our own military
+itself. (Yet another conflict of interest) Plus I got a ton to do already
+as is myself..
 
 (I didn’t recently provide my email address to sirius xm btw, the last
 thing I want is sirius xm right now, I just noticed this just now–sirius xm
@@ -8860,16 +8862,22 @@ remain hacked–the more screwed we become because they gain access to
 critical operational information that isn’t going to change anytime soon.
 It’s as if Russia and China finally got access to some of our most closely
 guarded technology and while we used it responsibly–they don’t. Want to
-know how they likely got access to this? I’d be willing to bet they got
+know how they likely got access to it? I’d be willing to bet they got
 access to it using psychology–i.e. as part of their psychological
 manipulation campaign against our country, by turning us against each
 other, exploiting conflicts of interest to where they made it so it was in
 somebody’s best interest to give them access to it and that certain someone
 cared more about themselves than everybody else–or just from all the toxic
 divisions and corruption lately leading to someone giving them access to it
-for free–or I guess they might could have re-engineered it but I doubt
-it–things like these are compiled in ways to be difficult to re-engineer)
-We need to come together people.
+for free–or I guess they might could have reverse-engineered it but I doubt
+it–things like these are compiled in ways to be difficult to
+reverse-engineer)
+
+We need to come together people. We also need to gain a better
+understanding of ourselves and our adversaries and realize we are all in
+this together.
+
+Have a good day! Don’t forget about Turbo btw.
 
 Chase Gibbons  / Manager
 435-999-4722
