@@ -13184,6 +13184,11 @@ hasn’t been able to get his cut from me or something. (The Russian mob
 maybe?) Just another possible motive. Dusty really does think our dads
 money is his money for whatever reason.
 
+https://drive.google.com/open?id=1IqxgViZ7R0kL1jLojKyGKVxImltLzAj0&disco=AAAAX\_Jy5aI
+
+
+https://drive.google.com/open?id=1uAJA\_BZItSDEoevqzHqOwJ7udfKSThEN&disco=AAAAXdN4-vA
+
 
 You guys really need to hurry if you want me to be around for any future
 trial. I’m doing my best to hurry on all fronts myself.
@@ -13193,12 +13198,6 @@ going to regret it mark my words. I’m not part of their damn mob so I
 shouldn’t have to pay it’s damn taxes to begin with. (Yet another way for
 people to screw you out of your inheritance)
 
-https://drive.google.com/open?id=1IqxgViZ7R0kL1jLojKyGKVxImltLzAj0&disco=AAAAX\_Jy5aI
-
-
-https://drive.google.com/open?id=1uAJA\_BZItSDEoevqzHqOwJ7udfKSThEN&disco=AAAAXdN4-vA
-
-
 Whoever takes over my estate later is looking at possibly millions of
 damages lawsuit capabilities. Meaning whoever takes it over could sue the
 shit out of people like my brother and Paul for possibly millions of
@@ -13207,9 +13206,13 @@ trust instead of just my will for that reason. So that if my estate wins a
 massive damage payout later then I can continue to make donations to them
 even after I’m long gone.
 
-Chase Gibbons  / Manager
+Chase Gibbons  / Software Development
 435-999-4722
 
+ 
+595 S Riverwoods Pkwy, Suite 250Logan, UT 84321
+rentdynamics.com 
 
-PO Box 747Logan, UT 84321
-gfic.io  
+[image: Twitter]  [image: Facebook]
+ [image: LinkedIn]
+
