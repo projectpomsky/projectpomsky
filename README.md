@@ -4855,25 +4855,25 @@ by hacking into other people’s minds.
 
 These guys’ advanced persistent threat hacking capabilities and their emf,
 infrasound, extreme break-in capabilities, and their suspected
-nanotechnology capabilities are those which only someone like a foreign
-adversary might realistically possess. I believe my brother when seeking
-out how to get out of the bind he was in relating to essentially getting
-caught for murdering his own family–he sought out help from Russian
+nanotechnology microchip capabilities are those which only someone like a
+foreign adversary might realistically possess. I believe my brother when
+seeking out how to get out of the bind he was in relating to essentially
+getting caught for murdering his own family–he sought out help from Russian
 Oligarchs on the dark web as a result, especially given the politics of the
 time. (After he initially hacked me and others) And now he’s on a vendetta
 against his whole family and this entire town–seeking to do the one thing
-to his family that’s even worse than death–that is–mind control. He wants
-to essentially make some of us act out and behave in ways that will
-essentially cause our whole family never ending suffering, grievance, and
-shame and which will be the ultimate slap in the face to my father and my
-mother and this whole town.
+to his family that’s even worse than death–that is–mind control and public
+humiliation. He wants to essentially make some of us act out and behave in
+ways that will essentially cause our whole family never ending suffering,
+grievance, and shame and which will be the ultimate slap in the face to my
+father, my mother and this whole town.
 
 
 
 I believe Dusty plans to give the Russian’s more than just me within our
-family as well, if he hasn’t already. (Potentially some of my mother’s
-kids’ kids) I suspect they particularly seek out those who are currently
-single.
+family as well, if he hasn’t already done so. (Potentially some of my
+mother’s kids’ kids) I suspect they particularly seek out those who are
+currently single.
 
 [reference goes here]
 
