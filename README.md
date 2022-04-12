@@ -11613,11 +11613,23 @@ satellite to superheat me right above where I sleep and then they just
 instructed the jet to fly over while they used the satellite to heat me
 previously, hence setting it up to where if investigated then I’ll look
 like the crazy one myself–when in reality the pilot is indeed colluding
-with Russia. I am confident they have a tunnel btw, I’m going to be renting
-out a ground penetrating radar soon to find their tunnel seems they can’t
-hide their tunnel just cuz they know I’m going to be searching for it.
-Finding their tunnel will also make it so I don’t have to bother renting
-another place out. It will also lead us directly to the culprit if found.
+with Russia. This is how they are able to get away with literally
+everything. So from now on if I say oh a jet airplane emf’d me last night,
+you can believe the part that a jet airplane deliberately flew over me–but
+start looking for other ways in which the emf itself happened. Same goes
+for if I say this guy was acting all suspicious outside my house then when
+I got home it smelled like weed. In reality that guy was acting all
+suspicious outside my house and it did smell like weed when I got home
+however it was specifically set up to make me look bad and it smelt like
+weed in my home likely do to some gas or some capability they added to my
+furnace previously. It was meant as a false flag in that case. So what I’m
+getting at is they never make it simple–they always make it look like it’s
+someone it’s not when in reality everyone is in on it. I am confident they
+have a tunnel btw, I’m going to be renting out a ground penetrating radar
+soon to find their tunnel seems they can’t hide their tunnel just cuz they
+know I’m going to be searching for it. Finding their tunnel will also make
+it so I don’t have to bother renting another place out. It will also lead
+us directly to the culprit if found.
 
 Imagine the prospect of leaving your car and the possibility of them
 getting inside it whenever they choose. I often leave my phone recording
@@ -11644,6 +11656,21 @@ maybe we’ll start taking hacking more seriously. Regardless–from now on we
 need to keep hacking Russia and other adversaries ourselves. Worst case
 we’ll just come across some of their secret weapons and we will be better
 for it.
+
+P.s. The hackers are the only ones who know literally everything–everyone
+else seems to only know their part in it and that seems deliberate. All you
+have to do to get to the bottom of this is arrest my brother. Seriously,
+arrest my brother and then offer him a deal to get less jail time and I’m
+sure he could tell you literally everything. Dusty doesn’t have much to
+lose himself so I’m sure he would talk under the right circumstances. Like
+he doesn’t have kids he’s got to worry about being retaliated against or
+anything like that. If he did he wouldn’t be doing all this shit to begin
+with. My brother literally is the key to all of this. If you can force him
+to turn on all these people we’d be set. The hackers have even indicated to
+me he’s the leader of this sect so you should really pursue Dusty on murder
+of my family charges if nothing else. He's also likely critical to both the
+nanotechnology and infrasound. I don't even want to know how many people
+he's murdered or manipulated others into murdering at this point tbh.
 
 
 Chase Gibbons  / Manager
