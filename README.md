@@ -12553,12 +12553,20 @@ physiologically/psychologically disruptive to me. I also stated there IS
 MOST DEFINITELY still residual poison pretty much everywhere in my home
 from their past attempts. Just in trying to prove the point that any other
 source they could possibly blame me get cancer from is just complete bs. On
-my candies, on my floor, on a thorn bush spike. You guys I really do think
-dusty is already on the higher end of that poisoners spectrum in terms of
-people he’s likely responsible for killing. That’s what my gut tells me
-anyways—even tho it pains me to say it. Bottom line is they’ve likely
-already killed me. Now it’s time for me to get them locked up for the rest
-of their lives.
+my candies, on my floor, on a thorn bush spike, in my lotion, body wash,
+etc, etc. Like if nothing else people need to be extremely careful when
+going through my house when I die. Like I’m saying that from the bottom of
+my heart knowing what these guys are capable of and how lucky I am to even
+still be alive right now first hand. They rarely clean up after themselves
+in my home at least—they always just add more and more. I got pics even—but
+trying to live through all this hasn’t been the easiest either. (I.e. I
+still got to clean my house up more myself)
+
+You guys I really do think dusty is already on the higher end of that
+poisoners spectrum in terms of people he’s likely responsible for killing.
+That’s what my gut tells me anyways—even tho it pains me to say it. Bottom
+line is they’ve likely already killed me. Now it’s time for me to get them
+locked up for the rest of their lives.
 
 They are now playing the sounds of turbo suffering to me again as if to try
 and punish me for re-pointing out the fact that they seemingly have access
