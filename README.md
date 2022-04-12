@@ -7848,19 +7848,24 @@ Here is my reply:
 
 
 
-It speaks volumes that you haven’t heard of any US hacking group hacking
+It speaks volumes that i haven’t heard of any US hacking group hacking
 Russia before now in my opinion–it shows Russia’s dominance in the field
 especially whereas they are constantly targeting us–which is honestly
 really scary and it will be hard for us to ever turn things around
 especially given how we are a lot less evil just in general in the way we
 operate as a country, just in my opinion.
 
-Just think, if Russia knew we would hack the crap out of them or take
-advantage of some of our previous intrusions and cause disruption in their
+Just think, if Russia knew we would hack the crap out of them or else bring
+to light some of our previous intrusions to cause disruption in their
 society in response to their taking over Ukraine–they would have definitely
 thought twice about it first–especially whereas one of Russia’s greatest
 vulnerabilities is unique in the fact that they hide everything from their
-own people–and could therefore be easily exploited through hacking.
+own people–and could therefore be easily exploited through hacking. I will
+say though Russia is also very smart in how they restrict their social
+media from foreigners, believe me on that–I’ve wanted to start plaguing
+their social media with divisive content on numerous different occasions
+previously–and yet I still haven’t been able to. (I could have tried harder
+but still–with our social media it’s a cakewalk)
 
 Plausible deniability is the key to punishing Russia for taking over
 Ukraine without causing a nuclear war in my own personal opinion. I realize
