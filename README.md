@@ -11513,22 +11513,22 @@ following reasons.
 Okay so imagine the prospect of getting in the shower. You’ve got to get in
 the shower. To most people, it’s no big deal. To me—it is a huge freaking
 deal as with everything. Imagine using your body wash not knowing whether
-or not there is some substance added in there meant to do harm to you. Same
-for your shampoo. Same for the very water coming out of the spout itself.
-Same for the bathtub itself. Same for the floor leading up to the bathtub.
-Imagine doing everything in your power to ensure you don’t have to worry
-about all this shit going forward only to have every single thing you do be
-countered and them getting past your most stringent countermeasures
-regardless of what you do. They are trying to make me look like I don’t
-shower with this one—by making it difficult as hell to shower and by
-putting poison shit in all my body washes, etc, to where I am actually
-negatively reinforced whenever I do shower unless I do literally everything
-right including buying brand new soap and body wash right before I shower
-or else using brand new soap and body wash that is clear that it hasn’t
-been tampered with previously. I’ve been buying the personal ones lately,
-but even with a lot of those, there’s no seal. Meaning they can still
-tamper with brand new body washes before I ever use them–even if I store
-them in my safe.
+or not there is some substance added in there meant to do harm to you and
+which gives you hives. Same for your shampoo. Same for the very water
+coming out of the spout itself. Same for the bathtub itself. Same for the
+floor leading up to the bathtub. Imagine doing everything in your power to
+ensure you don’t have to worry about all this shit going forward only to
+have every single thing you do be countered and them getting past your most
+stringent countermeasures regardless of what you do. They are trying to
+make me look like I don’t shower with this one—by making it difficult as
+hell to shower and by putting poison shit in all my body washes, etc, to
+where I am actually negatively reinforced whenever I do shower unless I do
+literally everything right including buying brand new soap and body wash
+right before I shower or else using brand new soap and body wash that is
+clear that it hasn’t been tampered with previously. I’ve been buying the
+personal ones lately, but even with a lot of those, there’s no seal.
+Meaning they can still tamper with brand new body washes before I ever use
+them–even if I store them in my safe.
 
 Imagine brushing your teeth and having it hurt your teeth more than it
 helps. This one has a direct link back to my brother–he was accusing my mom
@@ -11582,9 +11582,12 @@ only to fail every single time. Their malware I swear doesn’t even go away
 when completely resetting the operating system. And whenever I do have a
 new computer or what have you then they can just use their x-ray vision
 and/or electromagnetic technology to view my keypresses/view my screen, and
-when paired with their tunnel they can just get in and tamper with it
-directly in person–which no hardware can be immuned from direct physical
-access.
+when paired with their tunnel they can just get in and tamper with the
+hardware directly in person–which no hardware can be immuned from direct
+physical access.
+
+Imagine doing everything in your power to disable their damn microchip(s)
+to no avail.
 
 Imagine going to sleep at night. No big deal right? Wrong. I’ve got to
 sleep in a faraday cage. I’ve got to make sure my whole freaking house is
@@ -11660,6 +11663,18 @@ don’t want them tampering with while I have to run into some other store
 real quick—but even then all my phones are hacked so they can still
 technically get passed it.
 
+Imagine everytime you go to eat a piece of candy that you didn’t finish
+previously risking them having put something on it meant to harm you in
+some way. Imagine everytime you go to go to the doctor anything you touch
+you risk them potentially contaminating you with something meant to
+discredit you if given a drug test at the doctor. Imagine anytime you go to
+do any of your prescriptions or inhaler or vape juice you risk getting
+cancer. This is meant to either discredit me or give me cancer.
+
+Imagine anytime you go to sleep you risk getting cancer through their
+targeting of you with cancer causing directed energy weapons all night.
+This is meant too make me afraid to fall asleep.
+
 It’s all designed to discredit me. From keeping me up at nights to making
 me sleep forever when I do sleep even if I’m not tired to making it a bad
 experience for me to shower to making me afraid to brush my teeth to making
@@ -11681,6 +11696,22 @@ seriously. Regardless–from now on we need to keep hacking Russia and other
 adversaries ourselves either way. Worst case we’ll just come across some of
 their secret weapons and we will be better for it.
 
+
+That my friends, is what it is like to be gangstalked and there is
+currently no way out. They microchipped me before it ever even officially
+started and the microchip is the whole reason I haven’t taken off and
+gotten the fuck out of here. I still can’t fucking believe it tbh. I still
+can’t believe my mom set me up for getting microchipped either–knowingly or
+unknowingly. It’s not my mom tho it’s my brother. But my mom could
+definitely act a little more motherly and like she is concerned about my
+well being even if it risks her own well being that’s forsure. Dusty is her
+freaking son after all, and she’s already lived a whole life whereas I
+haven’t. Like some people only care about themselves I swear. You would
+think she would realize I didn't do anything and I was friends with Dusty
+up until the point when he started coming after me so nothing she doesn't
+do is going to stop him from going after herself, any of her other children
+or grandchildren–the only way to stop him is if others actually help.
+
 P.s. The hackers are the only ones who know literally everything–everyone
 else seems to only know their part in it and that seems deliberate. All you
 have to do to get to the bottom of this is arrest my brother. Seriously,
@@ -11696,6 +11727,8 @@ of my family charges if nothing else. He's also likely critical to both the
 nanotechnology and infrasound/ultrasound. I don't even want to know how
 many people he's murdered or manipulated others into murdering at this
 point tbh.
+
+
 
 
 
