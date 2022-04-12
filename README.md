@@ -4890,6 +4890,11 @@ Now that right there would explain literally everything.
 I therefore plan to move somewhere where I will be of no use to either
 Russia or my brother.
 
+(They started freaking out when I was writing this btw, like as if they
+have now been caught–my screen went blue and back to white and back to blue
+again multiple times, as if multiple people were logging in to view what I
+was writing at the time–don’t let them fool you–I think this is the closest
+to the truth I’ve gotten yet)
 
 Chase Gibbons  / Manager
 435-999-4722
