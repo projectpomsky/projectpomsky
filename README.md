@@ -6809,7 +6809,7 @@ deleted all his messages to all of us previously, etc, etc.
 
 I think it’s time for me to do everything I can to escape Dusty’s influence
 once and for all. And the only thing I havent tried yet is to get the fuck
-away from him. At least then I’ll be making him spend more money if he dies
+away from him. At least then I’ll be making him spend more money if he does
 choose to continue to pursue me.
 
 Nonetheless, some of the wisest, least-biased people I’ve talked to who are
@@ -6827,8 +6827,8 @@ As of February 7, 2022
 
 It really isn’t hard to find evidence of all Dusty’s manipulation/social
 engineering. Isn’t it ironic he flipped from being liberal to acting more
-conservative right before he started attacking me and Turbo in 2021? (I
-suspect in an attempt to sway the police in his favor using politics and
+conservative right before he started attacking me and Turbo again in 2021?
+(I suspect in an attempt to sway the police in his favor using politics and
 social engineering to his advantage–which is a pattern btw (i.e. he cheats
 at literally everything he does these days I swear))
 
@@ -6859,9 +6859,9 @@ again even though Paul apparently hadn’t even heard from Dusty for over a
 year–right when I started looking into getting away from Paul myself. (I
 assume again to help Dusty with the police, now that the police are
 actually looking into all of this–unlike last year when Dusty was
-completely MIA) Literally everything Dusty does can be explained by the
-fact that Dusty’s social engineering society to try and get a leg up on
-me–in his sick and twisted game of hunting me.
+completely MIA) Literally everything Dusty does these days can be explained
+by the fact that Dusty’s social engineering society to try and get a leg up
+on me–in his sick and twisted game of hunting me.
 
 These are the kind of things that make all this just so obvious to me–in
 addition to everything else he does to me daily. Dusty is willing to change
@@ -6873,8 +6873,8 @@ cares about himself. Everyone else is just a pawn in his sick and twisted
 game essentially. He actually enjoys manipulating others to be “in on it”,
 either knowingly or unknowingly–or else somewhere in between. I suspect
 that’s another way he corrupts people tbh, is by first social engineering
-them to be “in on” something like this to the police only for them to later
-find out the truth..
+them to be “in on” something like what he is doing to me to the police only
+for the people he social engineered to later find out the truth..
 
 Social engineering is the biggest most crucial aspect of hacking as well
 btw. Therefore someone who is good at social engineering is also good at
@@ -6882,6 +6882,121 @@ hacking–and visa versa.
 
 It actually all makes quite a bit of sense if you ask me–more sense than
 anything tbh.
+
+Russian/Portuguese IPs/botnets
+
+https://drive.google.com/drive/folders/1D3WorsljIF8brX4bx2hk1rmPjRIFJUCZ?usp=sharing
+
+February 8, 2022
+
+Added doctors notes to this folder.
+
+I really think this is the closest I’ve come yet to finding their command
+and control server.
+
+I say this because they took the machines those ips were pointing to down
+soon afterwards, or else they just changed ips/subnets soon afterwards–and
+I mean they took it down or changed their ip addresses regardless of what
+ip address i tried hitting it from. (So they didn’t just block my one ip)
+They were connected to my laptop via udp on some strange port, the same
+port as all these other strange ips. Plus when I nmap-d the
+Russian/Portugese ips after finding them then it brought back a whole list
+of similarly configured machines–and a ton of them–and I had never seen
+that before. (I think it was some kind of botnet tbh) Before they switched
+their ips I mean, before my nmaps started returning nothing on all hosts
+and on all ports for those ips I had a chance to reach out to them and see
+how their network was configured) I specifically targeted the Russian and
+Portuguese ips because they showed up as being either home or remote
+routers–not servers. (Meaning I think they pointed to somebody’s home
+address tbh) I think I caught them off guard in this instance tbh.
+
+Russian router ip
+
+46.242.8.144
+
+Portuguese router ip
+
+144.64.0.241
+
+I know the Russians work with the portuguese from experience in working
+with Russian/Portuguese contractors myself.
+
+
+The following ips hitting my computer were all very strange indeed. They
+were all hitting the same port on my computer. Like I said, I suspect the
+above ips might have even been somebody’s home ips tbh, as shown in the
+video I shared yesterday. How I got this was by doing what they call “Arp
+Poisoning” using a new program I found. Essentially you trick all the
+devices on the network to think you are the router and so that all the
+requests begin to go through you from all the devices on the network. But
+in this case, 10.0.0.202 was actually my local ip address to my computer
+that I was monitoring.
+
+Incase you didn’t notice I’ve been learning to hack a little myself lately
+just so I can get in the mindset of a hacker. Well I already know the
+mindset of a hacker–they literally always constantly look for how they can
+exploit vulnerabilities in anything and everything. But all I’m saying is I
+just figured the best way to know how to stop a hacker is if you are a
+hacker yourself–that’s the best way I can stay anonymous going forward
+if/when I leave too. They call hacking for good a white-hat hacker.
+Conversely, what these guys are doing is black-hat hacking–they are even
+darker than black-hat hackers I’d argue–maybe even terrorists or
+government-sponsored hackers. (Hired or directed by my brother somehow–see
+figure to the left for more info on different types of hackers) But yea, I
+think my plan of learning hacking is already paying dividends tbh..
+
+
+I also verified that those ips weren’t just from a proxy server either.
+Like I said I think I caught at least a few of them off guard in this
+instance. Too bad they already changed their ips tho..
+
+Again all this happened yesterday, February 7th, 2022, during the
+afternoonish. Here’s more on all the info I gathered.
+
+https://drive.google.com/drive/folders/1D3WorsljIF8brX4bx2hk1rmPjRIFJUCZ?usp=sharing
+
+I still have more I’ve been meaning to share with you in terms of Russia
+too. Essentially they started posting comments on one of my blogs causing
+it to email me at key times when they knew I would see the emails,
+especially right around the time they were trying to frame me when I went
+and got my lexus key signature changed, most the comments they would post
+were in Russian, but one of the comments stood out because the it was all
+russian besides the name of the email and the name of the email address
+happened to correspond to the name of one of my sister’s daughters. As if
+they were saying they might go after her next or something. That’s how I
+took it at the time anyways–but I didn’t want to over-react either.
+Regardless, I think I still got all the logs for that, I’ll share those
+with you when I get the chance. I got a ton of stuff tbh, it just takes
+time digging through it all.
+
+For instance, I am getting close on finishing off my AI-driven security
+video categorizer too–but the closer i get to finishing it–the harder they
+make it for me to finish uploading the remaining hidden camera videos and
+whatnot essentially. Because they know as well as I do that there could
+very well be at least one video in all my various hidden camera footage
+that captured one of them in my house–it’s just a matter of indexing it all
+and finding it among all my video camera footages, hidden video camera
+footages, etc, etc–without them destroying the evidence first like they
+love to do..
+
+Regardless, my brother knows too much about all this to not be part of
+it—he flaunts and hints at it way too much, a lot of times these guys will
+do shit to me right after having spoken to my brother too, things that
+directly correspond to whatever I just spoke to my brother about, as if to
+send me a signal that my brother is indeed the one behind it, plus my
+brother himself acts like he’s in on it just in general, and at the end of
+the day Dusty has been the only one who has been capable of getting them to
+actually stop–after asking me what I wanted after the Eagles’ incident for
+instance. I get the sense Dusty is a hacker too but I also get the sense
+that it’s not just him–that much is for certain. I honestly don’t know how
+much of it is Dusty himself and how much of it is just shared information
+given to Dusty. Therefore I can’t tell whether he just hired them or not.
+And I don’t understand why Dusty would be working directly alongside what I
+suspect to be Russian government affiliated hackers. I know he wants me
+dead but why would they work with him to kill me? All I know is it’s
+extremely unjust and it’s completely and totally fucked up–that’s all I
+know for sure. I wish someone would stand up to my brother and get him to
+call it off.
 
 Chase Gibbons  / Manager
 435-999-4722
