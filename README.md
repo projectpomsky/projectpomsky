@@ -9342,14 +9342,20 @@ also delete the logs.
 P.s. I think we should definitely provide some kind of an off-ramp for both
 my brother and Putin btw. One where it’s not like all or nothing. One that
 allows them to step away from all this craziness gracefully. I worry about
-what might happen to my brother as well, even though I don’t always act
-like it. There really is no perfect outcome for me in all of this. All I
-know is at least I gave my brother tons of opportunities to stop, and
-whatever happens hopefully that will provide me with some peace. And at
-least I did what I felt was best for our country at the end of the day,
-which should provide me some peace there as well. I wish these guys would
-just do the right thing for once and begin to de-escalate themselves and/or
-preferably just stop.
+what might happen to my brother as well as our country, even though I don’t
+always act like it with him. There really is no perfect outcome to all of
+this. All I know is at least I gave my brother tons of opportunities to
+stop, and whatever happens hopefully that will provide me with some peace.
+My brother often exploits my love for him and he never stops. He uses my
+love for him to his advantage and he always tries to manipulate me. But
+even still it won’t make it any easier on me if he does ever get in trouble
+over all of this–just being honest. Beyond that, I mean at least I did what
+I felt was best for our country at the end of the day as well, which should
+provide me some peace there as well no matter what happens.
+
+I wish these guys would just do the right thing for once and begin to
+de-escalate themselves and/or preferably just stop by themselves–but I
+highly doubt that will ever happen.
 
 
 
