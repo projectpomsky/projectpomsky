@@ -1,40 +1,28 @@
 Outline
 
-Outline
+Outline 
 
+README 
 
-README
+Security Cameras 
 
+How They Broke In 
 
-Security Cameras
+Motive 
 
+My Credibility 
 
-How They Broke In
+Daily Occurrences 
 
+As of Nov 12, 2021 
 
-Motive
+As of Nov 15, 2021 
 
+As of Nov 16, 2021 
 
-My Credibility
+As of Nov 18, 2021 
 
-
-Daily Occurrences
-
-
-As of Nov 12, 2021
-
-
-As of Nov 15, 2021
-
-
-As of Nov 16, 2021
-
-
-As of Nov 18, 2021
-
-
-As of Nov 20, 2021
-
+As of Nov 20, 2021 
 
 As of November 22, 2021
 
@@ -63,71 +51,53 @@ Indicators of being hacked
 Timeline (Rough Draft)
 
 
-~2006
+~2006 
 
+~2007 
 
-~2007
-
-
-~2008
-
+~2008 
 
 Before Father’s Death
 
 
-~2009
+~2009 
 
+Dusty and Cindy 
 
-Dusty and Cindy
+2010 
 
+Divorce/Move Out 
 
-2010
-
-
-Divorce/Move Out
-
-
-Father’s Death
-
+Father’s Death 
 
 Right After Father’s Death
 
 
-~2011
+~2011 
 
+Trust/College 
 
-Trust/College
+2013 
 
+Graduation 
 
-2013
+Eyes of a Killer 
 
-
-Graduation
-
-
-Eyes of a Killer
-
-
-2015
-
+2015 
 
 Before Sister’s Death
 
 
-Sister’s Death
+Sister’s Death 
 
-
-~2016
-
+~2016 
 
 After Sister’s Death
 
 
-2018
+2018 
 
-
-2019
-
+2019 
 
 Brother Distancing/Time Off
 
@@ -138,32 +108,24 @@ Last Visit/Website/Brother Hacking
 Someone Tries to Fill My Prescriptions
 
 
-Testing My Brother
+Testing My Brother 
 
+First Poisoning 
 
-First Poisoning
+2020 
 
+Second Poisoning 
 
-2020
+2021 
 
-
-Second Poisoning
-
-
-2021
-
-
-Gun Pulled On Me
-
+Gun Pulled On Me 
 
 Witness Intimidation
 
 
-EMF
+EMF 
 
-
-Hotels
-
+Hotels 
 
 Eagles Incident - Murder by Suicide Plot
 
@@ -183,14 +145,11 @@ Tampering with my electricity
 Radiation poisoning
 
 
-Infrasound
+Infrasound 
 
+Keys 
 
-Keys
-
-
-2022
-
+2022 
 
 As of December 15, 2021
 
@@ -201,14 +160,11 @@ As of December 17, 2021
 My Analysis of Timeline
 
 
-Father
+Father 
 
+Sister 
 
-Sister
-
-
-Me
-
+Me 
 
 As for any questions about me.
 
@@ -246,11 +202,9 @@ As of December 29, 2021
 As of December 30, 2021
 
 
-Part 1
+Part 1 
 
-
-Part 2
-
+Part 2 
 
 As of December 31, 2021
 
@@ -273,8 +227,7 @@ As of January 3, 2022
 As of January 4, 2022
 
 
-Random Thought
-
+Random Thought 
 
 As of January 7, 2022
 
@@ -342,8 +295,7 @@ As of February 6, 2022
 As of February 7, 2022
 
 
-February 8, 2022
-
+February 8, 2022 
 
 Lesson - RF/Waves/Hacking
 
@@ -398,8 +350,7 @@ Latest Potentially Significant IPs and Email Tampering Logs
 Electromagnetic Spectrum Health Effects Video
 
 
-Graphene Microchip
-
+Graphene Microchip 
 
 As of March 10, 2022
 
@@ -407,11 +358,11 @@ As of March 10, 2022
 What Putin is Doing
 
 
-Final Answer
+Final Answer 
 
+References 
 
-References
-
+Art of War Quotes 
 
 As of March 12, 2022
 
@@ -419,11 +370,9 @@ As of March 12, 2022
 As of March 14, 2022
 
 
-Part 2
+Part 2 
 
-
-Part 3
-
+Part 3 
 
 What their tunnel in my house sounds like
 
@@ -443,8 +392,7 @@ Twitter Observation
 Oddity at Doctors Office the Other Day
 
 
-How would you feel
-
+How would you feel 
 
 As of March 20, 2022
 
@@ -455,8 +403,7 @@ We need to support Ukraine 🇺🇦
 Potential Russian Mafia “Signals”
 
 
-Water Tampering
-
+Water Tampering 
 
 More on the Microchips
 
@@ -2272,6 +2219,7 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
+​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -7673,8 +7621,8 @@ system for instance. Therefore even alarm systems are vulnerable to the
 same attack as a car remote now thanks to software defined radio and the
 potential of hackers monitoring the radio spectrum. Simply Safe used to
 never even encrypt their devices' communications either btw, before their
-latest model came out. (https://www.nimblefreelancer.com/simplisafe-hack/ )
-But like I said, even with encryption–a hacker with a software defined
+latest model came out. (​​https://www.nimblefreelancer.com/simplisafe-hack/
+) But like I said, even with encryption–a hacker with a software defined
 radio can still bypass it after enough monitoring even if it is encrypted.
 (The same is true with our brains btw)
 
@@ -9368,6 +9316,7 @@ called biohacking. See the following links. But the one in my case is wayyy
 more sophisticated, plus I didn’t do it to myself, and therefore I have no
 way to turn it off by myself.
 
+​​
 https://twitter.com/drkiki/status/1168299777424908288?s=20&t=r4TnY99zwvl2yJbyM9FV5Q
 
 https://dangerousthings.com/category/implants/x-series/
@@ -9831,6 +9780,7 @@ engaged in the battle of our lives–and we won’t even fucking recognize it)
 All those people who died for freedom will have died in vain.
 
 
+Art of War Quotes
 
 Fixed some stuff in this illustration including the “Probability of
 Overcoming Defeat Overtime” chart, I changed it to make it more accurate,
@@ -10583,7 +10533,6 @@ Please don’t forget to read
 https://docs.google.com/document/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAzWHylE/edit#heading=h.5pj2htfgtk07
 
 
-
 To be clear, I think they might be planning on targeting me again over the
 next few days. Just an incling of mine, one of those situations where there
 might be an opportunity for them.. It’s honestly a nightmare having to live
@@ -10843,11 +10792,6 @@ hidden cameras are placed. I know it sounds crazy but I promise you it’s
 the truth. That’s the real Russian intelligence agency capabilities for
 you..
 
-I no longer think China is directly involved btw. Sorry China. Well you
-guys do hack us constantly but I don’t think you are involved in trying to
-seriously undermine our country and the entire west and I don’t think you
-are actively working with the Russian mafia to kill people at this time
-anyways.
 Water Tampering
 
 I suspect the attackers have been tampering with my water. I suspected this
@@ -10886,15 +10830,15 @@ ipad–I haven’t tuned it well enough yet to get it to actually kill my
 ipad–but it was messing with my ipad–and then I measured the EF/EMF/RF
 output of the EMP device and it turns out the EF/EMF/RF readings being
 generated by my EMP device to try and disable the microchips was no greater
-than the freaking EF/EMF/RF intensities that they constantly freaking EMF
-me at from long ranges themselves all the time. Meaning if their damn EMF’s
-aren’t going to disable the microchips when they EMF me constantly–then I
-now have little hope my EMP device will disable their microchips given they
-are both acting on the same forces essentially, and given I don’t know how
-to exponentially increase the intensities beyond what they are hitting me
-with, if that makes sense? But I’m not giving up. I could just need to fine
-tune it in the right way or something, I’ve got to do more research and
-more experimenting I think.
+than the freaking EF/EMF/RF intensities that I have caught them freaking
+EMF-ing me at from long range distances themselves. Meaning if their damn
+EMF’s aren’t going to disable the microchips when they EMF me
+constantly–then I now have little hope my EMP device will disable their
+microchips given they are both acting on the same forces essentially, and
+given I don’t know how to exponentially increase the intensities beyond
+what they are hitting me with, if that makes sense? But I’m not giving up.
+I could just need to fine tune it in the right way or something, I’ve got
+to do more research and more experimenting I think.
 
 In regards to my laser trials in an attempt to disable the microchips, I
 did the research and found out the laser I would need either had to be a
@@ -10902,43 +10846,47 @@ red laser or NIR/IR laser in order to successfully penetrate my skin to get
 down to the microchips to even have a chance at disabling them that way. So
 that’s what I bought. What happened when I tried it was well for one–I
 could tell whenever I was hitting one of their damn microchips because the
-laser isn’t even hot on my skin otherwise–but when I hit one of their
-nanochips I can feel it heat up under my skin quickly. A side effect of
-graphene is it can get really hot and so what happens when I hit them with
-the red laser is they get really hot and I can feel it; however, again they
-have been able to get their damn microchips to be hotter “in the wild” than
-I was able to with my red laser, thus far anyways. Remember when I said I
-knew where the microchip was because it got really hot on the tip of my
-fingernail when plugging my ear previously? Yea, well that was just during
-“normal operations” and they got it hotter than I have been able to get it
-thus far with my laser. I’m still iterating on it however.
+laser isn’t even hot on my skin otherwise–but whenever I would pass over
+one of their nanochips I could feel it heat up under my skin quickly and I
+could actually feel the laser on my skin. Which makes sense cuz a side
+effect of graphene is it can get really hot and so what happens when I hit
+them with the red laser is they get really hot and I can actually feel the
+difference quite noticeably; however, again they have been able to get
+their damn microchips to be hotter “in the wild” than I was able to with my
+red laser itself, thus far anyways. Remember when I said I knew where the
+microchip was because it got really hot on the tip of my fingernail when
+plugging my ear with my finger previously? Yea, well that was just during
+“normal operations” when they were tracking me driving and they got it
+hotter than I have been able to get it thus far with my laser. I’m still
+iterating on this method as well however. (While keeping safety in mind)
 
 I know there are multiple nanochips at different levels throughout my ear
-now for the “getting hot” reason and because when I put in an earplug it
-doesn’t fully block out all of the sound/signal of the microchips to my
-eardrum, meaning there are likely multiple microchips some deeper than
-others through my inner ear. It’s all on my left ear only. Another option I
-might try, and I actually had to do this originally to get the damn things
-to not give me a heart attack after I got my second covid shot–-is to take
-some different dosages of aspirin to try and get them to go further through
-my bloodstream out of reach of my ear which acts as a natural antenna
-topology for the microchips. Meaning if I could just get them to flow a
-little further maybe they would then go out of reach from the outside
-world–however then I’d be potentially risking a stroke or other bad brain
-injury–just from taking aspirin. If you have any other ideas please let me
-know. I’ve got to do what the attackers do and research all the strengths
-and weaknesses except in regards to unwanted graphene nanochips–which there
-is virtually no data on–but I have been researching the strengths and
-weaknesses of graphene itself. And then I need to take all those findings
-and figure out the best way to disable the graphene in my ear without
-hurting myself–if it’s even possible. So it’s kinda like hacking in a way.
-I got to find the vulnerabilities and exploit them to my advantage to be
-free again essentially.. (And exploiting how graphene gets hot is one such
-way, I also considered hitting them with the laser and getting them hot
-then photographing my ear using a infrared camera so I could then get
-someone to operate and get them out–but thus far I haven’t been able to get
-them hot enough to show up as a big enough difference in the infrared
-camera–however this may be my best path forward)
+now because of the “getting hot” and feeling where the red laser encounters
+hot spots reason and because when I put in an earplug it doesn’t fully
+block out all of the sound/signal of the microchips to my eardrum, meaning
+there are likely multiple microchips some deeper than others through my
+inner ear. It’s all on my left ear only. Another option I might try, and I
+actually had to do this originally to get the damn things to not give me a
+heart attack after I got my second covid shot–-is to take some different
+dosages of aspirin to try and get them to go further through my bloodstream
+out of reach of my ear which acts as a natural antenna topology for the
+microchips. Meaning if I could just get them to flow a little further maybe
+they would then go out of reach from the outside world–however then I’d be
+potentially risking a stroke or other bad brain injury–just from taking
+aspirin. If you have any other ideas please let me know. I’ve got to do
+what the attackers do and research all the strengths and weaknesses except
+in regards to unwanted graphene nanochips–which there is virtually no data
+on–but I have been researching the strengths and weaknesses of graphene
+itself. And then I need to take all those findings and figure out the best
+way to disable the graphene in my ear without hurting myself–if it’s even
+possible. So it’s kinda like hacking in a way. I got to find the
+vulnerabilities and exploit them to my advantage to be free again
+essentially.. (And exploiting how graphene gets hot is one such way, I also
+considered hitting them with the laser and getting them hot then
+photographing my ear using a infrared camera so I could then get someone to
+operate and get them out–but thus far I haven’t been able to get them hot
+enough to show up as a big enough difference in the infrared camera–however
+this may be my best path forward)
 
 If you have any other bright ideas please let me know. 🙏 Seriously you
 guys–I really could use some help with this one–I have literally no chance
@@ -10954,9 +10902,18 @@ Previous post on graphene and microchip
 https://docs.google.com/document/d/1KtnfL3WqWM2PGLCSWt1m4RCGprRhlCzhZkuw0psA3-4/edit#heading=h.h5l5d6prev3v
 
 
-Chase Gibbons  / Manager
-435-999-4722
-
-
-PO Box 747Logan, UT 84321
-gfic.io  
+One final note—well two final notes. If the attackers were really that
+close to defeating us, then these guys wouldn’t be so worried about hiding
+stuff to avoid getting caught anymore. Meaning they are at least still
+concerned about the next few years of the potential for them to get locked
+up and prosecuted I would think. Therefore we still have time based on my
+calculations. Lastly, I was going to say I no longer think China is working
+hand in hand with the Russian Mafia to do this horrible shit to us but then
+I realized I was too quick to jump to conclusions after feeling bad for
+them for that plane crash today. You never know if China is ultimately like
+Russia and willing to stage shit against its own citizens in order to gain
+strategic advantages itself. So I still don’t know how much of all this is
+China at this point. It might just be more concerned than Russia to hide
+its inner selves. Only time will tell. (Everyone knows Russia is brutal
+now, but China 🇨🇳 is still a tbd—they could just still be playing good
+cop 👮 bad cop 👮‍♂️ )
