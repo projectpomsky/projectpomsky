@@ -3594,11 +3594,9 @@ keys, not constantly breaking into my house, etc, etc. Happy new year!
 P.s. I’m not giving up btw. They made a huge mistake in admitting to
 killing my dog the other day—regardless of whether they did or not. My dog
 was a local celebrity. What I suspect they are trying to do is make any
-memory of my dog a bad one—but that was a bad move—and I simply refuse to
-let that happen. (It’s more Charles Manson psychology tactics I suspect, I
-swear to god dusty is more Charles Manson than Charles Manson himself—he
-uses his infrasound and emf stuff to try and positively and negatively
-reinforce me—Charles Manson didn’t ever even do that)
+memory of my dog be a bad one—but that was a bad move—and I simply refuse
+to let that happen. (It’s more Charles Manson psychology tactics I suspect,
+I swear to god dusty is more Charles Manson than Charles Manson himself)
 
 Regardless, Dusty needs some serious help. I hope you all will join me in
 helping to ensure dusty is brought to justice, if not for me, if not for
@@ -3615,21 +3613,9 @@ Dusty for some reason seems to only get enjoyment out of hurting others
 these days which is not okay. In a way, this is like an epic battle between
 two brothers both for their lives—good vs evil. I’m okay with that tho cuz
 at least if I die I’ll be dying for a noble cause—although I wish it didn’t
-have to be this way. By Dusty’s life I mean prison time btw. However dusty
-leaves me very little choice but to try and get him locked up. I therefore
-could honestly use all the help I can get because I’m completely
-outnumbered here and I didn’t even know I’d one day be forced to play this
-fucked up game of my brothers just to stay alive and avenge my loved ones
-until I was in the middle of it.
--- 
-
-Chase Gibbons  / Manager
-435-999-4722
-
- 
-PO Box 747Logan, UT 84321
-gfic.io 
-
-[image: Twitter]  [image: Facebook]
- [image: LinkedIn]
-
+have to be this way. By Dusty’s life I mean life in prison btw. But yea,
+dusty leaves me very little choice but to try and get him locked up at this
+stage. I therefore could honestly use all the help I can get because I’m
+completely outnumbered here and I didn’t even know I’d one day be forced to
+play this fucked up game of my brothers just to stay alive and avenge my
+loved ones until I was literally in the middle of it.
