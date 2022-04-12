@@ -11561,7 +11561,7 @@ deliberate attempts to target you whenever you use the restroom as if they
 are trying to condition you not to eat anymore so that you don’t have to
 deal with their harassment when using the restroom as often. I think they
 specifically target me while using the restroom both for this reason and
-because that’s one of the reason one wakes up at nights randomly. So them
+because that’s one of the reasons one wakes up at nights randomly. So them
 getting the signatures of my brain needing to use the restroom further
 ensures they won’t get caught when tampering with me during the nighttimes
 essentially–if i am left unprotected.
@@ -11576,7 +11576,7 @@ house while I’m away, etc, etc.
 
 Imagine going to sleep at night. No big deal right? Wrong. I’ve got to
 sleep in a faraday cage. I’ve got to make sure my whole freaking house is
-locked down. I’ve got to make sure I am literally looked into my room with
+locked down. I’ve got to make sure I am literally locked into my room with
 triggers on the door to let me know if they get in while I’m asleep. I’ve
 got to make sure I am protected from their emf’s, gas, and infrasound–which
 is impossible to be fully protected from all 3 btw. They’ll even put their
@@ -11588,22 +11588,25 @@ prescriptions, vape juice, etc, etc, while I’m asleep I’ve got to try and
 make sure they can’t make me sleep indefinitely nor keep me awake by
 protecting myself sufficiently. I’ve got to make sure my home security
 alarm is on and not hacked so they don’t tamper with other parts of my
-house while I’m asleep. I’ve got to make sure my regular alarm clocks are
-on and not connected to the internet otherwise they can just disable them
-through all their hacking. I’ve got to make sure they haven’t added new
-hardware to anything that isn’t connected to the internet by default which
-makes it so it is connected to the internet for their tampering. I’ve got
-to make sure I block all air gaps that sound can travel through without
-suffocating myself, etc, etc.
+house while I’m asleep. Lately they’ve even been triggering it
+intentionally to make it so it actually frustrates the police. I’ve got to
+make sure my regular alarm clocks are on and not connected to the internet
+otherwise they can just disable them through all their hacking while I’m
+asleep. I’ve got to make sure they haven’t added any new hardware to
+anything which doesn’t connect to the internet by default which makes it so
+it is connected to the internet for their tampering. I’ve got to make sure
+I block all air gaps that sound can travel through without suffocating
+myself, etc, etc.
 
-Imagine the prospect of getting a new place. No big deal right? Wrong. Huge
-freaking deal. For one they are all over whatever it is I do. They rigged
-my whole rental house just in anticipation of me possibly staying there
-before I rented it out again previously. Plus if I rent any place out
-myself, I’m going to need advanced locks in place just to keep them out—and
-not every landlord will be cool with that. Just renting a place out seems
-like a huge challenge to me tbh. They aim to essentially rig the whole
-place before I even officially rent it out.
+Imagine the prospect of getting a new place to get away from their tunnel,
+etc. No big deal right? Wrong. Huge freaking deal. For one they are all
+over whatever it is I do. They rigged my whole rental house just in
+anticipation of me possibly staying there before I rented it out again
+previously. Plus if I rent any place out myself, I’m going to need advanced
+locks in place just to keep them out—and not every landlord will be cool
+with that. Just renting a place out seems like a huge challenge to me tbh.
+They aim to essentially rig the whole place before I even officially rent
+it out.
 
 I guess I need to find a roommate is what I need. Someone renting just like
 a single room out. And to disable their damn microchips still.
