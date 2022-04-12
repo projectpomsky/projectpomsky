@@ -3552,24 +3552,25 @@ and live a happier, more fulfilling life with less worries and less bad
 shit happening to me this next year. 🤞 That’s my new years resolution
 anyways. I’ll try and keep adding references going forward but it might be
 a while cuz I don’t want to have to continue to devote all my time to it,
-I’ve spent like the last two weeks just trying to get all my data in a
-place to where I could actually reference any key parts of it that aren’t
-already present here. And I haven’t even gone through and indexed it all
-yet, let alone uploaded it all to this folder and subsequently referenced
-it within this document. (I’m referring to all my raw phone/computer
-backups, slack comments which I don’t even have access to anymore
-currently, old emails from other accounts, just everything that wasn’t
-already in this google drive folder–so it’s just super time consuming and
-difficult to do is all) Plus I feel it’s in my best interest to move away
-to try and save myself while I still can, as stated above. I feel I’ve
-already endured all the torture way longer than most people would just to
+I’ve spent like the last 2-3 weeks primarily trying to get all my data in a
+place on my free time to where I could actually reference any key parts of
+it that aren’t already present here. And I haven’t even gone through and
+indexed it all yet to pull out any key parts that aren’t already here, let
+alone uploaded it all to this folder and subsequently referenced it all
+within this document accordingly. (I’m referring to all my raw
+phone/computer backups, slack comments which I don’t even have access to
+right now, old emails from other accounts, just everything that wasn’t
+already in this google drive folder–so it’s just been super time consuming
+and difficult to do is all) Plus I feel it’s in my best interest to move
+away to try and save myself while I still can, as stated above. I feel I’ve
+already endured all this torture way longer than most people would just to
 try and help with justice. But if you need something in particular just let
 me know. Text me on my google voice number, that one seems to normally
 always work without interference/tampering for the most part I think. (435)
-261-2308
+261-2308 And that way it will make it a little easier on me.
 
-I may still keep updating this but likely not as frequently as I have been,
-I start work again on Monday.
+I will likely still keep updating this but likely not as frequently as I
+have been, I start work again on Monday after all..
 
 Thank you for reading. Happy new year!
 
