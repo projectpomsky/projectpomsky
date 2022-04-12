@@ -7876,8 +7876,8 @@ seeing things from a 30,000 foot level–just ask Russia. 😉 (More on how
 Russia is exploiting our red lines later and the significance of what they
 are doing–they can do a lot more damage than you would think without ever
 even raising the alarm or crossing any of our red lines so to speak–that’s
-why this is so important even though right now all I know is they are only
-targeting me)
+why this is so important even though as of right now all I know of is they
+are only targeting me)
 
 
 Chase Gibbons  / Manager
