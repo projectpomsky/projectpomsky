@@ -6233,10 +6233,20 @@ turn out extremely devastating for humanity going forward. (in my opinion)
 But they are ruthless as hell and they go straight for the jugular—what the
 hell else are we supposed to do?
 
-Everything going on in Ukraine right now is likely yet another instance of
-them trying to just keep our eyes off of their real plan. Their real plan
-likely entails lots of hacking and defeating us from within, at least in my
-view..
+Everything going on in Ukraine right now is likely just yet another
+instance of them postering/trying to keep our eyes off of the ball/off of
+their real plan. Their real plan likely entails lots of hacking,
+manipulating key people, undermining, and defeating us from within. (at
+least in my view)
+
+Both my latest refinance stuff and my previous solar panel credit check
+came back as denied thus far btw for my credit score supposedly being under
+620 even tho my credit score was showing up as ~686 on credit karma at the
+time which I find a little odd. The solar panel guy said he’s never seen
+that happen before. I get there are sub categories or whatever under your
+main credit score but I always have paid my home mortgage on time. So I
+can’t help but ponder what the hell is going on there for instance tbh.
+
 
 This has got to be a foreign adversary I would think. Idk. It’s hard to say
 forsure as just a regular civilian myself. But no gang I’ve ever heard of
