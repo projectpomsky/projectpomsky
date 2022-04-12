@@ -5069,53 +5069,62 @@ framed first.
 ———-
 
 I think they may have hired more hitmen to kill me yet again. I’ve seen
-enough of them now to have a good idea of a hitman who is seemingly fixated
-on me when I see one. I can just feel it in the air these days. I’ve seen
-the look of a killer in my brothers eyes. I’ve seen the look of a killer in
-the eyes of a lot of the people my brother sends after me these days. And
-I’ve been through this long enough now to have a decent sense as tI hen my
-brother's gang might be planning something. (Which is seemingly more often
-than not these days) They seem to usually send the hitmen out to see who I
-am first before they actually direct them to strike, in this case I suspect
-the reckon was done at Logan’s Hero’s just earlier tonight. I called ahead
-and ordered food there a few hours ago—so I think they must have ordered
-these latest hitmen there at that time—there was up to three of them this
-time—two white—one Tongan—all males likely in their mid to upper thirties
-this time. (The time before that it was a white guy in a big white truck
-probably in his early forty’s and a mixed race chick likely in her
-twenty’s—both looked like heroin junky’s at the maverick in nibley; (A few
-days later—Murder by overdose plot—time when they tried to essentially kill
-me and frame me as a heroin junky to the police I suspect—with poison which
-made me feel wobbly, thornbush spike I partially stepped on on my porch,
-some kind of drug I suspect they added to my vape juice, suspected
-paraphernalia added to my bathroom garabage and kitchen drawer, and the
-time when they seemingly lit off a drug smelling stink bomb in my house
-which literally made my whole house start wreaking more and more like
-heroin, made me feel funny, starting like an hour or so after I had
-initially arrived home and getting more and more intense for hours
-thereafter—like it was completely insane but it was totally a plot to kill
-me and frame me as a heroin junky—I recall I didn’t drive for days
-afterwards just to be safe that time, see above for more details, I think
-they also installed other smelling gas capabilities to my hvac system
-around that same time) Time before that it was a white muscle
-military/paramilitary looking guy and his white wife and whom I suspect to
+enough of them now to have a good idea of a hitman when I see one. (who is
+seemingly fixated on me) I can just feel it in the air these days. I’ve
+seen the look of a killer in my brothers eyes. I’ve seen the look of a
+killer in the eyes of a lot of the people my brother sends after me these
+days. And I’ve been through this long enough now to have a decent sense as
+when my brother's gang might be planning something. (Which is seemingly
+more often than not these days) They seem to usually send the hitmen out to
+see who I am first before they actually direct them to strike, in this case
+I suspect the reckon was done at Logan’s Hero’s just earlier tonight. I
+called ahead and ordered food there a few hours ago—so I think they must
+have ordered these latest hitmen there at that time—there was up to three
+of them this time or two groups—two white—one Tongan—all males likely in
+their mid to upper thirties this time. The one white guy was wearing a
+skull beanie and scary Halloween shirt. The other guys I noticed first cuz
+they said something like that’s him and they were watching me. Then I
+noticed the other dude who was also watching me but seemingly not in the
+same group. And this was at a time right before closing. (The time before
+this I noticed a white guy in a big white truck probably in his early
+forty’s and a mixed race chick likely in her mid twenty’s—both looked like
+heroin junky’s at the maverick in nibley; (A few days later—Murder by
+overdose plot—time when they tried to essentially kill me and frame me as a
+heroin junky to the police I suspect—with poison which made me feel wobbly,
+thornbush spike I partially stepped on on my porch, some kind of drug I
+suspect they added to my vape juice to make any autopsy show me as a drug
+addict, suspected paraphernalia added to my bathroom garabage and kitchen
+drawer, and the time when they seemingly lit off a drug smelling stink bomb
+or some type of gas in my house which literally made my whole house start
+wreaking more and more like heroin, made me feel funny, starting like an
+hour or so after I had initially arrived home and started getting more and
+more intense for literally hours thereafter—like it was completely insane
+but it was totally a plot to kill me and frame me as a heroin junky—I
+recall I didn’t drive for days afterwards just to be safe that time, see
+above for more details, I think they also installed other smelling gas
+capabilities to my hvac system around that same time, I suspect some might
+even be used to knock me out so they can then implant me) Time before that
+it was a white muscle military/paramilitary looking guy and his white wife
+who clearly stated “that’s him” at the eagles, them and whom I suspect to
 be their white muscle guy friend—all in likely their late thirties—at the
-Eagles bar in Logan; but that time the reckon and the attack itself were
-seemingly all wrapped into one (Eagles incident or Murder by suicide
-plot—time when my brother completely misconstrued my single email message
-to him and used it as an opportunity to report me as suicidal to the
-police, kid came over encouraging me to goto the bar a few days later for
-the seventh time, whereas I was running late to meet my coworker—with
-poison which subsequently pulled all the blood from my extremities and
-almost killed me and thorn bush spikes left all over my floormat in my car
-for the first time—although none of the thorn bush spikes got on me that
-time oddly but thankfully))
+Eagles bar in Logan; but that time the reckon and the attack(s) themselves
+were seemingly all wrapped into one 24 hour period. (Eagles incident or
+Murder by suicide plot—time when my brother completely misconstrued my
+single email message to him and used it as an opportunity to report me as
+suicidal to the police, a few days later kid came over for the seventh time
+encouraging me to goto the bar essentially, whereas I was running late to
+meet my coworker there—with poison left by one of the muscle guys which
+subsequently pulled all the blood from my extremities and almost killed me
+and thorn bush spikes left all over my floormat in my car for the first
+time—although none of the thorn bush spikes ever got on me that time oddly
+but luckily))
 
 But yea, those are the last few times I got this exact same vibe—each of
 which later resulted in an attack. I suspect the hitmen are now essentially
 on standby until the hackers determine a good opportunity arises for them
-to strike from what I gather based on my past experiences. It could be
-anywhere from tonight to a week from now or longer.
+to strike based on the hackers latest intel from what I gather based on
+past experiences. It could be anywhere from tonight to a week from now or
+longer.
 
 Also, there could seriously be a tunnel to my house you guys. Back when
 turbo was still alive one day out of the blue I honestly recall hearing
@@ -5126,7 +5135,7 @@ off their noisy tunneling equipment or something that I hadn’t really
 noticed until it was shut off—then all the sudden I could hear people
 talking (close by but muffled) and it clearly wasn’t from the tv—I recall
 it sounded like it was coming from the ground itself right outside my
-master bedroom/main bathroom under my horse tbh—I remember exactly where I
+master bedroom/main bathroom under my house tbh—I remember exactly where I
 was standing and where the sound was seemingly coming from and
 everything—the thought of a potential tunnel did cross my mind at the time.
 However back then my brother and his “people” were just in monitor mode so
@@ -5150,14 +5159,14 @@ case anything happens to me..
 They gassed me again tonight through I suspect some attachment they added
 to one of my printers that was somehow remotely activated to gas me on
 their command when I was trying to get my computer free from viruses nearby
-after getting home; I suspect they had other l similar setups near my
-furnace and in my garage area that they activated around the same time as
-well. My furnace didn’t even have power at the time so i was able to rule
-out it being from my hvac this time. Plus I heard a gas sound coming from
-my printer when I think it was running out of gas a little later, which
-isn’t a normal sound for my printer to make, which is why I suspect that
-was likely the source of at least one of my rooms being gassed tonight. It
-made me have egg burps the rest of the night. Then they infrasounded me
+after getting home; I suspect they had other similar setups near my furnace
+and in my garage area that they activated around the same time as well. My
+furnace didn’t even have power at the time so i was able to rule out it
+being from my hvac this time. Plus I heard a gas sound coming from my
+printer when I think it was running out of gas a little later, which isn’t
+a normal sound for my printer to make, which is why I suspect that was
+likely the source of at least one of my rooms being gassed tonight. It made
+me have egg burps the rest of the night. Then they infrasounded me
 afterwards like they do every night. (The lovely neighbor guy, Kyle French
 I believe is his name) No idea what their true intention was this time in
 gassing me, it could be to try to get me to leave town or just to leave my
@@ -5269,21 +5278,67 @@ his life. (Sadly) But his whole perspective is you’ve got to catch him and
 nail him for it first.
 
 Which makes it especially difficult when he and his “people” constantly
-tamper with evidence and witnesses, etc, etc, primarily through hacking and
-dark psychology—believe me—I’ve been put through the wringer by now and
-then some. I wouldn’t be surprised if he killed me right in front of all
-you guys at this stage tbh.
+tamper with evidence and witnesses, torture me, etc, etc, primarily through
+hacking and dark psychology—believe me—I’ve been put through the wringer by
+now and then some. I wouldn’t be surprised if he killed me right in front
+of all you guys at this stage tbh.
 
+As of January 16, 2022
 
--- 
+I stayed at a hotel last night due to fears of being gassed while I sleep.
+I suspect they got in my house again while I was away, I know cuz I triple
+checked all my locks before I left to ensure all the locks were locked and
+the latches on my two garage doors were in the locked position, etc, which
+they were—and when I returned home today the latch on my garage door that
+leads into my house was in the unlocked position and my vanity lights were
+on which I never turn on.
 
-Chase Gibbons  / Software Development
-435-999-4722
+They seem to like my garage among other areas for some reason. (The only
+entrance to my attic is in my garage as well tho) I have a feeling my
+brother may be trying to create a story or narrative and then legit trying
+to make that story or narrative come to fruition by staging things and
+whatnot before/after he does kill me, like in terms of my garage and/or
+whatever rumor they may have spread at the time; or anything else for that
+matter, these guys adapt to the latest info constantly. To be clear I was
+aware of the rumors he likely somehow spread about whatever he put in my
+garage a long time ago, within likely days of him spreading them, and his
+claims were meritless so don’t fall for anything like that please—plus I’m
+not stupid.
 
- 
-595 S Riverwoods Pkwy, Suite 250Logan, UT 84321
-rentdynamics.com 
+They emf’d me at the hotel as soon as I layed down last night btw, they
+showed up there probably 5-10 minutes after I did show up and started
+getting ready to emf me. (Calibrating their x-ray vision and whatnot) Then
+like always, as soon as I laid down to goto bed they started hitting me.
+They literally don’t let me out of their sights at all anymore.
 
-[image: Twitter]  [image: Facebook]
- [image: LinkedIn]
+They are essentially hunting me.
 
+I suspect they track my car through my satellite radio somehow btw. (Which
+seems weird but makes sense cuz the satellite radio likely works even when
+3g onstar might not) I don’t even pay for serious satellite radio btw but
+it was back enabled in my car again starting yesterday evening for the
+first time since the Lexus dealership reset my cars computer and changed
+out my car’s key signature for me. And I have been thinking of taking a
+road trip soon so quite the timing on their part. I started to suspect
+their ability to track me through my car was via my serious xm a few weeks
+back, and this only confirmed my suspicions.
+
+I did some research yesterday on all this infrasound stuff. I’ll share the
+results of my findings shortly.
+
+My best way I’ve found to try and stay alive though all this is to try not
+to let dusty set the stage to get away with my murder in any possible way
+essentially. (Which is extra tough when they get torture me constantly and
+interfere with my sleep nightly, making it harder to do anything or keep up
+with anything really) Like he seems to only actually try to kill me (rather
+than just torture me) when he can fit all the latest information that the
+police might see when they find me into some narrative that the police
+could potentially fall for and he’s only able to do all that when he has
+complete and total access to all my
+information/whereabouts/cameras/devices. (That’s probably why they always
+hack my cameras btw even tho they don’t even need to given their x-ray
+vision capabilities, is cuz that’s totally how my brother thinks about all
+this is from the police's perspective once I were dead—but the main
+difference is he is the attacker doing most of this stuff to me, he just
+doesn’t want to get caught is why he and all his hitmen likely approach it
+all that way)
