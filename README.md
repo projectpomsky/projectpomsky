@@ -4808,7 +4808,7 @@ are automatically guilty–and he’s the judge, jury, and executioner.
 
 —————
 
-January 8, 2022
+As of January 8, 2022
 
 I do now suspect someone got in again yesterday.
 
@@ -4861,7 +4861,7 @@ do the one thing to his family that’s even worse than death–that is–mind
 control. He wants to essentially make them act out and behave in ways that
 will essentially cause our whole family never ending suffering and
 grievance and will be the ultimate slap in the face to both my father and
-my mother and his to this whole town.
+my mother and to this whole town.
 
 
 
@@ -4882,7 +4882,7 @@ I therefore plan to move somewhere where I will be of no use to Russia or
 my brother.
 
 I suspect everything else is just a cover story or false flag operation
-pretty much.
+meant to cover up the truth more or less.
 
 Chase Gibbons  / Manager
 435-999-4722
