@@ -1807,7 +1807,6 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
-​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -3988,16 +3987,15 @@ https://drive.google.com/drive/folders/1PGc6ncUsAUuftYDLFpFFT16\_dhREfD8I
 
 As of December 31, 2021
 
-They totally deleted my comments on the video of turbo where I layed out
-how they admitted to killing my dog turbo in real-time as their confession
+They totally deleted my comments on the video of turbo where I laid out how
+they admitted to killing my dog turbo in real-time as their confession
 happened. Hopefully someone saw those comments before they were deleted.
 I’ll try and add the gist of them back here.
 
-I sent my co-workers a link to my comments and whatnot right after I sent
-them a link to my now deleted comments on that video of turbo in an email,
-the comments covered how the hacker(s) totally admitted to killing turbo
-twice, and how Dusty had started spreading rumors to my neighbors
-previously.
+I sent my co-workers a link to my comments on that video of Turbo I think
+like two days ago. The now deleted comments on that video of turbo in an
+email covered how the hacker(s) totally admitted to killing turbo twice,
+and how Dusty had started spreading rumors to my neighbors previously.
 
 https://drive.google.com/open?id=1QNkLe0ZG9ZEDpLLUiAVLTAKnOvrubhSZ&disco=AAAATmMc\_kU
 
@@ -4005,13 +4003,14 @@ https://drive.google.com/open?id=1QNkLe0ZG9ZEDpLLUiAVLTAKnOvrubhSZ&disco=AAAATmM
 The hackers first essentially admitted to it by messing with only what I
 was typing relating to turbo’s death and everyone seemingly piling on after
 Turbo died including the neighbors. They messed with only that part about
-Turbo when I was typing a draft version of the comment the night before.
-Once they did that I didn’t finish it but I made note of their #signal they
-had sent me the day before when drafting the original version essentially,
-and as soon as I did that while still typing in google drive just like I’m
-doing now for the most part–out of nowhere a sound clip of like a cemetery
-played on my computer–which I took as a second signal of the hackers
-admitting to poisoning turbo.
+Turbo when I was typing a draft version of that comment the night before.
+Once they did that I didn’t finish the comment that night but I made note
+of their #signal they had sent me the next day when drafting the newer
+version essentially, and as soon as I did that while still typing in google
+drive just like I’m doing now for the most part–out of nowhere a sound clip
+of like a cemetery played on my computer–which I took as a second signal of
+the hackers admitting to poisoning turbo. (Because that doesn’t just happen
+for no reason)
 
 
 Then I went on to say essentially I suspect Dusty tried to frame me to my
@@ -4021,9 +4020,8 @@ same time he was making up all these lies and spreading them about our
 whole family. Quick side note, but with that said I really do think that
 child abuser guy is legit acting on more than just a rumor, like he’s in on
 it himself directly and he likely know’s Dusty even if he acts like he
-doesn’t when questioned; regardless, i’m hoping this document will help
-quite any rumors my brother has made/continues to make about me going
-forward.
+doesn’t; regardless, i’m hoping this document will help quite any rumors my
+brother has made/continues to make about me going forward.
 
 Furthermore, do you want to know just how evil my brother really is? He’s
 been like really into all this dark psychology shit ever since 2019 pretty
@@ -4034,11 +4032,11 @@ So guess what they did tonight, on New Years Eve? They started playing
 sounds of Turbo from I suspect the time of their second successful
 poisoning–which subsequently led to turbo getting kidney failure and
 tanking quickly. I’m not going to let it get to me, they could just be
-making it up. But I do have the sound clip they played me earlier just from
-doing a voice recorder session when they were playing it to me on my
-computer earlier tonight–they also deliberately kept lighting off fireworks
-outside at the time to make it sound like turbo was getting shot or
-something. I ignored them for the most part but I did start
+making it up. But I do have the sound clip they played me earlier of turbo
+breathing just from doing a voice recorder session when they were playing
+it to me on my computer earlier tonight–they also deliberately kept
+lighting off fireworks outside at the time to make it sound like turbo was
+getting shot or something. I ignored them for the most part but I did start
 recording–because I don’t want them to be able to get to me especially when
 I’m doing such important work as going through everything and trying to
 reference all my old stuff to hopefully help bring them to justice.
@@ -4061,22 +4059,22 @@ it could be an in to their whole poisoning tactics—which would be nice from
 the police's perspective in my view seems they seem to do that a lot. And
 it would help avenge turbo at the end of the day too.
 
-Please excuse me if I ever decide to go deck my brother myself. I mean I’m
-holding back—trust me. But my brother is a pussy I could whip his ass and
-sometimes I really want to. But at the end of the day all this is on them
-and not me—no use becoming like them either. I’m not the one who had to sit
-there and poison a small dog like that. That can’t be an enjoyable memory
-regardless of who you are. Turbo was at medvet in the first place for a
-reason is how I see it—like he hadn’t been doing all that well as is.
-Anyways, it is what it is I guess. I am getting in touch with medvet and
-I’ll be getting you guys the name of both the main director there as well
-as the name of the suspected vet techs who did it. I guess I’ll post the
-audio the hackers shared with me here as well, just so you get a sense of
-how ruthless my brother and his people really are, but use it as a
-motivator to do good and not as a hindrance on turbos legacy. Some of
-Dusty’s darker tendencies seem to have to do with dark psychology btw—don’t
-let him get to you. He’ll hopefully be in jail sooner than later anyways if
-I can help it.
+Please excuse me if I ever decide to go deck my brother in the face myself.
+I mean I’m holding back—trust me. But my brother is a pussy I could whip
+his ass and sometimes I really want to. But at the end of the day all this
+is on them and not me—no use becoming like them either. I’m not the one who
+had to sit there and poison a small dog like that. That can’t be an
+enjoyable memory regardless of who you are. Turbo was at medvet in the
+first place for a reason is how I see it—like he hadn’t been doing all that
+well as is. Anyways, it is what it is I guess. I am getting in touch with
+medvet and I’ll be getting you guys the name of both the main director
+there as well as the name of the suspected vet techs who did it. I guess
+I’ll post the audio the hackers shared with me here as well, just so you
+get a sense of how ruthless my brother and his people really are, but use
+it as a motivator to do good and not as a hindrance on turbos legacy. Some
+of Dusty’s darker tendencies seem to have to do with dark psychology
+btw—don’t let him get to you. He’ll hopefully be in jail sooner than later
+anyways if I can help it.
 
 Tbh, I don’t know why they would have even poisoned my dog or why they are
 coming after me so hard to begin with, like as you’ll see in all these
@@ -4106,7 +4104,21 @@ covid shots in may so that also rules that one out in my mind. I’ll keep
 you posted on the microchip but all signs are pointing at there is one in
 my left ear. It even started heating my finger nail when I was trying to
 block out the signal without any proper ear plugs earlier today. I now even
-have a sense of exactly where it’s located even.. (Which is a plus)
+have a sense of exactly where it’s located even.. (Which is a plus) One
+last possibility I can even think of is if Dusty truly did get taken
+advantage by Tom Finn when Dusty was down after Dusty lost his job—assuming
+Tom Finn were some high up in the gang then it could I guess be plausible
+that when Dusty and Tom came up to my house the last time when they started
+acting hostile towards me then I recall Tom Finn disrespected me so I
+disrespected him back. But if that were the case why did they try framing
+me so quickly by putting something in my garage while they were there?
+That’s it. Those are all my ideas. Not even sure how plausible the last one
+is though.
+
+Those are all my ideas besides them coming after me to silence me as a
+witness I mean. Which is what this whole document/book essentially
+concludes. I think Dusty might now be trying to shield Cindy by coming
+forward with more of his gang stuff.
 
 With all that said, I suspect my brother’s gang legit will even have
 members of their gang whose sole objective is just to get hired on to a
@@ -4136,8 +4148,243 @@ https://drive.google.com/file/d/0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk
 
 https://airtable.com/shrnRoYK2f4Ftk4zy
 
+Added latest electricity bill. To be clear, it is way higher again however
+I’m not sure how much of it is attributable to the space heater I started
+using so I could shut my furnace off at nighttimes to be fair. I think I
+started using the space heater around the beginning of December.
+Regardless, I highly doubt my space heater takes up double my usual
+electricity however.
 
--- 
+https://drive.google.com/file/d/1MiC9dX4Ccc-\_EjmCb1f1XNMQyMnpS1Zz/view?usp=sharing
+
+
+
+Turbo Second Poisoning Admission By Hackers
+
+Added one of the two attempted audio recordings I captured of the hackers
+playing a sound clip of turbo suffering–I have narrowed it down to have had
+to have been originally captured while they were apparently poisoning him
+at medvet—they played these to me yesterday, on new years eve. I dunno if
+my audio clips captured the actual computer’s audio though, or if they just
+captured the microphone audio or what. I think it just captured the
+microphone audio. (In which case it will likely be harder to hear the
+actual clip they played to me of turbo suffering–because it had to come out
+the speakers and go back in the microphone in order for you to be able to
+hear it–and it wasn’t all that loud to begin with–just loud enough for me
+to notice essentially)
+
+https://drive.google.com/open?id=1-YHqmNZwGSKD9591aZbGKGp0JcEBz4Ly&authuser=chase%40gfic.io&usp=drive\_fs
+
+
+I have one more audio file I think–if I can figure out how to get it off my
+computer. It’s the first audio I captured when the fireworks were also
+seemingly going off in unison outside my home at the time.
+
+I really think their audio clip had to have been from the last time I ever
+took Turbo to medvet. (Which I think would have been either right before or
+right after I got Jacade Rausch busted for pulling a gun on me btw)
+
+I recall Turbo wasn’t doing all that hot anyways, like I had taken him down
+to medvet multiple times over the preceding two weeks I remember. But I
+also recall that last time I took him down there–I ended up having to rush
+and get him–he was doing considerably worse than when I dropped him off.
+And he died like hours later. And he would have likely died there alone had
+I not called them and asked about him myself, which is when they broke the
+bad news and is when I rushed down there to pick him up so he could die at
+home essentially.
+
+I didn’t like that doctor that night either–he sounded like a lady and he
+wasn’t very helpful. But yea, not sure who did it but I know that doctor
+said he had worked there for something like 19 years or something so I’m
+just assuming it had to have been one of the vet techs.
+
+The audio recording they played to me on my computer I think were of turbo
+breathing hard at first and then turbo’s breathing kinda sounding more like
+he was suffering towards the end. I think they only played them to me cuz
+it was of him suffering, but I don’t know if you can make that out in the
+clip I captured of them playing it to me. That’s also how I know it was at
+medvet where the poisoning must have happened. Cuz turbo was always with me
+unless he was at the vet essentially and plus that’s the only time his
+health tanked between dropping him off and picking him up anywhere. I’m
+still not sure exactly what they did to him tho tbh, I couldn’t make that
+out from their audio.
+
+But at the end of the day multiple vets had recommended I consider
+euthanizing turbo by that point anyways, not sure if they poisoned him even
+more than the 2 times I now know about or what, but at the end of the day
+turbo died in my arms afterwards but only cuz I was vigilant and proactive
+that evening. However I never would have known dusty’s gang were
+responsible without the hackers playing those clips to me of him suffering
+and the hackers admitting it to me repeatedly essentially. Like I said,
+that is their kryptonite. They like receiving credit/acknowledgement for
+their work.
+
+I’ll try to get the first audio clip I captured of turbo that the hackers
+were playing to me yesterday. I assume they played it to me to try and get
+to me and make any memories I have of turbo be bad ones essentially. If I
+am able to successfully figure out a way to export the other audio clip
+I’ll upload it here as well. That other initial clip was taken on my root
+user’s voice memo app, and I’ve been having a hard time figuring out how to
+export it or even re-play that one sadly. At least I switched users and got
+one of the audio clips that I can now share with you however..
+
+But I promise you it happened. They killed him after all. They are ruthless.
+
+As of January 2, 2022
+Light Sabors/Triangulating Infrasound/X-ray Vision
+
+Their latest emf sounds like a light sabor being flung around–like straight
+up. Like it’s got to be consuming some serious power because it’s powerful
+as shit even from across my whole house.
+
+I now have to turn off all my power at nighttimes, besides like my fridge
+and furnace. I also have to have ~12 to ~14 inches of water plus a faraday
+cage plus multiple inches of foam plus 1-2 inches of solid steel all
+blocking from the direction of my power meter to my head–or else blocking
+from the direction of any other breaker I leave turned on–but even
+still–their new weapon thing still is able to get through all that
+protection on occasion and go straight through my head and my whole house.
+It’s going from South to North. I bet you could feel it if you stood
+outside on the sidewalk or in my yard to the north outside my home in the
+mornings towards the north east corner bedroom of my house. (Assuming they
+don’t take what I say and evolve to try and make me look crazy again) And
+if you kneeled down. (Because that’s where my bed is at, they target my
+head whenever I’m laying down/sleeping) I guarantee there is residual
+energy going straight through my house despite all my protections in place.
+
+I think it’s about time for me to bounce, but if I bounce they’ll likely
+just send someone out to uninstall whatever it is on either my meter or my
+electrical panel and reinstall it wherever I end up, and likely no evidence
+will be obtained, thereby not solving anything.
+
+I think it might have something to do with my power breakers cuz when I
+originally had them all turned on the other day, after they broke in again,
+afterwards they were seemingly able to emit these power rays from each and
+every individual breaker in my house. (From a bunch of different
+angles/locations, from the locations each breaker covers essentially)
+That’s what I was getting at when I said it got less and less intense as I
+shut off my breakers one by one the other day–it was like turning off a
+different light sabor one by one until all that was left was one light
+sabor coming from the direction of my meter outside. I think they either
+installed new power breakers the other day when they were in my house or
+else they did something else to make it so they could emit gama rays from
+each separate circuit in my house, using my meter or main power line
+itself. They now appear to be trying to kill me using my own power, once
+again they have evolved to their latest intel and exploited vulnerabilities
+in my latest defenses. Prior to their latest new installation, my
+protection had me completely covered and from all angles. Now I will likely
+will never be able to have that much protection from all possible angles in
+my house. (I’ll never be able to leave my power on again if I want to get
+any sleep whatsoever, and even doing what I’m doing now I mean it still
+gets through on occasion and it’s not healthy, I suspect they might just
+turn the power down during the day times anyways so that I’m constantly
+being exposed to radiation while I’m here)
+
+I strongly suspect they do something similar with sound as well. They are
+able to use sound in a way where they can triangulate the sound to any
+location in my house, bounce it off of their other sound waves, and then
+cause a fourth sound wave to go in a completely different direction from
+that of the original intersected sound waves’ location. So like they can
+point three different sound waves to all intersect inside my faraday cage,
+and then they can make those three sound waves create a new fourth sound
+wave that is then pointed to go in a specific direction towards my head
+inside there, bypassing a bunch of my protections; however, the fourth
+sound wave essentially originates from inside my faraday cage itself. I
+suspect they do this by triangulating the sound. (Having sound bounce off
+sound in different ways) That’s also how I suspect they do their 3d real
+time land surveying or victim monitoring or x-ray vision capabilities, but
+for that they don’t need it to be as powerful. When I get time I want to
+look this all up on the dark web to see what all is being sold that fits
+this description. Which could help me narrow down exactly how it works and
+exactly where their devices are placed to enable this kind of thing.. (And
+how much it costs to see how rich my brother really is)
+
+I’m wondering if they are able to do something similar only with
+electricity as well tbh. Like cause my electricity to triangulate and
+escape into different directions to form the emfs/light sabors directed at
+my head. It’s all part of the same electromagnetic spectrum after all. And
+I know they’ve messed with my electricity on numerous different occasions.
+
+I bet these tools they are using could even go right through like the
+presidential limousine in some places is all i’m saying. Like there’s no
+stopping these directed energy weapons without like a legit solid
+steel/underground bunker.
+
+I recommend anyone at risk like me to put a lock on your electrical
+meters/put non hackable cameras facing your electrical meters nowadays.
+These guys can seemingly also tie in through your a/c power outside, I know
+my a/c power line has shown signs of being tampered with previously. And I
+recommend people get hardened locks on your doors so they can’t just
+break-in and bypass everything. (bump proof/pick proof locks–medeco is
+supposedly the best given their key control patents and their complex key
+designs)
+
+Just think how useful this technology would be for the police! (Just sayin)
+It could be used to save lives instead of to end them. Like the police
+could even use it while executing a search warrant or something–to locate
+and monitor everyone inside. (My brother’s technology seems to be able to
+be outfitted from either tapping into my own electricity directly or else
+from triangulating three cars outside the premises–meaning you wouldn’t
+even need to tap into their electricity to make use of it) You could then
+use it to go after extremely dangerous people like my brother and his gang.
+;) That would be the ultimate turning of the tables or whatever. 😂😁 That
+would be a wonderful way for this story to end, at least in my opinion. 😉
+
+[image: Diagram Description automatically generated with medium confidence]
+
+Regardless, I can’t wait to get this microchip removed tbh. That will be my
+best Christmas present ever. However even then they can still triangulate
+the sound to create x-ray vision–however the difference is then I will
+actually have a chance at running to a place where they can’t easily track
+where I’ve gone in the first place. It’s almost like I’ve got to go
+completely off the grid for a while somewhere..
+
+
+A Little Later On...
+
+I guess a 999 EF reading wasn’t the max on my EMF reader after all… The
+following EF reading was taken just this afternoon. I’m not joking about
+the EMF stuff–it’s very real–they do it daily. It can’t be healthy for me.
+And their EMFs/EFs are only getting stronger.. (Like a lot freaking
+stronger–the following isn’t even the lightsaber ones I have been referring
+to that they hit me with at nights.. Those ones are literally like
+lightsaber beams. These were nothing compared to the lightsaber ones)
+
+https://drive.google.com/file/d/1cQIAeAGWbugxpXI24qDpyRsSew8h0Fdm/view?usp=sharing
+
+
+Here check this out–this shows just how capable at hacking cameras these
+guys are. I hadn’t even touched this offline camera NVR system since I
+reset it when I put all my cameras in the eves–I hadn’t even touched it
+until just like yesterday when I finally plugged it into internet–and even
+then I didn’t actually login and look at any of the videos or look at any
+of the logs or anything until today. Just know it wasn’t even connected to
+the internet for the majority of the time since I reset it.
+
+I noticed something was fishy with my cameras misbehaving again which gave
+me an inkling that they had hacked them again, which is why I looked into
+them today.
+
+And sure enough, look how they clearly got access to my NVR again
+somehow–even before I ever plugged it into internet again–either by
+breaking into my house yet again or else by hacking it’s wifi or else the
+individual cameras somehow yet again, and look how they do things that
+aren’t even possible through the NVR’s UI tmk. Like changing the primary
+hard-drive for instance, logging into individual cameras, changing the
+config “discreetly”, etc, etc. Like I don’t even know how to do any of that
+stuff–and like I said I hadn’t even touched it since the beginning of
+December when the first logs were created. But yea, I’ve never even seen
+any of those options on it before when I did actually mess with it prior to
+me having to reset it and try again this time. It’s insane.
+
+https://drive.google.com/drive/folders/1KnN\_2TG2WSjgaAHFF6piinKiRj\_HOa2A?usp=sharing
+
+
+I get the sense they want me to leave. But the question is why do they want
+me to leave? Because I have too much support around here or what?
+Regardless, I need to get the microchip out first. That’s my number one
+priority as of right now. Then I’ll probably leave.
+
 
 Chase Gibbons  / Manager
 435-999-4722
