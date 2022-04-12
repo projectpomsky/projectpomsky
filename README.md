@@ -4892,15 +4892,7 @@ previously thought.
 I suspect everything else is just a smoke screen or cover story or false
 flag operation meant to cover up the truth pretty much.
 
-Now that right there would explain literally everything. It even explains
-the times when they recently tried to kill me like the eagles incident
-because I think what happened there was they actually reached a point where
-their AI wasn’t lining up given any variances in my prescriptions from day
-to day, so I think at one point they decided I was a lost cause and
-proceeded to try and kill me instead of pursue mind control, only to later
-discover they could add another variable to their AI based on my daily
-prescription usage on any given day; however, they have still been
-seemingly struggling with it ever since–thank god.
+Now that right there would explain literally everything.
 
 I therefore plan to move somewhere where I will be of no use to either
 Russia or my brother. I plan to move to somewhere like Portugal or
@@ -4935,7 +4927,17 @@ answer as to where I should move to. (Don’t worry, I plan to move to a
 place where I am still accessible to the US if you guys need me for
 anything)
 
-Shutting off all my devices for now..
+Disregard all this at your own peril. Shutting off all my devices for now..
+
+I’ll leave you with an example of Dusty’s true colors, some messages Dusty
+sent previously to my other brother Mikey, who is/was a
+cop/firefighter/paramedic/life flight paramedic his whole life… 👇👇👇
+(It’s not me you guys, I’m just trying to help)
+
+✌️
+
+Dusty’s True Colors
+
 
 Chase Gibbons  / Manager
 435-999-4722
