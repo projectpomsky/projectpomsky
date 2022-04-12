@@ -11817,7 +11817,8 @@ simply store everything until a later date when we actually have a better
 idea of what to test for exactly.. (Like I was doing)
 
 
-Be on lookout for Russian satellite targeting US
+As of March 30, 2022Be on the lookout for possible Russian satellite
+targeting US
 
 Be on lookout for a Russian satellite targeting the following address in
 the US with an emf:
@@ -11850,7 +11851,7 @@ war but we should definitely do something is all I’m saying.
 
 Last I checked we aren’t experimenting on Russian citizens and murdering
 Russian people with our satellites—so they shouldn’t be allowed to do so
-with our citizens either.
+with theirs either.
 
 Also, arrest my brother already please. It really is the least you could
 do. You won’t even piss off Russia by doing so cuz he’s an American
@@ -11858,3 +11859,66 @@ citizen. He’s caused enough grief in this world as is already. Keep in mind
 tho they have advanced insight into what the police are doing—but I’d
 suggest you arrest him before he bounces to Russia—that’s what I’d do if I
 were you.
+
+Actually sorry this may not be a satellite it may just be them stroking the
+atmosphere to create infrasound that goes my direction. My bad. Can you
+imagine having nothing better to do than to see how much you can annoy your
+brother each and every day? Like what a life right? What a life that must
+be. No wonder no girls like my brother.
+
+The damn microchips are the key to it all. Without those they couldn’t
+precisely locate me to do all this shit to me. They have to have precise
+location of your head in particular to be able to do all this to you. Be
+careful in getting your vaccinations folks—like seriously—be careful. I’m
+not advocating not getting them, I'm just saying be careful when you do. If
+the needle is bigger than you remember—run the hell out of there. And if
+you think you might be hacked or if you think whomever sets up your
+appointment for you might be hacked—then set up another appointment and in
+person next time or just go in and get your shot randomly in person and at
+a random location—not smith's marketplace in Logan—it’s simply not worth
+the risk of having some corrupt Russian proxy nurse inject you with these
+damn things—I assure you. There’s no real good way of getting them out once
+they are in you either. Speaking of that, I’ve been meaning to get you the
+nurse's name who did this to me. I’ll get you those records soon...
+
+I aim to bring every single one of these guys down—my brother especially.
+This whole Ukraine ordeal has only helped in making that actually
+plausible. Thank you Ukraine for your help, I’m sorry Russia dragged you
+into this too.. I feel for you. Together we will make it through.
+
+I think I need a shield you guys. An ef/rf/emf shield. Kinda like my
+infrasound jammer but an electromagnetic field jammer—an all in one device.
+I’ll even have to patent it one of these days lol. I’ve been learning more
+and more each and every day. Like for instance, I think their mobile car
+crew and neighborly emfs are actually hooked up to some kind of an antenna.
+So they just pump a bunch of oscillating amplified electricity into a
+directional antenna is how the emf/ef/rf ones work I think. (The non
+satellite versions) Then I read something about them stroking the
+atmosphere just right to create the infrasound, but they’ve also shown me
+they use these advanced algorithms and can create crazy sound effects from
+literally any speaker system as well. Is it sine wave Algorithms?
+Algorithms that build on each other to where the sound waves literally like
+build up and start resonating and bouncing off of literally everything in
+my whole room—including other sound waves—it’s nuts. They’ve even done it
+from my own speakers previously when they hacked my phone when I was
+playing my own infrasound to try and counter them—they ended up using my
+own speakers against me. But yea, either I need some type of specialized
+shield emitting device or I need to just figure out a way to disable these
+damn microchips…
+
+I wish I had some device where I could actually visualize all these
+different waves they are producing and precisely where they all originate
+from. Something like that probably costs hundreds of thousands of dollars.
+
+P.s. I’m working on moving all this content to git including the version
+history up to this point. Have you seen that spycraft show on Netflix? I
+just started watching it. That’s exactly the type of shit they are doing to
+me—like to the T. Like these microchips even I think only become activated
+when they receive a certain outside signal. That’s the smartest way to do
+it. And just everything about that show is what they are doing to me—it’s
+nuts. You would think I’m a government embassy or some shit. Sometimes they
+make me feel like I am Superman or something. Cuz who else besides Superman
+would warrant this much time and effort and sophistication? That’s all I’m
+saying. I even bought a Superman necklace/dog tag since as a result. ;) (it
+doubles as a way to throw off some of their targeting of my head with
+electricity whereas it’s made of metal)
