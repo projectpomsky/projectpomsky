@@ -2216,11 +2216,86 @@ let me.
 I wish I had any other male human being on this planet as a brother tbh.
 
 Doing the right thing is never easy, but I’m hoping in the end it will be
-worth it, and I'm hoping someone is looking after me.
+worth it, and I'm hoping someone is looking over me.
 
 (I’m going to be moving this readme to git to try and avoid tampering btw,
 so watch out for that. Git has version histories built into it that all can
 see)
+
+My Analysis of Timeline
+
+As for our father’s death, the whole reason our dad told us we had to move
+out at the time was because of Cindy threatening to leave him or something.
+The whole thing just seems like a plot between my brother and Cindy. Like
+it’s just too convenient in a way. It’s almost as if it was all set up to
+be that way. Like it gave Dusty an excuse to bounce as soon as he did as
+well. I still don’t know why Cindy told our dad she wanted us to move out
+to begin with in order to stay with our father either. Dusty and Cindy were
+always close–even after she was going to divorce our father, from what I
+recall. Like for me, that’s messed up that Cindy was going to divorce our
+father when he was down like that and I have my father’s back in regards to
+all that–plus, I rarely even talked to Cindy at the time. I wasn’t
+impressed with Cindy’s biker bar and her having biker dudes over shortly
+after his death, etc. Not to mention like everything that happened the day
+of my father’s death. How could Cindy have beat Annie and I to the hospital
+when she was supposedly in Ogden at the time unless Dusty called her prior
+to calling the paramedics? I know some of Dusty’s friends said he called
+them right after he discovered our father or something too. I don’t know, I
+guess Cindy could have been already on her way home or something but it’s
+almost as if some time passed or something that isn’t accounted for,
+assuming you take both Dusty’s and Cindy’s alibis at face value. Cindy said
+she was in Ogden at her biker bar. Dusty said he went to the gas station
+nearby, which was literally like 2 minutes away. So like a ten minute round
+trip or so. And when he came back he found our dad that way. I’m assuming
+when he left for the gas station our dad wasn’t there.
+
+It’s almost as if Dusty called Cindy or something when he first found our
+father is all I’m saying–with the specific purpose of having her cover for
+him on the autopsy. Then he waited to call the paramedics until Cindy was
+in range. And he didn’t goto the hospital cuz he already knew our dad was
+dead essentially, either that or I guess he could have been busy being
+questioned by the police, idk if the police even really questioned him
+though tbh. But yea, then it’s almost as if Dusty played the victim to
+avoid being asked too much about his discovery of our father from anybody.
+And it worked cuz at the time, nobody really even questioned Dusty. Cindy,
+Dusty, and possibly Shawn would likely have known that had it been Cindy
+who had found our father, more questions would have been raised. I recall
+Cindy used to always watch Law and Order too, idk. I just don’t get Dusty’s
+infatuation with Cindy. I will say, when those guys would stay up and drink
+together, my father would either not be around or else he’d go to sleep
+early. So I could totally see Shawn and Cindy talking with Dusty about
+something like all this late one night and Dusty even taking Cindy’s side
+over our father’s. Cindy had been charged with like fraud or something a
+few years prior as an insurance broker, losing her license. While I like
+Cindy, I have always looked at her and Shawn as being a little shady, and
+I’ve always looked at Cindy as somewhat of a gold digger. And all this just
+made me question how convenient an occurrence it really was for her to have
+my father die right when he did given their ongoing divorce discussions at
+the time. (I do believe my father had a prenup in place with Cindy) I
+wouldn’t be surprised if Dusty and Cindy did something together late one
+night either–but I have no knowledge of anything of the sort. I don’t know
+what Dusty was referring to about our dad was almost going to change his
+trust before he died, when he said that repeatedly at the time, or how my
+brother even would have known that given our dad only ever really talked to
+me about his trust once, (he said i’d likely be getting a house) I think
+our dad intentionally didn’t talk to us too much about his trust for a
+reason. But I would assume if my dad had been planning to change anything
+on his trust at the time–then it would have likely been to remove Cindy.
+I’m really hoping Dusty didn’t treat our father like he did Karie right
+before Karie died, or like he’s now treating me.
+
+As for Karie’s death,
+
+As for my brother’s subsequent targeting of me, it all lines up–I simply
+know too much for my brother’s comfort. I am now a liability to him/them.
+When my brother blamed my mother for him being this way, he was blaming my
+mother for the fact that Dusty only really cares about himself. Dusty has
+essentially admitted a lot of this in subtle ways, ways in which only his
+victims would know the true meaning given only his victims have the
+required context. For instance, I recall shortly after first accusing Dusty
+of all this, he replied at one point “you’re smart” only to delete it
+after. Dusty enjoys having his victims and only his victims know he is
+ultimately responsible, it must make him feel powerful or something. tbc
 
 Chase Gibbons  / Manager
 435-999-4722
