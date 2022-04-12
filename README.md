@@ -3416,23 +3416,23 @@ is what one might expect to experience if a hostile foreign government were
 realistically trying to hack a person’s mind through one or more microchips
 using AI to encode/decode the mind in stages, and to map it all out.
 
-First I suspect they brute forced my brain and EMF’d my brain, as a form of
-sedation, in order to try to make sense of all the different electrical
-signals within my brain/nervous system on a high level, that initial brute
-forcing lasted a period of 2-3 months. Partly because I suspect there were
-some variances in their AI due to my prescriptions. Next they started
-tapping into my eyes somehow, making my eyes either go completely black
-when they were wide open, or else making them begin to just show signs of
-something going on between the feed of my eyes to my brain at nighttimes
-while they were EMFing me, it’s hard to explain, but whenever they could
-still get through–that lasted a period of 2 nights thus far at least. Since
-then they seem to have been targeting me while I’ve been awake now, in
-particular, they keep targeting me when I’m standing up peeing now, as if
-to try and get a signature on whatever happens in your brain when you stand
-up and pee. (You can feel it when they are targeting you, they use
-infrasound and EMF, both of which you can actually feel and they always
-target my head) They seem to be like trying to stop me from peeing to be
-even more precise.
+First I suspect they brute forced my brain by emf/ef/rf-ing me, in part to
+try and make sense of all the different electrical signals within my
+brain/nervous system on a high level, that initial brute forcing lasted a
+period of 2-3 months. I suspect it took that long because I suspect there
+were some variances in their AI due to any variances with my prescriptions
+from day to day. Next they started tapping into my eyes somehow, making my
+eyes either go completely black when they were wide open, or else making
+them begin to just show signs of something going on between the feed of my
+eyes to my brain at nighttimes while they were EMFing me and still getting
+through, it’s hard to explain, that lasted for a period of 2 nights thus
+far at least. Since then they seem to have been targeting me while I’ve
+been awake now, in particular, they keep targeting me when I’m standing up
+peeing now, as if to try and get a signature on whatever happens in your
+brain when you stand up and pee. (You can feel it when they are targeting
+you, they use infrasound and EMF, both of which you can actually feel and
+they always target my head) They seem to be like trying to stop me from
+peeing to be even more precise.
 
 I can try and delay their overall process of hacking my mind by turning off
 literally all my breakers anytime I have to pee which makes it so I can pee
@@ -3444,18 +3444,17 @@ around to find out.
 
 My gut tells me there is definitely a microchip involved here–at least one.
 I get the sense that the microchip is likely powered by my nervous system
-and not reliant on a battery or an electrical field and I strongly suspect
-now that there is indeed a microchip somewhere in my left ear. But I’m
-still narrowing everything down. I’ve also tied some of the noise the
-suspected microchip makes to whenever I begin to move around or exert
-myself physically then it will make some noise, I figured that out just
-yesterday. But it also seems to be able to make noise when I was just
-driving down the freeway in my loaner car previously, which is when I
-initially started to suspect a microchip because it started beeping so
-freaking much at the time, meaning it could also have remote activation or
-tracking capabilities. One thing I might do is try to tap into it myself
-using RF/HF signals, via something like the following, or at least listen
-to the signals being sent in/out myself:
+and not reliant on a battery or electrical field. But I’m still narrowing
+everything down. I’ve also tied some of the noise the suspected microchip
+makes to whenever I begin to move around or exert myself physically then it
+will make some noise, I figured that out just yesterday. But it also seems
+to be able to make noise when I was just driving down the freeway in my
+loaner car previously, which is when I initially started to suspect a
+microchip because it started beeping so freaking much at the time, meaning
+it could also have remote activation or tracking capabilities. One thing I
+might do is try to tap into it myself using RF/HF signals, via something
+like the following, or at least listen to the signals being sent in/out
+myself:
 
 https://www.amazon.com/gp/product/B01H3T2U7G/ref=crt\_ewc\_title\_dp\_1?ie=UTF8&psc=1∣=A2JO7YP9I9Y3D6
 
@@ -3474,6 +3473,7 @@ when my passport is going to show up in the mail, what I’m going to do with
 my house and all my current responsibilities, where I plan to initially run
 to, where I’m going to reside when I get there, and then what I’m going to
 do once I’m there.
+-- 
 
 Chase Gibbons  / Manager
 435-999-4722
