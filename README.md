@@ -1239,9 +1239,10 @@ https://drive.google.com/file/d/1eElmCgTJMhIZGUrNWuxHT6BjtmO0vbHd/view?usp=shari
 ) took me fishing in Alaska. My father told me Dusty would not be joining
 us that time because he was in trouble essentially.
 
-My father develops an “infection” by bumping into a bedframe at night
-supposedly in Alaska. It was in one of his feet, he ultimately has to get
-one of his big toes cut off.
+My father develops an “infection” by supposedly bumping into a bedframe at
+night supposedly in Alaska. (According to my father) It was in one of his
+feet, he ultimately had to get one of his big toes cut off.
+
 
 
 2010
@@ -1261,7 +1262,10 @@ the middle of the hallway. My brother apparently called some of his friends
 right after. I don’t know if my brother was on the best terms with my
 father at the time. I know my brother held resentment towards my father for
 “making” him follow in his footsteps as a civil engineer. My brother was
-set to graduate with his bachelor’s in civil engineering a week later.
+set to graduate with his bachelor’s in civil engineering a week later. My
+father had called me I think it was the day before, we were supposed to go
+in and get a new loan on my car or something from cache valley bank later
+on that day or the next day.
 
 
 While in my bedroom downstairs with my girlfriend at the time, Annie, my
@@ -1300,17 +1304,19 @@ other all that much.
 
 ~2011
 
-My brother and Cindy quickly become displeased with Karie (
+My brother and Cindy quickly become displeased with Karie--and remain
+bitter throughout; (
 https://drive.google.com/file/d/1v2Jetq8r9TDkU8EUR89IxZu69Qlj9NFW/view?usp=sharing
-) and the job she was doing as trustee--to say the least. (Cindy was
-frustrated about Karie in relation to my little sister Taylor’s trust,
-Dusty was frustrated about Karie in relation to his trust) To be clear, I
-had my frustrations with Karie, mostly just in their lack of transparency
-and their being a little shady trying to get us to sign something saying
-none of us could be trustee if she couldn’t serve previously, I had
-questioned their selling of all our dad’s assets previously, including
-their giving away our dad’s companies for next to nothing, but beyond that
-I actually always had a pretty decent relationship with Karie)
+) they didn’t like the job she was doing as trustee--to say the least.
+(Cindy was frustrated about Karie in relation to my little sister Taylor’s
+trust, Dusty was frustrated about Karie in relation to his trust) To be
+clear, I had my frustrations with Karie, mostly just in their lack of
+transparency and their being a little shady trying to get us to sign
+something saying none of us could be trustee if she couldn’t serve
+previously, I had questioned their selling of all our dad’s assets
+previously, including their giving away our dad’s companies for next to
+nothing, but beyond that I actually always had a pretty decent relationship
+with Karie)
 
 I go back to college determined to take it more seriously this time. Karie
 does a good job at holding me accountable and ensuring I do well.
@@ -1455,8 +1461,8 @@ My brother Dusty begins distancing himself from everyone besides Cindy,
 from what I gather.
 
 My brother begins disparaging my mom and our whole family, calling my mom a
-narcissist, making up all these lies about our family. (Our mom’s side of
-the family now)
+narcissist, making up all these lies about our family and even posting some
+of it on his facebook publicly. (Our mom’s side of the family now)
 
 When taking my dog for a walk one day I walk up on one of my neighbors to
 the East essentially abusing his kid, his wife opens the door when the kid
@@ -1501,43 +1507,52 @@ First perfect circle of black feathers left in my yard right around this
 same time--I didn’t know what it was at the time.
 
 My dog and I get poisoned for the first time on our walk--a group of
-mexicans came up and deliberately put what appeared to be this strange
-poison substance on my dog while pretending to pet him--my phone got hot at
-the time. My brother had told me he thinks my dog should die the day prior.
-My brother texted into the group conversation between my siblings and I
-right after the mexicans put that shit on turbo, (
+Mexicans came up and deliberately put what appeared to be this strange
+grayish paste poison substance on my dog’s forearm--while pretending to pet
+him/pick him up--my phone got hot at the time. My brother had told me he
+thinks my dog should die the day prior. My brother texted into the group
+conversation between my siblings and I right after the mexicans put that
+shit on turbo, (
 https://drive.google.com/file/d/1TwEBUWSWpaOQLLgTQGL-Wq\_tqkWIKc4W/view?usp=sharing
 ) disparaging our mother further--even though he said he was blocking us
 all the day prior. I knew it had to have been poison cuz it made both me
 and my dog feel funny, (I wiped it off him cuz he wouldn’t walk any further
 until I got it off) and even then my dog didn’t want to walk more than
 100ft more that day, which was uncharacteristic for him at the time. It
-made me feel like messed up at first, then it made my whole ache for days
-afterwards. I couldn’t get it off--it kept seeping out of my pours for
+made me feel like messed up at first, then it made my whole body ache for
+days afterwards. I couldn’t get it off--it kept seeping out of my pours for
 days--despite repeated washing. I finally figured out that rubbing
-alcohol/apple cider vinegar helped in washing it off.
+alcohol/apple cider vinegar helped in washing it off but even still it
+required repeated washing over time as it seeped out of my skin.
 
 2nd perfect circle of black feathers left in my yard the same night we were
 poisoned--which again was the day after my brother straight up told me he
-thinks my dog should die all rudely over sms. They did it on the night of
-the fireworks going off in 2019.
+thinks my dog should die all rudely over sms for no reason whatsoever. They
+did it on the night of the fireworks going off in 2019.
 
 I confront my brother saying he’d be crazy to try and kill me right then
 essentially--because if he had still lived in logan he’d know people are
 suspicious of all the deaths in our family as is and how there was a
 pattern of them being 5 years apart. (Notice the timing of the attack, it
-was mid way through 2019)
+was mid way through 2019) This is when I first started looking back on
+everything and is when I first started truly suspecting my brother of
+potentially killing some of our family--I straight up asked him after all
+and he completely failed that test and all tests I have thrown his way
+since then.
 
 To be continued…
 
 2020
 
 Poisoned again this time from a key I left out for a tenant who was
-interested in renting one of my little sister’s commercial units--when they
-left the key in the drop spot to give back to me. Similar substance as the
-first time except this time it was clear but it gave me a similar initial
-feeling and it made all my lymph nodes swell up for days afterwards. Sound
-familiar? Lymph nodes are what are affected in non hodgkin's lymphoma.
+interested in renting one of my little sister’s commercial units (located
+within the commercial building of our father’s I had bought when Dusty
+first started distancing himself from me)--when the prospective tenants
+left the key in the drop spot to give the keys back to me. Similar
+substance as the first time except this time it was clear but it gave me a
+similar initial feeling and it made all my lymph nodes swell up for days
+afterwards. Sound familiar? Lymph nodes are what are affected in non
+hodgkin's lymphoma.
 
 Again I can tie it back to Dusty.
 
@@ -1557,7 +1572,7 @@ because he pulled a freaking gun on me. (I was just trying to spook him
 away initially--I had nothing on him prior to him pulling his gun on me)
 The police track him down and pull him over and arrest him. Jacade Rausch
 is his name. I guess he had drugs on him at the time. He’s now facing up to
-40 years in prison.
+~40 years in prison.
 
 My dog Turbo dies literally like 27 hours later. (
 https://drive.google.com/drive/folders/1z5nyeLN4a5-Nyb2fLSiRFfEsj8\_di8hx?usp=sharing
@@ -1567,7 +1582,7 @@ I begin to do a ring neighbors social media post to notify the neighbors of
 what had happened with the suspected stalking/guy pulling a gun on me.
 (Initially I thought he may have just been lost doing a drug delivery or
 something until I found out that guy actually lived around here even though
-he had licensee plates from another state) (
+he had license plates from another state) (
 https://neighbors.ring.com/event/Vxp7yxNSxV )
 
 Child abuser’s (
@@ -1583,16 +1598,16 @@ intimidate me--not before. (Meaning nobody even knew about the guy pulling
 a gun on me yet) (https://neighbors.ring.com/event/Vxp7yxNSxV )
 
 Child abuser’s kid starts coming to my house again and again--every
-week--on key dates. Saying a different thing each time. The first few times
-he asked to “play”. Then he started saying something having to do with
-“kill” or “death” or something like “kill him” or something like that. He
-would show up at my house on key dates too like on my birthday and labor
+week--and on key dates. Saying a different thing each time. The first few
+times he asked to “play”. Then he started saying something having to do
+with “kill” or “death” or something like “kill him” or something like that.
+He would show up at my house on key dates too like on my birthday and labor
 day for instance. Like it clearly wasn’t random. (
 https://drive.google.com/drive/folders/1u5IDbtDskD\_X8bowDJAY9ukE-xuI5MlS?usp=sharing
 )
 
 Emf started--they made it extra intense on my dog’s would be sixteenth
-birthday. (
+birthday. (Night of September 15, 2021) (
 https://drive.google.com/file/d/1r2-oTX8gWahAlVI3CuLgKKTg0p1nw4uT/view?usp=sharing
 )
 
@@ -1600,30 +1615,34 @@ I reported it to the police for the first time the next day.
 
 Skipping a bunch here for now...
 
-All that culminated with the time my superiors at work invited me while at
+All that culminated with the time my superior at work invited me while at
 work to goto the Eagles bar with him that night at 7pm. I said I would go.
 This was when we were working on my computer being hacked at work and I had
 been issued a brand new computer--and I was being careful as hell with even
-potentially re-exposing the new computer to any viruses through any oof my
+potentially re-exposing the new computer to any viruses through any of my
 other potentially infected devices. Like I would go clear over to the other
 side of the room just to turn bluetooth/wifi on on my phone just to avoid
-infecting the new computer I had been issued. I later found out that
-despite my best efforts, the new computer showed similar signs of being
-infected. Anyways, I went home that night after being invited to the Eagles
-and I recall I was on one of my computers doing something when the same kid
-knocked/rang the doorbell for the seventh time. My network was down at the
-time so this time, once I saw who it was, I started recording on my cell
-phone instead prior to answering. Sure enough it was the same kid again,
-only this time I saw who was directing him myself in walking out with my
-cell phone camera rolling. It was the child abuser guy. As soon as he saw
-me he tucked back into his garage so he couldn’t be recorded. The kid
-initially said something like “why you always working”, but then after his
-dad tucked behind his garage door, the kid looked back for direction and
-didn’t know what to do once he saw his dad was now gone. I would be willing
-to bet the dad had been standing right there every single time--because it
-had become clear the kid was being directed. Anyways, the significance of
-what the kid said the last time was the kid was essentially coercing me to
-goto the bar where I would later be poisoned.
+infecting the new computer I had been issued, to get a password off my
+1password or whatever. I later found out that despite my best efforts, the
+new computer showed similar signs of being infected. Anyways, I went home
+that night after being invited to the Eagles and I recall I was on one of
+my computers doing something when the same kid knocked/rang the doorbell
+for the seventh time. My network was down at the time so this time, once I
+saw who it was, I started recording on my cell phone instead prior to
+answering. Sure enough it was the same kid again, only this time I saw who
+was directing him myself in walking out with my cell phone camera rolling.
+(All previous times I had recorded it with my ring video doorbell which
+stayed put in one location) It was the child abuser neighbor guy who was
+directing the kid. As soon as he saw me he tucked back into his garage so
+he couldn’t be recorded. The kid initially said something like “why you
+always working”, but then after his dad tucked behind his garage door, the
+kid looked back for direction and didn’t know what to do once he saw his
+dad was now gone. I would be willing to bet the dad had been standing right
+there every single time--because it had become clear the kid was being
+directed. (Which is partly why I call him a child abuser, that and because
+he clearly had hurt his kids previously physically) Anyways, the
+significance of what the kid said the last time was the kid was essentially
+coercing me to goto the bar where I would later be poisoned.
 
 Describe eagles bar poisoning incident in full here..
 
