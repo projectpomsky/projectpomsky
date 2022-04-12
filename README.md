@@ -5872,20 +5872,20 @@ and clarify to him that I had no real intention of stopping by his house
 anytime soon, and i informed him how I was mainly just interested in
 knowing his reaction to my question the other day is all—especially whereas
 he set a red line refusing to discuss the huge elephant in the room with me
-upfront in regards to all his harassment assuming I did ever actually stop
-by anyways; but yea, I informed him I actually plan to move far far away
-from him, etc.
+upfront in regards to all his hacking and harassment anyways; but yea, I
+informed him I actually plan to move far far away from him, etc.
 
 That went about how I would expect. Dusty is shady as hell and he’s rude as
 hell these days and he clearly wasn’t being genuine at all. He clearly
 doesn’t care about me whatsoever. He’s clearly trying to create his own
 narrative without even hearing me out or trying to help whatsoever. (Which
 could mean he was setting me up to call another shot against me again
-soon—that’s probably the last time I’ll talk to Dusty “formally” for a
+soon—that’s probably the last time I’ll talk to the “formal” Dusty for a
 while—the “anonymous” version of Dusty on the other hand is almost
-impossible for me to escape these days given how deeply he’s hacked me) And
-he made one or two slight references to what I wrote in my notes earlier
-today in his responses back to me which I found odd.
+impossible for me to escape these days given how deeply he’s hacked me) The
+“formal” Dusty even made one or two slight references to what I wrote in my
+notes earlier today in his responses back to me over sms earlier which I
+found odd.
 
 One thing I wanted to add that I haven’t had a chance to add here yet is
 that these hackers actually played that sound clip of turbo suffering to me
@@ -5983,10 +5983,11 @@ hacking—even the hackers can be hacked lol—and pretty easily too I would
 imagine—just pretend to be me lol. (When I’m close by myself so as to not
 cause suspicions whereas they can also see my location in my house) These
 hackers look into seemingly almost everything I do. I’ve thought of trying
-it myself sometime if be sneaky enough to be able to successfully learn how
-to and quickly do so. I’ve tried canary tokens previously but even then
-they control my freaking emails so that’s no good to me either. It would
-almost have to be someone else who hacks them through me essentially.
+it myself sometime if I could be sneaky enough to be able to successfully
+learn how to hack and quickly do so, but I doubt it. I’ve tried canary
+tokens previously but even then they control my freaking emails so that’s
+no good to me either really. It would almost have to be someone else who
+hacks them through me essentially.
 
 No wonder my brother is into this kind of stuff. The father of LSD also
 happened to be the ‘poisoner in chief’ and the “mind control expert” in the
@@ -6004,104 +6005,85 @@ Ultrasonic aging.
 https://www.science20.com/scott\_beers/the\_acceleration\_of\_spirits\_aging\_using\_ultrasound-242874
 
 
-I wonder if ultrasound in high exposures has the same effect on the human
-body as it does on alcohol. Dusty uses ultrasound on me, he uses infrasound
-on me. He uses different variations of electromagnetic frequencies and
-radiation on me. He uses all kinds of different poisons on me. And
-everything in between. I have to buy single use deodorant, single use body
-wash, single use toothpaste, single use everything these days–and even
-still he’s still apparently making me age prematurely using physics, etc.
-It’s just getting ridiculous tbh.
+I wonder if directed ultrasound in high doses has the same effect on the
+human body as it does on alcohol. Dusty uses ultrasound on me, he uses
+infrasound on me. He uses different variations of electromagnetic
+frequencies and radiation on me. He uses all kinds of different poisons on
+me. And everything in between. And he now does it to me daily. I have to
+buy single use deodorant, single use body wash, single use toothpaste,
+single use everything these days–and even still he’s still apparently
+making me age prematurely using physics, etc. It’s just ridiculous tbh.
 
 You would think I was his damn science project. But he’s doing it all with
 ill intent and without my permission. And he fucking flaunts it to my face
 afterwards continuously.
 
-It’s scary you guys. I wish someone would put an end to it once and for
-all. I didn’t live a double life my whole life and become a hacking/gang
-leader like my brother did so I am admittedly at a disadvantage in all
+It’s scary. I wish someone would put an end to it once and for all. I
+didn’t live a double life my whole life and become a hacking/gang
+leader/mobster like my brother so I am admittedly at a disadvantage in all
 this. If that means I’m now doomed to a life where Dusty is able to
-completely fuck up my entire life, make me age all prematurely, fuck up my
-brain and fuck up my teeth, etc, etc, etc–then that’s just a fucked up life
-to begin with in my view. That’s not how things should be. He shouldn’t be
-able to get away with it just cuz he’s the most
+completely walk all over me and fuck up my entire life, make me age all
+prematurely, fuck up my brain and fuck up my teeth, etc, etc, etc–all to
+try and save himself–then that’s just completely messed up.
+
+He shouldn’t be able to get away with all this just cuz he’s the most
 ruthless/intelligent/technologically adept criminal around. If anything,
 that should give you all that much more incentive to bring his crime spree
 to an end however possible and as soon as possible I feel. Because
 otherwise you are just going to end up with a bunch of people trying to
-mimic his techniques.
+mimic his techniques and/or innocent people taking the fall for him and not
+solving anything.
 
-I can’t stop him by myself. My brother is a serious threat to society. I
-wish a group of people who are as technologically adept as he is in law
-enforcement would go after him tbh, while keeping in mind I’ve been trying
-to figure out how to stop his onslaughts myself. Anything short of that and
-I’m screwed. Our whole family is screwed. He’s not going to stop just cuz I
-hire a lawyer who files a stalking injunction against him either–he’s not
-going to stop until he’s literally forced to–that much is perfectly clear
-to me. Dusty hates his whole family for whatever reason–like he hates us
-even more than he despises the average person on the streets. He might not
-act like it at all times especially when it’s in his best interest not to
-act that way, but he does. He showed us all that fact pretty clearly
-previously. And he shows me that continuously. But that doesn’t mean he
-won’t attack an average person on the streets either. He is a spoiled
-brat–he’ll attack anyone who gets in his way essentially.
+I think Dusty’s trying to make me crack or something to save himself. From
+there he’d likely just do what he does now which is a combination of
+gaslighting and manipulating others to get them to believe what he wants
+them to believe. Then he’d be free to continue his rampage with a blank
+slate essentially. Now I know what not to do at least..
 
-It ultimately goes back to Dusty completely spite-ing our father, taking
-his knowledge learned in civil engineering school and using it to
-completely disparage our father, go after his family, and completely
-destroy my father’s legacy. Dusty’s hate literally has no bounds. He wants
-to do as much damage as he possibly can. I began noticing back in 2019 that
-Dusty’s hate is the only thing that gives Dusty any joy at all anymore–via
-bringing others down or via bringing harm to others directly. He just does
-it in smart ways is all.
+All I know is I can’t stop Dusty by myself. My brother is a serious threat
+to society. I wish a group of people who are as technologically adept as he
+is in law enforcement would go after him tbh, while keeping in mind I’ve
+been trying to figure out how to stop his onslaughts against me myself and
+while keeping in mind it’s not going to be easy. Try talking to someone
+about all this who isn’t technologically inclined btw–it’s damn near
+impossible tbh–and Dusty uses that to his advantage. Dusty’s not going to
+stop just cuz I hire a lawyer who files a stalking injunction against him
+either–he’s not going to stop until he’s literally forced to–that much he’s
+made perfectly clear to me. (I can rule out the church of scientology at
+this point I think)
 
 At the end of the day nothing is black and white and nobody is perfect,
 situations like this are extremely complex, but I’m telling you right now
 on a level of overall threat to society Dusty arguably tops that list–just
-given his intelligence, his never-ending hate for even his family and their
-pets, his ongoing rampage, his ability to corrupt and manipulate others,
-pit others against each other strategically, his ability to get away with
-things, his gang’s insane hacking capabilities, his access to advanced
-technology/nanotechnology, his gang’s insane break-in capabilities, his
-gang’s tracking capabilities, their x-ray vision capabilities, his
-weaponization of sound, his access to other resources and specialists who
-do whatever the hell he wants all seemingly anonymously, his use of
-anonymity in general, his ability to disguise his true self, his ability to
+given his intelligence, his never-ending hate for even his own family and
+their pets, his ongoing rampage, his ability to corrupt and manipulate
+others, pit others against each other strategically, his ability to get
+away with things, his gang’s insane hacking capabilities, his access to
+advanced technology, his interest in nanotechnology, his gang’s insane
+break-in capabilities, his gang’s tracking capabilities, their x-ray vision
+capabilities, his weaponization of sound, his access to other resources and
+specialists who do whatever the hell he wants all seemingly hired
+anonymously, his use of anonymity in general, his ability to disguise his
+true self to others when the police are looking into things, his ability to
 use stereotypes to his advantage, his organized crime/gangster mentality,
 his social engineering abilities, his ruthless tactics and witness
-intimidation techniques, his use of information to drive all attacks, his
-premeditation capabilities, his insane math skills and AI expertise, his
-psychological expertise, his deliberate false-flag operations, his ability
-to make the deaths look natural, his “fall guy” mentality, and his advanced
-technologically adept weaponry.
+intimidation techniques, his use of information to drive all his attacks,
+his premeditation capabilities, his insane math skills and AI expertise,
+his infatuation with dark psychology, his deliberate false-flag operations,
+his deliberate use of gaslighting, his ability to make people's deaths look
+natural, his obsession with “fall guys”, and his advanced futuristic
+weaponry.
 
-He literally kills using methods that likely have never even been proven as
-murder weapons in court previously, just given their newness, but they are
-in fact being used as murder weapons by him indeed. (Fucked up murder
-weapons at that–cancer and premature aging and attempted brain takeovers
-are all fucked up ways to kill somebody–Karie looked like she was 100 years
-old on her death bed btw) He like does everything in the smartest possible
-way I swear.
+He literally kills/torments people using methods that likely have never
+even been proven as murder weapons in court previously, just given their
+newness, but they are in fact being used at least in part as murder weapons
+by him indeed. (Fucked up murder/torture weapons at that–cancer and
+premature aging and attempted brain takeovers are all fucked up ways to
+kill somebody–Karie looked like she was 100+ years old on her death bed
+btw) He like does everything in the smartest way possible I swear.
 
-He could arguably kill anybody around here and get away with it. He leads a
-whole network of killers. I’m not even fucking joking–I’ve seen it all
-first hand when he fucking sends them after me repeatedly. He does some of
-this shit to me literally daily–he is literally killing me slowly each and
-every day at this point.
-
-He’s a fucking nightmare tbh. If you don’t see it now then you will
-inevitably see it one day–that much is pretty much guaranteed. Busting him
-won’t be easy–make no mistake. You’ve got to pull out all the stops just to
-even have a chance essentially. But I promise you I am telling the truth
-and I promise you it will be worth it. If you pay close attention, and dig
-deep, and don’t let yourselves be misled, then you will see just how
-dangerous Dusty really is.
-
-I know it may sound a little counterintuitive, but who scares you more,
-what I just described above or some other more traditional serial killer
-you can think of? I mean both are extremely scary but one is setting
-themselves up to essentially keep getting away with it, likely so that they
-can keep on killing, and the other is not.
+I can’t wait until he actually gets caught and/or is actually held
+accountable for once. I hope that day comes sooner than later.
 
 Chase Gibbons  / Manager
 435-999-4722
