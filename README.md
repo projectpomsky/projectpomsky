@@ -13145,7 +13145,9 @@ right next to me, (To the north of me) I believe they were in room 111 or
 as powerful an EMF as they possibly could while I slept–I assume trying to
 give me brain cancer. I’m pretty sure they had to have rented out an
 adjacent room tbh just given it was coming from a direction where on other
-rooms could have been the possible source.
+rooms could have been the possible source. They will first try to keep me
+awake for as long as possible then they will do something like this when I
+am really really tired so that they can do the most damage possible.
 
 
 Concerted Effort
