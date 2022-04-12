@@ -4949,20 +4949,25 @@ I wouldn’t be risking my whole career and everything else if I weren’t 100
 percent confident most of what I allege against my brother is in fact true.
 They freaking EMF and infrasound me every single night starting right
 around the time I Iay down to go to sleep–every single f-ing night–they are
-obviously trying to create an illusion.
+obviously trying to create an illusion. Do you know what that does to me
+psychologically? It makes me fear going to sleep. Do you know what all of
+this I’m being exposed to does to me psychologically? It makes me less
+likely to trust others or goto the bars anymore, etc, etc. It’s called
+psychological manipulation and mind control.
 
-What the heck else am I supposed to do as an innocent person?
+What the heck else am I supposed to do as an innocent person in this
+situation? I’m being abused, I don’t know what else to say.
 
-If you guys can’t investigate my brother due to jurisdiction issues, then
-please just let me know and I’ll share all this with someone who actually
-can investigate him. It makes it tough when there is more than just one
-person involved, because a lot of the crimes occur here but the person
-ultimately behind these guys coming after me to begin with resides in
-another jurisdiction. And I suspect at least some of the hackers reside in
-a different country altogether. Again it goes back to my brother making
-friends with a Russian Oligarch as I now suspect. But at the end of the day
-it’s not my job to investigate–I don’t want to jeopardize your
-investigation. So I’ll just stop there, just know I was just trying to help.
+If you guys can’t investigate my brother due to jurisdiction issues or what
+have your, then could you please let me know and I’ll share all this with
+someone who actually can investigate him. It makes it tough when there is
+more than just one person involved, because a lot of the crimes occur here
+but the person(s) ultimately behind these guys coming after me to begin
+with reside in another jurisdiction. Again it goes back to my brother
+making friends with a Russian Oligarch as I now suspect. But at the end of
+the day it’s not my job to investigate–I don’t want to jeopardize your
+investigation either. So I’ll just stop there, just know I was just trying
+to help rid this place of true evil and get back to work myself.
 
 Chase Gibbons  / Manager
 435-999-4722
