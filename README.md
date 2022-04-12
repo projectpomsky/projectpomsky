@@ -2430,9 +2430,8 @@ did—which I’ve said numerous times previously. Plus, I wouldn’t have pushe
 for an autopsy had I had something I was concerned about them finding in my
 father—it really is that simple. How did Cindy know he overdosed anyways?
 Seems like a smear campaign meant to cover up the truth to me—the whole
-ordeal seems fishy to me. I honestly would have continued pushing as well
-given the circumstances with Cindy at the time had the doctor not
-intervened and said what he said.
+ordeal seems fishy to me–especially when you consider what’s been happening
+to me lately..
 
 As for karie, I mean I’m the one who thanked her for being our trustee on
 her deathbed, and for helping me get through college. If I held that much
@@ -2468,12 +2467,12 @@ years I thought he loved me—I was wrong. It hurts. And that’s why this is
 such a big freaking deal to me is because I now know these guys will try
 and frame me for what I now suspect they’ve done, and they actually know
 what they’ve done whereas I still don’t know what substances they are
-using, I can only give my best guess—so again they have the upper hand, let
-alone everything else they have been doing to me beyond just trying to
-frame me. And I’m only one person at the end of the day. I refuse to be my
-brothers “fall” guy, that’s apparently what he’s been trying to make me for
-years now—and the evidence clearly shows that. Guess where I learned the
-term “fall guy”? My brother.
+using, I can only give my best guess based on what they’ve since done to
+me—so again they have the upper hand, let alone everything else they have
+been doing to me beyond just trying to frame me. And I’m only one person at
+the end of the day. I refuse to be my brother's “fall” guy, that’s
+apparently what he’s been trying to make me for years now—and the evidence
+clearly shows that. Guess where I learned the term “fall guy”? My brother.
 
 These guys clearly know how to do all this in a way to where little
 questions are asked and where they are able to get away with stuff and
@@ -2486,14 +2485,14 @@ play out again and again first hand, and I’m now being tortured
 daily/discredited daily as a result—hence why I have now reached the
 conclusions I have is because my brother has essentially forced me to reach
 these conclusions. Why else would they be coming after me? It is my brother
-I know that it is. If they were goody two shoes at the end of the day they
-wouldn’t even know how to come after me to begin with. (Kinda like how I
-don’t even know where to even begin in going after my brother) If I were
-them on the other hand, I would have way more options than what I have
-right now—and “faking” a gangstalking would be among the worst of my
-options. Seems if I were them it would have to be a fake, and if I were
-them I would have all the options they do. (To be clear–I’m not faking
-anything)
+I know that it is–I know my brother better than arguably anybody. If they
+were goody two shoes at the end of the day they wouldn’t even know how to
+come after me to begin with. (Kinda like how I don’t even know where to
+even begin in going after my brother) If I were them on the other hand, I
+would have way more options than what I have right now—and “faking” a
+gangstalking would be among the worst of my options. Seems if I were them
+it would have to be a fake, and if I were them I would have all the options
+they do. (To be clear–I’ve never faked anything)
 
 Let’s take a look at all their options real quick:
 
@@ -2584,7 +2583,6 @@ all my breakers had been on like normal for the full month of November)
 It’s as if someone is somehow somewhere drawing from my power or something..
 
 https://drive.google.com/file/d/1D0GBUhN7OuX4ylzVuDL1PS2t0lnAX7Xw/view?usp=sharing
-
 
 
 Chase Gibbons  / Manager
