@@ -6851,26 +6851,34 @@ know his evil has no bounds.
 
 In fact, Dusty’s whole identity these days can be explained by what he is
 now doing to me. He started acting more conservative knowing he’d soon be
-facing the police, right before coming after me again in 2021. He started
-getting closer to my mom right around the same time he started EMF-ing me
-knowing it would likely help him with the police. Since then Dusty’s
-apparently using Paul to do his taxes again even though Paul apparently
-hadn’t even heard from Dusty for over a year–right when I started looking
-into getting away from Paul myself. (I assume again to help him with the
-police, now that the police are actually looking into him–unlike last year
-when he was MIA) Literally everything Dusty does can be explained by the
+facing the police, right before coming after me and turbo again in July
+2021. He started getting closer to my mom right around the same time he
+started EMF-ing me in September 2021, knowing it would likely help him with
+the police. Since then Dusty’s apparently even using Paul to do his taxes
+again even though Paul apparently hadn’t even heard from Dusty for over a
+year–right when I started looking into getting away from Paul myself. (I
+assume again to help Dusty with the police, now that the police are
+actually looking into all of this–unlike last year when Dusty was
+completely MIA) Literally everything Dusty does can be explained by the
 fact that Dusty’s social engineering society to try and get a leg up on
 me–in his sick and twisted game of hunting me.
 
-These are the kind of things that make all this just so obvious to me.
-Dusty is willing to change his whole identity however best suits him at the
-time in his pursuit of me essentially. But deep down the only thing that
-doesn’t change about him is the fact that he is evil as hell, he actually
-enjoys manipulating people and causing others pain, he doesn’t have a
-conscience, and he only truly cares about himself. Everyone else is just a
-pawn in his sick and twisted game essentially. He enjoys manipulating
-others to be “in on it”.
+These are the kind of things that make all this just so obvious to me–in
+addition to everything else he does to me daily. Dusty is willing to change
+his whole identity however best suits him at any time in his pursuit of me
+essentially. But deep down the only thing that doesn’t change about Dusty
+is the fact that he is evil as hell, he actually enjoys manipulating people
+and causing others pain, he doesn’t have a conscience, and he only truly
+cares about himself. Everyone else is just a pawn in his sick and twisted
+game essentially. He actually enjoys manipulating others to be “in on it”,
+either knowingly or unknowingly–or else somewhere in between. I suspect
+that’s another way he corrupts people tbh, is by first social engineering
+them to be “in on” something like this to the police only for them to find
+out the truth later..
 
+Social engineering is the biggest most crucial aspect of hacking as well
+btw. It actually all makes quite a bit of sense if you ask me–more sense
+than anything tbh.
 
 Chase Gibbons  / Manager
 435-999-4722
