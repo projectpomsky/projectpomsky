@@ -8467,6 +8467,18 @@ tactics all derived in psychology and manipulation.
 
 Believe me when I say I guarantee you Russia knows exactly where Zelensky
 is at.
+
+Bottom line is we just got to make sure things don’t go as planned for
+Putin—and we’ve got to stay united—regardless of what happens.
+
+I just heard the ruble is now worth less than a penny. 😂🤣😁😁😁🥲😅😊
+
+Now if only we can keep the Russian oligarchs off of bitcoin.. Anonymous is
+awesome btw, they’ve been tearing it up against Russia lately. And it’s
+even a global coalition of anonymous hackers. There may still be hope after
+all. 🤞🤞🤞
+
+
 -- 
 
 Chase Gibbons  / Manager
