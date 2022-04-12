@@ -2651,6 +2651,11 @@ mention everything else I can link back to him and how I can link him back
 to my brother through all the hacking, eagles incident, etc, etc. (At least
 preliminarily)
 
+Not only do they fine tune their attacks to the individual–they fine tune
+their attacks to the individual circumstances at the time of that
+particular individual. I have no doubt they could figure out a way to
+attack anybody through all their hacking and intel.
+
 https://drive.google.com/drive/folders/17bzBc6v8X\_Oijsj2hLYF4LJavrScWmaU?usp=sharing
 
 
