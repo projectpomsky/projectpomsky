@@ -1331,9 +1331,10 @@ sister supposedly had cancer. At first i didn’t know which sister he was
 even referring to. And I’ll be honest, this friend wasn’t known to be the
 most credible person at the time. But once I found out he was referring to
 Karie and that his wife’s father actually worked with Raedell, who was
-Karie’s mother, I honestly didn’t know what to think. I brought it up to
-like Dusty and Taylor at the time but again, I didn’t know if it was true
-or not.
+Karie’s mother, I honestly believed him more but I still didn’t know what
+to think cuz I hadn’t heard anything from Karie or my trust myself. I
+brought it up to like Dusty and Taylor at the time but again, I didn’t know
+if it was true or not.
 
 Karie and the trust lawyer and Paul, the successor trustee accountant, had
 actually tried getting us all to sign something saying in the event Karie
@@ -1569,9 +1570,11 @@ something until I found out that guy actually lived around here even though
 he had licensee plates from another state) (
 https://neighbors.ring.com/event/Vxp7yxNSxV )
 
-Child abuser’s kid starts showing up at my house for the first time out of
-the whole time they’ve lived next to me, asking to “play” initially. I
-didn’t know who’s kid it was until some time later. (
+Child abuser’s (
+https://drive.google.com/file/d/1sSBbS1KNBGcXheMrK1JETPhNqP2AFmg\_/view?usp=sharing
+) kid starts showing up at my house for the first time out of the whole
+time they’ve lived next to me, asking to “play” initially. I didn’t know
+who’s kid it was until some time later. (
 https://drive.google.com/drive/folders/1u5IDbtDskD\_X8bowDJAY9ukE-xuI5MlS?usp=sharing
 )
 
@@ -1592,6 +1595,8 @@ Emf started--they made it extra intense on my dog’s would be sixteenth
 birthday. (
 https://drive.google.com/file/d/1r2-oTX8gWahAlVI3CuLgKKTg0p1nw4uT/view?usp=sharing
 )
+
+I reported it to the police for the first time the next day.
 
 Skipping a bunch here for now...
 
@@ -1692,6 +1697,11 @@ succeeded in drugging me that day/evening.
 
 String of break-ins #2
 
+This folder, see videos of intruders here:
+https://drive.google.com/file/d/1G4yI\_Ri\_7t\_p5Hf4kBtDzwlnUK8V0HGl/view?usp=sharing
+
+
+Tampering with my electricity
 
 Infrasound
 
