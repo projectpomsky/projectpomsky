@@ -7384,45 +7384,50 @@ ensure he doesn’t is to arrest him.
 
 As of February 22, 2022
 
-I need to make a clarification. While they aren’t able to reprogram my
-brain which is a neural network, as stated previously, what they are able
-to do is take control of my unconscious mind come to find out. (Meaning
-they are able to control me when I’m asleep on a higher level) They are
-able to make me “sleep walk” essentially. They started targeting me with a
-new technology the night before last. It felt like they were scanning the
-room using some new more precise directed sound wave technology, a newer
-more advanced and more precise version of what they have used on me
+I need to make a clarification. While the attackers aren’t able to
+reprogram my brain which is a neural network, as stated previously, what
+they are able to do is take control of my unconscious mind, come to find
+out. (Meaning they are able to control me when I’m asleep on a higher level
+than the neural network using electrical signals as input) They are able to
+make me “sleep walk” essentially. They started targeting me with a new
+technology the night before last. It felt like they were scanning the room
+using some new more precise directed sound wave scanning technology, a
+newer more advanced and more precise version of what they have used on me
 previously. (It was coming from the North, it was likely another mobile car
 unit parked somewhere outside this time) What they were doing was literally
-like a 3d survey of 3d space scanning one axial after another of my
-immediate surroundings at a time. I specifically recall it moving my pant
+like a 3d survey of 3d space scanning one axial after another to form a 3d
+model of my immediate surroundings. I specifically recall it moving my pant
 legs whenever it would hit my legs. I also specifically recall every time
 I’d move it would seemingly start over again, and rescan my immediate
-surroundings over again in real-time. I tried my best to block it out
-before falling asleep but what I’ve learned at the end of the day is there
-really is no blocking sound, they always seem to be able to find a way to
-get enough sound in to be able to cause me to disturb my surroundings
-enough while I’m asleep to be able to then have unfettered access to me. I
-have been learning a ton about electro-magnetism lately myself and how
-electricity going through a wire can generate its own magnetic field. I’ve
-been learning about electromagnetism lately primarily because
-electromagnetism in the form of an EMP is the key to disabling any unwanted
+surroundings over and over again in real-time, as if it were automated or
+something. I tried my best to block it out as best I could before falling
+asleep but what I’ve learned at the end of the day is there really is no
+blocking sound, they always seem to be able to find a way to get enough
+sound in to be able to cause me to disturb my surroundings enough while I’m
+asleep to be able to then have unfettered access to me. I have been
+learning a ton about electro-magnetism lately myself and how electricity
+going through a wire can generate its own magnetic field. I’ve been
+learning about electromagnetism lately primarily because electromagnetism
+in the form of an EMP could be the key to disabling any unwanted
 electronics that may be present in my ear without hurting me. I suspect
 their microchip is likely controlled using ultrasound btw, rather than RF,
-but I’m still figuring that part out. They’ve indicated to me it is made of
-graphene as well, which is a super new nanotechnology material. Anyways,
-long story short, I had my immediate surroundings in a very particular
-placement prior to going to sleep the night before last. And when I
-eventually woke up–everything was completely out of place in a way that
-would be hard to explain by tossing and turning alone. It was highly
-disturbing tbh. At first I questioned whether maybe their new technology
-they used kept me asleep while someone got in and messed with me somehow
-during my sleep or something. But then I ultimately realized after checking
-on all my security measures I put in place, etc, that someone did mess with
-me during my sleep–however they didn’t get in my house to do it. (I.e. they
-are gaining more control of my unconscious mind and are able to mess with
-me during my sleep in that way to a certain degree–they are able to make me
-mess with me during my sleep without me even realizing it essentially)
+but I’m still figuring that part out. They’ve indicated to me their
+microchip is made of graphene as well, which is a super new nanotechnology
+material, otherwise I’d just take a normal magnet to it. Anyways, long
+story short, I had my immediate surroundings in a very particular placement
+prior to going to sleep the night before last when they started using that
+new technology on me. And when I eventually woke up–everything was
+completely out of place in a way that would be hard to explain from my
+tossing and turning alone while I slept. It was highly disturbing tbh. At
+first I questioned whether maybe their new technology they used kept me
+asleep while someone got in and messed with me somehow during my sleep or
+something. But then I ultimately realized after checking on all my security
+measures I put in place, etc, that someone did mess with me during my
+sleep–however they didn’t get in my house to do it. (I.e. instead they are
+seemingly gaining more and more control of my unconscious mind and they are
+able to mess with me during my sleep from afar to a certain degree–they are
+able to make me mess with me during my sleep from afar without me even
+realizing it afterwards essentially)
 
 The extent to which they can control my conscious mind is very limited, as
 stated previously. They can record signals of my brain while monitoring me
