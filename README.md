@@ -1807,6 +1807,7 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
+​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -4030,47 +4031,97 @@ much right? He was dragging our whole family down with all his dark
 psychology that whole year when Dusty’s people first poisoned Turbo.
 
 So guess what they did tonight, on New Years Eve? They started playing
-sounds of Turbo I assume from the time of their second successful
-poisoning–which subsequently led to turbo getting multiple organ failure
-and tanking quickly. I’m not going to let it get to me, I have the sound
-clip just from doing a voice recorder session when they were doing it to me
-tonight–they also deliberately kept lighting off fireworks outside at the
-time to make it sound like turbo was getting shot or something. I ignored
-them for the most part but I did start recording–because I don’t want them
-to be able to get to me especially when I’m doing such important work as
-going through everything and trying to reference all my old stuff. Anyways,
-this unnamed satin group led or partially led by my brother Dusty legit get
-enjoyment out of causing others pain and suffering, as I’ve said. Don’t let
-all their dark psychology get to you because it can bring you down if you
-aren't careful. Anyways, the whole reason I’m bringing this up is because
-the only possible place they could have poisoned turbo without my knowledge
-the second time that I can even think of is at medvet. (They don’t let the
-owners inside at medvet due to covid) If so, I bet we could find out
-exactly which vet technician handled turbo at medvet that evening is why
-I’m saying this. And it could be an in to their whole poisoning tactics.
+sounds of Turbo from I suspect the time of their second successful
+poisoning–which subsequently led to turbo getting kidney failure and
+tanking quickly. I’m not going to let it get to me, they could just be
+making it up. But I do have the sound clip they played me earlier just from
+doing a voice recorder session when they were playing it to me on my
+computer earlier tonight–they also deliberately kept lighting off fireworks
+outside at the time to make it sound like turbo was getting shot or
+something. I ignored them for the most part but I did start
+recording–because I don’t want them to be able to get to me especially when
+I’m doing such important work as going through everything and trying to
+reference all my old stuff to hopefully help bring them to justice.
 
-Tbh, I don’t know why they would have poisoned my dog, like as you’ll see
-in all these references as I continue to add them, like the most Dusty
-could possibly even be mad at me for is buying my little sisters commercial
-unit and saying I couldn’t do his website in the way he wanted it done
-given my level of experience in wordpress–after he had already hacked me at
-the time mind you. So that’s apparently the price I have to pay for doing
-those two things with this group of killers that my brother chose to become
-affiliated with.
+Anyways, this unnamed satin group led or partially led by my brother Dusty
+legit seems to get enjoyment out of causing others pain and suffering,
+including animals, as I’ve said. Don’t let all my brothers dark psychology
+get to you or change your perception of turbo in any way either because it
+can bring you down if you aren't careful and because I think that’s exactly
+what it is intended to do. Turbo died in my arms at the end of the day
+luckily so I still feel at peace.
 
-I suspect my brother’s gang legit will even have members of their gang
-whose their sole objective is just to get hired on to a given place just to
-perform a poisoning from what I gather. Like I think that might be how they
-got something into my jamba juice when I woke up feeling like my stomach
-was going to explode most recently. (Either that or they were freaking
-emf-ing /infrasounding my gut whereas I had led covering the rest of my
-upper body at the time) But I have suspected this with this group before
-regardless. My brother and his gang are fucking ruthless. If they don’t get
-you down physically–they will take you down using all their dark
-psychology. So next time you start thinking about me potentially having any
-involvement in anything to do with my brother and all this gang stuff–just
-remember this is the level of evil we are really talking about here. And
-these guys seemingly actually enjoy it.
+But yea, the whole reason I’m bringing this up is because the only possible
+place they could have poisoned turbo without my knowledge that led to his
+death that I can even think of is at medvet the last time I ever took him
+there. (They don’t let the pet owners inside at medvet due to covid) If
+that is correct as I suspect, I bet we could find out exactly which vet
+technician handled turbo at medvet that evening is why I’m saying this. And
+it could be an in to their whole poisoning tactics—which would be nice from
+the police's perspective in my view seems they seem to do that a lot. And
+it would help avenge turbo at the end of the day too.
+
+Please excuse me if I ever decide to go deck my brother myself. I mean I’m
+holding back—trust me. But my brother is a pussy I could whip his ass and
+sometimes I really want to. But at the end of the day all this is on them
+and not me—no use becoming like them either. I’m not the one who had to sit
+there and poison a small dog like that. That can’t be an enjoyable memory
+regardless of who you are. Turbo was at medvet in the first place for a
+reason is how I see it—like he hadn’t been doing all that well as is.
+Anyways, it is what it is I guess. I am getting in touch with medvet and
+I’ll be getting you guys the name of both the main director there as well
+as the name of the suspected vet techs who did it. I guess I’ll post the
+audio the hackers shared with me here as well, just so you get a sense of
+how ruthless my brother and his people really are, but use it as a
+motivator to do good and not as a hindrance on turbos legacy. Some of
+Dusty’s darker tendencies seem to have to do with dark psychology btw—don’t
+let him get to you. He’ll hopefully be in jail sooner than later anyways if
+I can help it.
+
+Tbh, I don’t know why they would have even poisoned my dog or why they are
+coming after me so hard to begin with, like as you’ll see in all these
+references as I continue to add them, like the most Dusty could possibly
+even be mad at me for is buying my little sisters commercial unit and/or
+saying I couldn’t do his website in the way he wanted it done given my
+level of experience in wordpress at the time–after he had already hacked me
+at that time himself. He seemed to indicate those weren’t the reasons just
+barely—he seemed to indicate it was apparently cuz I didn’t drop everything
+and go work with him on his command—but I simply don’t believe him. He was
+being shady as hell and I hadn’t even seen him for forever; plus I didn’t
+know I was under his rule. I didn’t even know he was even in a gang at the
+time either or I would have definitely said no; and he fucking hacked me
+before even asking for me to come work with him anyways which just shows
+how he’s totally lying. If anything, if I had actually listened to him;
+somehow dropped turbo as he said, (Which I never would and he knows that)
+and if I had indeed quit my job and went down there at the drop of a hat
+like he had suggested at the time—against all my better judgment—I have a
+feeling I’d likely be dead by now. (Isolating me is what they are still
+trying to do to me to this very day btw) But yea, that's how these killers
+justify coming after me and turbo I guess. (Even tho it doesn’t make any
+fucking sense—as if any gang around here even only gives people one shot to
+join anyways—yea fucking right) I guess you could also theorize it’s for me
+getting Jacade Rausch locked up—but that doesn’t make any sense either.
+That dude was stalking me to begin with for a reason. In addition—I got my
+covid shots in may so that also rules that one out in my mind. I’ll keep
+you posted on the microchip but all signs are pointing at there is one in
+my left ear. It even started heating my finger nail when I was trying to
+block out the signal without any proper ear plugs earlier today. I now even
+have a sense of exactly where it’s located even.. (Which is a plus)
+
+With all that said, I suspect my brother’s gang legit will even have
+members of their gang whose sole objective is just to get hired on to a
+given place just to perform a poisoning or I guess a microchipping from
+what I gather. Like I think that might be how they got something into my
+jamba juice when I woke up feeling like my stomach was going to explode the
+other day. (Either that or they were freaking emf-ing /infrasounding my gut
+causing issues whereas I had led covering the rest of my upper body at the
+time) But I have suspected this with this group regardless. My brother and
+his gang are fucking ruthless. If they don’t get you down physically–they
+will try and take you down using all their dark psychology. So next time
+you start thinking about me potentially having any involvement in anything
+to do with my brother and all this gang stuff–just remember this is the
+level of evil we are really talking about here. And these guys seemingly
+actually enjoy it.
 
 
 Started adding references as promised.
@@ -4085,6 +4136,8 @@ https://drive.google.com/file/d/0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZjk
 
 https://airtable.com/shrnRoYK2f4Ftk4zy
 
+
+-- 
 
 Chase Gibbons  / Manager
 435-999-4722
