@@ -5831,64 +5831,77 @@ As of January 24, 2022
 
 I officially decided to proceed forward with a new trustee today. He’s a
 lawyer. He’s going to help me file an injunction against my brother Dusty,
-among other things. Don’t get me wrong, I like Paul, I just know how
-powerful Dusty is and I know how easy it would be for Dusty to gain
-influence over this whole town just given Dusty’s insane capabilities and
-given this towns small size and it’s very nature and whatnot, (all he’d
-need to do is corrupt the right person and then he could essentially force
-that person to exert their influence according to Dusty’s wishes over
-everyone else, including those who may actually interact with someone who
-interacts with me essentially, or else corrupt the person who interacts
-with me directly I guess) and plus—I’ve just known I could use a new
-trustee and a lawyer for a while now—especially regarding my brother. The
-only real alternative is more of the same and more draining my trust
-without Dusty allowing me to go back to work and letting Dusty walk all
-over me while staying quiet myself essentially. At least with a lawyer I’ll
-have a chance to recoup some of my lost wages/damages, etc—even if Dusty
-does kill me. At least now if he dies kill me then my estate can still seek
-damages on its own, and if anything, the amount of damages my estate will
-be able to seek will only go up. So in my mind, yea lawyers cost money, but
-I think of it more like an investment because I know first hand the only
-route to resolve all this leads directly through my brother and I know what
-will happen if I don’t hire a lawyer.
+among other things. Don’t get me wrong, I like Paul; and change is
+extremely hard. I just know how powerful Dusty is and I know how easy it
+would be for Dusty to gain influence over this whole town essentially just
+given Dusty’s insane capabilities and given this towns small size and it’s
+very nature of doing business and whatnot, (all dusty would need to do is
+corrupt the right person and then he could essentially force that person to
+exert their influence according to Dusty’s wishes over everyone else,
+including those who may actually interact with someone who interacts with
+me essentially, or else corrupt the person who actually interacts with me
+directly I guess—which I’m not saying that happened I’m just saying) and
+plus—I’ve just wanted to try a new trustee for a while now and I’ve known I
+needed my own lawyer who actually represents my best interest and nobody
+else’s for a while now as well—especially given all this with my brother.
+Whether this is the right decision or not—only time will tell. The only
+real alternative is more of the same and more draining my trust without
+Dusty allowing me to go back to work and letting Dusty walk all over me
+while staying quiet myself essentially from what I gather. At least with a
+lawyer I’ll have a chance to recoup some of my lost wages and some of the
+damages, etc—even if Dusty does kill me. At least now if he does kill me
+then my estate can still seek damages on its own, and if anything, the
+amount of damages my estate will be able to seek will only go up if so. So
+in my mind, yea lawyers cost money, but I think of it more like an
+investment because I know first hand the only route to resolve all this
+leads directly through my brother and I already know what will happen if I
+don’t hire a lawyer.
 
-Dusty has shown me he has the power to make it all stop multiple times btw,
-just long enough to let me know he’s ultimately the one behind all this
-both times. (He can also make it go harder essentially which he does
-frequently) I want to figure out a way to make it all stop for good
-however. Without going broke and without losing my life or my health. And
-the only way I can see to do that at this time is through a lawyer, at
-least while the police are still investigating..
+Dusty has shown me he has the power to make this all stop multiple times
+btw, just long enough to show me he’s ultimately the one behind it each
+time—prior to instructing them to continue the torture a day later, etc.
+(He can also make it go harder which he does that frequently) My goal is to
+figure out a way to make it all stop and for good this time. Without going
+broke and without losing my life or my health or my career or my mind in
+the process. And the only way I can see to do that at this time is through
+a lawyer, at least while the police are still investigating.. (I don’t
+think I have a lot of time remaining btw, see second to last paragraph in
+this section for more details)
 
 After I talked to my new trustee, I realized I should probably text Dusty
 and clarify to him that I had no real intention of stopping by his house
-anytime soon, and inform him how I was mainly just interested in knowing
-his reaction to my question the other day is all—especially whereas he set
-a red line refusing to discuss the huge elephant in the room with me
-upfront; I informed him I actually plan to move far far away from him, etc.
+anytime soon, and i informed him how I was mainly just interested in
+knowing his reaction to my question the other day is all—especially whereas
+he set a red line refusing to discuss the huge elephant in the room with me
+upfront in regards to all his harassment assuming I did ever actually stop
+by anyways; but yea, I informed him I actually plan to move far far away
+from him, etc.
 
 That went about how I would expect. Dusty is shady as hell and he’s rude as
-hell these days and he clearly wasn’t being genuine. He clearly doesn’t
-care about me whatsoever. He’s clearly trying to create his own narrative
-without even hearing me out whatsoever. (Which could mean he was setting me
-up to call another shot against me again soon—that’s probably the last time
-I’ll talk to Dusty “formally” for a while—the more or less “anonymous”
-version of Dusty on the other hand is almost impossible for me to escape
-given how deeply he’s hacked me)
+hell these days and he clearly wasn’t being genuine at all. He clearly
+doesn’t care about me whatsoever. He’s clearly trying to create his own
+narrative without even hearing me out or trying to help whatsoever. (Which
+could mean he was setting me up to call another shot against me again
+soon—that’s probably the last time I’ll talk to Dusty “formally” for a
+while—the “anonymous” version of Dusty on the other hand is almost
+impossible for me to escape these days given how deeply he’s hacked me) And
+he made one or two slight references to what I wrote in my notes earlier
+today in his responses back to me which I found odd.
 
 One thing I wanted to add that I haven’t had a chance to add here yet is
-that these guys actually played that sound clip of turbo suffering to me
+that these hackers actually played that sound clip of turbo suffering to me
 repeatedly over a period of days since I originally told you about it
 pretty much, sometimes louder than others, after that first time when I
 told you about them admitting to killing Turbo and playing that sound clip
-to me originally. It’s messed up. Kill/torture my dog, record a sound clip
-of it, then use the sound clip to torment me later repeatedly. These are
-the people I’m dealing with. This is who my brother really is apparently.
-He straight up fooled me for ~30+ years but now that he’s coming after me
-he’s shown me the truth over and over and over again and the truth is
-honestly really fucked up.
+to me originally. It’s messed up. Poison/torture my dog, record a sound
+clip of it, then use the sound clip to torment me later repeatedly. These
+are the people I’m dealing with. This is who my brother really is
+apparently. He straight up fooled me for ~30+ years but now that he’s
+coming after me he’s shown me the truth over and over and over again and
+the truth is honestly really fucked up.
 
-Dusty’s gang plans to kill me tonight again I think..
+Dusty’s gang could be planning something yet again.. I think their main aim
+is mind control however.
 
 They’ll like leave me these little “warnings” or “signals” like they’ll
 start flashing my cameras at me out of nowhere for instance when I get home
@@ -5897,35 +5910,91 @@ get home, etc, whenever they are either about to attack or when they have
 just been in my house again doing something, etc. However, I don’t know who
 is leaving these warnings or whether they are even warnings at all or
 whether they are really just meant to scare me and/or get me out of my
-house so that they can come grab evidence or else so they can come set up
-their real attack, etc. Or if the “warnings” are really just their latest
-way of letting me know who’s responsible before they try and kill me again,
-as I’ve previously stated they love to let me know who’s responsible over
-and over again every time. It may also just be them trying to mess with my
-head, idk. But most of them do seem to correspond to some greater event and
-so I’ve been treating them as warnings up to this stage including just
-tonight. My hope is they are indeed warnings being left by someone who
-actually somewhat cares about my well being. It’s confusing as hell
-however. My cameras don’t flash on their own like that without interference
-tho, that’s how I could tell i needed to look into my cameras in the first
-place when I discovered they were hacked this last time (and the time
-before that) is cuz I knew how my cameras flash’s behave normally and they
-will suddenly begin not behaving normally anymore; and my vanity light used
-to remain off for years at a time—I never turn that thing on. And yet,
-there it is—on out of nowhere—and you have to deliberately turn that thing
-on too. (The vanity light being turned on happened I think twice recently
-even tho I turned it back off each time; the cameras flashing at me all
-oddly like that has happened to me a dozen or so times over the last few
-months)
+house so that they can come grab evidence or so they can come set up their
+real attack while I’m away, etc. Or if the “warnings” are really just their
+latest way of letting me know who’s responsible again, as I’ve previously
+stated they love to let me know who’s responsible over and over again. It
+may also just be them trying to mess with my head, idk. But most of them do
+seem to correspond to some greater event and so I’ve been treating them as
+warnings up to this stage including just tonight. My hope is they are
+indeed warnings being left by someone who actually somewhat cares about my
+well being. It’s confusing as hell however.
 
-P.s. I don’t want to say this cuz I’m giving the attackers critical
-feedback but just know they’ve been continuing to advance their microchip
-capabilities. They seem to now be past the previous stage. The previous
-stage lasted for about 1-2 weeks I’d say, partially thanks to my repeated
-attempts at blocking it. What the next stage is, I still haven’t figured
-that part out yet.. (So I don’t know how to try and block it)
+My cameras don’t flash on their own like that without interference tho,
+that’s how I could tell i needed to look into my cameras in the first place
+when I discovered they were hacked this last time (and the time before
+that) is cuz I knew how my cameras flash’s behave normally and they will
+suddenly begin not behaving normally anymore; and my vanity light used to
+remain off for years at a time—I never turn that thing on. And yet, there
+it is—on out of nowhere—and you have to deliberately turn that thing on
+too. (The vanity light being turned on happened I think twice recently even
+tho I turned it back off each time; the cameras flashing at me all oddly
+like that has happened to me a dozen or so times over the last few months)
 
+I don’t want to say this cuz I’ll be giving the attackers critical feedback
+but just know they’ve been continuing to advance their microchip
+capabilities. They seem to now be past the previous stage I described
+previously. The previous stage lasted for about 1-2 weeks I’d say,
+partially thanks to my repeated attempts at screwing up their data/blocking
+it. What the next stage is, I still haven’t figured that part out yet.. (So
+I don’t know how to try and block it) I’ll just say that they might now be
+capable of interfering with—I can’t say it. I’m sorry. I can’t give them
+this feedback. Just know they are continuing to unlock/decode my mind
+(realistically speaking) and they can legit send and receive encoded
+signals back to my brain now—and they will continue to progress until they
+either take over my mind or until they are somehow stopped. They are legit
+trying to hack my whole mind/my whole subconscious mind. Minds don’t have
+firewalls either. From what I read all the mind control programs in the
+sixties failed so hopefully you can have some solace in that. (Although the
+AI of the sixties was nowhere near as close to where it’s at today, so I’m
+not very comforted by that fact myself at this stage) This appears to be
+yet another way my brother is trying to get me to not be considered a good
+witness going forward it seems—at the very least. (Whether or not he will
+ultimately succeed at taking over my mind like he did with all my other
+devices, only time will tell—I plan to do something drastically different
+this time so I hopefully don’t end up with the same outcome. I hope he does
+not succeed in taking over my mind tbh—I hope somebody truly helps me with
+Dusty before it gets to that point tbh—because I’m telling you right now
+you don’t want to have dusty have full control over my mind—he and his
+co-hackers are honestly evil as hell—trust me) If there were ever a time to
+hurry tho, that time is now. I feel my brain is strong and the good in my
+brain far outweighs any bad and I hope that means my brain will be heavily
+resistant to anything my brother throws my way, or at very least I hope
+I’ll be able to rechannel any bad he sends my brain’s way back towards him
+and use it to proceed with doing good, (By using it to encourage me to go
+even harder at trying to nail the ultimate source of the evil once and
+forall—that is my brother Dusty—but I’d prefer not to even let it
+officially get to that stage if I can help it and I hope you will help me)
+but yea, I guess we will just have to wait and see what happens.. I
+wouldn’t leave it to chance if I were you though. I plan on suing Dusty and
+getting the hell out of dodge, I just hope the police/fbi/nsa are working
+on my brother themselves as well.. Feel free to hack me all you want btw,
+it won’t make much of a difference to me and it won’t even feel like a
+violation of privacy to me at this stage tbh. The best way to get to my
+brother is by hacking me anyways.. (My computers/routers/cell phones and
+any suspicious routers close by my house) Plus he’s never going to get off
+my network and the surrounding area fully—not even if you hack me. Just be
+sure to keep an eye out for signs of my brother's gang’s hacking while you
+are in there please. You guys will know more about the technologies my
+brother is using to hack me than I do—seems I suspect they are at least
+partly your very own technologies. That’s got to be the best way to combat
+situations like this. That way you can keep an eye on literally everything.
+(Assuming you haven’t already done that) That’s one good thing about
+hacking—even the hackers can be hacked lol—and pretty easily too I would
+imagine—just pretend to be me lol. (When I’m close by myself) These hackers
+look into seemingly almost everything I do. I’ve thought of trying it
+myself sometime if be sneaky enough to be able to successfully learn how to
+and quickly do so. I’ve tried canary tokens previously but even then they
+control my freaking emails so that’s no good to me either. It would almost
+have to be someone else who hacks them.
 
+No wonder my brother is into this kind of stuff. The father of LSD also
+happened to be the ‘poisoner in chief’ and the “mind control expert” in the
+“Mk Ultra” projects of the Cold War. My brother has been into LSD for some
+time now. Those mind control projects have since been officially
+discontinued supposedly—but hackers have gotten their hands on them since..
+
+https://www.npr.org/2019/09/09/758989641/the-cias-secret-quest-for-mind-control-torture-lsd-and-a-poisoner-in-chief
 
 
 
