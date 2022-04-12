@@ -4513,6 +4513,9 @@ thing is just messed up. I know for damn sure there is corroborating
 evidence on the topic out there however. (Like evidence of me bringing it
 up again and again and not having her completely deny it later, etc, etc)
 
+My mom used to believe me about Dusty btw, look no further than all the
+references.
+
 Dusty is just good at what he does I guess; (Causing divisions, isolating
 people, corrupting people through hacking, intimidating people, and even
 killing people and getting away with it apparently) that’s how I see it
