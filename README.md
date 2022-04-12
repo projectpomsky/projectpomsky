@@ -9338,7 +9338,14 @@ my ear as a natural satellite dish to amplify the signal inwards/outwards.
 
 I suspect the microchip works just like a satellite dish in that the signal
 actually first bounces down into the “dish” so that it will then bounce
-back outwards and spread out more, as demonstrated below.
+back outwards and spread out more, as demonstrated in this linked gif:
+
+https://drive.google.com/file/d/1l8oZM1dy3DRqQD7rbTUZuBG6-EDhdldg/view?usp=sharing
+
+
+(Removed inline gif image cuz it was causing performance issues and because
+I became worried it could have potentially been exploited to contain a
+virus by hackers)
 
 
 People apparently add their own devices under their skin these days, it’s
@@ -10780,7 +10787,15 @@ responsible for more than one of these using its proxies given its
 obsession with both “signals” and “exploiting vulnerabilities”. That and
 its obsession with dancing around “red lines”. These guys are killers you
 guys–they enjoy killing and getting away with it–especially when signals
-can be sent while doing it. They are ruthless.
+can be sent while doing it. They are ruthless. They do shit in ways that
+allow plausible deniability. Meaning in ways that provide them with cover.
+Meaning you’d have to dig deep as hell and have reasoning to suspect foul
+play to ever even have a chance at catching them and successfully
+prosecuting them for it–then you’d need to dig even deeper to uncover the
+ties to Russia with uncooperative witnesses. (The witnesses are
+uncooperative because they are scared for their lives) This is
+fundamentally how Russia operates across the board. They have become good
+at what they do.
 
 Chase Gibbons  / Manager
 435-999-4722
