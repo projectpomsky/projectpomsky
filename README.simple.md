@@ -10038,7 +10038,7 @@ thinking–Dusty really deserves the death penalty tbh–maybe life in
 prison–whichever he wants less is what he truly deserves. Plus I really
 don’t think he’s ever going to do the right thing at this stage.
 
-One last thing, I was watching this youtube video just barely made by
+Just real quick, I was watching this youtube video just barely made by
 Alexei Navaly, one of the guy’s Putin locked up fairly recently, (
 https://www.youtube.com/watch?v=T\_tFSWZXKN0) and the hackers started
 prohibiting my internet access as soon as it got to the part where it was
@@ -10159,7 +10159,8 @@ already been defeated or something but in reality them doing all this shit
 to me to try to silence me or what have you has caused our government to
 become aware of all these things and take actions to avoid it. So
 essentially them coming after me to begin with has been and will ultimately
-prove to be the seed of their own demise.
+prove to be the seed of their own demise, same with them coming after
+Ukraine.
 
 Part 3
 
