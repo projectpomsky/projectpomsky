@@ -3576,7 +3576,8 @@ have been, I start work again on Monday after all.. I may end up moving at
 any time tho, once I figure out where I’m going, etc.
 
 Regardless, thank you for reading. Thank you for your help as well, it’s
-been a little better lately. Happy new year!
+been a little better lately, at least in terms of them not stealing my
+keys, constantly breaking into my house, etc, etc. Happy new year!
 
 Chase Gibbons  / Manager
 435-999-4722
