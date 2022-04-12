@@ -2841,7 +2841,7 @@ but more elaborate quote of what I put above here:
  Happy Holidays all, wish me luck. 🎄🎅✌️
 
 
-As of December 22
+As of December 22, 2021
 
 I think it’s in my best interest to keep writing these given I think they
 are trying to frame me so what I notice could make the difference between
@@ -3571,13 +3571,20 @@ seems to normally always work without interference/tampering for the most
 part I think. (435) 261-2308 And that way it will make it a little easier
 on me to get you only more specific things.
 
-I will likely still keep updating this but likely not as frequently as I
-have been, I start work again on Monday after all.. I may end up moving at
-any time tho, once I figure out where I’m going, etc.
+I hope to go back through and add some of the references to the things
+already in this google drive folder probably tomorrow, so it doesn’t bleed
+into the new year, just to make it a little easier on you, but please
+recognize everything I have already done–it hasn’t been easy. This is
+beginning to look like a freaking book now. Regardless, sorry for the delay.
+
+I will likely still keep updating this as well with anything that happens
+but likely not as frequently as I have been, I start work again on Monday
+after all.. And I’m hoping it will stop once I move, I may end up moving at
+any time too, once I figure out where I’m going, etc.
 
 Regardless, thank you for reading. Thank you for your help as well, it’s
 been a little better lately, at least in terms of them not stealing my
-keys, constantly breaking into my house, etc, etc. Happy new year!
+keys, not constantly breaking into my house, etc, etc. Happy new year!
 
 Chase Gibbons  / Manager
 435-999-4722
