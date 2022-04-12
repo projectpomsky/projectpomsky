@@ -11584,16 +11584,15 @@ fall asleep surrounded in sound proof foam then I’ll wake up with this
 strange substance on my hands and arms and on any exposed skin essentially,
 which can give me hives as well. I’ve got to make sure they can’t access
 anything of value like my prescriptions, vape juice, etc, etc, while I’m
-asleep—including from using some fishing device from my attic. I’ve got to
-try and make sure they can’t make me sleep indefinitely by protecting
-myself sufficiently. I’ve got to make sure my home security alarm is on and
-not hacked so they don’t tamper with other parts of my house while I’m
-asleep. I’ve got to make sure my regular alarm clocks are on and not
-connected to the internet otherwise they can just disable them through all
-their hacking. I’ve got to make sure they haven’t added new hardware to
-anything that isn’t connected to the internet which makes it so it is
-connected to the internet. I’ve got to make sure I block all air gaps that
-sound can travel through without suffocating myself, etc, etc.
+asleep I’ve got to try and make sure they can’t make me sleep indefinitely
+by protecting myself sufficiently. I’ve got to make sure my home security
+alarm is on and not hacked so they don’t tamper with other parts of my
+house while I’m asleep. I’ve got to make sure my regular alarm clocks are
+on and not connected to the internet otherwise they can just disable them
+through all their hacking. I’ve got to make sure they haven’t added new
+hardware to anything that isn’t connected to the internet which makes it so
+it is connected to the internet. I’ve got to make sure I block all air gaps
+that sound can travel through without suffocating myself, etc, etc.
 
 Imagine the prospect of getting a new place. No big deal right? Wrong. Huge
 freaking deal. For one they are all over whatever it is I do. They rigged
@@ -11607,18 +11606,16 @@ place before I even rent it out.
 I guess I need to find a roommate is what I need. Someone renting just like
 a single room out. And to disable their damn microchips still.
 
-Just while it’s on my mind, it’s very possible that they actually added
-something to my attic to superheat me right above where I sleep and then
-they just instructed the jet to fly over while they used the thing in my
-attic to heat me previously, hence setting it up to where if investigated
-then I’ll look like the crazy one myself–when in reality they are colluding
-with Russia. I am confident they have direct access from their tunnel to my
-attic btw, I’m going to be renting out a ground penetrating radar soon to
-find their tunnel seems that is easier to do than to go digging around in
-15” of insulation within my attic and seems they can’t hide their tunnel
-just cuz they know I’m going to be search for it. Finding their tunnel will
-also make it so I don’t have to bother renting another place out. It will
-also lead us directly to the culprit.
+Just while it’s on my mind, it’s very possible that they actually used a
+satellite to superheat me right above where I sleep and then they just
+instructed the jet to fly over while they used the satellite to heat me
+previously, hence setting it up to where if investigated then I’ll look
+like the crazy one myself–when in reality they are colluding with Russia. I
+am confident they have a tunnel btw, I’m going to be renting out a ground
+penetrating radar soon to find their tunnel seems they can’t hide their
+tunnel just cuz they know I’m going to be searching for it. Finding their
+tunnel will also make it so I don’t have to bother renting another place
+out. It will also lead us directly to the culprit if found.
 
 Imagine the prospect of leaving your car at anytime and the possibility of
 them getting inside it whenever they choose. I often leave my phone
