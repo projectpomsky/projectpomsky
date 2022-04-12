@@ -12038,6 +12038,33 @@ cyber war at the very least from what I gather. Russia is essentially
 “using” anonymous in a way to try and kick off a cyber war in my opinion.
 And Russia will happily kill its own people for that cause.
 
+Another thing we are up against right now is the January 6 investigations
+coming closer to the end. Any persons that may be criminally liable might
+be highly motivated to work against our government at this time.
+
+It’s extremely worrisome that Russia is seemingly targeting all our
+citizens with all their hacking right now too because they are able to
+essentially then mine tons of tons of datapoints from each voter to later
+user to manipulate those voters in elections if nothing else. It’s
+essentially “weapons grade” communications or psyops. There’s another show
+I watched on netflix called something like “the big hack” or something
+which was about cambridge analytica and all the illegal Facebook data they
+mined in 2016–that explains the above point in great detail. And that was
+just relating to facebook data alone. We are talking about the Russians
+possibly gaining full control of ALL of each and every person’s accounts
+plus ALL of their friends accounts–not just Facebook but everything–with
+all these Russia hacks via just sending a simple text or email–and it
+propagating to their routers and their friends routers and hacking
+literally all of their devices. And that’s even an optimistic outlook to
+all this. Worst case scenario they could legit start like either
+microchipping all the resistance or imprisoning them somehow, idk how yet;
+I don’t even know what they have planned beyond just cataloging them all at
+this time tbh. My brother would know tho ;) But it’s not just companies
+that need to watch out is what I’m getting at–it really is normal people.
+Russia exploits the fact that there is no legit intrusion detection systems
+protecting normal household networks, and they get into corporations
+through that means.
+
 
 Chase Gibbons  / Manager
 435-999-4722
