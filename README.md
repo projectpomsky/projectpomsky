@@ -1,28 +1,40 @@
 Outline
 
-Outline 
+Outline
 
-README 
 
-Security Cameras 
+README
 
-How They Broke In 
 
-Motive 
+Security Cameras
 
-My Credibility 
 
-Daily Occurrences 
+How They Broke In
 
-As of Nov 12, 2021 
 
-As of Nov 15, 2021 
+Motive
 
-As of Nov 16, 2021 
 
-As of Nov 18, 2021 
+My Credibility
 
-As of Nov 20, 2021 
+
+Daily Occurrences
+
+
+As of Nov 12, 2021
+
+
+As of Nov 15, 2021
+
+
+As of Nov 16, 2021
+
+
+As of Nov 18, 2021
+
+
+As of Nov 20, 2021
+
 
 As of November 22, 2021
 
@@ -51,53 +63,71 @@ Indicators of being hacked
 Timeline (Rough Draft)
 
 
-~2006 
+~2006
 
-~2007 
 
-~2008 
+~2007
+
+
+~2008
+
 
 Before Father’s Death
 
 
-~2009 
+~2009
 
-Dusty and Cindy 
 
-2010 
+Dusty and Cindy
 
-Divorce/Move Out 
 
-Father’s Death 
+2010
+
+
+Divorce/Move Out
+
+
+Father’s Death
+
 
 Right After Father’s Death
 
 
-~2011 
+~2011
 
-Trust/College 
 
-2013 
+Trust/College
 
-Graduation 
 
-Eyes of a Killer 
+2013
 
-2015 
+
+Graduation
+
+
+Eyes of a Killer
+
+
+2015
+
 
 Before Sister’s Death
 
 
-Sister’s Death 
+Sister’s Death
 
-~2016 
+
+~2016
+
 
 After Sister’s Death
 
 
-2018 
+2018
 
-2019 
+
+2019
+
 
 Brother Distancing/Time Off
 
@@ -108,24 +138,32 @@ Last Visit/Website/Brother Hacking
 Someone Tries to Fill My Prescriptions
 
 
-Testing My Brother 
+Testing My Brother
 
-First Poisoning 
 
-2020 
+First Poisoning
 
-Second Poisoning 
 
-2021 
+2020
 
-Gun Pulled On Me 
+
+Second Poisoning
+
+
+2021
+
+
+Gun Pulled On Me
+
 
 Witness Intimidation
 
 
-EMF 
+EMF
 
-Hotels 
+
+Hotels
+
 
 Eagles Incident - Murder by Suicide Plot
 
@@ -145,11 +183,14 @@ Tampering with my electricity
 Radiation poisoning
 
 
-Infrasound 
+Infrasound
 
-Keys 
 
-2022 
+Keys
+
+
+2022
+
 
 As of December 15, 2021
 
@@ -160,11 +201,14 @@ As of December 17, 2021
 My Analysis of Timeline
 
 
-Father 
+Father
 
-Sister 
 
-Me 
+Sister
+
+
+Me
+
 
 As for any questions about me.
 
@@ -202,9 +246,11 @@ As of December 29, 2021
 As of December 30, 2021
 
 
-Part 1 
+Part 1
 
-Part 2 
+
+Part 2
+
 
 As of December 31, 2021
 
@@ -227,7 +273,8 @@ As of January 3, 2022
 As of January 4, 2022
 
 
-Random Thought 
+Random Thought
+
 
 As of January 7, 2022
 
@@ -295,7 +342,8 @@ As of February 6, 2022
 As of February 7, 2022
 
 
-February 8, 2022 
+February 8, 2022
+
 
 Lesson - RF/Waves/Hacking
 
@@ -2137,7 +2185,6 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
-​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -7539,8 +7586,8 @@ system for instance. Therefore even alarm systems are vulnerable to the
 same attack as a car remote now thanks to software defined radio and the
 potential of hackers monitoring the radio spectrum. Simply Safe used to
 never even encrypt their devices' communications either btw, before their
-latest model came out. (​​https://www.nimblefreelancer.com/simplisafe-hack/
-) But like I said, even with encryption–a hacker with a software defined
+latest model came out. (https://www.nimblefreelancer.com/simplisafe-hack/ )
+But like I said, even with encryption–a hacker with a software defined
 radio can still bypass it after enough monitoring even if it is encrypted.
 (The same is true with our brains btw)
 
@@ -8708,15 +8755,74 @@ now. We are clearly at a disadvantage in hacking it seems. We should have
 been targeting Russia all along with all the effort we could muster in my
 view. Then maybe we’d know more about both ourselves and our enemy by now.
 Same goes for social media too.
--- 
 
-Chase Gibbons  / Software Development
+As of March 5, 2022
+
+They are going to make me regret saying this–they always do. But I think
+it’s important to say nonetheless because it shows how they might have
+advanced insight into our various infrastructure, including but not limited
+to our police operations, our electrical grid, our church operations, our
+radio stations, our media, and our satellite radio stations, etc. But yea,
+what I wanted to say is it hasn’t been as bad for me the last two nights.
+Suggesting to me that Kyle French hasn’t been as active for some reason.
+And the only reason I can think of is if he were getting looked into
+further.
+
+These guys are definitely set up to get away with all of this. Because
+information is power and they have already hacked a lot of our
+infrastructure I suspect. So they already have access to all the
+information they need to get away with it essentially. I strongly suspect
+they’ve hacked rocky mountain power to turn on and off my power when
+breaking in and tampering with my power previously. All that is
+computerized these days after all. I know they hacked sirius xm radio
+because they made that one about as obvious as them hacking rocky mountain
+power. Plus they couldn’t access my location through sirius xm without
+having direct access to their backend logic. I strongly suspect they’ve
+also hacked various police agencies. Just based on what transpired
+previously with my brother social engineering them, and based on the
+attacker’s ability to know whenever any of them are getting investigated or
+not. I know for a fact they hack businesses all over this country–because
+I’ve seen it first hand. I know for a fact that they hack universities all
+over this country–because again, I’ve seen it first hand as part of my
+profession. What else? Church’s, media, congress, organized crime. As for
+church’s, I don't know if they’ve hacked them or just infiltrated them or
+what but it’s all part of their bigger effort to silently defeat us from
+within. Our media, some of them are extremely biased these days, all they
+would have had to do is use the same tactics on our media as they do on our
+businesses to gain some level of control over them essentially. (Exploit
+capitalism, nobody wants to take a huge hit to their bottom line by going
+public with the fact that they’ve been hacked and all their customer’s data
+is potentially now in harm’s way) As for congress, I mean there’s been some
+strange acting congress members recently is all I’m saying. On the right
+and on the left. Russia doesn’t like one or the other–they infiltrate both
+and try and cause divisions. I don’t know for sure but them corrupting some
+of our congress members is definitely plausible if you ask me. All they got
+to do is hack them and monitor for anything they could use against them
+that would be embarrassing to them and then once found, begin pulling that
+embarrassing thing up on their phone at odd times, etc, to let them know
+they are indeed hacked and the hackers are essentially threatening them. A
+lot of people won’t take that to the police, especially if what the hackers
+found is indeed embarrassing or could otherwise get them in trouble. Then
+the hackers just use similar “signals” whenever they want them to behave a
+certain way. For instance, maybe later the person is reading a news article
+on their phone about Ukraine, all they have to do is start wigging their
+phone out at certain key points or provide other timely signals that are
+learned over time and that my friends is how Vladimir Putin has managed to
+corrupt our society and exploit our law and order in an almost impossible
+to prove manner from within. And each piece of infrastructure they hack
+they use it to amplify their ability to take over the rest. That’s part of
+why hacking is so powerful. That doesn’t even get into how they
+strategically create/exploit conflicts of interest and control the entire
+society from afar, nor does it get into their mass social media
+psychological manipulation efforts, etc, etc.
+
+I wish one of these guys would come forward and do what they know is in the
+best interest of our country. All Putin’s terrorism scares everyone into
+submission. Who knows, maybe one of them already has..
+
+Chase Gibbons  / Manager
 435-999-4722
 
- 
-595 S Riverwoods Pkwy, Suite 250Logan, UT 84321
-rentdynamics.com 
 
-[image: Twitter]  [image: Facebook]
- [image: LinkedIn]
-
+PO Box 747Logan, UT 84321
+gfic.io  
