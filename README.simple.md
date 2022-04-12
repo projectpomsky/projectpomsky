@@ -9988,51 +9988,6 @@ freedom is worth quite a bit.
 https://drive.google.com/drive/folders/1N4w5q-SJ-2aZXt4iiajGkpBJEa9gHYnU
 
 
-
-As of March 13, 2022
-
-Ukraine
-
- -
-
- Putin gets what he wanted originally in regards to Ukraine giving up on
- NATO, getting parts of Ukraine given to him, etc, etc (They are about to
- have the meeting I’ve been warning about btw)
- -
-
- Putin further hacks and exploits our people to aid him and China in
- defeating us from within and creating a new world order
- -
-
- Putin manages to make our alliance look foolish
- -
-
- Putin manages to make USA look weak
- -
-
- Putin undermines faith in Biden amongst his constituents
- -
-
- What else?
-
-
-I’m pissed. I’m pissed cuz I feel the same way as Ukraine. Only my own
-government can’t even protect me from Russia. And I’m pissed because all
-the people who fought for freedom previously are looking like they will
-have died in vain. We have a huge fucking military–we should use it
-sometime for something other than small inconsequential skirmishes against
-middle eastern “terrorists”. The real fucking terrorist is Vladimir Putin.
-No isis gang is going to take away our freedom. Our priorities are all out
-of whack.
-
-The way you get them to stop “coercing” you to do something or not do
-something is by using those “coercions” as a way to decipher what it is
-that they really want you to do–what it is that they are banking on you
-doing–and then doing the exact opposite of what they want you to do. (But
-again they could just flip their tactics and cause you to do what they want
-in this way) In this case it would have been to send the damn jets and in a
-timely manner too.
-
 As of March 14, 2022
 
 My brother is a cold blooded killer you guys. I don’t know if he ever
@@ -10189,4 +10144,4 @@ notified by
 Mailtrack
 
 03/14/22,
-03:24:57 PM
+03:43:35 PM
