@@ -1807,7 +1807,6 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
-​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -6892,15 +6891,25 @@ February 8, 2022
 
 Added doctors notes to this folder.
 
+https://drive.google.com/file/d/15rQvtT5zTEduPPs3l00ctTImpWHi5pqR/view?usp=drivesdk
+
+
+https://drive.google.com/file/d/1uAy7r2-XfdGTrev1GBBiuQTUPB9UMMYz/view?usp=drivesdk
+
+
+https://drive.google.com/file/d/1uAy7r2-XfdGTrev1GBBiuQTUPB9UMMYz/view?usp=drivesdk
+
+
+
 I really think this is the closest I’ve come yet to finding their command
 and control server.
 
-I say this because they took the machines those ips were pointing to down
-soon afterwards, or else they just changed ips/subnets soon afterwards–and
-I mean they took it down or changed their ip addresses regardless of what
-ip address i tried hitting it from. (So they didn’t just block my one ip)
-They were connected to my laptop via udp on some strange port, the same
-port as all these other strange ips. Plus when I nmap-d the
+I say this because they took the machines those ips from yesterday were
+pointing to down soon afterwards, or else they just changed ips/subnets
+soon afterwards–and I mean they took it down or changed their ip addresses
+regardless of what ip address i tried hitting it from. (So they didn’t just
+block my one ip) They were connected to my laptop via udp on some strange
+port, the same port as all these other strange ips. Plus when I nmap-d the
 Russian/Portugese ips after finding them then it brought back a whole list
 of similarly configured machines–and a ton of them–and I had never seen
 that before. (I think it was some kind of botnet tbh) Before they switched
@@ -7007,36 +7016,543 @@ think I did to them–it’s fucked up.
 
 All I’m saying is if my bro really is working with Russians to kill me as I
 now suspect, then what the hell am I supposed to do? This could get out of
-hand real quick especially if they start doing this to others too. Dusty
-even said something to me like the first week or two after he first started
-emf-ing me about how that was quick or something, asking me how I did that.
-(Implying he/they already got caught or something) Which just makes me
-wonder, like what if they already did catch him/them doing all this to me
-but it was just deemed top secret and/or a matter of national security or
-something so there’s nothing they could really even do? That seems like
-something my brother would do is set himself up to be almost impossible to
-stop too. Idk, it’s tough. I’m still confused about that Joseph Escobar cop
-I initially reported all the emf stuff to. I don’t know if he was from the
-fbi or what.
+hand real quick especially if they start doing this to others too.
+
+[Opinion]
+
+Dusty even said something to me like the first week or two after they first
+started emf-ing me about how that was quick or something, asking me how I
+did that. (Implying he/they already got caught or something) Which just
+makes me wonder, like what if they already did catch him/them doing all
+this to me but it was just deemed top secret and/or a matter of national
+security or something so there’s nothing they could really even do? That
+seems like something my brother would do is set himself up to be almost
+impossible to stop too. Idk, it’s tough. I’m still confused about that
+Joseph Escobar cop I initially reported all the emf stuff to. I don’t know
+if he was from the fbi or what.
 
 You would think if they did already catch them and deemed it to be Russia
 tho then they could still do something about at least some of this
 regardless tho. Dusty saying that could have just been another episode of
-my brother playing with me and rubbing it in my face as well, idk, it’s
-hard to say forsure. If it were up to me I’d at least try and pursue any
-foreign agents/persons who hired the Russians who actually physically
-reside here in the states who are also responsible as well tho. (Persons
-like my brother)
+my brother social engineering me knowing I may bring it up later, and of
+him rubbing it in my face as well, idk, it’s hard to say forsure. If it
+were up to me I’d at least try and pursue any foreign agents/persons who
+hired the Russians who actually physically reside here in the states who
+are also responsible as well tho. (Persons like my brother and Kyle French,
+etc—cuz without them—none of this would be possible)
 
-It’s so weird thinking that some foreign country can actually get away with
-brutally but slowly killing someone right in front of everyone when we
-aren’t even officially at war to begin with. And even stranger still is
-that unlucky person they are brutally and slowly killing happens to be
+It’s so weird thinking that some foreign country might could actually get
+away with brutally but slowly killing someone right in front of everyone
+when we aren’t even officially at war to begin with. And even stranger
+still is that unlucky person they are brutally and slowly killing could be
 me—not to mention the fact that the person who had to have initiated all of
-this had to have been my very own brother—all to cover for his suspected
-past murders. Surely there’s got to be some way for me to live a full life
-even still tho—regardless of how small a probability it actually is.
--- 
+this if so would have had to have been my very own brother—all to cover for
+his past murders I suspect.
+
+Surely there’s got to be some way for me to live a full life even still
+tho—regardless of how small a probability it really is.
+
+If that really is the truth—all I ask is you please don’t forget about me
+and you try and help me make it through—because this is honestly tantamount
+to torture. My own witts are the only thing that are seemingly going to
+help me make it through. (Through my own witts I’m able to decrease the
+amount of torture I have to endure—but not by much given how it’s such an
+uneven match to begin with)
+
+P.s. Please don’t let this latest section dissuade you, it’s just hard not
+knowing the truth. It’s easy to think of the worst case scenario sometimes.
+All this is key for everyone to make up their own determinations too.
+
+If that is true, Russia has effectively done what they do to all our local
+businesses, etc, but to our country as a whole and in a slightly different
+manner, by making it a conflict of interest for the government to even come
+forward to the public with info like this. (I.e. to come forward with the
+potential that Russians could be putting microchips in some of our vaccines
+which would likely scare the hell out of everyone and could potentially
+cause a ton of damage to our country as a whole) If true, that would fit
+the exact pattern of what these guys seemingly always do. If nothing else,
+what I’ve learned from all of it first hand is it’s seemingly probably best
+to just bite the bullet and take the heat sooner than later and get
+Russians out of the picture because otherwise they will ultimately
+completely consume and corrupt you. (If you get what I’m saying, they do
+the same thing with their hacking of businesses exploiting a weakness in
+capitalism, if the businesses don’t report it and take the hit immediately
+then the Russians ultimately end up owning them to a certain degree from
+that point going forward) I learned this at Utah state university working
+in the conflict of interest office. Those guys hated Russia and China, etc.
+In retrospect, I’m rather impressed by those IT guys working there tbh.
+Just think if Russia managed to corrupt entire universities. (They probably
+already have tbh) We need to figure out a way to exploit a similar weakness
+in socialism is what it ultimately comes down to.
+
+See below…
+Lesson - RF/Waves/Hacking[image: Diagram Description automatically
+generated with medium confidence]
+
+So I messed up, I’ve been being forced to learn all this stuff about all
+this various physics and hacking and whatnot lately just to try and protect
+myself from all the electronic harassment and I never took the time to
+break it all down for you all.
+
+Fundamentally all you need to know is ANY type of wave can be used to carry
+information. And if you are able to monitor those waves and decode their
+meaning then you can begin to crack the information contained therein and
+you can begin to reproduce that functionality/behavior by recreating
+similar waves via external manipulation yourself essentially. (Including
+car remote waves, security system waves, wifi, even brain waves)
+
+https://www.youtube.com/watch?v=1RipwqJG50c
+
+The electromagnetic spectrum covers everything from different kinds of
+radio waves all the way to high intensity light/energy waves or gama waves.
+When you think of radio waves you might think of AM/FM radio, there are ton
+of different frequencies/patterns or modulations of radio beyond just AM/FM
+radio btw, just know that all radio waves themselves can be encoded or
+interpreted to contain specific information and are used for a whole ton of
+different uses these days. When you think of light waves you might think of
+x-rays or even fiber optic internet, the x-rays of which we are able to
+gather information from using a specialized x-ray reader after the x-rays
+have passed through our bodies and the fiber optic internet acts as a
+direct carrier of information itself. (By encoding different meaning into
+different patterns of light essentially)
+
+RF stands for radio frequency–it’s a type of wavelength. A bunch of stuff
+emits RF waves–but that doesn’t mean they can’t be misused. For instance,
+what happens when you click the unlock button on your key remote to your
+car? What happens is it emits a certain frequency of radio waves in a
+specific pattern or modulation, and that radio frequency pattern emitted
+contains specific information which your car’s receiver then receives and
+uses to allow you to unlock your car from a distance essentially. Same kind
+of concept for wifi, most people have heard of the difference between 2.4g
+and 5g wifi, which are just different radio frequencies that both
+fundamentally allow you to use the internet wirelessly. 5g is a shorter
+wavelength and is therefore faster but it is more easily disrupted by
+things in the environment and conversely 2.4g has an easier time getting
+around things in the environment because the wavelength is longer but it is
+slower essentially; the same goes for 3g/4g/5g cell phone networks. These
+days everything is controlled wirelessly through these various
+electromagnetic waves. Sound waves are only beginning to be explored.
+
+
+The significance of this is not too long ago presenters started showing off
+various forms of RF spectrum monitoring devices at DefCon and other hacking
+conferences; Defcon is like the leading hacker conference in the US. This
+is significant because if you are able to monitor various types of radio
+frequencies being put out at any given location and at any given time,
+using monitoring devices that can be even placed across the road somewhere,
+then you are then able to also begin to analyze, manipulate, and even hack
+those radio frequencies to work for you–assuming your monitoring device is
+also capable of emitting these different radio frequencies across the
+spectrum. That, my friends is called a “software defined radio”. Hacking RF
+has been all over the hacking conferences over the last few years, and that
+is significant because it means hackers are getting more experience in
+hacking/decoding/encoding various types of otherwise unknown
+electromagnetic frequencies/signals.
+
+
+For instance, there are actually multiple ways to hack some of the newest
+car’s remote control unlock buttons. One way has to do with jamming. You
+jam a radio frequency closeby the known frequency that the remote unlock
+button emits on and then you monitor the actual radio spectrum for when
+somebody actually pushes their unlock button. When somebody clicks their
+unlock button, their car’s receiver is overloaded with the jamming that is
+taking place on a nearby frequency and therefore the car won’t unlock for
+them; however, the hacker has just captured your unique key’s radio
+emission. What happens when your car doesn’t unlock the first time btw?
+That’s right, you then push the button again. What a hacker is then able to
+do is actually capture the second and third and fourth emissions as well
+and then just simply re-emit the first one, which unlocks your vehicle for
+you but it leaves the hacker with one or more valid replays they can then
+use to subsequently unlock your car with while you are away. (See this
+youtube video for a better explanation of hacking RF frequencies, this is
+just one example of many: https://youtu.be/1RipwqJG50c?t=1638 )
+
+See also how he hacks a garage door opener in something like 3 seconds:
+https://youtu.be/1RipwqJG50c?t=1021
+
+Another way hackers can hack your key is by simply capturing the signature
+of the radio signal emitted whenever you click the unlock button over a
+period of time and then they can use all that aggregate data to begin to
+crack the underlying secret “code” or “key” or “signature” that is used to
+encrypt all the subsequent keypresses, the “secret key” that is shared
+between both your key remote and your vehicle. This
+“aggregating/analyzing/cracking” technique would ultimately allow the
+hacker to unlock or lock your car whenever they wanted without even needing
+to replay anything that was previously captured. At that point the hackers
+are your key essentially–because they are using the same algorithm to
+create the unlock patterns. And that’s even considering all the latest and
+greatest security features that have been put in place as of today and
+that’s specifically talking about just car remotes–this applies to way more
+than just car remotes btw)
+
+In the recent past our various car remotes would just push out the
+information without any encryption whatsoever–leaving cars completely
+vulnerable to abuse upon a hacker doing a single monitoring session. (i.e.
+previously all the hacker would have to do is monitor your pushing your
+remote unlock button once and then they could unlock your car as many times
+as they wanted simply by replaying that command over and over again because
+the radio emissions weren’t even encrypted–but even now a hacker can crack
+any encryption given enough monitoring is what I’m saying)
+
+What I just referred to has all sorts of different consequences in our
+current daily life–especially for me given the threat I am facing and all
+their constant hacking/monitoring. For instance, how do you think it works
+when you arm or disarm an alarm system in your home these days? Most alarm
+systems aren’t hard wired these days but are instead set up to work
+wirelessly. Lets take “Simply Safe” alarm systems for example. Simply Safe
+alarm systems use the same strategy to communicate among their various
+devices as the car remotes described above, only they use their own unique
+radio frequency/pattern/modulation/encryption, in order to get things like
+the keypad to communicate back to the basestation to arm or disarm the
+system for instance. Therefore even alarm systems are vulnerable to the
+same attack as a car remote now thanks to software defined radio and the
+potential of hackers monitoring the radio spectrum. Simply Safe used to
+never even encrypt their devices' communications either btw, before their
+latest model came out. (https://www.nimblefreelancer.com/simplisafe-hack/ )
+But like I said, even with encryption–a hacker with a software defined
+radio can still bypass it after enough monitoring even if it is encrypted.
+(The same is true with our brains btw)
+
+This same concept of information being carried in various forms of waves
+have been applied to both light and sound waves as well. Light waves can be
+directly encoded to contain specific information (like is the case with
+fiber-optic internet) or we can derive information from any variances in
+energy by reading the results of similar light waves that were emitted
+after having passed through something. (like is the case with an x-ray)
+Different frequencies of light waves is what carries the information in the
+first case. And any changes or diffraction in similar light waves is what
+we gleen information from in the second case.
+
+Sound waves also can be either encoded to contain specific information
+directly upon emission or else can be used in something like an ultrasound
+to look for any variances after passing through or bouncing off something.
+(like is the case in ultrasound/echo-location)
+
+Technically any type of wave can be used in this way essentially–either
+directly by encoding different values into different
+variations/frequencies/patterns of waves upon emission or else indirectly
+by evaluating how similar waves may change after going through a given
+substance, etc. And given some of the latest hacking technology trends, I
+think it’s safe to say hackers are getting better at encoding and decoding
+various otherwise unknown signals through simple monitoring.
+
+Therefore, these same concepts can be applied to our bodies/minds. Assuming
+you are able to monitor the brain while the subject is performing a certain
+activity in isolation, then you could also recreate those same signals in
+the brain via external manipulation–just like with the RF hacks described
+above.
+
+
+
+[Elaborate here]
+
+
+One takeaway is this is all public information. It’s possible this is not a
+foreign government after me after all. (All I know for a fact is my brother
+is definitely involved) Advanced persistent threats are normally only done
+by hostile foreign governments–and what they are doing to me can be
+characterized as an advanced persistent threat. (An advanced persistent
+threat is essentially the hacking against a single group, organization, or
+individual that persists over time and never stops essentially–for
+years–it’s like what China and Russia were doing to Utah State University
+when I worked their essentially–they were constantly trying to break in any
+way they could–only in my case they have already broken in they just
+continually try to hack me and my surroundings more and more and more,
+etc..)
+
+Todo: Talk about how I have managed to be able to get some better sleep at
+nights lately through advancing my knowledge on these subjects. (By using
+infrasound and emf countermeasures, in addition to doing my best at keeping
+them out of my house physically with these things in mind, etc, etc)
+
+Todo: Talk about graphene and its importance in nanotechnology and in
+future technologies.
+
+Todo: Talk about and provide examples of what hacks/vulnerabilities they
+are using. Elaborate on everything I’ve learned in terms of hacking.
+
+
+ -
+
+ They are using some variation of this remote exploit as one of their
+ main hacking initial infection mechanisms: (They automatically hack
+ everything with wifi on any given network whenever a single hacked device
+ connects to the same network essentially)
+ -
+
+ https://www.youtube.com/watch?v=TDk2RId8LFo
+
+
+Todo: Talk about latest patterns/behaviors of mine they’ve been targeting
+and trying to decode. And how they try to use them to disturb me at
+nighttimes.
+
+Todo: Talk about how the brain cannot be programmed–it can only be trained.
+It’s a neural network after all.
+
+Todo: Talk about infrasound and how it is used to control the body's organs.
+
+Todo: Talk about my video tagging efforts and their obstruction efforts.
+
+Penetration testing - This is what they are doing to me–only I didn’t hire
+them to do it: (What they are doing to me is the real deal)
+
+https://www.youtube.com/watch?v=JsVtHqICeKE
+
+I got one of these Quwave devices, which genuinely helped combat some of
+their RF/EMF torture and helped me sleep. (https://quwave.com/defender.html)
+Since they found out I got that they broke in and somehow disabled it even
+though the light still blinks like it’s on. (Like I have a reader too and
+it stopped emitting traceable signals after they broke in and disabled it,
+leading to shitty sleep the last few nights) I just got my new one today,
+and this one I plan to keep on me at all times. In addition, I’ve
+counteracted all their infrasound stuff by emitting my own infrasound as
+stated previously. And I’m combating all their constant break-ins by
+getting a new security system and trying to ensure they have a hard time
+hacking it through all the knowledge I’ve learned over time.
+
+I swear they even have like different specialists in all different fields.
+They have electrical engineer specialists, nano-technology specialists,
+hardware specialists, break-in/lock picking specialists, and hacking
+specialists.
+
+Etc.
+
+To be continued..
+
+I just wanted to show you guys this stuff is indeed possible and it is
+actually popular in the hacking community at this time.
+
+Other references:
+
+https://www.youtube.com/watch?v=ZuNOD3XWp4A
+
+
+As of February 15, 2022
+
+I had a real dream last night thanks to my new untampered with
+anti-mind-control uwave device and my father was there to comfort me in it.
+
+I am a gibbons. Dusty is fucking with the wrong person. Dusty is not a
+fucking gibbons. My dad is rooting for me. And dusty is just bitter about
+the fact that he was not given the gibbons last name when he was born—dusty
+even threw a fit about it to my mom previously around the time he first
+started acting out in 2019.
+
+My newly functional anti-mind-control device also helped me fall asleep
+easier and sleep a lot less long last night—just like I used to—imagine
+that. It’s insane what energy medicine can do. (In this case it mainly just
+serves to block all the mind control frequencies but still)
+
+There is most definitely more to life after death than whatever the fuck
+dusty thinks there is. Dusty is fucked at the end of the day—regardless of
+what happens here. He needs to be put in jail tbh. And I say that with
+utmost sincerity. He is extremely dangerous—particularly to his own family
+members whereas that seems to be his overall pattern.
+
+Dusty just did one of his anonymous calls to my phone trying to intimidate
+me again—as I typed this. Again showing it is indeed harassment and dusty
+indeed needs to be put in jail.
+
+I’m pretty sure dusty works during the day times and his roommate Eric and
+that Kyle French guy work at night times. I suspect Eric and Kyle might
+even be related or otherwise affiliated tbh. By works I mean they take
+turns hacking/harassing/monitoring me.
+
+Dusty must pay them with all his dark web money he’s earned over the years.
+I’m telling you if you just arrest Dusty then this would all be over
+with—regardless of who all he’s working with. Dusty is the source of the
+problem and that’s a fact. He’s terrorizing all of Logan just to get back
+at my father—and my father died 12 years ago now. That’s how fucked up in
+the head dusty is. Everything that happened even years ago is therefore
+still extremely relevant in this case because that’s how dusty thinks. He
+never forgives anything. He spends his whole life pissed off about things
+like that—things that most normal people wouldn’t even bother getting
+pissed about. And yet Dusty devotes his whole life to it.
+
+It’s a fact that most people don’t expect something bad to happen until it
+happens—as stated in that penetration testing video I referenced above.
+Most people innately think all people are good—until something bad
+happens—that’s the essence of what social engineering exploits. That’s the
+whole reason people hire penetration testers to begin with—is to wake
+people up. But this is no penetration test—evil is indeed very real and my
+brother is indeed extremely evil.
+
+Dusty is not going to take over my mind anytime soon but the best way to
+ensure he doesn’t is to arrest him.
+
+
+As of February 22, 2022
+
+I need to make a clarification. While they aren’t able to reprogram my
+brain which is a neural network, as stated previously, what they are able
+to do is take control of my unconscious mind. (Meaning they are able to
+control me when I’m asleep on a higher level) They are able to make me
+“sleep walk” essentially. They started targeting me with a new technology
+the night before last. It felt like they were scanning the room using some
+new more precise directed sound wave technology, a newer more advanced
+version of what they have used on me previously. (It was coming from the
+North, it was likely another mobile car unit parked somewhere outside that
+time) What they were doing was literally like a 3d survey of 3d space
+scanning one axial after another of my immediate surroundings at a time. I
+specifically recall it moving my pant legs whenever it would hit my legs. I
+also specifically recall every time I’d move it would seemingly start over
+again, and rescan my immediate surroundings over again in real-time. I
+tried my best to block it out before falling asleep but what I’ve learned
+at the end of the day is there really is no blocking sound, they always
+seem to find a way to get enough sound in to be able to cause me to disturb
+my surroundings enough while I’m asleep to be able to then have unfettered
+access to me. I have been learning a ton about electro-magnetism lately
+myself and how electricity going through a wire can generate its own
+magnetic field. I’ve been learning about electromagnetism lately primarily
+because electromagnetism in the form of an EMP is the key to disabling any
+unwanted electronics that may be present in my ear without hurting me. I
+suspect their microchip is likely controlled using ultrasound btw, rather
+than RF, but I’m still figuring that part out. They’ve indicated to me it
+is made of graphene as well, which is a super new nanotechnology. Anyways
+long story short, I had my immediate surroundings in a very particular
+placement prior to going to sleep the night before last. And when I
+eventually woke up–everything was completely out of place in a way that
+would be hard to explain by tossing and turning alone. It was highly
+disturbing tbh. At first I questioned whether maybe their new technology
+they used kept me asleep while someone got in and messed with me somehow
+during my sleep or something. But then I ultimately realized after checking
+on all my security measures, etc, that someone did mess with me during my
+sleep–however they didn’t get in my house to do so. (I.e. they are getting
+more control of my unconscious mind and are able to mess with me during my
+sleep in that way to a certain degree–they are able to make me mess with me
+during my sleep without even realizing it essentially)
+
+The extent to which they can control my conscious mind is very limited, as
+stated previously. They can record signals of my brain while monitoring me
+doing something and essentially replay those signals later to try and
+disturb me later, etc. However, conversely, the extent to which they can
+control my unconscious mind appears to be far greater than that of my
+conscious mind. It has become a race to figure out a way to disable their
+microchip before they are able to fully control my unconscious mind, for
+reasons you can probably imagine.
+
+As for where I’m at in my plan, essentially I’m on a leave of absence from
+work currently based on notes from my doctor. The notes from my doctor
+specifically say this condition is not “terminal”--meaning I didn’t all the
+sudden go crazy. I’m still advised to see a counselor just to help deal
+with the PTSD and to help cope with all the ongoing abuse however.
+
+My doctor originally wrote his doctor’s notes such that I could return to
+work on a flexible schedule, because at the end of the day I’m still just
+as capable of doing everything I did previously beyond the fact that I have
+a group of people actively interfering and trying to sabotage my life.
+Therefore a flexible schedule made the most sense because otherwise the
+attackers could just go harder on me on any given night before I was
+supposed to work, (like they ultimately ended up doing) and cause me to
+miss any designated schedule. However Rent Dynamics came back after that
+note and said they didn’t agree to me working a flexible schedule given the
+nature of my job and being a team lead. So my doctor had to write a new
+note with a designated part time schedule for me to return to work instead.
+And the weekend before I was supposed to return to work with a part-time
+designated schedule is when the attackers stepped up their attacks against
+me to the point where I no longer felt confident I could block their
+attacks to the point where they could no longer interfere with me during my
+sleep and therefore I could no longer feel confident in returning to work.
+So I ended up not going back to work and instead getting another extension
+from my doctor at that time.
+
+The main thing I’ve been working on is trying to figure out how I can fund
+my way out of here. As stated previously, I’m simply too hacked to be able
+to make any true progress in keeping them out. Any new security system I
+get ends up being hacked while it’s still in setup mode. The attackers
+simply have too many ways of getting in, monitoring everything I do, spying
+on my keypresses and on my screen using electromagnetism, etc, and they’ve
+already rigged my house such that it is literally impossible for me to keep
+them out here at this time. Whereas physical access is king in terms of
+hacking, that is and has been the biggest battle I’ve been raging–is
+keeping them out of my house and taking back my devices. Therefore it is
+key for me to start fresh somewhere new and take all the lessons I’ve
+learned here and apply them to a fresh restart elsewhere, where they won’t
+already have all these different mechanisms in place to bypass all my
+defense mechanisms and to spy on me, and ideally where they don’t even know
+where I am.
+
+However there are two main things that are blocking me from moving
+someplace else at this time:
+
+The first is I really don’t want to drain my trust if I can help it. I have
+a ton of equity in my house so I’m hoping to avoid draining my trust which
+is profitable by itself and instead pull from the equity in my house. Now
+there’s two ways I can pull from the equity in my house, either by selling
+it outright or by refinancing it. I’ve been leaning towards the latter
+because what I always planned to do when i left here was to rent my house
+out when I eventually moved anyways, thereby continuing my estate how I
+have been up to this point, keeping my same worth, and if anything just
+having someone else pay down my mortgage for me. I don’t want to allow
+these guys to completely fuck up all my plans in life. However with that
+said, what they have managed to be able to do is make it a lot more
+difficult to operate according to plan. It turns out it is a lot harder to
+refinance my home when I am on a leave of absence from work. Currently the
+plan with the refinancing is to wait until the beginning of March to begin
+the refinance process, which will take ~30 days in itself, so that way the
+creditors will be more at peace lending to me given how I’ll then be slated
+to return to work within ~30 days time. Meaning I had to wait to refinance
+my house until I was close to returning to work. But then again Rent
+Dynamics wants me to return to work once all this is resolved, and this
+isn’t even going to have a chance at all being resolved until I move and
+get away from these guys, and I can’t really even move until I have the
+money to fund my move, and I won’t really have the money to move until I
+refinance or sell my house. Worst case I guess I’ll just have to sell my
+house. But time is of the essence because every day is a constant battle
+with these guys. I’m constantly having to reset different devices and
+implement new strategies to try and keep them out. It’s a never ending
+struggle at this time and I am completely outnumbered. They literally won’t
+allow me to have even one device that remains unhacked at this point which
+makes it impossible to keep them out.
+
+The second thing blocking me from moving at this time is the damn unwanted
+electronics/microchip in my ear. They are indeed able to track my location
+using their microchip whenever they don’t have an alternative means of
+tracking me come to find out; and they are indeed able to send unwanted
+signals to my brain to harass me; in addition, they’ve been showing
+increased signs of being able to fully control my unconscious mind using
+their damn microchip–which is honestly really scary. The last thing I want
+is to wake up one day and have me be in a completely different location
+somewhere not knowing what I may have just done–who the fuck knows what
+they are capable of doing with me when in control of my unconscious mind,
+I’ll just leave it at that, but I don’t want to find out is the moral of
+the story. Anyways, their damn microchip is a huge problem to my ultimate
+goal of being able to move anywhere and therefore it is a huge obstacle to
+me returning to work as well at this time. So I’ve been working on that
+aspect of it as well–this has been my biggest priority as of most recently
+tbh.
+
+It’s got to be Russia btw. The technologies and resources and specialists
+and psychological strategies they are using are consistent with what I
+would expect only another superpower like Russia would realistically
+possess/would realistically use against us in this way. I suspect Dusty
+somehow got affiliated with Russia over the dark web at some point in his
+life, and I suspect he is now at least partially responsible for their
+assault against me, likely to save himself, with the full resources of the
+Russian government now on his side. (Something like that anyways) All I
+know is Dusty is for damn sure involved, and Russia or another significant
+foreign adversary as ruthless as Russia is most definitely involved as
+well. I’m scared that their end game is to get me to do something while I’m
+asleep. I’m scared they have done this a time or two before tbh. That is
+why finding a way to disable the damn microchip is paramount to me at this
+time.
+
+As stated previously, I’ll let you know if they ever stop attacking me–thus
+far they haven’t shown any signs of letting up anytime soon. But until I do
+then just assume I am still fighting daily battles with these guys
+regardless of whether I post it here or not. Please don’t forget about me.
+I’m doing my best to combat them but I am severely outnumbered.
+
+P.s. Did you hear how Russia started lighting off fireworks right after
+Biden spoke announcing the sanctions against Russia today? If that means
+what I think it means and if I am indeed right about Russia being involved
+with all the harrassment against me then Russians seemingly associate
+fireworks with upcoming or past murder from what I have learned from these
+attackers previously. (As stated previously–the first like two times they
+attacked me was on the night of the fireworks–then they seemingly lit off
+fireworks in unison while playing the sound of turbo suffering to me for
+the first time on new year’s eve)
 
 Chase Gibbons  / Manager
 435-999-4722
