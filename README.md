@@ -3499,9 +3499,9 @@ What these people are doing with the feed from my brain to my eyes might
 actually be caused by another variation of infrasound based on me
 experiencing it last night while hearing the sound/feeling the
 vibrations–which would be a relief if so—I don’t like the idea of my brain
-being reprogrammed through a microchip after all. But yea, it could just be
-infrasound at a different frequency/rhythm than the one that messed with my
-heart previously. Infrasound is how your body controls your organs. So
+being tampered with through a microchip after all. But yea, it could just
+be infrasound at a different frequency/rhythm than the one that messed with
+my heart previously. Infrasound is how your body controls your organs. So
 infrasound in the environment could theoretically produce the results I was
 describing with my eyes. I now suspect they essentially could be just
 sending out their own infrasound using a combination of my house's
@@ -3609,13 +3609,51 @@ lives of my loved ones miserable for no reason other than for his own
 personal enjoyment. I said my kryptonite is my love for my brother—and it
 is—but dusty can fuck off as far as I’m concerned at this stage.
 
-Dusty for some reason seems to only get enjoyment out of hurting others
-these days which is not okay. In a way, this is like an epic battle between
-two brothers both for their lives—good vs evil. I’m okay with that tho cuz
-at least if I die I’ll be dying for a noble cause—although I wish it didn’t
-have to be this way. By Dusty’s life I mean life in prison btw. But yea,
-dusty leaves me very little choice but to try and get him locked up at this
-stage. I therefore could honestly use all the help I can get because I’m
-completely outnumbered here and I didn’t even know I’d one day be forced to
-play this fucked up game of my brothers just to stay alive and avenge my
-loved ones until I was literally in the middle of it.
+Dusty for some reason seems to only get enjoyment out of hurting and
+controlling others these days which is not okay. In a way, this is like an
+epic battle between two brothers both for their lives—good vs evil. I’m
+okay with that tho cuz at least if I die I’ll be dying for a noble
+cause—although I wish it didn’t have to be this way. By Dusty’s life I mean
+life in prison btw. But yea, dusty leaves me very little choice but to try
+and get him locked up. I therefore could honestly use all the help I can
+get because I’m completely outnumbered here and I didn’t even know I’d one
+day be forced to play this fucked up game of my brothers just to stay alive
+and avenge my loved ones until I was literally in the middle of it.
+
+Dusty didn’t like that, he’s now trying to control me through his
+microchip… Time to put my ear plugs back in…
+
+I’ll say it again–worst brother ever. Name one person who would be a worse
+brother than this for me to have given my intelligence and my ability to
+see through their shit. One person. I’ll switch you brothers. I’d honestly
+recommend my whole family get the fuck away from Dusty at this stage–at
+least until he’s caught–and stay away from shots especially if you have any
+suspicions you might be hacked..
+
+I now suspect Dusty can fuck with me through both infrasound and the
+mircochip btw. I suspect Dusty’s Ogden Recording Company LLC and/or ELIXEY,
+LLC is really just a weapons testing ground, at least in part.
+
+https://drive.google.com/drive/folders/1zdqa\_VIphs-zzLY19\_MhPtxCfHxtjN4p?usp=sharing
+
+I do think Dusty has tampered with some of my evidence already btw. I saw
+some of the files get reloaded in the background multiple times last time I
+logged into the account that owns that main hacking\_poisoning notes folder
+when I was merely just reading through and commenting on some of the
+files..
+
+Now it’s not just hacking and assault and poisoning and emf-ing and
+infrasound and explosions I have to worry about with my brother–he can
+legit start fucking with my brain to try and negatively reinforce what I’m
+doing.. (He’s the new Charles Manson)
+
+Chase Gibbons  / Manager
+435-999-4722
+
+ 
+PO Box 747Logan, UT 84321
+gfic.io 
+
+[image: Twitter]  [image: Facebook]
+ [image: LinkedIn]
+
