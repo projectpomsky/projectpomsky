@@ -398,6 +398,9 @@ Latest Potentially Significant IPs and Email Tampering Logs
 Electromagnetic Spectrum Health Effects Video
 
 
+Notice
+
+
 As of March 10, 2022
 
 
@@ -411,6 +414,12 @@ References
 
 
 As of March 12, 2022
+
+
+As of March 13, 2022
+
+
+As of March 14, 2022
 
 
 
@@ -9434,6 +9443,7 @@ Thank you,
 
 Chase Gibbons
 
+
 As of March 10, 2022
 
 [Opinion]
@@ -10022,6 +10032,142 @@ doing–and then doing the exact opposite of what they want you to do. In
 this case it would have been to send the damn jets and in a timely manner
 too.
 
+As of March 14, 2022
+
+My brother is a cold blooded killer you guys. I don’t know if he ever
+deserves being forgiven. I think that’s just wishful thinking on my part.
+I’m pretty sure they just made another attempt at my life.
+
+I’m fine. I just need to get out of here.
+
+It’s scary cuz they literally think of ways to kill me that they can cause
+plausible deniability and they wait for times to kill me when think they
+are most likely to get away with it. And they monitor me 24/7 and they have
+a tunnel somewhere into my house. And they did successfully defeat the RF
+encryption algorithm on my latest SimplySafe security system–it didn’t take
+them very long to do so. They have hacked literally everything in my
+house–and my house is full of digital gadgets tbh. They use their damn
+tunnel to get in my house and take pictures of my keys when I leave them
+anywhere so that they can then 3D print my various keys as well, including
+the keys to any safe I buy.
+
+I would leave but I haven’t been able to disable the microchip yet. So why
+risk going somewhere I am unfamiliar with when I know they will just follow
+me there? That’s opening myself up to another situation where they could
+just kill me and get away with it.
+
+To be clear, I am grateful for everybody’s help. I’m just trying to point
+out that we clearly have some problems in our country that need to be
+resolved. These guys wouldn’t be pursuing me to begin with if I weren’t at
+least mostly right about what I have alleged–it really is that simple. Like
+think of all the different people Putin could put on his hit lists, the
+oligarch who just put a $1 million dollar reward on Putin’s head for
+instance, etc, etc–and yet for some reason they chose me–and they devote
+all their resources to me. All based on a couple twitter postings about
+them interfering with our social media and being behind QAnon previously,
+and based on my brother’s desire to get rid of me, etc. And yet they are
+completely determined to kill me now.
+
+It’s as if we already don’t have freedom of speech in some regards–which is
+just infuriating tbh.
+
+To be clear, Dusty does deserve being locked up for the rest of his life in
+my opinion–regardless of what I may say at any point in the future. He’s
+killed my whole family. All that about seeing him again and whatnot is just
+wishful thinking and always has been and always will be wishful
+thinking–Dusty really deserves the death penalty tbh–maybe life in
+prison–whichever he wants less is what he truly deserves.
+
+One last thing, I was watching this youtube video just barely made by
+Alexei Navaly, one of the guy’s Putin locked up fairly recently, (
+https://www.youtube.com/watch?v=T\_tFSWZXKN0) and the hackers started
+prohibiting my internet access as soon as it got to the part where it was
+explaining how Putin’s palace was funded through bribes, etc. I took two
+takeaways from it.
+
+
+ 1.
+
+ You could likely use that same model of bribery to bust my brother and
+ his Russian cronies who are helping him in trying to kill me, specifically
+ in regards to how they likely get paid and/or how their assets are likely
+ paid for.
+ 2.
+
+ These guys continue to engage in federally prohibited cell and wifi
+ jamming activities in their blocking of all my communications
+ regularly–particularly after an attack when urgent phone and email
+ communications are most needed.
+
+
+I do get frustrated sometimes that this doesn’t move faster. I get
+frustrated sometimes that you guys haven’t arrested my brother yet. Etc,
+etc. But at the end of the day I have been able to learn the true scope of
+the issue first hand myself and I therefore realize why it is taking so
+long. I now understand that this is about a lot more than just me, my dog
+turbo, my father Tim, and my sister Karie. It’s about our whole country and
+our allies’ countries and it’s about democracy itself. I just don’t want to
+see us continue making the same mistakes nor get defeated is all. In a way,
+we all rise and fall together.
+
+I have since changed my mind on intervening in Ukraine with the jets. See
+this video:
+
+https://www.youtube.com/watch?v=xguam0TKMw8
+
+We need to watch inflation closely to avoid falling out of our dominating
+status and we need to avoid getting involved in wars to avoid another
+rising super power from taking us out. And plus it’s clear you guys are
+playing the long game which is smart–your strategy really is the smartest
+strategy after all–the sanctions will most definitely get to Russia over
+time. How that works exactly when countries like Russia are essentially
+taunting you and your citizens constantly–idk–but I’m sure all the
+sanctions will help. There’s plenty of ways to get creative to get them to
+stop without causing a full blown war however I now feel. Some sacrifices
+will likely have to be made but it’s all for the greater good, and that is
+okay with me I feel. In a way this was another trap cuz we cannot fight
+another world war right next to Russia and China, so I’ll admit I was most
+definitely wrong on that one. It really is a battle of good vs evil.
+
+Ukraine is doing pretty darn well without the fighter jets all else
+considered. No use giving them jets and risking starting another world war.
+However I will say–we should condition Russia to talk to us diplomatically
+rather than constantly sending us “signals”. The “signals” are complete bs
+tbh. Talk to our faces and quit being scared. Just sayin.
+
+Again just wishful thinking on my part that we will ever be able to truly
+stop Putin’s mafia’s aggressions. So my apologies for my having a lack of
+context on that subject as well. I just want Putin to go away that’s all. I
+feel this world will be a better place without him tbh. I can’t believe his
+whole government is essentially a mafia that operates globally. It’s nuts.
+
+Anyways, if you’ve learned one thing about me throughout all of this it’s
+that I am extremely honest. I say what I think at the time for the most
+part. Some of it is right, some of it is wrong, but the overall theme of
+what I say is normally at least pointed in the right direction and I really
+do try and do what’s best for both my family and my country.
+
+We really are all in this together as democracies anyways. Like Putin has
+been undermining all of our democracies in similar ways, and while it may
+sometimes seem tempting to go towards a dictatorship model, we all love our
+freedom and it can be easy to take it for granted sometimes, but at the end
+of the day we shouldn’t. Because freedom is everything. I can’t imagine a
+world led by someone like Putin tbh. I wouldn’t want to play a part.
+
+I hope my feedback has helped. I noticed we are working on passing a law in
+congress to make it required for businesses to report when they’ve been
+hacked to the government–which is a huge step in the right direction as
+well.
+
+I can’t imagine having a high level government job, that must be so
+stressful. But you guys are honestly doing a really good job at it, all
+things considered. It’s definitely a balance though that’s for sure.
+
+One last thing, and I’m sure we are researching it ourselves. But these
+guys have taken infrasound and electromagnetics and nanotechnology to the
+next level. We should look into doing all that ourselves.
+
+https://www.youtube.com/watch?v=m\_SqYNWgs58
 
 Chase Gibbons  / Manager
 435-999-4722
@@ -10036,5 +10182,5 @@ Sender
 notified by
 Mailtrack
 
-03/13/22,
-07:26:53 PM
+03/14/22,
+02:51:08 PM
