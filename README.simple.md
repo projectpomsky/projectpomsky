@@ -11768,7 +11768,7 @@ result. I don’t do drugs and I haven’t for a long time–it would be lonely
 doing them all by my lonesome anyways. Like I said I still don’t even know
 the results. Plus what would be the point of doing drugs when I am in a
 life and death situation anyways? It would only put me at that much more of
-a disadvantage as a result.
+a disadvantage.
 
 You guys, the feds have all the hacking tools that the Russians have and
 then some. Where do you think the Russians got the damn hacking tools?
