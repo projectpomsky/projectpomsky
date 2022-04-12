@@ -512,6 +512,530 @@ Be on the lookout for possible Russian EMF satellite targeting US
 As of April 2, 2022
 
 
+As of April 3, 2022
+
+
+As of April 7, 2022
+
+
+Outline
+
+
+README
+
+
+Security Cameras
+
+
+How They Broke In
+
+
+Motive
+
+
+My Credibility
+
+
+Daily Occurrences
+
+
+As of Nov 12, 2021
+
+
+As of Nov 15, 2021
+
+
+As of Nov 16, 2021
+
+
+As of Nov 18, 2021
+
+
+As of Nov 20, 2021
+
+
+As of November 22, 2021
+
+
+As of November 24, 2021
+
+
+As of November 26, 2021
+
+
+As of November 27, 2021
+
+
+As of November 29, 2021
+
+
+As of December 7, 2021
+
+
+As of December 8, 2021
+
+
+Indicators of being hacked
+
+
+Timeline (Rough Draft)
+
+
+~2006
+
+
+~2007
+
+
+~2008
+
+
+Before Father’s Death
+
+
+~2009
+
+
+Dusty and Cindy
+
+
+2010
+
+
+Divorce/Move Out
+
+
+Father’s Death
+
+
+Right After Father’s Death
+
+
+~2011
+
+
+Trust/College
+
+
+2013
+
+
+Graduation
+
+
+Eyes of a Killer
+
+
+2015
+
+
+Before Sister’s Death
+
+
+Sister’s Death
+
+
+~2016
+
+
+After Sister’s Death
+
+
+2018
+
+
+2019
+
+
+Brother Distancing/Time Off
+
+
+Last Visit/Website/Brother Hacking
+
+
+Someone Tries to Fill My Prescriptions
+
+
+Testing My Brother
+
+
+First Poisoning
+
+
+2020
+
+
+Second Poisoning
+
+
+2021
+
+
+Gun Pulled On Me
+
+
+Witness Intimidation
+
+
+EMF
+
+
+Hotels
+
+
+Eagles Incident - Murder by Suicide Plot
+
+
+String of break-ins #1 - Murder by Overdose Plot
+
+
+String of break-ins #2 - Murder by Explosion/Lung Cancer Plot
+
+
+Halloween Car Break-in/Vape Juice Tampering/Mocking me
+
+
+Tampering with my electricity
+
+
+Radiation poisoning
+
+
+Infrasound
+
+
+Keys
+
+
+2022
+
+
+As of December 15, 2021
+
+
+As of December 17, 2021
+
+
+My Analysis of Timeline
+
+
+Father
+
+
+Sister
+
+
+Me
+
+
+As for any questions about me.
+
+
+As of December 16, 2021
+
+
+As of December 17, 2021
+
+
+As of December 18, 2021
+
+
+As of December 20, 2021
+
+
+As of December 22, 2021
+
+
+As of December 23, 2021
+
+
+As of December 24, 2021 - December 25, 2021
+
+
+As of December 27, 2021
+
+
+As of December 28, 2021
+
+
+As of December 29, 2021
+
+
+As of December 30, 2021
+
+
+Part 1
+
+
+Part 2
+
+
+As of December 31, 2021
+
+
+Turbo Second Poisoning Admission By Hackers
+
+
+As of January 2, 2022
+
+
+Lightsabers/Triangulating Infrasound/X-ray Vision
+
+
+A Little Later On...
+
+
+As of January 3, 2022
+
+
+As of January 4, 2022
+
+
+Random Thought
+
+
+As of January 7, 2022
+
+
+As of January 8, 2022
+
+
+As of January 10, 2022
+
+
+Dusty’s True Colors
+
+
+As of January 14, 2022
+
+
+As of January 15, 2022
+
+
+As of January 16, 2022
+
+
+As of January 17, 2022
+
+
+As of January 18, 2022
+
+
+As of January 19, 2022
+
+
+As of January 22, 2022
+
+
+As of January 22, 2022
+
+
+As of January 24, 2022
+
+
+As of January 26, 2022
+
+
+As of January 27, 2022
+
+
+It’s Totally Russia
+
+
+As of January 31, 2022
+
+
+As of February 1, 2022
+
+
+As of February 2, 2022
+
+
+As of February 4, 2022
+
+
+As of February 6, 2022
+
+
+As of February 7, 2022
+
+
+February 8, 2022
+
+
+Lesson - RF/Waves/Hacking
+
+
+As of February 15, 2022
+
+
+As of February 22, 2022
+
+
+As of February 23, 2022
+
+
+As of February 26, 2022
+
+
+As of February 27, 2022
+
+
+As of February 28, 2022
+
+
+As of March 2, 2022
+
+
+Hypothetical Coordinated Takeover of Super Power Using Psychological
+Manipulation and Next Generation Warfare Tactics Over Time W/Out Crossing
+Any Red Lines Illustration
+
+
+As of March 3, 2022
+
+
+As of March 5, 2022
+
+
+Jet Airplane Assault
+
+
+As of March 7, 2022
+
+
+Russia -> Wagner Group
+
+
+As of March 8, 2022
+
+
+Latest Potentially Significant IPs and Email Tampering Logs
+
+
+Electromagnetic Spectrum Health Effects Video
+
+
+Graphene Microchip
+
+
+As of March 10, 2022
+
+
+What Putin is Doing
+
+
+Final Answer
+
+
+References
+
+
+Art of War Quotes
+
+
+As of March 12, 2022
+
+
+As of March 14, 2022
+
+
+Part 2
+
+
+Part 3
+
+
+What their tunnel in my house sounds like
+
+
+As of March 15, 2022
+
+
+As of March 19, 2022
+
+
+Investigation Assumptions
+
+
+Twitter Observation
+
+
+Oddity at Doctors Office the Other Day
+
+
+How would you feel
+
+
+As of March 20, 2022
+
+
+We need to support Ukraine 🇺🇦
+
+
+Potential Russian Mafia “Signals”
+
+
+Water Tampering
+
+
+More on the Microchips
+
+
+My superpower💪 === Ability to see through people 👓
+
+
+As of March 22, 2022
+
+
+Status Update
+
+
+Hacker People
+
+
+My Brother
+
+
+As of March 24, 2022
+
+
+Doing the Unthinkable
+
+
+Russia is Root of ALL Our Problems
+
+
+As of March 26, 2022
+
+
+Gangstalking
+
+
+If It Helps
+
+
+As of March 28, 2022
+
+
+I’m Now Out of Time
+
+
+As of March 30, 2022
+
+
+Be on the lookout for possible Russian EMF satellite targeting US
+
+
+As of April 2, 2022
+
+
+As of April 3, 2022
+
+
+As of April 7, 2022
+
+
 
 
 README
@@ -12075,7 +12599,12 @@ through that means. (They get into corporations through the
 people/employees//homes they exploit–even if the corporation has stellar
 security–guess what? They can simply exploit an employee through their home
 network and threaten to give up dirt on them and get those people to do
-what they want them to do)
+what they want them to do) In going after the citizens themselves rather
+than the corporations directly, it gives them multiple added benefits such
+as the ability to stay hidden, the ability for their 0day malware to remain
+0day malware for a long period of time, the ability to exploit things that
+require human intervention by corrupting people, and the ability to
+manipulate people in elections.
 
 As of April 2, 2022
 
@@ -12263,6 +12792,102 @@ spreads if left unchecked. Nobody seems to think about our children or our
 children’s children–and how what they do today will inevitably affect their
 lives and their freedom. I’d be willing to bet most people’s kids would be
 willing to do the right thing.
+
+As of April 3, 2022
+
+The attackers always step up their targeting of me when they know I’m
+thinking about finding another trustee or redoing my own personal trust
+like I am now thinking again just fyi.
+
+As of April 7, 2022
+
+I just wanted to add an additional thought to one of my recent posts real
+quick, because I really do feel it is really important for our country and
+our ally’s countries to recognize and look out for.
+
+Russia/my brother’s suspected targeting of our citizens themselves rather
+than actual corporations as of late, in relation to all their recent
+hacking, their suspected targeting of our citizens or home networks
+themselves as opposed to only targeting corporation’s networks gives them
+multiple added benefits/advantages such as:
+
+
+ -
+
+ the ability to stay hidden by adding an addition proxy layer for
+ investigators to have to go through in our adversary’s ultimate hacking of
+ all our corporations/infrastructure, (The investigators literally have to
+ track their way back through computers like mine and find the malware on
+ those computers and then track that back to any command and control server
+ which could be behind all kinds of proxies and whatnot itself–plus, all
+ their hacking of individuals is also how they apparently communicate with
+ their targets by creating and utilizing learned signals over time–which
+ would be a lot harder to pull off in the context of them just targeting an
+ individual organization)
+ -
+
+ plus it gives them the ability to hack a person’s whole social network
+ at a time and develop a profile of each person individually through their
+ friend networks, (essentially building an “influence” database)
+ -
+
+ perhaps most importantly it gives them the ability for their 0day
+ malwares to remain 0day malwares for a lot longer durations of time,
+ (whereas most if not all home networks DO NOT have the capability to truly
+ detect and report NEW 0day malwares of the caliber any foreign adversary is
+ using to the rest of the world–which is huge in and of itself–it
+ essentially allows their malware to remain effective for much longer
+ periods of time and it therefore allows them to use their 0days against a
+ lot more people)
+ -
+
+ plus exploiting citizens themselves over corporations gives them the
+ ability to actually exploit things within corporations that require direct
+ human intervention, (i.e. corrupting people rather than just robots allows
+ them to do a bunch more stuff than they could otherwise do; it honestly
+ makes me think of edward snowden for some reason and it makes me question
+ whether or not they got him to somehow give up all our secrets by first
+ exploiting him somehow–it’s definitely a possibility)
+ -
+
+ and then targeting our citizen’s home networks themselves rather than
+ corporation’s networks also gives them the ability to be able to actually
+ manipulate all our citizens later in our elections through the social
+ profiles they create on each person–either as candidates or as voters–which
+ is also huge from an adversarial point of view. (Because they are then
+ forming both a “prospective candidate” and “voter” profile on each person
+ rather than just a “corporation” profile essentially–it goes back to the
+ cambridge analytica type manipulation except on steroids in this case
+ essentially–because their access to any person’s data literally has no
+ bounds in this case)
+
+
+We really need to look out for our adversaries specifically targeting our
+citizens in regards to hacking is all I’m saying. Because I’m pretty sure
+that is what they are now doing and have been doing for a while now–they
+are honestly seemingly corrupting our whole society and just think–they
+could be gathering data now that they could then turn around and use to
+gain influence over candidates potentially decades from now–which just
+creates a wicked feedback loop–and they do it all in ways that are all
+super difficult and time consuming to investigate and prove. Moral of the
+story is targeting home networks is a heck of a lot easier than targeting
+organizations from their point of view. And it’s a lot more discrete too..
+And as a home user it’s almost impossible to stop because nobody really
+offers or utilizes services capable of detecting or stopping it on a
+non-corporation level.
+
+This gets to the root of why I’m ultimately so concerned for our country
+tbh. It gets to how our adversaries I think have been corrupting our people
+to begin with. (Well this and all their social media communications warfare
+manipulation, well that and a certain leader that may or may not have been
+a Russian proxy–or a certain leader who at very least was unknowingly
+helpful to our adversaries strategy of isolating and dividing us as a
+nation to begin with) Literally everything else spawns from this root. My
+brother wouldn’t even be able to do any of this to me without all that
+pretty much–or at least he wouldn’t be nearly as effectively without their
+seemingly strategic targeting/manipulation of our social networks I
+wouldn’t think..
+
 
 
 Chase Gibbons  / Manager
