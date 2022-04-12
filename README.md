@@ -1807,6 +1807,7 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
+​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -4892,7 +4893,14 @@ previously thought.
 I suspect everything else is just a smoke screen or cover story or false
 flag operation meant to cover up the truth pretty much.
 
-Now that right there would explain literally everything.
+Now that right there would explain literally everything. Luckily for me
+they’ve been getting tripped up on any variances in my prescriptions from
+day to day however—thank god. At one point I think they even thought I was
+going to be a lost cause given my prescriptions which is when they tried to
+kill me at the eagles. Since then I think they’ve figured out a way to
+adjust for any variances in my prescriptions from day to day but they still
+appear to be struggling—again thank god. But I do get the sense they have
+done this before..
 
 I therefore plan to move somewhere where I will be of no use to either
 Russia or my brother. I plan to move to somewhere like Portugal or
@@ -4913,14 +4921,18 @@ reactions at key times, etc, etc..)
 This is my final answer at this time. It’s the only thing I can think of
 that explains everything realistically.
 
-Me personally, I’m not a good liar–I’m not good at being fake either. I
-have no motive to be doing any of this besides to try and help my family,
-stop all the harassment, go back to work, and to do some good in this
-world. I therefore would hope you will give all this adequate consideration
-because truth is stranger than fiction and you just can’t make this stuff
-up; plus, at the end of the day–I assure you I have been telling you the
-truth to the best of my abilities this entire time–regardless of how
-strange the truth may seem.
+Don’t believe me? Ask Dusty’s old work about the Russian Wordpress plug-in
+he tried installing right before being fired.
+
+Me personally, I’m not a good liar–I’m not good at being fake either.
+Programmers in general aren’t good liars because we deal with truths and
+false expressions all the time. Plus I have no motive to be doing any of
+this besides to try and help out my family, stop all the harassment, go
+back to work, and to do some good in this world. I therefore would hope you
+will give all this adequate consideration because truth is stranger than
+fiction and you just can’t make this stuff up; plus, at the end of the
+day–I assure you I have been telling you the truth to the best of my
+abilities this entire time–regardless of how strange the truth may seem.
 
 Thank you for coming along the journey with me, I think I have now found my
 answer as to where I should move to. (Don’t worry, I plan to move to a
@@ -4943,15 +4955,20 @@ Here are a few of the messages Dusty wasn’t able to delete all traces of..
 
 
 Please don’t fall for my brother Dusty trying to ruin my whole life as an
-innocent person. 😔
+innocent person. 😔 Dusty has been premeditating this stuff for years. The
+only reason he didn’t act sooner I suspect was because I pointed out to him
+the 5 year pattern of deaths in our family and how people were getting
+suspicious. (At the time I said that to try and talk him out of continuing
+to attack me)
 
-I wouldn’t be risking my whole career and everything else if I weren’t 100
-percent confident most of what I allege against my brother is in fact true.
-They freaking EMF and infrasound me every single night starting right
-around the time I Iay down to go to sleep–every single f-ing night–they are
-obviously trying to create an illusion. Do you know what that does to me
-psychologically? It makes me fear going to sleep. Do you know what all of
-this I’m being exposed to does to me psychologically? It makes me less
+Plus I wouldn’t be risking my whole career and everything else if I weren’t
+100 percent confident most of what I allege against my brother is in fact
+true and accurate. They freaking EMF and infrasound me every single night
+starting right around the time I Iay down to go to sleep–every single f-ing
+night–they are obviously trying to create an illusion. Do you know what
+that does to me psychologically? It makes me fear going to sleep. Do you
+know what all of this other stuff I’m being exposed to does to me
+psychologically? It’s hard to even quantify tbh. But it makes me less
 likely to trust others or goto the bars anymore, etc, etc. It’s called
 psychological manipulation and mind control.
 
@@ -4959,23 +4976,18 @@ What the heck else am I supposed to do as an innocent person in this
 situation? I’m being abused, I don’t know what else to say.
 
 If you guys can’t investigate my brother due to jurisdiction issues or what
-have your, then could you please let me know and I’ll share all this with
-someone who actually can investigate him. It makes it tough when there is
-more than just one person involved, because a lot of the crimes occur here
-but the person(s) ultimately behind these guys coming after me to begin
-with reside in another jurisdiction. Again it goes back to my brother
-making friends with a Russian Oligarch as I now suspect. But at the end of
-the day it’s not my job to investigate–I don’t want to jeopardize your
-investigation either. So I’ll just stop there, just know I was just trying
-to help rid this place of true evil and get back to work myself.
+have you, then could you please let me know and I’ll share all this with
+someone who actually can investigate all this. It makes it tough when there
+is more than just one person involved, because a lot of the crimes occur
+here but the person(s) ultimately behind these guys coming after me to
+begin with reside in another jurisdiction or another country entirely.
+Again it goes back to my suspecting my brother making friends with a
+Russian Oligarch.
 
-Chase Gibbons  / Manager
-435-999-4722
-
- 
-PO Box 747Logan, UT 84321
-gfic.io 
-
-[image: Twitter]  [image: Facebook]
- [image: LinkedIn]
-
+But at the end of the day it’s not my job to investigate–I don’t want to
+jeopardize your investigations either. So I’ll just stop there, just know I
+was just trying to help rid this place of true evil and get back to work
+myself. And know that I caught my brother in the first place for a reason.
+(Because I’m extremely analytical, I’ll admit this one was a lot
+tougher—they are essentially banking on you not to see through all their
+smoke screens in my opinion)
