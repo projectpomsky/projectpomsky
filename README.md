@@ -11489,6 +11489,159 @@ hurricanes that hit us than any other country lately I will say that. We’ve
 got to get to the root of some of these issues otherwise we’ll just keep
 having to endure more and more hardship.
 
+They finally admitted it. Russia has implanted malware into some of our
+systems. I just saw them admit it. Thank you. Yea it sucks but the first
+step to solving any problem is recognizing the fact that it exists.
+
+You guys–Russia is planning something big–I just know it. When the threat
+of nukes stops countries from responding with their conventional militaries
+in times of conflict–that means we have got to invest more in non
+conventional military techniques–just like Russia has apparently been doing
+for a long time. Cuz otherwise we are left almost completely defenseless
+and unable to maintain world order.
+
+As of March 26, 2022Gangstalking
+
+Alright so imagine this.
+
+Seriously imagine this and think about each of these things next time you
+are doing the same thing yourself.
+
+It’s difficult for me to look and behave normally these days for the
+following reasons.
+
+Okay so imagine the prospect of getting in the shower. You’ve got to get in
+the shower. To most people, it’s no big deal. To me—it is a huge freaking
+deal as with everything. Imagine using your body wash not knowing whether
+or not there is some substance added in there meant to do harm to you. Same
+for your shampoo. Same for the very water coming out of the spout itself.
+Same for the bathtub itself. Same for the floor leading up to the bathtub.
+Imagine doing everything in your power to ensure you don’t have to worry
+about all this shit going forward only to have every single thing you do be
+countered and them getting past your most stringent countermeasures
+regardless of what you do. They are trying to make me look like I don’t
+shower with this one—by making it difficult as hell to shower and by
+putting poison shit in all my body washes, etc, to where I am actually
+negatively reinforced whenever I do shower unless I do literally everything
+right including buying brand new soap and body wash right before I shower
+or else using brand new soap and body wash that is clear that it hasn’t
+been tampered with previously. I’ve been buying the personal ones lately,
+but even with a lot of those, there’s no seal. Meaning they can still
+tamper with brand new body washes before I ever use them–even if I store
+them in my safe.
+
+Imagine brushing your teeth and having it hurt your teeth more than it
+helps. This one has a direct link back to my brother–he was accusing my mom
+of this but in reality he was telling me what he was going to do to me come
+to find out. This one is meant to get me not to brush my teeth or else face
+potential tooth loss if I do. (Unless I buy brand new toothpaste and
+toothbrush each time which I’ve been trying to do)
+
+Imagine putting everything in your brand new 3rd safe you just bought. Safe
+right? Wrong. They use their tunnel to get in and take a picture of my keys
+when I’m busy in the other room and then they are able to 3d print keys to
+access my safe while I’m away. And if I buy a combination safe they’ll just
+use their x-ray vision to watch the combination.
+
+Now imagine the prospect of trying to find new fresh clothes and having to
+worry about them tampering with those as well and putting this shit on them
+that makes you break out in hives.
+
+Imagine the prospect of taking a nap. Most people it’s no big deal. To me
+if I take a nap without completely locking myself in my room and faraday
+cage and triggers in place to tell whether they got in or not while I’m
+asleep—then it’s a potential death sentence for me. They will use their
+electromagnetic energy weapon to change the polarity of my brain to sedate
+me then they’ll come get access to my prescriptions right out of my pocket
+and tamper with them via their tunnel—and that’s assuming they’ll even
+allow me to fall asleep elsewhere in the first place.
+
+Imagine the prospect of using the restroom. Having to dodge their
+deliberate attempts to target you whenever you use the restroom as if they
+are trying to condition you not to eat anymore so that you don’t have to
+deal with their harassment when using the restroom as often. I think they
+specifically target me while using the restroom both for this reason and
+because what’s one of the reason one wakes up at nights randomly? It’s to
+use the restroom. So them getting the signatures of me using the restroom
+further ensures they won’t get caught when tampering with me during the
+nighttimes essentially–if i am unprotected.
+
+Imagine getting ready to leave the house. No big deal right? Wrong. Huge
+freaking deal. I’ve got to make sure literally everything is in place, and
+half the time I encounter something or other that suggests they have
+compromised another one of my countermeasures making it so I have to then
+reset my phone or reset my network or reset my security system just to
+have even like 50 percent confidence that they won’t get in my house while
+I’m away, etc, etc.
+
+Imagine going to sleep at night. No big deal right? Wrong. I’ve got to
+sleep in a faraday cage. I’ve got to make sure my whole freaking house is
+locked down. I’ve got to make sure I am literally loked into my room with
+triggers on the door to let me know if they get in while I’m asleep. I’ve
+got to make sure I am protected from their emf’s, gas, and infrasound.
+They’ll even put their poison shit on the sound proof foam to where if I
+fall asleep surrounded in sound proof foam then I’ll wake up with this
+strange substance on my hands and arms and on any exposed skin essentially,
+which can give me hives as well. I’ve got to make sure they can’t access
+anything of value like my prescriptions, vape juice, etc, etc, while I’m
+asleep—including from using some fishing device from my attic. I’ve got to
+try and make sure they can’t make me sleep indefinitely by protecting
+myself sufficiently. I’ve got to make sure my home security alarm is on and
+not hacked so they don’t tamper with other parts of my house while I’m
+asleep. I’ve got to make sure my regular alarm clocks are on and not
+connected to the internet otherwise they can just disable them through all
+their hacking. I’ve got to make sure they haven’t added new hardware to
+anything that isn’t connected to the internet which makes it so it is
+connected to the internet. I’ve got to make sure I block all air gaps that
+sound can travel through without suffocating myself, etc, etc.
+
+Imagine the prospect of getting a new place. No big deal right? Wrong. Huge
+freaking deal. For one they are all over whatever it is I do. They rigged
+my whole rental house just in anticipation of me possibly staying there
+before renting it out again previously. Plus if I rent any place out
+myself, I’m going to need advanced locks in place just to keep them out—and
+not every landlord will be cool with that. Just renting a place out seems
+like a huge challenge to me tbh. They aim to essentially rig the whole
+place before I even rent it out.
+
+I guess I need to find a roommate is what I need. Someone renting just like
+a single room out. And to disable their damn microchips still.
+
+Just while it’s on my mind, it’s very possible that they actually added
+something to my attic to superheat me right above where I sleep and then
+they just instructed the jet to fly over while they used the thing in my
+attic to heat me previously, hence setting it up to where if investigated
+then I’ll look like the crazy one myself–when in reality they are colluding
+with Russia. I am confident they have direct access from their tunnel to my
+attic btw, I’m going to be renting out a ground penetrating radar soon to
+find their tunnel seems that is easier to do than to go digging around in
+15” of insulation within my attic and seems they can’t hide their tunnel
+just cuz they know I’m going to be search for it. Finding their tunnel will
+also make it so I don’t have to bother renting another place out. It will
+also lead us directly to the culprit.
+
+Imagine the prospect of leaving your car at anytime and the possibility of
+them getting inside it whenever they choose. I often leave my phone
+recording these days in my car whenever I have any food or anything in
+there that I don’t want them tampering with while I have to run into some
+other store real quick—but even then all my phones are hacked so they can
+still technically get passed it.
+
+It’s all designed to discredit me. From keeping me up at nights to making
+me sleep forever when I do sleep to making it a bad experience for me to
+shower to making it a bad experience for me to use the restroom to making
+it difficult for me to do literally anything to all their false flag
+operations and continuous evolutions, etc, etc. They are extremely serious
+about discrediting me. I’m surprised they haven’t discredited me more than
+they have tbh. They actually haven’t really succeeded in discrediting me at
+all thus far. But they try that’s for damn sure.
+
+I could go on btw. But just know this is just the gist of it. The three
+critical pieces to enable them to do all this is all their hacking, their
+tunnel, and their microchips. If i can counter any one of those things it
+would honestly make all of the difference. I hope Russia hacks us tbh. Then
+maybe we’ll start taking hacking more seriously. From now on we need to
+keep hacking Russia ourselves.
 
 Chase Gibbons  / Manager
 435-999-4722
