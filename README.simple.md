@@ -10070,7 +10070,12 @@ we all rise and fall together.
 I have since changed my mind on intervening in Ukraine with the jets. See
 this video:
 
+👇👇👇🤙
+
 https://www.youtube.com/watch?v=xguam0TKMw8
+
+Someone should show Trump supporters this video. It’s clear if we get along
+we are a lot less likely to have anyone challenge us.
 
 We need to watch inflation closely to avoid falling out of our dominating
 status and we need to avoid getting involved in wars to avoid another
@@ -10144,4 +10149,4 @@ notified by
 Mailtrack
 
 03/14/22,
-03:43:35 PM
+03:46:07 PM
