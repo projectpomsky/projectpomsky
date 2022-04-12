@@ -10079,18 +10079,20 @@ we are a lot less likely to have anyone challenge us.
 
 We need to watch inflation closely to avoid falling out of our dominating
 status and we need to avoid getting involved in wars to avoid another
-rising super power from taking us out. And plus it’s clear you guys are
-playing the long game which is smart–your strategy really is the smartest
-strategy after all–the sanctions will most definitely get to Russia over
-time without really risking ourselves. How that works exactly when
-countries like Russia are essentially taunting you and your citizens
-constantly–idk–but I’m sure all the sanctions will help. There’s plenty of
-ways to get creative to get them to stop without causing a full blown war
-however I now feel. Some sacrifices will likely have to be made but it’s
-all for the greater good, and that is okay with me I feel. In a way this
-was another trap cuz we cannot fight another world war right next to Russia
-and China, so I’ll admit I was most definitely wrong on that one. It really
-is a battle of good vs evil.
+rising super power from taking us out. It’s as if the adversaries are
+following this exact video only in attempting to use it against us to
+defeat us. And plus it’s clear you guys are playing the long game which is
+smart–your strategy really is the smartest strategy after all–the sanctions
+will most definitely get to Russia over time without really risking
+ourselves. How that works exactly when countries like Russia are
+essentially taunting you and your citizens constantly–idk–but I’m sure all
+the sanctions will help. There’s plenty of ways to get creative to get them
+to stop without causing a full blown war however I now feel. Some
+sacrifices will likely have to be made but it’s all for the greater good,
+and that is okay with me I feel. In a way this was another trap cuz we
+cannot fight another world war right next to Russia and China, so I’ll
+admit I was most definitely wrong on that one. It really is a battle of
+good vs evil.
 
 Ukraine is doing pretty darn well without the fighter jets all else
 considered. No use giving them jets and risking starting another world war.
@@ -10149,4 +10151,4 @@ notified by
 Mailtrack
 
 03/14/22,
-03:46:07 PM
+04:03:21 PM
