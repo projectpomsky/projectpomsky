@@ -3346,6 +3346,7 @@ Chase G
 
 
 As of April 10, 2022
+Trust Documents
 
 Added all signed copies of my own personal trust and its amendments here:
 
@@ -3392,7 +3393,7 @@ ninth iteration of thee trust Paul setup for me while trying to rely on
 anyone around here’s guidance. This tenth iteration I’m doing my own
 research and I’m doing away with the trust Paul setup for me. Plus it’s
 just concerning because its like again somehow Dusty somehow exerted his
-influence over these people to get them to settle their own fueds at my own
+influence over these people to get them to settle their own feuds at my own
 expense–because Dusty is completely fixated on me cuz he knows I could
 result in him being locked up for the rest of his life. It’s just whatever,
 I feel like that Hansey lawyer settling his case with Paul and Paul’s old
@@ -3439,9 +3440,12 @@ my brother manipulate them into doing some pretty dark shit.
 
 
 
+GFIC
+
 One thing I ran into just barely is the mess of trying to transfer my
-shares of GFIC into my own personal trust. It turns out you got to go based
-on the operating agreement. And the operating agreement is shown here:
+shares of GFIC into my own personal trust upon my passing. It turns out you
+got to go based on the operating agreement. And the operating agreement is
+shown here:
 
 https://docs.google.com/document/d/14S-9txhHPDYbSknrtlmVlFZ3X622Gr\_h/edit?usp=sharing&ouid=117949522585689688012&rtpof=true&sd=true
 
@@ -3454,38 +3458,34 @@ titles of anything in GFIC into my name. And all my assets are in GFIC
 pretty much. So yea, that was a shocker.
 
 As for how I’m supposed to transfer GFIC and it’s assets to whom I want it
-to goto if/when I die, well ideally as shown here:
+to goto when I die, well ideally it would be as shown here:
 
 https://drive.google.com/file/d/1frhYLzLnpl5ze1nCEKIFQHZDgSTlnFUj/view?usp=sharing
 
 Meaning I should have already made whomever I was going to designate my own
-personal trust’s trustee a member just like my father did with us. Then I
-would need to change up the operating agreement to make it so the persons I
-choose can and will indeed become a managing member upon my passing. Doing
-so allows you to split up the taxes over a number of years and save on
-estate taxes that way essentially, by making it not all a lump sum in one
-year–which puts it all in a lower tax bracket. The problem however is Paul
-never teaches me anything about taxes–he seemingly deliberately doesn’t
-ever teach me anything about taxes for whatever reason–he never has
-either–even though I’ve had a relationship with him as my
-accountant/trustee for over ten years now and I talk to my accountant more
-than anybody. And so as with everything else in life I’ve found out if I
-want something I’ve just got to do it myself/learn it myself. And this is
-how pretty much my whole life has gone thus far thanks in large part come
-to find out because of my serial killer brother–who only gets joy when
-manipulating or doing harm to others; it’s become difficult for me to trust
-anybody really anymore and for good reason cuz Dusty’s already corrupted so
-many people around me.
+personal trust’s trustee a member of GFIC just like my father did with us.
+Then I would need to change up the operating agreement to make it so the
+persons I choose can and will indeed become a managing member upon my
+passing–by amending the operating agreement. Doing it that way allows you
+to split up the taxes over a number of years and save on estate taxes by
+not having them all hit all at once essentially, by making it not all a
+lump sum in the same year–which puts it all in a lower tax bracket. The
+problem however is Paul never teaches me anything about taxes–he seemingly
+deliberately doesn’t ever teach me anything about taxes for whatever
+reason–he never has either–even though I’ve had a relationship with him as
+my accountant/trustee for over ten years now and I talk to my accountant
+more than anybody else talks to their accountant. And so as with everything
+else in life I’ve found out if I want something I’ve just got to do it
+myself/learn it myself. And this is how pretty much my whole life has gone
+thus far thanks in large part come to find out because of my serial killer
+brother–who only gets joy when manipulating or doing harm to others; it’s
+become difficult for me to trust anybody really anymore and for good reason
+cuz Dusty’s already corrupted so many people around me.
 
 I think I figured out the exact recipe my brother and Russia have been
 using to systematically corrupt more and more of our country btw.
 
-Read this ticket I just created on the new Evony game I’ve been playing.
-It’s a lot like Age of Empires mixed with a puzzle game but it’s on your
-phone. Essentially my bro and his gangstalking crew try to make anything
-that is enjoyable to me no longer enjoyable to me. They really do spend all
-their time on doing just that to me. But see if you can see the pattern
-from this explanation of mine:
+Easter Candy Left Open In My House
 
 P.s. They got in my house and they poisoned me again. This time through my
 open easter egg candy. It essentially makes all your joints feel like there
@@ -3495,56 +3495,275 @@ than through skin exposure. Same effect tho. I assume it’s something meant
 to give me non-hodgkin's lymphoma tbh.
 
 I know it’s from them cuz they always rub it in by repeatedly pointing
-their damn energy weapons at my feet when my toes keep curling for no
-reason out of nowhere, etc, etc.
+their damn energy weapons at my feet when my toes keep curling up for no
+reason out of nowhere after eating a single jelly bean that I had left open
+in my house when I left, etc, etc.
 
 I really wish someone would actually truly help me not get murdered. I
-seriously don’t think I can get out of this one by myself.
+seriously don’t think I can get out of this by myself.
 
-My mom has raised a monster. The worst part is she won’t even admit it.
+Theory
 
-I can’t believe what Logan has become just in general tho. I can’t believe
-so many people are willing to succumb to the devil's manipulation around
-here. It is very cyclical in nature and they end up making everyone
-accomplices to murder ultimately. They essentially go after the people like
-me who see the hacking for what it truly is to begin with, people who
+I can’t believe what Logan has become just in general and so sudden too. I
+can’t believe so many people are willing to succumb to the devil's
+manipulation around here. It is very cyclical in nature what they are
+doing. And they end up making everyone accomplices to murder ultimately.
+They essentially go after the people like me who see the hacking for what
+it truly is to begin with, for how dangerous it really is, people who
 aren’t particularly susceptible to corruption themselves, and then they
-snag the ones that are more concerned about money than anything and they
-just continue to further and further corrupt them–by ultimately making the
-corruptible ones be accomplices to murdeering the non corruptible
+snag the ones that are more concerned about money than anything and that
+are more prone to corruption in general and they just continue to further
+and further corrupt them or “groom” them overtime–and they ultimately make
+the corruptible ones be accomplices to murdeering the non corruptible
 ones–leaving our country with a bunch of corrupted people and nobody to
 stand up to it. And they end up scaling this up and hacking our whole
 country by simply gangstalking the non-corruptible ones like me while they
 are killing them and making their lives as miserable as possible and while
-they are discrediting them. Any new game I get into–they will legit spend
-time and hack it and they make it no fun to play anymore. Any person I
-reach out to even on linked in–they will hack them and make it pointless
-for me to reach out to anybody anymore. And then through all those new
-people/businesses they hack while gangstalking the last batch–the whole
-process is reborn and it continues to repeat itself until they ultimately
-hack everyone and corrupt everyone and kill all the non-corruptible persons
-essentially and make everyone else accoomplices to all their murders.
-That’s my latest theory on how this all works on a macro level anyways and
-how it scales.. So for instance they just hacked the Evony game I’ve been
-getting into lately–and now those guys will be faced with the same exact
-contemplation Rent Dynamics was faced with originally. And wheres nobody
-wants to have their company devalued–the stakeholders normally decide its
-best if they just act like nothing happened despite all the evidence being
-extremely clear–but based on what new entity chooses to do in that initial
-hacking will ultimately then determine whether or not they are ultimately
-sucked into being accomplices to murder their colllegues or not through
-Russia’s never ending manipulation..
-
-Just a thought..
+they are discrediting them. And then any new contact I reach out to–they
+hack them too–partly to help with their gangstalking but also it gives them
+a new entrypoint for another mission; and any new game I get into–they will
+legit spend the time and hack it at that time so that way they are knocking
+out 2 birds with one stone–one to help them make my life miserable and the
+other to create a new entrypoint to start the process over again with a new
+company they’ve never gotten around to hacking before. And they make any
+game or anything in general I enjoy doing no fun anymore–deliberately and
+relentlessly. (They keep changing the database on this Evony game I’ve been
+playing lately to make me lose all my resources I just bought for instance,
+they’ve been deliberately sabotaging my alliance by having their own
+harm-happy people become traitors in my alliance and start sabotaging us in
+ways the game itself doesn’t even allow them to do–even in the game world)
+Plus, any person I reach out to even on linked in and possibly twitter–they
+will hack them just through the dang linked-in editor somehow while messing
+around in the background and they make it pointless for me to reach out to
+anybody anymore. And then through all those new people/businesses they hack
+while they are gangstalking the last batch–while they are gangstalking
+people like me–now the whole process is essentially reborn except within a
+new company and it continues to repeat itself until they ultimately hack
+everyone and everything and corrupt everyone and kill all the
+non-corruptible persons essentially and make everyone else accoomplices to
+all their murders. That’s my latest theory on how this all works on a macro
+level anyways and how it scales–because that’s exactly what I’ve witnessed
+them doing. So for instance they just hacked the Evony game I’ve been
+getting into lately–to try and just bring me down which is the only thing
+that makes them happy–and now those guys at Evony will be faced with the
+same exact contemplation Rent Dynamics was faced with originally when it
+was hacked. And whereas nobody wants to have their company devalued nor
+admit any wrongdoing–the stakeholders normally decide its best if they just
+act like nothing happened despite all the evidence being extremely clear
+that they are indeed now hacked–but based on what they choose to do in the
+very beginning will ultimately then determine whether or not they are
+ultimately sucked into being accomplices to murder of their colllegues or
+not through Russia’s never ending manipulation.. Once they are in your
+systems they can legit ruin any day of the week for your company if you
+don’t do what they want. So what do most people do at that point then? They
+do what they want. And before you know it–you are an accomplice to an
+ongoing murder just like that. They also use intimidation to achieve the
+same exact result. Silence is quite literally violence in this case.
 
 I shouldn’t even have to have to worry about things like my own personal
-trust at this age. But I do because of everyone else's decisions and their
-succumbing to all the manipulation themselves essentially. (And getting
-dragged down to hell themselves)
+trust at this age. The so called "young" supreme court justices being
+appointed these days are still at least ten years older than I am. But I
+have to worry about shit like this because of everyone else's decisions and
+their succumbing to all the manipulation themselves essentially. (And
+getting dragged down to hell themselves)
 
 You know how it’s extra prestigious for mormons to get someone baptized
-right? Yea well with these guys it’s the opposite. It’s extra prestigious
-the more people they are able to drag down to hell essentially.
+right? Yea well with these guys it’s legit the opposite. It’s extra
+prestigious the more people they are able to drag down to hell essentially.
+It’s like the ultimate way my brother could ever possibly dream of
+undermining mormonism.
+
+I did this today as well.
+
+https://drive.google.com/file/d/1XzZmDbImATT4tXJqUh7HX\_LQq1wb8W4D/view?usp=sharing
+
+I’m just as capable as I was before for the most part beyond having to
+constantly deal with all their harassment. However they are in fact killing
+me–I assure you. Have you seen the way the Russians treat Ukraine? Yea well
+that’s exactly what they are like to me–24/7. I just wish someone would put
+an end to it already–or else tell me what I need to do to put an end to it
+myself. Once they make everyone accomplices to murder then there is no
+turning back–they own you for eternity at that point.
+
+
+This isn’t a future that anybody could ever want. My work should have
+listened to me in regards to Russia but they didn’t and now I’m paying the
+price as well as them. I just really hope now the police are in fact
+listening to me and don’t make the same mistake as my work.
+
+I know my brother better than anybody. I wouldn’t accuse him of all this if
+I weren't 100000% confident it were him. I don’t get why I’m still getting
+poisoned by a Russian biolab right here in America and I don’t get how they
+could possibly be getting more brazen now than they were even before while
+meanwhile I am legit getting murdered in the worst possible way in front of
+everyone–and nobody is seemingly doing anything about it. All it would take
+to end it is to arrest my brother and Logan would become a lot more normal
+again–because he’s the leader of this sect. And no he doesn’t work at Epic
+Engineering in layton–because there isn’t even an Epic Engineering in
+layton. Plus that was his old job anyways. He lies constantly these days.
+And he constantly rubs everything in peoples faces and tries to bring
+everyone down all the time and he always tries manipulating literally
+everyone these days. I don’t get why I’m still here getting murdered when
+the “anomymous” veersion of Dusty always makees it so appareent that he is
+in fact guilty of everything I’ve accused him of and then some. I’m tired
+of being poisoned and stalked and literally hunted 24/7 you guys–I'm tired
+of it. I wish you would do something about it or at very least let me know
+what you need from me so that you can.
+
+They might try killing me again tonight just fyi. Cuz for one I just
+pointed out what was wrong with my trust–and they could be banking on using
+that against me–that’s literally how they think. Technically it should be
+good but these guys seem to not want me to change my trust document to the
+other one for some reason so it could be more about my inheritance and
+Paul’s creating that shitty trust for me more so than previously realized.
+In addition, I got a new nvr on the way. This one doesn’t have wifi
+capabilities–so they can’t hack its wifi by default. And the critical
+difference is I also bought some electronics lock boxes that I can then
+place the nvr in. Which from their perspective makes it so they are
+gambling if they break in once I get that up–they would essentially be
+banking on them picking whatever lock I put on it in time–and I
+specifically got the lockboxes where I could replace the lock at any time
+for that exact reason. And then I’m still looking into the ground
+penetrating radar stuff. But it’s tough cuz I don’t trust my phone–they’ve
+sent my phone calls to corrupt proxy phone numbers previously and they
+could very well do it again with something as critical as this. So I’m
+debating on just renting the equipment out myself. I will most definitely
+try multiple methods this time tho in all likelihood, just cuz it’s a
+little more affordable than the bug sweep and its extremely critical tbh.
+
+Trust Documents Continued
+
+Want to know what I also found odd about the whole Paul Gibbons my trustee
+and the Hansy lawyer? For one they went from like bitter enemies to Hansy
+like essentially recommending Paul to me out of nowhere just like
+that–saying they settled and he’s not a bad guy or something–that happened
+after I had first visited with Hansy and after I had first given him my
+trust documents that Paul had drafted for me at Jones Simkins to look over.
+(I almost wonder if Paul got fired in part because of that tbh) For two,
+well I won’t list all the oddities I noticed, but one that recently crossed
+my mind is once that Hansy lawyer sent me on my way the one thing Paul
+specifically made a point to ask me about was whether or not I kept the
+same trust–and I said yea cuz Hansy said he looked over it. But it struck
+me as kinda odd at the time and made me think maybe I shouldn't keep that
+same trust that Paul setup tbh. I think Paul might have also tried to gauge
+how Hansy had spoken about Paul that time while I was there. Paul also
+ended up recommending Hansy in the event I were to change trustees..
+
+Paul also started acting really strange about whether or not he had spoken
+to Dusty. Like vehemently denying it even when I was just apologizing for
+my brother causing everyone such a headache–he reacted as if I were
+accusing him of talking to him which I found odd as well.
+
+It’s almost as if somebody is paying certain people off or something,
+sometimes I really do wonder about that. Or like Paul completely gave up on
+his whole court battle with Jones Simkins that had been ongoing for
+literally like years–-right after Hansy got access to the trust document
+Paul had created for me while at Jones Simkins. How Paul then managed to
+get Hansy to not thoroughly vet the very same trust document for its
+legality—it’s beyond me.
+
+I really do think Dusty is being funded by an oligarch btw–he even started
+saying something to me about how I should get a rich friend back around
+2018 or 2019 when he first started coming after me–as if he had gotten a
+rich friend himself or something. And an oligarch just totally fits the
+bill to the T. I’m glad they all went back to Russia tbh–but that isn’t
+going to stop them funding the destabilization of America either.
+
+I also have noticed Paul reads this document more so than a lot of people
+but his actions are nonetheless always completely questionable. Like it’s
+clear he’s under the influence of somebody–meaning he is breaching his
+fiduciary duty as my trustee which sadly is nothing new. Regardless, I
+think it’s time I start getting my assets under my control like I’m legally
+obliged to be able to do. You would be surprised just how creative people
+can get in completely screwing you out of your inheritance. One common
+method is they sell your assets to a friend for cheap, and then they work
+something out with that friend on the back end.
+
+Sorry guys–I simply have it coming at me from too many different directions
+at this point. It was a lot easier when Paul was all I had to worry about.
+I wonder what they actually think they’d get from my inheritance if I were
+to die that is worth so much to them? Cuz I guarantee they’ve already spent
+even more than that on pursuing me. (Even more than my whole inheritance
+tbh) Oh maybe Paul had something to do with Karie as well? Or has direct
+knowledge of something? I can see that making all this worth it to them.
+Dusty has always been kinda strangely supportive of Paul too despite his
+clear abuses of his power as our trustees. (My little sister Taylor wants
+away from him, and as her bigger brother I feel obliged to ensure we do get
+away from him tbh) That would also make sense why Dusty got access to most
+all his money so much earlier than the rest of us too.
+
+Oh, oh, oh and the time Paul recommended a certain psychiatrist for me to
+see only to not know who that even was like a day or two later. (I’m glad I
+didn’t fall for that one that’s for damn sure)
+
+God I can’t believe Logan of all places is at the root of such screwed up
+shit.
+
+
+Read this ticket I just created on the new Evony game I’ve been playing.
+It’s a lot like Age of Empires mixed with a puzzle game but it’s on your
+phone. Essentially my bro and his gangstalking crew try to make anything
+that is enjoyable to me no longer enjoyable to me. They really do spend all
+their time on doing just that to me. But see if you can see the pattern
+from this explanation of mine:
+
+[Reference]
+
+
+
+
+As of April 11, 2022Stayed in Hotel Powerful EMF From Right Next Door Last
+Night
+
+It was at the Days Inn at 447 N Main St, Logan, UT 84321•(435) 258-7470 on Apr
+10, 2022to Apr 11, 2022. I stayed in room 113. They rented out the room
+right next to me, (To the north of me) I believe they were in room 111 or
+112. And yea–they EMF-d my brain from as close as they possibly could with
+as powerful an EMF as they possibly could while I slept and while I was
+trying to fall asleep–as usual–I assume trying to give me brain cancer. I’m
+pretty sure they had to have rented out an adjacent room tbh just given it
+was coming from a direction where only other rooms could have been the
+possible source. They will first try to keep me awake for as long as
+possible then they will do something like this when I am really really
+tired so that they can do the most damage possible and so that I stay still.
+
+
+Concerted Effort
+
+There appears to now be a concerted effort to try and force me/lobby others
+into thinking I meet this definition of incapacity. (
+https://docs.google.com/document/d/1vlVR7AJtsfKNufqPKjGkZyPQ5eD6CLVR/edit?disco=AAAAX--ylzg
+) The concerted effort comes from my trustee Paul emailing my father's
+trust lawyer out of the blue with one of my distribution requests as if I
+can’t handle my finances or something, after accusing Paul of being an
+accomplice to murder himself and sending a distribution request to refund
+my s3 charges so that I didn’t lose all my evidence i’ve been aggregating
+in the cloud overtime, and from the attackers hacking the Evony game and
+deliberately draining all of my resources to try and get me to have to
+spend more money in order to continue to enjoy my game, etc, etc. I suspect
+the attackers also deliberately increase my aws costs on purpose as well by
+forcing me to incur more bandwidth charges, etc, etc–on purpose. It is in
+fact a direct link between my trustee and the attackers–both working
+together towards a common end game. (Yet another example) This is huge you
+guys. It honestly explains a lot.
+
+https://drive.google.com/file/d/1NCWhOonf\_NFY7vxJzEn0IeYpVQpQgzjG/view?usp=sharing
+
+
+
+You see this is why my trust is so heavily invested in real-estate. I
+intentionally did this so as to keep them from stealing my money. Paul
+tried undermining me when purchasing my little sisters commercial building
+as well. You know how he never teaches me anything about taxes? Yea well
+there’s been some times when I’ve seen some unexplainable tax charges on my
+trust account as well. I asked Paul about them but he never responded. It’s
+as if Dusty runs a mob that Paul is also in on and Dusty is pissed he
+hasn’t been able to get his cut from me or something. (The Russian mob
+maybe?) Just another possible motive. Dusty really does think our dads
+money is his money for whatever reason.
+
+You guys really need to hurry if you want me to be around for any future
+trial.
 
 Chase Gibbons  / Manager
 435-999-4722
