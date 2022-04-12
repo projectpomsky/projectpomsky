@@ -482,6 +482,9 @@ My Brother
 As of March 24, 2022
 
 
+Doing the Unthinkable
+
+
 
 
 README
@@ -11228,9 +11231,161 @@ fantasizing that’s all.. :)
 
 As of March 24, 2022
 
-They “baked” me again last night. I can feel the “sun burn”. They are
-trying to give me cancer. They seem to want me to go after my brother.
-Probably because he knows he’s fucked at this point.
+They “baked” me again last night. I can feel the “sun burn” on the lower
+part of my body which wasn’t protected by lead as I slept. They are trying
+to give me cancer. They seem to want me to go after my brother. Probably
+because he knows he’s fucked at this point.
+
+
+Doing the Unthinkable
+
+Seems how someone seemingly shared this with some of our allies, might as
+well make the most of it.
+
+Alright guys here is the situation as I now see it.
+
+Things are kinda going the way I thought. Zelensky is now questioning
+whether or not NATO can “maintain world peace”--and I don’t blame him.
+
+There’s a few ways I can see us looking at this. For one, we’ve got to
+realize we can’t trust everybody anymore because Russia and China have
+gotten a head start on us in doing shit the easy way, the incremental way.
+(i.e. they’ve been corrupting our citizens incrementally–which is a lot
+less traumatic than like a full blown war–but ultimately it is just as
+effective long-term as full blown war nonetheless) As for me I mean I’m
+totally trying to do what’s right, I’m not an actor, I’ve never been an
+actor, but even still they may manipulate me in ways which make me respond
+in ways meant to manipulate you in ways of their choosing. So we got to
+look out for that. That could be the same thing that’s happening to
+Ukraine, idk. I get the sense it is a very similar situation playing out
+with Ukraine where they are essentially “gangstalking” Ukraine, and Ukraine
+isn’t acting, but even still Ukraine’s reactions are going to be
+predictable from the attackers perspective. And they are simply exploiting
+their reactions to show the world NATO can’t keep us safe using reflexive
+control.
+
+So what do we do about it?
+
+Well like I said we are behind. The best thing would have been to
+incrementally corrupt the communist leaders and whatnot as well a long time
+ago. And just to be clear I can’t be the one who comes up with the ultimate
+solution because whatever I come up with they’ll just begin to watch out
+for and block. But I do want to use this opportunity to at least come up
+with some ideas.
+
+Alright so just to get this out of the way, Russia has some of the most
+advanced electromagnetic control weapons on the planet and they are able to
+essentially make us all be more docile or more aggressive using their
+electromagnetic control weapons without us even knowing it–so we need to
+watch out for that. I’m not even exaggerating. (Elaborate on previous video
+shared here and how all our cells can be impacted using electrical signals)
+
+We need to figure out how to deal with the existing corruptees without
+tearing ourselves apart, how to close off all the ways they are getting in
+to manipulate and corrupt more and more citizens, we also need to figure
+out how we can effectively exploit them back, how to combat the present
+threat to the global order, (aka how to save Ukraine) how to remain united
+despite the inevitable reflexes Ukraine is going to go through, how to do
+so in a way that doesn’t make communism look like the saving grace, and how
+to make sure this never happens again.
+
+As for closing off ways they are getting in, we have become a little too
+open and they are exploiting that fact, if you picture a bell curve with
+total communism on the left and total freedom on the right we need to go a
+little more to the center. Or at very least we need to do more to make it
+harder for ppl to create new social media accounts without verification. Or
+to make laws that require companies to make their platforms so that
+strategic adversarial abuse is not possible.
+
+When you think about it–they have to corrupt literally everybody whereas we
+just have to corrupt a small few. But the problem is if they have corrupted
+even one person who is critical to a certain vote for instance, then they
+can throw off that whole vote in their favor.
+
+Technically we are a lot alike on the levels lower than the main heads of
+state. Like I’m sure a lot of Russian companies also hold votes and whatnot
+and could theoretically be corrupted in the same ways. And if we corrupted
+a bunch of their companies then we could theoretically get to a point where
+we could begin to impact the heads of state. The only problem is time. They
+have a head start on us. So that won’t work right now, but it is a valuable
+lesson for the future.
+
+Media is key in both societies and I have seen how we’ve been going after
+their media lately which is a plus.
+
+One idea I have is to start treating them like the alliance they are and to
+start punishing them accordingly. China, Russia, Iran, and North Korea. For
+the actions of one we punish all of them.
+
+We need to exploit communism. How might we exploit communism? And in short
+order? While staying united? And maintaining our reputation in the world?
+
+The only way out right now that I can see is if we go to war. That will
+keep us united. That will avoid the world from losing faith in whether or
+not we can keep it safe. Plus we have an advantage if we go to war with
+them in that our conventional military is better than theirs. It will make
+it so people actually want to fight. It will make it so all the proxies
+won’t want to support Russia anymore. The “safe” way in this case is a
+losing way. We are too behind already. We can’t win going the “safe” route
+at this stage. We’ve got to change up the game to what we know best and
+tilt the board in our favor. Yea theoretically it could end in the end of
+the world but I don’t think China would allow that.
+
+We’ve got to do what’s never been done before and goto war against a rival
+nuke holder to get out of this mess we are in—regardless of whether it is
+on the other side of the planet or not. World war is world war—it takes
+place globally. Plus if we are really all “one” under nato, that means this
+really is all taking place at our doorstep.
+
+I can’t say that we will still be the top country once the war is over due
+to potential inflation, but I do think we will have a lot better odds at
+still being one of the top countries. Whereas if we continue on the path we
+are on—I have no doubt the communists will ensure we are nowhere near the
+top country when it’s all said and through. I’d much rather have a Britain
+style ending to global dominance vs some other global power’s ending whose
+ending came about from straight up defeat by a completely different
+ideology.
+
+It really is democracies vs communism. Do you really think if the
+communists win they will allow a single democracy that is not just a puppet
+democracy going forward? Yea right. Communists are ruthless. They are
+murderers. They side with criminals. They seek power and world domination.
+Maybe we should start being just as aggressive as they are.
+
+When you think of our global order in the future, say 200-2k years from
+now, what do you picture? Do you picture more like the dune type government
+or do you picture something else? Those types of questions are being
+answered right now. Because either the communists will win and we will
+likely remain communist for pretty much forever or else democracies will
+win and with any luck, we will implement new laws and education and whatnot
+which ensures not only that foreign agents can’t be elected president, we
+will teach all our citizens up on psychology and manipulation so we will be
+able to see through all their manipulation going forward, (it’s not just
+about nazi-ism–it’s about psychology and manipulation) we will forever
+remember just how close we came to losing our freedom and we will hopefully
+then have enough precedent to truly ensure it never happens again. We would
+also win over some of the existing smaller communist societies oor just do
+away with them altogether this time seems that’s what they want to do with
+us. (By do away with them I mean force democracy upon them to prevent them
+from trying to take over the world ever again–by them doing away with us I
+mean they legit want to do away with us) And then you might picture some
+highly intelligent alien democratic order in the future from now, what
+movie shows that future instead? I know there’s at least some movies that
+show democratic orders in the future, I’m just not good with movies and
+I’ve seen dune recently. Oh I think Star Wars, some of those sects have
+democratic orders. Even on dune the good guys were I think democracies.
+
+This really is good vs evil. And we really might have to consider doing the
+unthinkable at this stage.
+
+Joe Biden even said it today–Putin has his eyes on us. And I guarantee you
+Putin is working on behalf of China because Russia is in no position to
+lead the world order going forward. Nobody uses their currency. Best case
+for them is they become China’s “Oligarch” as I said.. Even though Russia
+is pretty much the mastermind behind all of this.
+
+https://www.c-span.org/video/?518970-1/president-biden-meeting-eu-council-president
+
 
 Chase Gibbons  / Manager
 435-999-4722
