@@ -9419,7 +9419,7 @@ As of March 10, 2022
 [Opinion]
 
 I pulled all the content from this original google drive folder which was
-open to public viewing yesterday. I don’t know if it was the right maove,
+open to public viewing yesterday. I don’t know if it was the right move,
 but my gut told me it was the right move at the time. I started getting a
 sense that someone had leaked this info either to try and cause a lack of
 confidence in us/cause divisions amongst our allies or else to make it seem
@@ -10513,8 +10513,8 @@ around here–including companies deemed critical infrastructure, my brother
 would have known my company, Rent Dynamics, is also owned by Dell Loy
 Hansen; and my brother would have also known our security practices weren’t
 necessarily the greatest after having hacked me to begin with in 2019. My
-brother also likely would have known the mormon culture around here as
-well. [Opinion]
+brother also likely would have known the mormon culture around here and how
+to exploit that as well. [Opinion]
 
 This happened almost 2 years ago now. I suspect it was an attempt to nail
 down who I was by the Russians/Chinese operatives. I suspect Russia has
