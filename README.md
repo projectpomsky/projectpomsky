@@ -389,6 +389,15 @@ As of March 7, 2022
 Russia -> Wagner Group
 
 
+As of March 8, 2022
+
+
+Latest Potentially Significant IPs and Email Tampering Logs
+
+
+Electromagnetic Spectrum Health Effects Video
+
+
 
 
 README
@@ -9053,11 +9062,296 @@ favorite composer -
 https://www.economist.com/the-economist-explains/2022/03/07/what-is-the-wagner-group-russias-mercenary-organisation?utm\_medium=social-media.content.np&utm\_source=twitter&utm\_campaign=editorial-social&utm\_content=discovery.content
 
 
+https://www.csis.org/blogs/post-soviet-post/band-brothers-wagner-group-and-russian-state
+
+https://foreignpolicy.com/2021/07/06/what-is-wagner-group-russia-mercenaries-military-contractor/
+
+
+“Yevgeny Prigozhin, a close ally of Russian President Vladimir Putin who
+was indicted in the United States for attempted interference in the 2016
+presidential election, is widely regarded as the driving force behind the
+mercenary group.”
+
+“Late last November, videos of a gruesome killing went viral on Russian
+social networks. The shaky cell phone footage taken at al-Shaer gas plant
+near Palmyra, Syria, shows a Syrian man, who was known to friends and
+family as Hamdi Bouta, lying on the ground, surrounded by Russian-speaking
+men in military fatigues. They beat his extremities with a sledgehammer
+before decapitating him, setting his body on fire and posing for
+photographs with his remains.”
+
+https://foreignpolicy.com/2020/06/11/russia-wagner-group-methods-bouta-killing-report/
+
+
+“Companies linked to the Wagner group are snapping up oil and gas
+leases—with an eye to pumping influence, not oil.”
+
+https://foreignpolicy.com/2021/05/17/putin-shadow-warriors-stake-claim-syria-oil-energy-wagner-prigozhin-libya-middle-east/
+
+
 One last thought, do you think they did this to me just today to send a
 message to our government to get them to rethink sending fighter jets to
 Ukraine?
 
-P.s. Any chance I could go into witness protection?
+P.s. Do you think I could go into witness protection? When I asked the
+local police about it they just said that was a federal program. And I
+don’t know how to get directly involved with the federal police. It would
+be one thing if more people would help me but these guys do everything in
+their power to intentionally ensure other people don’t help me using
+intimidation and other means. Which just makes it so I’m always taking on
+9+ people on my own at any given time, plus all their
+proxies/corrupties/hire-ies. The ~9 person count was estimated at the
+beginning of this document. Their overall strategy is to isolate any
+threats to them just like they do to me just in general–including isolating
+or dividing the US as a whole because together we are also a threat to
+them. Meaning if we allow them to continue to isolate us/divide us then
+they will win. What I want is not just to rejoin society while somehow
+trying to ignore all their abuse against me, (which is impossible unless I
+want to die btw) but to rejoin society without having to constantly worry
+about their never-ending barrage of abuse against me, and being able to
+sleep easier at night. (Now I’m scared to go to sleep again btw, you would
+be too–that shit was scary) To be clear they specifically look for anything
+I say I want and try and do the opposite. They are like current day hitlers
+pretty much. Simply ignoring them or not taking them seriously and allowing
+them to continue bullying our society unchecked is clearly a bad move. In
+the end they are just pissed cuz their plans are being exposed and they
+can’t get away with murder as easily at least in part thanks to me. So they
+are taking out their frustrations on me while using the things they do to
+me as a way to send our government messages and intimidate our government
+as a whole apparently. And I don’t really want to aid their efforts in any
+way either intentionally or unintentionally. Therefore me going into
+witness protection might be best is how I see it. (Assuming they haven’t
+already hacked that whole system) At very least, if we do succumb to their
+intimidation tactics in regards to helping Ukraine with more jet airplanes,
+then we should at least do something to ensure these guys can’t intimidate
+us going forward and get what they want all the time. (i.e. do something
+about these guys operating internally with impunity)
+
+Please excuse my language btw. These guys are ruthless and they piss me off
+more often than not.
+As of March 8, 2022Latest Potentially Significant IPs and Email Tampering
+Logs
+
+The attackers have definitely tampered with my emails for months now–it’s
+as if they play middle man somehow. I often don’t receive emails I am
+supposed to receive, and they are able to also block my emails from going
+out and tamper with my emails that are sent and change up the cc, bcc, from
+address, and headers at will, etc, etc. It’s as if they do so selectively
+too. I got extra-beyond-beyond tired of it today so I googled whether it
+was possible for me to look up the root email delivery logs within my
+google workspace just barely and below is the result.
+
+The main question is whether or not any of the following ips are
+significant or not–I’m guessing at least some of them are indeed
+significant because I don’t think they are tying into everything through
+any google sdk because I previously disabled google cloud console and
+therefore I disabled all the google sdks for that particular google
+workspace in an attempt to try to get them to stop interfering with all my
+emails previously–but it didn’t stop them from interfering.
+
+To be clear, I don’t have my chase@gfic.io gmail workspace set up under my
+own will to hit any other mail servers other than gmail’s default mail
+servers on my own. I did set up some custom routes and some custom
+forwarding rules–but all of those were all set up just right in gmail or
+within the google workspace admin portal themselves and they therefore are
+supposed to all still go through gmail’s default mail servers in order for
+my forwarding and routing logic to work. So any of the emails shown in the
+following logs that hit any external mail servers or external ip addresses,
+assuming they aren’t otherwise easily explained, any of those particular
+records could potentially be suspect, just fyi.
+
+I made sure to login to another google drive account that I hardly ever log
+into, and upload the following file there, and then shared the following
+file with this account so I could share it with you without fearing them
+tampering with the ips in the background whereas they need my physical
+yubikey to login to that account again. Quick side note, I did get a notice
+from Utah State University saying they are discontinuing all of their
+aggiemail accounts I think either by the end of March or by the end of May
+2022, so I will need to copy everything I have stored in that
+cwgibb@aggiemail.usu.edu account to another account at some point, spooner
+than later.
+
+https://docs.google.com/spreadsheets/d/1ZtOX9rw-37cjQH\_Pxx6Qh6KH9RdO6Xr6/edit?usp=sharing&ouid=117949522585689688012&rtpof=true&sd=true
+
+
+Electromagnetic Spectrum Health Effects Video
+
+Watch this video.
+
+https://www.youtube.com/watch?v=i4pxw4tYeCU
+
+This is no joke you guys. The attackers are specifically using high
+frequency radiation against me repeatedly at least in part to try and cause
+mutations in my cells I suspect. What did I say just earlier today? The
+incident last night heated everything including my innards. I need help
+getting away from the attackers like seriously I really need help getting
+away from them. I need help disabling this microchip in my ear as well. I
+guarantee you these guys are specifically targeting the band of radiation
+the guy talks about in the above video where he said it can cause mutations
+in your cells. This isn’t a joke. Karie was killed by Dusty giving her
+cancer–I swear to god it’s the truth. I wish I had a picture of her with
+all her tumors growing out of her everywhere to show you so I could give
+you all a bigger sense of urgency to help me–especially a pic of Dusty
+grabbing her by her f-ing bald head and moving her head around like she
+were a barbie doll while he was smirking. Now Dusty is in the process of
+giving me cancer too–both via different poisons and via electromagnetic
+radiation, and nobody has really done much of anything to help me get the
+heck out of here; and Dusty just keeps making my life miserable and
+preventing me from leaving in the process by preventing me from going back
+to work. Just in me writing this they started provoking me further through
+their damn directed energy waves. They literally took all this to such an
+extreme for no other plausible reason other than because they can
+kill/intimidate a lot of people with all this.
+
+They can literally outfit your house with these devices, they can outfit
+your car with these devices, they can outfit a jet airplane with these
+devices apparently, they can hit you with these things from any car while
+you are in any building. They can even likely hit you with these things
+directly from a satellite in space. I wish you guys would just f-ing arrest
+my brother for something or another already. I heard people complain about
+this shit for being exposed what like for one day in Cuba? Try being
+exposed every single day for months on end. I’m getting to the point where
+yea I feel I have the right to begin to complain in my opinion.
+
+Yea these guys are smart but just cuz someone is smart doesn’t mean they
+should get away with all this. Can’t we get him on like taxes or something?
+If anything these guys being this smart means they are 10x as dangerous as
+anyone else–especially whereas they continually fucking flaunt it and
+terrorize/intimidate people with impunity.
+
+I need help disabling their damn microchip and getting out of here–like
+seriously. Or getting it removed. It’s obnoxious as hell but it’s the only
+real thing holding me back.
+
+The microchip is made of graphene, I’m pretty confident in that fact
+especially whereas the hackers have indicated it to me on numerous
+occasions. Graphene makes good supercapacitors which are like batteries
+essentially. And graphene makes good nanotechnology because it can
+literally be broken down to the size of a single atom thick; (it can be
+broken down to a 2d plane in 3d space) in addition, graphene has better
+electrical conductivity than copper and is therefore capable of being
+something like 10,000x faster than current day electronics; and, if
+graphene is built absent of all imperfections, graphene is also technically
+the strongest material known to man, stronger than steel. (Although we
+haven’t been able to produce it without imperfections yet) This is also
+what I mean when I say future wars are going to be different than wars of
+the past. Small is the new big and information is the new power
+essentially.
+
+https://www.youtube.com/watch?v=RKcUgdXUf9Y
+
+The nanochip happens to be located in the exact place where auditory
+transduction is possible within my left ear from what I gather. Auditory
+transduction is “the process by which the ear converts sound waves into
+electric impulses and sends them to the brain so we can interpret them as
+sound”. Their nano chip is communicated with using either infrasound or
+ultrasound I think–I don’t think it’s communicated with using any RF
+frequency come to find out.
+https://www.google.com/search?q=sound+transduction&oq=sound+transd&aqs=chrome.1.69i57j0i512l9.6710j0j1&sourceid=chrome&ie=UTF-8
+
+I suspect the microchip works just like a satellite dish in that the
+ssignal actually first bounces down into the “dish” so that it will then
+bounce back outwards and spread out more, as demonstrated below.
+
+
+I’m almost positive there’s a microchip located in or around my tragus in
+my left ear because I felt the damn thing get really hot when it was
+beeping off the charts previously right around that location when trying to
+block out the sound from my ear with my finger–as described in a previous
+post–before I ever even knew what “audio transduction” even was. There
+could even be multiple microchips, but all I know is the microchip that
+communicates with the outer world is in a part of my ear that is next to
+cartilage or the “tragus” and that part of my ear apparently isn’t
+sensitive to heat because it’s mostly next to just cartilage. Like when I
+felt the heat on the upper back portion of my fingernail previously when
+trying to plug my ear–I didn’t feel the heat directly in my ear itself–I
+only felt it on my upper/lower fingernail. I can however hear the damn
+thing beeping all the time in my ear—I just can’t feel it. (It doesn’t beep
+all the time literally but it does beep quite a bit and always when they
+have no other mechanism in place to track me, or else whenever my nervous
+system fires when exerting myself, or else when they are trying to sync
+data at nighttimes, etc) It is perfectly possible that there is actually a
+whole network of nanochips or “smart dust” in there–which communicate with
+each other using something like electromagnetic fields. But tmk the only
+one I need to disable is the one that actually communicates with the
+outside world. Then I need to be careful as hell in getting any vaccines
+going forward and I need to be careful as hell to ensure they don’t know
+where I’m at going forward.
+
+This nanochip is not only located in the optimal place for “audio
+transduction” to send electrical impulses to my brain, but it’s also
+located in the optimal place for using the rest of the ear as a satellite
+dish for broadcasting any weak signal out to the rest of the world, using
+my ear as a natural satellite dish to amplify the signal inwards/outwards.
+
+
+People apparently add their own devices under their skin these days
+apparently, it’s called biohacking. See the following links. But the one in
+my case is wayyy more sophisticated, plus I didn’t do it to myself, and
+therefore I have no way to turn it off by myself.
+
+https://twitter.com/drkiki/status/1168299777424908288?s=20&t=r4TnY99zwvl2yJbyM9FV5Q
+
+https://dangerousthings.com/category/implants/x-series/
+
+These guys are extremely dangerous, I’ve been saying that all along. I get
+it takes time to investigate them fully in a way which will lead to actual
+prosecutions but who I’m asking help from mainly is all those who used to
+help me out before all this started. I’ll need help from Paul, who is
+currently still my trustee for the time being. And I need help with ideas
+on how to disable this thing in my ear from some of my co-workers or
+whomever seems how my brother won’t help me himself. Last time my co-worker
+Skyler messaged me on linked-in, the attackers deleted all Skyler’s
+messages before I was ever able to even read any of them as if they were
+trying to intimidate him or something. I know cuz I saw the notifications
+of new messages sent from him on my phone but when I checked they weren’t
+there, and Skyler specifically asked me if I had received his messages and
+I had to say no cuz I hadn’t been able to actually read them. The attackers
+do that with everyone and it’s simply not fair. Like what the hell is going
+to happen when I’m dead? Then you’ll have no further insight from me on how
+to actually bring these guys down–nor will you have my witness testimony in
+court to lock them up. I’m sorry, I’ve been trying to hang in here to keep
+providing info, believe me, I just base all my calculations and whatnot on
+probabilities and I just know I’ve pushed it way too far already in regards
+to all this radiation stuff–watching videos like the one above only make
+that fact that much more real.
+
+
+
+Bottom line is I could really use some help removing or disabling this damn
+microchip then I really would like some chance at living a decent life
+again going forward and therefore I could really use support from my
+trustee in getting out of here–regardless of what I have to leave behind.
+As soon as the attackers don’t know where I am then I can technically be
+fully productive again if I start completely fresh and don’t use any of the
+same accounts, etc, including bank accounts, etc–although probably not for
+Rent Dynamics sadly just cuz I can’t risk it you guys. I’m sorry. We’ll see
+if I have to come back to refinance my house but if not then I really do
+think it would be too risky for me to try and work their again just given
+these guys will be doing everything in their power to find me.
+
+My apologies, I didn’t know people got away with this kind of thing in this
+country. But even if I had known, I did nothing wrong and I have no
+regrets. I’m trying to make this world a better place for you all.
+
+I set up a new phone number where the hackers can’t delete my messages and
+block my phone calls recently, using Twilio, just fyi: (435) 248 - 0677, it
+just forwards to my other phones but the difference is the hackers can’t
+also delete the logs.
+
+P.s. I think we should definitely provide some kind of an off-ramp for both
+my brother and Putin btw. One where it’s not like all or nothing. One that
+allows them to step away from all this craziness gracefully. I worry about
+what might happen to my brother as well, even though I don’t always act
+like it. There really is no perfect outcome for me in all of this. All I
+know is at least I gave my brother tons of opportunities to stop, and
+whatever happens hopefully that will provide me with some peace. And at
+least I did what I felt was best for our country at the end of the day,
+which should provide me some peace there as well. I wish these guys would
+just do the right thing for once and begin to de-escalate themselves and/or
+preferably just stop.
+
+
 
 Chase Gibbons  / Manager
 435-999-4722
