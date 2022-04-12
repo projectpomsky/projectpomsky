@@ -1807,7 +1807,6 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
-​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -4435,6 +4434,8 @@ As of January 4, 2022
 Just some of the times I’ve reported all this stuff. The list has grown
 since then.
 
+My latest fbi complaint.
+
 https://drive.google.com/open?id=1ayOeO29H\_bIhHZwFiJT9oipxAYil7RIV&disco=AAAATmpMjH4
 
 They have stopped using the super intense lightsaber emfs the last few
@@ -4498,10 +4499,10 @@ Dusty did to her/all the misinformation and lies he spread about her. She
 started covering for Dusty’s hacking out of nowhere and she even freaking
 lied about it–like she straight up lied about it afterwards. And then she
 started going on smear campaigns against me. And she hasn’t been helpful
-ever since. I guess I’m now a potential liability to my mother as well,
-like it’s in her best interest now to never really tell the truth or truly
-act motherly to me in regards to all this ever again now. (Because if she
-does she’ll be implicating herself)
+ever since. I guess I’m now a potential liability to my mother as well as a
+result, like it’s in her best interest now to never really tell the truth
+or truly act motherly towards me in regards to all this ever again now.
+(Because if she does she’ll be implicating herself)
 
 Like I don’t even know if she’ll even be honest about the fact that I told
 her how I saw how Dusty treated Karie on Karie’s deathbed after we left the
@@ -4514,15 +4515,108 @@ evidence on the topic out there however. (Like evidence of me bringing it
 up again and again and not having her completely deny it later, etc, etc)
 
 My mom used to believe me about Dusty btw, look no further than all the
-references.
+references. (Still a work in progress btw) She’s not one who easily
+forgives anyone either. She wouldn’t even meet with Dusty for like over a
+year without anyone else present, she was thinking about suing him even.
+She always used to say she believed me about 90 percent but just not the
+gang stuff. Then out of nowhere, she said Dusty wants to meet up, she asked
+me if I wanted to come with and I said no, right around the time Dusty
+started amping up his attacks on me the most. Dusty like comes in now and
+gets back to normal meanwhile he’s forcing me to be better off in not
+talking to my mom now. All I’m saying is I do feel betrayed by my mother
+and by Dusty. Talk to others in our family and you won’t get the same
+reaction as my mom is now giving. Dusty said those things about her
+originally for a reason and he has been working on trying to get me to
+dislike my mom for a while now. But it never worked until she started
+actively covering for Dusty. And now I’m just better off to stay away from
+her for now I feel. At the end of the day I know my mother and my brother
+both very well and I can tell when they are lying. I normally just forgive
+my mom and move on but in this case too much is on the line for me to just
+go along with whatever she's saying this time–plus I caught her lying for
+Dusty and she doesn’t even try to hear me out anymore.Like I don’t know if
+she understands that this really is life or death for me, I’m not stupid–I
+didn’t just go crazy–I have doctors backing me on that fact–Dusty does this
+shit to me daily and he makes it obvious to me it is him repeatedly just in
+a way that requires a whole backstory to prove. So my mom just plays dumb
+now or something and it’s just whatever. Like I’ll just say she hasn’t been
+helpful lately–but for no good reason. At the end of the day I think my mom
+feels it will reflect bad on her if Dusty really is who I now know him to
+be.
+
+I know it’s Dusty who is responsible for all the EMF stuff btw. Because I
+have talked to him to get it to stop, amp up, or amp down at different
+times essentially. Plus I live it every single day and I know Dusty is
+behind all the hacking, my mom used to even admit that one.
+
+[Link to September-December 2021 Dusty conversations here]
+
+Initially Dusty even asked me what I wanted when I first turned him in for
+EMFing me and he even sent some of his guys out to come get some of their
+devices from the exterior of my house only to have them add them back the
+very next day. (He was toying with me essentially) Don’t underestimate how
+they can rig your house to become a giant death trap without your
+knowledge. It’s insane what all they can do tbh.
+
+Dusty amping up all his EMF stuff right before I planned to go back to work
+is no coincidence either. Dusty has wanted me to quit my job for some time
+now but for no good reason. There’s too many things like that where the
+probabilities for it all to be completely random are just way too low to be
+realistic. (Like for instance the whole thing with them admitting they
+killed turbo recently–what’s the probability that my keyboard only bugs out
+on me when I’m typing exactly tha one sentence one day, then my computer
+plays some cemetery sound clip I’ve never even played on my computer
+previously when I’m typing about exactly what happened the previous day the
+very next day, and like the very next day after that, my computer starts
+playing some sound clips of turbo suffering that I’ve never even heard
+before–meanwhile fireworks are going off in the background way earlier than
+normal which sound like gunshots–at first I was excited to hear turbo again
+but then I realized it was Dusty and I realized what he was doing and it
+actually turned out to be another one of his sick and twisted
+ploys/admissions sadly) But the probability of all that being completely
+random is exponentially lower than the probability of it all going right
+along with everything else I have alleged my brother has been doing to me
+for some time now unfortunately. (Like it all fits a pattern, the
+probability it is a continued part of that pattern takes the cake by a mile
+or more–time and time again)
 
 Dusty is just good at what he does I guess; (Causing divisions, isolating
 people, corrupting people through hacking, intimidating people, and even
 killing people and getting away with it apparently) that’s how I see it
 right now anyways..
 
-It’s crazy to think how much grief Dusty has really caused everyone.
--- 
+It’s crazy to think how much grief Dusty has really caused so many people.
+
+More stuff.
+
+Here’s the time I turned Dusty’s Recording Studio in for being a private
+gang hangout. Dusty ended up moving out of his place on 25th street shortly
+thereafter, citing inability to keep down the noise on Facebook. (I get
+what he’s saying nowadays–it’s virtually impossible to keep out his
+infrasound–but I did also turn his place in for being a gang hideout
+shortly before they ended up moving)
+
+https://drive.google.com/file/d/1auFR6X7ILjvv1821FAXsAbq9nfrlYMXd/view?usp=sharing
+
+My first fbi complaint ever.
+
+https://drive.google.com/file/d/1ebnszcgeO11nNyxXvXUX3vIgMh9eXcbK/view?usp=sharing
+
+I suspect it will take the police a little while to establish any fruitful
+confidential informants and whatnot, based on a show I watched at least, it
+could take up to one or two years before they are able to successfully
+penetrate this group to the point where they are able to gather enough
+intel to successfully bring criminal charges for things like what they have
+been doing to me, at least to be able to bring those charges to the higher
+up people from what I gather. And that’s assuming it’s a normal gang vs a
+completely decentralized gang. (Which would take even longer to figure out)
+
+I hope that’s what the police or the fbi are doing at least, they have
+shown me solidarity or what I thought to be solidarity on at least two
+different occasions previously, but I’ll just end there. Bottom line is
+I've got to figure this stuff out for myself for the time being and do my
+best to stay alive, out of harm's way, and try and live as best a life as I
+can in the meantime.
+
 
 Chase Gibbons  / Manager
 435-999-4722
