@@ -8987,16 +8987,17 @@ better than me. But I’ll admit, I didn’t count on so little people being
 willing to stick their neck out to try and make the future a better place
 for all of us nor did I ever receive any real warning from anybody around
 here about what it truly was I might be going up against here. (Even though
-I get the sense some of them already had an idea themselves) Whoever takes
-the side of the Russians over working shit out at home is honestly taking
-the side of multiple serial killers, my brother included—just fyi–and
-that’s what you can expect going forward if they prevail. I get some people
-believe in Qanon and whatnot but did you know Putin has actually been
-accused of being a child molester himself by one of his own internal kgb?
-The irony. Putin also frequently stages shit like bombing his own peeople
-for political gain, etc. I don’t really want to live under all that really
-myself personally. But it’s not over until it’s over. Maybe that pilot from
-earlier can share a thing or two...
+I get the sense some of them already had an idea themselves)
+
+Whoever takes the side of the Russians over working shit out at home is
+honestly taking the side of multiple serial killers, my brother
+included—just fyi–and that’s what you can expect going forward if they
+prevail. I get some people believe in Qanon and whatnot but did you know
+Putin has actually been accused of being a child molester himself by one of
+his own internal kgb? The irony. Putin also frequently stages shit like
+bombing his own peeople for political gain, etc. I don’t really want to
+live under all that really myself personally. But it’s not over until it’s
+over. Maybe that pilot from earlier can share a thing or two...
 
 The other issue is Russia and China have strategically set this all up to
 where they completely side step our military and go straight after the
@@ -9207,17 +9208,17 @@ They can literally outfit your house with these devices, they can outfit
 your car with these devices, they can outfit a jet airplane with these
 devices apparently, they can hit you with these things from any car while
 you are in any building. They can even likely hit you with these things
-directly from a satellite in space. I wish you guys would just f-ing arrest
-my brother for something or another already. I heard people complain about
-this shit for being exposed what like for one day in Cuba? Try being
-exposed every single day for months on end. I’m getting to the point where
-yea I feel I have the right to begin to complain in my opinion.
+directly from a satellite in space. I wish my brother would be arrested for
+something or another already. I heard people complain about this shit for
+being exposed what like for one day in Cuba? Try being exposed every single
+day for months on end. I’m getting to the point where yea I feel I have the
+right to begin to complain in my opinion.
 
 Yea these guys are smart but just cuz someone is smart doesn’t mean they
-should get away with all this. Can’t we get him on like taxes or something?
-If anything these guys being this smart means they are 10x as dangerous as
-anyone else–especially whereas they continually fucking flaunt it and
-terrorize/intimidate people with impunity.
+should get away with all this. Can’t we get my brother on like taxes or
+something? Lol just curious. If anything these guys being this smart means
+they are 10x as dangerous as anyone else–especially whereas they
+continually fucking flaunt it and terrorize/intimidate people with impunity.
 
 I need help disabling their damn microchip and getting out of here–like
 seriously. Or getting it removed. It’s obnoxious as hell but it’s the only
@@ -9249,40 +9250,42 @@ ultrasound I think–I don’t think it’s communicated with using any RF
 frequency come to find out.
 https://www.google.com/search?q=sound+transduction&oq=sound+transd&aqs=chrome.1.69i57j0i512l9.6710j0j1&sourceid=chrome&ie=UTF-8
 
-I suspect the microchip works just like a satellite dish in that the
-ssignal actually first bounces down into the “dish” so that it will then
-bounce back outwards and spread out more, as demonstrated below.
-
-
 I’m almost positive there’s a microchip located in or around my tragus in
 my left ear because I felt the damn thing get really hot when it was
 beeping off the charts previously right around that location when trying to
 block out the sound from my ear with my finger–as described in a previous
-post–before I ever even knew what “audio transduction” even was. There
-could even be multiple microchips, but all I know is the microchip that
-communicates with the outer world is in a part of my ear that is next to
-cartilage or the “tragus” and that part of my ear apparently isn’t
-sensitive to heat because it’s mostly next to just cartilage. Like when I
-felt the heat on the upper back portion of my fingernail previously when
-trying to plug my ear–I didn’t feel the heat directly in my ear itself–I
-only felt it on my upper/lower fingernail. I can however hear the damn
-thing beeping all the time in my ear—I just can’t feel it. (It doesn’t beep
-all the time literally but it does beep quite a bit and always when they
-have no other mechanism in place to track me, or else whenever my nervous
-system fires when exerting myself, or else when they are trying to sync
-data at nighttimes, etc) It is perfectly possible that there is actually a
-whole network of nanochips or “smart dust” in there–which communicate with
-each other using something like electromagnetic fields. But tmk the only
-one I need to disable is the one that actually communicates with the
-outside world. Then I need to be careful as hell in getting any vaccines
-going forward and I need to be careful as hell to ensure they don’t know
-where I’m at going forward.
+post–before I ever even knew what “audio transduction” even was. Graphene
+is known to get hot too, it can even be used as a heater. There could even
+be multiple microchips, but all I know is the microchip that communicates
+with the outer world is in a part of my ear that is next to cartilage or
+the “tragus” and that part of my ear apparently isn’t sensitive to heat
+because it’s mostly next to just cartilage. Like when I felt the heat on
+the upper back portion of my fingernail previously when trying to plug my
+ear–I didn’t feel the heat directly in my ear itself–I only felt it on my
+upper/lower fingernail. I can however hear the damn thing beeping all the
+time in my ear—I just can’t feel it. (It doesn’t beep all the time
+literally but it does beep quite a bit and always when they have no other
+mechanism in place to track me, or else whenever my nervous system fires
+when exerting myself, or else when they are trying to sync data at
+nighttimes, etc) It is perfectly possible that there is actually a whole
+network of nanochips or “smart dust” in there–which communicate with each
+other using something like electromagnetic fields, all of which might be
+different sizes meant to stop in different locations. But tmk the only one
+I need to disable is the one that actually communicates with the outside
+world. Then I need to be careful as hell in getting any vaccines going
+forward and I need to be careful as hell to ensure they don’t know where
+I’m at going forward, so that they can’t somehow sedate me and implant me
+if that’s how they did it.
 
 This nanochip is not only located in the optimal place for “audio
 transduction” to send electrical impulses to my brain, but it’s also
 located in the optimal place for using the rest of the ear as a satellite
 dish for broadcasting any weak signal out to the rest of the world, using
 my ear as a natural satellite dish to amplify the signal inwards/outwards.
+
+I suspect the microchip works just like a satellite dish in that the signal
+actually first bounces down into the “dish” so that it will then bounce
+back outwards and spread out more, as demonstrated below.
 
 
 People apparently add their own devices under their skin these days
@@ -9327,7 +9330,7 @@ fully productive again if I start completely fresh and don’t use any of the
 same accounts, etc, including bank accounts, etc–although probably not for
 Rent Dynamics sadly just cuz I can’t risk it you guys. I’m sorry. We’ll see
 if I have to come back to refinance my house but if not then I really do
-think it would be too risky for me to try and work their again just given
+think it would be too risky for me to try and work there again just given
 these guys will be doing everything in their power to find me.
 
 My apologies, I didn’t know people got away with this kind of thing in this
@@ -9357,6 +9360,30 @@ I wish these guys would just do the right thing for once and begin to
 de-escalate themselves and/or preferably just stop by themselves–but I
 highly doubt that will ever happen.
 
+
+As of March 10, 2022
+
+I pulled the previous link to all these files yesterday. I don’t know if it
+was the right move, but my gut told me it was the right move at the time. I
+started getting a sense that someone had leaked this info to try and cause
+a lack of confidence in us among our allies and to try and cause divisions.
+I even started having a surge of people looking into my linkedin profile
+yesterday out of nowhere, as if it was on the verge of becoming published
+as news. I don’t know if pulling everything down was the right move,
+because again maybe if this got out then these people would actually
+fucking stop harrassing me because everyone would know the truth and this
+would have been further looked into and further legitimized.
+
+So I’m torn on the subject but the last thing I want is to be used by these
+guys to further their information warfare campaign against us and to cause
+strategic divisions at such a critical time. They do that to literally
+everyone–they bank on everyone doing what’s in their best interest rather
+than what’s in the best interest of the group. My fear however of never
+letting this information truly get out is that people will never know what
+I view to be important information, and the attackers will continue on all
+but forgotten, encircled in mystery to everyone but to those in the highest
+levels of our government. So it’s a tough one tbh. I don’t want to
+undermine my country but I want people to know the truth.
 
 
 Chase Gibbons  / Manager
