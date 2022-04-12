@@ -473,6 +473,9 @@ Investigation Assumptions
 Twitter Observation
 
 
+Oddity at Doctors Office the Other Day
+
+
 
 
 README
@@ -11766,6 +11769,13 @@ doing them all by my lonesome anyways. Like I said I still don’t even know
 the results. Plus what would be the point of doing drugs when I am in a
 life and death situation anyways? It would only put me at that much more of
 a disadvantage as a result.
+
+You guys, the feds have all the hacking tools that the Russians have and
+then some. Where do you think the Russians got the damn hacking tools?
+Also, my brother could care less about you guys–all he cares about is
+himself. Even if my brother knew you guys were likely being investigated by
+a higher agency–he still wouldn’t have said shit. And I assure you the feds
+are involved in this case. I’ve kept them in the loop.
 
 Chase Gibbons  / Manager
 435-999-4722
