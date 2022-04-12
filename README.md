@@ -12652,11 +12652,18 @@ likely therefore why a lot of people are too scared to ultimately cooperate
 with law enforcement these days. So without the poisonings our adversaries
 whole plan pretty much falls apart from what I gather essentially.
 
-Sometimes I feel as though this was my whole purpose in life, so I’m cool
-with whatever happens to me as a result of all their poisoning so long as
-you take this seriously and you do what is in the best interest of our
-country and you do your best to try and put an end to it and punish those
-involved.
+Sometimes I feel as though everything I’m doing now in bringing all of this
+to light in regards to my brothers misdeeds and whatnot was honestly meant
+to be my whole purpose in life; therefore I’m cool with whatever happens to
+me as a result of all their poisonings just so long as you take this
+seriously and you do what is in the best interest of our country rather
+than any one political party and you do your best to try and put an end to
+it and you do your best to punish those involved including my brother and
+you do your best to set our children up for a great future.
+
+Thank you,
+
+Chase G
 
 Chase Gibbons  / Manager
 435-999-4722
