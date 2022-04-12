@@ -8821,6 +8821,31 @@ I wish one of these guys would come forward and do what they know is in the
 best interest of our country. All Putin’s terrorism scares everyone into
 submission. Who knows, maybe one of them already has..
 
+P.s. I’m getting closer to getting to the bottom of their hacking. Just
+yesterday I figured out they were making use of something called a
+“transparent network proxy” on my mac. And that’s why a lot of my network
+logs show my network traffic going through all these strange ports when
+monitored externally. Oh and from that i found something else, it’s a
+virtual machine player that works natively with macs, utm i think it’s
+called. (https://mac.getutm.app/) I think they might be booting into utm to
+control my mac on a root level. But me not giving that particular
+“transparent network proxy” thing permissions to my login credentials
+yesterday I think kept them from being able to gain access to every website
+I accessed–which is huge. I think it only popped up because I had forgotten
+my credentials anyways whereas I have to reset all my stuff literally daily
+and it becomes difficult to remember ever changing passwords, so I had only
+been using my biometrics to log in and that popped up. I’ve been trying to
+figure out any possible way to get them not to be able to access any
+website I access in the background including booting in safe mode for ages
+now. (Which booting in safe mode has significant drawbacks) So I’ve at
+least been making progress on that front. Plus I just now know they
+primarily target routers and they can exploit anything with wifi. If I
+could get to the bottom of their exact 0day they are using then it could
+potentially help turn everything around. The only problem is from what I
+could tell I think they might be using similar 0days as our own military
+themselves. (Yet another conflict of interest) Plus I got a ton to do
+already as is myself..
+
 Chase Gibbons  / Manager
 435-999-4722
 
