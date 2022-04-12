@@ -3810,16 +3810,23 @@ people and tampering with peoples electricity indiscriminately all for
 their own pleasure.
 
 You can’t make this stuff up. Plus it fits an overall pattern I’ve been
-stating now for some time. There’s no illness out there that would
-constantly evolves based on what I write in a google drive folder like
-this. (I just stated that I can turn off all my breakers and it gets a lot
-better, like a lot less intense—that’s actually the part Dusty didn’t like
-me writing earlier—so what’s he do? Break into my house again and make it
-so its intense as hell regardless) It’s my brother like I’ve been saying
-now since the very beginning—he’s a serial killer. He wants to discredit me
-because I’m turning him in for being exactly that—a serial killer. He wants
+stating now for some time. There’s no illness out there that l constantly
+evolves based on what I write in a google drive folder like this. (I just
+stated that I can turn off all my breakers and it gets a lot better above,
+like a lot less intense—that’s actually the part Dusty/the hacker didn’t
+like me writing earlier—so what’s he do? Instructs one of his guys to break
+into my house again and make it so its intense as hell regardless of
+whether all my power is off or not. These ones had a completely different
+sound to them, they sounded like spinners, like they were spinning around
+indiscriminately shooting out what had to be gama rays. I’ve already proven
+I could block out all my symptoms with my existing enclosure previously—bad
+timing on their part) But yea, it’s my brother—like I’ve been saying now
+since the very beginning—he’s been busted numerous times now—plus he’s a
+serial killer and a hacker. He wants to discredit me because I’m turning
+him in for being exactly that—being a hacker and a serial killer. He wants
 me dead. It really is as simple as that. I wish he would be arrested
-already. He’s arguably the biggest threat in all of Utah or more.
+already. He is arguably the biggest threat to all of Utah or more. He
+enjoys hurting people.
 
 Some (but not all) Dusty gangster references:
 
