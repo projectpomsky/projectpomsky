@@ -11644,8 +11644,8 @@ around here–including companies deemed critical infrastructure, my brother
 would have known my company, Rent Dynamics, is also owned by Dell Loy
 Hansen; and my brother would have also known our security practices weren’t
 necessarily the greatest after having hacked me to begin with in 2019. My
-brother also likely would have known the mormon culture around here and how
-to most effectively exploit the whole mormon hierarchy as well. [Opinion]
+brother also likely would have known the mormon culture around here as
+well. [Opinion]
 
 This happened almost 2 years ago now. I suspect it was an attempt to nail
 down who I was by the Russians/Chinese operatives. I suspect Russia has
