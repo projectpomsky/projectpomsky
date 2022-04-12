@@ -12110,17 +12110,17 @@ if we got this figured out then Russia would stop their damn war in Ukraine
 in my opinion–or at very least they’d stop being so brutal. If we figured
 this out we might actually save our damn country as well tbh. Our
 adversaries getting all this data on all our citizens now could have huge
-consequences on our future. Sometimes I feel like we are stuck in the past
-or something as a country. We never think outside the box. We don’t seem to
-experiment with very many next generation warfare tactics/techniques–and we
-don’t even officially recognize they next generation warfare techniques are
-being used to drastically undermine us. We just keep upgrading our
-conventional military and we never seem to adapt to the latest threat
-landscape. Nukes are essentially no good at maintaining world order nor is
-our conventional military when it’s a fellow nuke holder that is causing
-all the havoc, we should have known this a long time ago and started
-spending some of our humongous military budget on some of these other
-techniques.
+consequences on our future for years to come. Sometimes I feel like we are
+stuck in the past or something as a country. We never think outside the
+box. We don’t seem to experiment with very many next generation warfare
+tactics/techniques–and we don’t even officially recognize next generation
+warfare techniques are being used to drastically undermine us. We just keep
+upgrading our conventional military and we never seem to adapt to the
+latest threat landscape. Nukes are essentially no good at maintaining world
+order nor is our conventional military when it’s a fellow nuke holder that
+is causing all the havoc, we should have known this a long time ago and
+started spending some of our humongous military budget on some of these
+other techniques.
 
 All this outrage Russia is causing right now is an excellent way for them
 to infect tons and tons of home networks btw. Who knows, they might have
@@ -12138,16 +12138,16 @@ way. Just a thought..
 I found a way to be able to tell if they get into my safety deposit box or
 not for the time being btw. I got some single-use locks or seals that each
 have their own unique number on them then I made them even more unique by
-engraving/writing on them–just incase they could buy similarly numbered
-single-use locks on amazon. Then I added 2 of them to my security deposit
-box securing all my evidence. So not only do they now have to take a
-picture of my key, 3D print it, create a fake ID, hack my bank’s camera
-system, and risk going in there, but they also have to try and recreate
-these exact same engravings on the exact same numbered single-use lock–in
+engraving/writing on them–just incase they could go and buy similarly
+numbered single-use locks on amazon. Then I added 2 of them to my security
+deposit box securing all my evidence. So not only do they now have to take
+a picture of my key, 3D print it, create a fake ID, hack my bank’s camera
+systems, and risk going in there, but they also have to try and recreate
+these exact same engravings on the exact same numbered single-use locks–in
 order for them to get anywhere near my evidence without facing bank robbery
 charges essentially. So yea, that’s a plus. But to be clear–I want most all
-that stuff in my safety deposit box going to the police sooner or later
-regardless however–whether I’m alive or dead or not.
+that stuff in my safety deposit box going straight to the police if/when I
+am killed–without tampering.
 
 See here for what the single-use locks on my safety deposit box should look
 like:
@@ -12162,7 +12162,7 @@ Still figuring out tunnel.
 Still figuring out water poisoning situation.
 
 Still figuring out how to ultimately protect myself from their targeting me
-at nighttimes with jets and satellites, trying to give me cancer, etc, etc.
+at nighttimes trying to “bake” me and give me cancer, etc, etc.
 
 I can’t refinance my house at this time thanks to the attackers causing me
 to not have two recent prior pay stubs to provide the lender.
@@ -12170,38 +12170,41 @@ to not have two recent prior pay stubs to provide the lender.
 Still figuring out how to get the hell out of here and where to go and how
 to get away from them.
 
-Still figuring my trustee out–I had a new trustee–but I think I’m going to
-find another one that is a little cheaper and a little more responsive. I
-really need to find someone who won’t be corrupted simply based on their
-religion or anything else and who knows computers and security.
+Still figuring my trustee out–I almost had a new trustee–but I think I’m
+going to find another one that is a little cheaper and a little more
+responsive. I really need to find someone who won’t be corrupted simply
+based on their religion or anything else and who knows computers and
+security.
 
-I asked Paul for money to rent out a ground penetrating radar device, still
-awaiting his response. I honestly feel really good about this one, but I
-don’t want to risk being delayed again until they can come up with some
-other way to get around it–like they did for the bug sweep. The delay
+I asked Paul for money to rent out a ground penetrating radar device
+recently, still awaiting his response. I honestly feel really good about
+this one, but I don’t want to risk being delayed again until they can come
+up with some other way to get around my attempts to prove what they are
+doing to me–like what I suspect happened with the bug sweep. The delay
 essentially just bought them time to remove their devices from my home–I
 swear to god my brother has direct control over my trustee. I’ve suspected
-this time and time again for some time now. Meaning if I were to die, I
-couldn’t even rely on all my evidence getting back to the police without
-tampering. (Imagine that)
+this time and time and time and time again for some time now. Meaning if I
+were to die–I can’t even have confidence all my evidence will actually get
+back to the police untampered. (Imagine that)
 
 Don’t you guys see how the Russians can corrupt a whole society one person
 at a time using hacking? And how they can turn supposedly “religous” people
 into accomplices to murder just like that? All out of concern for people’s
-own well-being/pocketbooks while utilizing psychology? But in reality, if
-religious people truly believed their religion they would never let anyone
-manipulate them into being accoomplices to murder in the first place cuz
-they would realize they are going to hell as soon as they do allow someone
-to manipulate them in that way? I’m not even religious and I don’t even
-cross that line myself for fuck sakes–just out of an abundance of caution
-incase the religions are right. It’s called having morals and values.
+own well-being/pocketbooks and utilizing psychology? But in reality, if
+religious people truly believed in their religion they would never let
+anyone manipulate them into being accoomplices to murder in the first place
+cuz they would realize they are going to hell as soon as they do allow
+someone to manipulate them in that way. I’m not even religious and I don’t
+even cross that line myself for fuck sakes–just out of an abundance of
+caution incase the religions are right. It’s called having morals and
+values.
 
 Screw hacking organizations–hacking individuals and households gets them
 way further towards their ultimate goals anyways.
 
 Hasn’t anyone ever heard of a conflict of interest around here? Like all I
 can say is I hope all this is just contained to Utah because if this is the
-case across the whole country then this country is honestly fucked. Our
+case across the whole country then this country is honestly screwed. Our
 adversaries have managed to make corruption seemingly systemic in a matter
 of what, 5 years? Screw being great, they’ve made killing cool again. And
 people would rather just give up and go to hell vs actually trying to do
@@ -12212,45 +12215,54 @@ it.
 In addition, the Russians are controlled by the Chinese as stated
 previously, everyone who concedes to their manipulation is essentially
 conceding to both the devil and China–just fyi. It’s the truth. China even
-helped in hacking Ukraine leading up to the invasion. Russia, China, North
-Korea, and Iran have had a hacking alliance since at least 2012–and that’s
-how all their manipulation is done is through hacking.
+helped in hacking Ukraine leading up to the Russian invasion. Plus Russia,
+China, North Korea, and Iran have had a hacking alliance since at least
+2012 that I'm aware of–and that’s how all their manipulation is done–it’s
+literally all based around hacking. Meaning any Russian asset is also a
+Chinese asset as well because they work together on hacking.
 
 Btw I’m registered as a Republican, so don’t try and excuse any misdeeds
-away on you being at war against me either. I’m just more of an Evan
-Mcmullin/Mitt Romney type republican over a Donald Trump republican.
+away in your head on you being at war against me either. I’m just more of
+an Evan Mcmullin/Mitt Romney type republican over a Donald Trump
+republican. Good luck explaining that to your maker is all I can say.
 
 If people would just be honest with themselves and be honest with everyone
-else then this would all be over with already. I can think of a million
-different ways to secretly talk to the police or fbi absent this damn
-microchip. I know for a fact they haven’t penetrated the fbi. Meaning
+else and actively try and help people like me who are trying to do the
+right thing then this would all be over with already. I can think of a
+million different ways to secretly talk to the police or fbi absent this
+damn microchip. I know for a fact they haven’t penetrated the fbi. Meaning
 everyone who doesn't have a microchip and who isn’t being emf-d daily
-should be able to do the right thing without fearing repercussions. Or
-better yet, you can just be like me and just do the right thing regardless
-of repercussions. There are all kinds of church gospels on that very thing.
+should be able to do the right thing and actually help our country without
+them having to fear repercussions. Or better yet, you can just be like me
+and just do the right thing regardless of potential foreign adversary
+repercussions–it’s a foreign adversary for christ sakes–this isn’t normal.
+Even I know there are all kinds of church gospels on that very topic–on
+doing what’s right even when it’s particularly difficult.
+
 These guys get their power through all their manipulation. Without all the
 people allowing them to manipulate them–none of this would be possible.
-Meaning anyone that succumbs to their manipulation is technically guilty of
-all the crimes they carry out that are reliant on all of their
-manipulations–including but not limited to their killing of me. (And that’s
+Meaning anyone that succumbs to their manipulation and actively plays a
+role in any way is technically guilty of all the crimes these guys are
+carrying out–including but not limited to their killing of me. (And that’s
 just not even being involved in any direct way–which some are) And I
 promise you–they are indeed killing me. They’ve likely already taken
 decades off of my life at the very least and they don’t plan to stop until
-they succeed–and they can’t do it without your help. It’s a slippery slope,
-that’s for damn sure. I’d rather go down knowing I did what’s right than go
-down helping satan. At least then, if the religions are right–then I’ll be
-rewarded after I die. And who knows, maybe I’ll even help save this
-country. Plus, I don’t want to let our forefathers down either, I
-personally really like our constitution.
+they succeed–and they can’t do it without your help.
+
+It’s a slippery slope, that’s for damn sure. I’d rather go down knowing I
+did what’s right than go down helping satan. At least then, if the
+religions are right–then I won’t be forsaken to hell for the rest of
+eternity. And who knows, maybe I’ll even help save this country through my
+brave actions. Plus, I don’t want to let our forefathers down, I personally
+really like our constitution. Just because some of your friends might be
+corrupt doesn’t make it okay for you to be corrupt as well either.
 
 
-Chase Gibbons  / Software Development
+
+
+Chase Gibbons  / Manager
 435-999-4722
 
- 
-595 S Riverwoods Pkwy, Suite 250Logan, UT 84321
-rentdynamics.com 
 
-[image: Twitter]  [image: Facebook]
- [image: LinkedIn]
-
+PO Box 747Logan, UT 84321
+gfic.io  
