@@ -5173,12 +5173,12 @@ request at least.
 
 I honestly don’t know what to do anymore. Like they are leaching off my
 power adding various things to essentially harass me and cut short my life,
-harass me and make it so I can’t work anymore, discredit me, etc, etc, but
-I’m still having high electricity bills despite most my breakers being
-turned off for most the month which ultimately falls on me as the homeowner
-to do something about.
+intimidate me and make it so I can’t work anymore, discredit me, etc, etc,
+but I’m still having high electricity bills despite most my breakers being
+turned off for most the month as previously stated but it still ultimately
+falls on me as the homeowner to do something about.
 
-P.s. I think their latest suspect hitmen have still yet to strike, assuming
-my vibe was right at Logan hero’s tonight. They had to have installed that
-gas thing in my printer before I ever even crossed paths with those guys
-earlier tonight.
+P.s. I think their latest suspected hitmen have still yet to strike,
+assuming my vibe was right at Logan hero’s earlier tonight. They had to
+have installed that gas thing in my printer before I ever even crossed
+paths with those guys earlier tonight..
