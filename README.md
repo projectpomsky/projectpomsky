@@ -7877,7 +7877,7 @@ Russia is exploiting our red lines later and the significance of what they
 are doing–they can do a lot more damage than you would think without ever
 even raising the alarm or crossing any of our red lines so to speak–that’s
 why this is so important even though as of right now all I know of is they
-are only targeting me)
+are only mainly targeting me (the whistleblower))
 
 
 Chase Gibbons  / Manager
