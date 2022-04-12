@@ -3740,7 +3740,8 @@ what he loves to do the most which is to try and stage/frame my death as
 being from something it’s not.. (Take/destroy any evidence inconvenient to
 him, etc, etc, all in time for him to act like he is actually shocked of my
 passing, and act like he actually cares about me) Just wanted to throw that
-out there..
+out there—I’m not even joking or exaggerating—they infrasound me daily and
+they’ve tried staging my death numerous times already..
 
 Some (but not all) Dusty gangster references:
 
