@@ -10809,9 +10809,11 @@ of a ritual prior to their killings, etc, etc. You guys seriously need to
 arrest my brother before he kills anybody else. And we seriously need to
 take out the kremlin before they bring about the apocalypse.
 
-I no longer think China is directly involved. I suspect Russian proxies may
-have rigged that chinese plane to try and frame us and to try and push
-China more towards Russia.
+I no longer think China is directly involved.
+
+I suspect they have tampered with my water. They use things that are
+impossible to test for. I don’t even know if you could even find a test for
+what they use. Everything they do is meant for them to get away with it.
 
 Chase Gibbons  / Manager
 435-999-4722
