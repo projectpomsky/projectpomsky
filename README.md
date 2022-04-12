@@ -3347,7 +3347,7 @@ nanotechnology himself, the doctor gave me a referral to go to ear doctor
 next and try that–whom should have better magnification to try and look for
 something like that inside my ear.
 
-As of December 30, 2021
+As of December 29, 2021
 
 So I’ve been thinking, all this stuff that has been happening to me, all
 this hacking and whatnot, you would think it would almost have to be
@@ -3493,7 +3493,7 @@ going to do with my house and all my current responsibilities, where I plan
 to initially run to, how I’m going to get there, where I’m going to reside
 when I get there, and then what I’m going to do once I’m there.
 
-As of December 31, 2021
+As of December 30, 2021
 
 What these people are doing with the feed from my brain to my eyes might
 actually be caused by another variation of infrasound based on me
@@ -3569,18 +3569,22 @@ people would to try and help with justice. But if you need something in
 particular just let me know. Text me on my google voice number, that one
 seems to normally always work without interference/tampering for the most
 part I think. (435) 261-2308 And that way it will make it a little easier
-on me to get you only more specific things.
+on me to get you only more specific things. Because getting all my stuff
+off old hard drives has been taking literally forever. (Well not literally
+but you get what I’m saying)
 
-I hope to go back through and add some of the references to the things
-already in this google drive folder probably tomorrow, so it doesn’t bleed
-into the new year, just to make it a little easier on you, but please
-recognize everything I have already done–it hasn’t been easy. This is
-beginning to look like a freaking book now. Regardless, sorry for the delay.
+I still plan to go back through and add some of the references to the
+things already located in this google drive folder probably tomorrow, so it
+doesn’t bleed into the new year, just to make it a little easier on you and
+because I said I would, but please recognize everything I have already done
+thus far–it hasn’t been easy. This is beginning to look like a freaking
+book now. Regardless, sorry for the delay.
 
 I will likely still keep updating this as well with anything that happens
-but likely not as frequently as I have been, I start work again on Monday
-after all.. And I’m hoping it will stop once I move, I may end up moving at
-any time too, once I figure out where I’m going, etc.
+from here on out but hopefully not as frequently as I have been, I start
+work again on Monday after all.. And I’m hoping it will stop or slow down
+at least once I move, I may end up moving at any time too, once I figure
+out where I’m going, etc.
 
 Regardless, thank you for reading. Thank you for your help as well, it’s
 been a little better lately, at least in terms of them not stealing my
