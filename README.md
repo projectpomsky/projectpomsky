@@ -4927,17 +4927,42 @@ answer as to where I should move to. (Don’t worry, I plan to move to a
 place where I am still accessible to the US if you guys need me for
 anything)
 
-Disregard all this at your own peril. Shutting off all my devices for now..
+Disregard all this at your own peril.
 
 I’ll leave you with an example of Dusty’s true colors, some messages Dusty
 sent previously to my other brother Mikey, who is/was a
-cop/firefighter/paramedic/life flight paramedic his whole life… 👇👇👇
-(It’s not me you guys, I’m just trying to help)
+cop/firefighter/paramedic/life flight paramedic his whole life in Clinton…
+👇👇👇 (It’s not me you guys, I’m just trying to help)
 
 ✌️
 
 Dusty’s True Colors
 
+Here are a few of the messages Dusty wasn’t able to delete all traces of..
+👇👇👇
+
+
+Please don’t fall for my brother Dusty trying to ruin my whole life as an
+innocent person. 😔
+
+I wouldn’t be risking my whole career and everything else if I weren’t 100
+percent confident most of what I allege against my brother is in fact true.
+They freaking EMF and infrasound me every single night starting right
+around the time I Iay down to go to sleep–every single f-ing night–they are
+obviously trying to create an illusion.
+
+What the heck else am I supposed to do as an innocent person?
+
+If you guys can’t investigate my brother due to jurisdiction issues, then
+please just let me know and I’ll share all this with someone who actually
+can investigate him. It makes it tough when there is more than just one
+person involved, because a lot of the crimes occur here but the person
+ultimately behind these guys coming after me to begin with resides in
+another jurisdiction. And I suspect at least some of the hackers reside in
+a different country entirely. Again it goes back to my brother making
+friends with a Russian Oligarch as I now suspect. But at the end of the day
+it’s not my job to investigate–I don’t want to jeopardize your
+investigation either. So I’ll just stop there, I was just trying to help.
 
 Chase Gibbons  / Manager
 435-999-4722
