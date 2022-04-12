@@ -11674,7 +11674,21 @@ arise when we are divided as a nation and how we become prone to exploit
 across all levels if so. And I hope we all can agree that us being defeated
 is a bad thing, like you can’t trust Putin. Putin’s own army can’t even
 trust Putin. Plus we are better together. That’s like teamMgmt101–the more
-diverse the ideas brought to any team–the better the results.
+diverse the ideas brought to any team–the better the results. (Not
+advocating for LBGTQ or anything I’m just saying at least 2 perspectives is
+better than one–aka the way our country was designed) I totally get how
+people could have gotten caught up in it btw. More people than you could
+probably imagine have likely been caught up in it in one way or another. I
+think what is important is for those people to work to put an end to it,
+and that will ultimately be what counts and helps our nation move forward
+as a whole–which is what we need. (I had the same profile pic back then of
+my dog too btw, so that message from that chick literally made no sense–and
+I rarely even used that account–her english appeared broken as well) Russia
+likes traps it seems.
+
+Please don’t forget to read
+https://docs.google.com/document/d/1KtnfL3WqWM2PGLCSWt1m4RCGprRhlCzhZkuw0psA3-4/edit#heading=h.5pj2htfgtk07
+
 
 Chase Gibbons  / Manager
 435-999-4722
