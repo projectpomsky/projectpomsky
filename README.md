@@ -1807,7 +1807,6 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
-​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -7209,8 +7208,8 @@ system for instance. Therefore even alarm systems are vulnerable to the
 same attack as a car remote now thanks to software defined radio and the
 potential of hackers monitoring the radio spectrum. Simply Safe used to
 never even encrypt their devices' communications either btw, before their
-latest model came out. (​​https://www.nimblefreelancer.com/simplisafe-hack/
-) But like I said, even with encryption–a hacker with a software defined
+latest model came out. (https://www.nimblefreelancer.com/simplisafe-hack/ )
+But like I said, even with encryption–a hacker with a software defined
 radio can still bypass it after enough monitoring even if it is encrypted.
 (The same is true with our brains btw)
 
@@ -7651,9 +7650,227 @@ against them.
 
 P.s. Isn’t it ironic that I went a full week without having anything
 significant to post about right when Russia was preparing to strike
-Ukraine/right when Russia was carrying out a cyber onslaught on Ukraine? So
-fucking ironic. That’s the first time I went that long too. I’m fucking
-sick and tired of Russian aggression tbh. We act like we are inferior to
-them or something even tho their tanks all look like they are like a
-century old. How about we start with eliminating their aggression from
-within our own borders? That’d be a decent place to start in my view.
+Ukraine/right when Russia was carrying out a cyber onslaught on Ukraine? I
+just noticed that. So fucking ironic. That’s the first time I went that
+long without posting in here too. I’m fucking sick and tired of Russian
+aggression tbh. We act like we are inferior to them or something even tho
+their tanks all look like they are like a century old. How about we start
+with eliminating their aggression from within our own borders? That’d be a
+decent place to start in my view.
+
+
+As of February 26, 2022
+
+[Opinion]
+
+Just a quick update. I’ve noticed my brother hasn’t really been involved
+lately. I can normally tell if it’s him on the other end of all this
+harassment, he knows me well for one and for other reasons I won’t mention.
+But yea, it’s as if he got pulled off for a bit or something. I theorize
+because he might actually have some heat on him or something now. I can
+somewhat tell when the cops are looking into him based on whether he’s
+involved with me or not in a way, or at least I try to be able to tell. My
+question is how much insight do these guys really have into the police?
+
+Beyond that, I mean did you hear the Anonymous hacking group finally
+started hacking Russia? It’s about freaking time if you ask me. I saw the
+tweet from anonymous on twitter earlier. That is badass. However I still
+think we are at a real disadvantage when it comes to red-team or offensive
+hacking as a nation as compared to Russia just given how ruthless Russia
+is–which is a huge problem in my personal opinion because hacking is
+everything these days. It allows you to be aggressive without starting a
+nuclear war for instance and it honestly could ultimately lead to one
+country completely disabling the other country’s nuclear arsenal without
+the other country even knowing about it. Further, it could lead to one
+country completely destabilizing or corrupting the other country and
+ripping it apart from within without the other country even knowing about
+it.
+
+I’ll try and quickly explain using something I thought about earlier.
+
+Someone from anonymous posted on twitter saying how easy it was to hack
+into the russian military site earlier, they (or someone) completely took
+down Russia’s military site and they posted all the site’s users and
+passwords online immediately thereafter. One of the users who replied to
+the original post said something about how they didn’t get why Russia was
+so highly regarded as being such a force in hacking essentially.
+
+Here is my reply:
+
+
+ -
+
+ I’ve been being targeted by Russia’s red team hacking group for some
+ time. I’d like to share what I have learned about why they are as effective
+ as they are in my opinion. 1) once they are in–they don’t advertise it to
+ the world—instead they monitor the situation and figure out how to get in
+
+
+
+ -
+
+ further. 2) They pair all their hacking with the use of psychology so as
+ to actually be able to turn some people against the organization they
+ hacked and get them to start working for them. They do this without ever
+ even saying anything, only through the use of various “signals” and
+ indicators of being hacked that are learned through exposure over time.
+
+
+
+ -
+
+ For example, imagine after hacking into a website like the Russian
+ military website, you started targeting one of those users on a personal
+ level instead of posting everything publicly, and you hacked the shit out
+ of one or more users and you got dirt on them that you could later
+ potentially use against them. Then you subtly let that person know you know
+ the truth..
+
+
+
+ -
+
+ You would then ultimately have someone on the inside working for you.
+ This would greatly increase your chance at getting in further.
+
+
+
+ -
+
+ 3) They go after routers in particular and through the previous step I
+ mentioned they now have minions on the ground to go plant various hacking
+ devices for them, and we all know physical access is king when it comes to
+ hacking. Plus they make it so it’s almost impossible to fully get them off
+ your network period.
+
+
+
+ -
+
+ 4) They utilize hacking mechanisms like “van eck phreaking”. Which
+ allows them to obtain passwords from the most secure environments without
+ even a trace using electromagnetic/rf frequency snooping. This also makes
+ it that much harder to get them off your network and to keep them off your
+ network–even after you have completely reset literally everything and all
+ at once perfectly without any hiccups. (Because they can just pick up on
+ all your new passwords as you type them and get in again)
+
+
+
+ -
+
+ 5) They create conflicts of interest. For instance, what business wants
+ to let the public know they are hacked and take a huge hit to their bottom
+ line? No smaller business that’s for damn sure. They end up corrupting
+ entire businesses to do what they want in this way. (more or less) And
+ small businesses ultimately turn into big businesses. You can also use this
+ corruption
+
+
+
+ -
+
+ to avoid any whistleblowers from getting very much traction. Because if
+ the business itself doesn’t want to admit they are hacked and devalue their
+ company then who’s going to believe the whistleblower? They create
+ conflicts of interest in all areas to advance their interests using
+ psychology and manipulation.
+
+
+
+ -
+
+ 6) They have already hacked a ton of our infrastructure using the
+ methods described above from what I gather. However, even to this day they
+ don’t advertise it–they are very particular with what they do with their
+ access levels. What they do do is they only change up a few db records at a
+ time to further their goals on a mirco level like to further help
+ corrupt/penalize key people of their choosing—without ever raising the
+ alarm which is the key. Because once the alarm is raised then they know
+ they will likely be kicked out of all systems like the three credit bureaus
+ for instance, etc. But what they can do is fuck with any whistleblowers
+ ability to obtain credit one at a time just as one example. No credit
+ bureaus is going to believe it’s hacked based on one person complaining
+ about it. It’s not just the credit bureaus either, that was just one
+ possible example. In reality they already have access to a ton of our
+ critical infrastructure but they just are smart about it so they don’t get
+ kicked out–which also makes it harder to ever fully get them out again if
+ they monitor you and know everything about you.
+
+
+
+ -
+
+ 7) They constantly seek to exploit vulnerabilities in both the physical
+ and digital realms. They steadily get more and more access to both people
+ and systems.
+
+
+
+ -
+
+ 8) Russia empowers their local hacking groups to attack other countries
+ in a controlled, directed manner–without the hacking groups risking getting
+ in trouble—this is what we need to do better in the US to catch up in my
+ view. They even steal some of our hackers from us and get them to work
+ for them, I assume using similar shady means as described above. This gives
+ them a significant advantage because it’s comparable to if our government
+ were to open itself up to working with any hackers across the globe who
+ wanted to work with them (in a way)—which it’s not. And so they end up
+ having hackers all over the world working for them including hackers in
+ their target’s country. (Hackers from the US in this case) And they even
+ fund them and other various organized crime groups to help further
+ destabilize us from within. It’s like the isis model of getting militants
+ from a bunch of different countries to go fight with them–except applied to
+ hacking.
+
+
+
+ -
+
+ Moral of the story is Russia plays the long game. Regardless, I commend
+ you guys (or whomever) for going after them, I’m just trying to help you be
+ as effective as possible based on the lessons I’ve learned first hand. The
+ key is to only let key people know they are hacked at a time and never
+ raise the alarm essentially. (Which that’s kinda what anonymous is all
+ about is raising the alarm and exposing to the public what they have done
+ so it’s tough)
+
+
+
+ -
+
+ And then the other key is to use psychology and manipulation to your
+ advantage.
+
+
+
+It speaks volumes that you haven’t heard of any US hacking group hacking
+Russia before now in my opinion–it shows Russia’s dominance in the field
+especially whereas they are constantly targeting us–which is honestly
+really scary and it will be hard for us to ever turn things around
+especially given how we are a lot less evil just in general in the way we
+operate as a country, just in my opinion.
+
+Just think, if Russia knew we would hack the crap out of them or take
+advantage of some of our previous intrusions and cause disruption in their
+society in response to their taking over Ukraine–they would have definitely
+thought twice about it first–especially whereas one of Russia’s greatest
+vulnerabilities is unique in the fact that they hide everything from their
+own people–and could therefore be easily exploited through hacking.
+
+Plausible deniability is the key to punishing Russia for taking over
+Ukraine without causing a nuclear war in my own personal opinion. I realize
+I’m not as smart as some of the people actually briefing the President
+however, but that’s just my opinion.
+
+I’m pretty decent and seeing things from a 30,000 foot level however–just
+ask Russia. 😉 (More on this later)
+
+
+Chase Gibbons  / Manager
+435-999-4722
+
+
+PO Box 747Logan, UT 84321
+gfic.io  
