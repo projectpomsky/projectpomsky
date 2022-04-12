@@ -11623,7 +11623,9 @@ it out.
 I guess I need to find a roommate is what I need. Someone renting just like
 a single room out. And to disable their damn microchips still. But even
 then they can just start EMF-ing me and make nobody want to be my roommate.
-My brother has a history of doing shit like this to me.
+My brother has a history of doing shit like this to deliberately isolate
+me. It’s as if he’s been planning on having me be his fall guy for at least
+7 years. God it’s hard to do the right thing in this world.
 
 Just while it’s on my mind, it’s very possible that they actually used a
 satellite to superheat me right above where I sleep and then they just
