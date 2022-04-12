@@ -3593,18 +3593,34 @@ keys, not constantly breaking into my house, etc, etc. Happy new year!
 
 P.s. I’m not giving up btw. They made a huge mistake in admitting to
 killing my dog the other day—regardless of whether they did or not. My dog
-was a local celebrity. What they are trying to do is make any memory of my
-dog a bad one—and I simply will not let that happen. (It’s more Charles
-Manson psychology tactics I suspect) Regardless, Dusty needs some serious
-help. I hope you all will join me in helping to ensure dusty is brought to
-justice, if not for me, if not for karie or my father—but for turbo. What
-dusty does to all these people/animals makes him deserve being locked up
-for the rest of his life—regardless of how smart he is. I’m happy to do
-whatever is necessary to bring down such a horrific person who happens to
-be my brother. He tries making my life and turbos life miserable for no
-reason other than for his own personal enjoyment. I said my kryptonite is
-my love for my brother—and it is—but dusty can fuck off as far as I’m
-concerned at this stage.
+was a local celebrity. What I suspect they are trying to do is make any
+memory of my dog a bad one—but that was a bad move—and I simply refuse to
+let that happen. (It’s more Charles Manson psychology tactics I suspect, I
+swear to god dusty is more Charles Manson than Charles Manson himself—he
+uses his infrasound and emf stuff to try and positively and negatively
+reinforce me—Charles Manson didn’t ever even do that)
+
+Regardless, Dusty needs some serious help. I hope you all will join me in
+helping to ensure dusty is brought to justice, if not for me, if not for
+karie or my father—but for turbo. What dusty does to all these
+people/animals makes him deserving of being locked up for the rest of his
+life at the end of the day—easily—regardless of how smart he is. I’m happy
+to do whatever is necessary to bring down such a horrific person who
+happens to be my brother. He tries making my life and turbo's life and the
+lives of my loved ones miserable for no reason other than for his own
+personal enjoyment. I said my kryptonite is my love for my brother—and it
+is—but dusty can fuck off as far as I’m concerned at this stage.
+
+Dusty for some reason seems to only get enjoyment out of hurting others
+these days which is not okay. In a way, this is like an epic battle between
+two brothers both for their lives—good vs evil. I’m okay with that tho cuz
+at least if I die I’ll be dying for a noble cause—although I wish it didn’t
+have to be this way. By Dusty’s life I mean prison time btw. However dusty
+leaves me very little choice but to try and get him locked up. I therefore
+could honestly use all the help I can get because I’m completely
+outnumbered here and I didn’t even know I’d one day be forced to play this
+fucked up game of my brothers just to stay alive and avenge my loved ones
+until I was in the middle of it.
 -- 
 
 Chase Gibbons  / Manager
