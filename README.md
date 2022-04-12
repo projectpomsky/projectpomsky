@@ -3750,7 +3750,16 @@ killer still on the loose for likely years to come.
 
 Another mysterious strange clear somewhat thick substance on my hallway
 floor today I found after I got home that wasn’t from anything I did.. (And
-I live alone) It wasn’t there when I left either.
+I live alone) It wasn’t there when I left either. Like I’m not messing
+around. Please don’t make all my hard work be in vain. If there was ever a
+credible microchip/emf/infrasound/gangstalking back story then mine has got
+to be among the top of that list—regardless of how outlandish it may sound.
+Bottom line is everything they are doing to me is literally engineered to
+seem outlandish for a reason. They’ve tried to kill me so many times now. I
+just want the police to actually arrest my brother already. It’s completely
+obvious that he’s involved at least and overseeing the whole operation at
+most. Don’t miss this opportunity to make likely the biggest most dangerous
+and most capable criminal bust of likely all of our lifetimes.
 
 Some (but not all) Dusty gangster references:
 
