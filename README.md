@@ -1412,8 +1412,8 @@ Dusty treating Karie that way was odd to say the least but at the end of
 the day he was my brother and I loved him/looked up to him. So I gave him
 the benefit of doubt. My mom apparently told Dusty that I had seen him do
 that to Karie, and he apologized to me over sms later. In hanging out at
-Dusty’s house around this time I recall my brother showing my friends and I
-the dark web for the first and only time. He told us how you can even buy
+Dusty’s house around this time I recall my brother showing some friends and
+I the dark web for the first and only time. He told us how you can even buy
 drugs and hitmen on it, all the while he was talking about how secure it
 was. I didn’t think he’d actually do it though. He essentially showed me
 how to access the dark web using the tor browser at the time, but that’s
