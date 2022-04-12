@@ -4161,7 +4161,7 @@ I’m not sure how much of it is attributable to the space heater I started
 using so I could shut my furnace off at nighttimes to be fair. I think I
 started using the space heater around the beginning of December.
 Regardless, I highly doubt my space heater takes up double or more of my
-usual electricity for my whole house however.
+usual electricity for my whole house.
 
 https://drive.google.com/file/d/1MiC9dX4Ccc-\_EjmCb1f1XNMQyMnpS1Zz/view?usp=sharing
 
@@ -4250,8 +4250,8 @@ I now have to turn off all my power at nighttimes, besides like my fridge
 and furnace. I also have to have ~12 to ~14 inches of water plus a faraday
 cage plus multiple inches of foam plus 1-2 inches of solid steel all
 blocking from the direction of my power meter to my head–or else blocking
-from the direction of any other breaker I leave turned on–but even
-still–their new weapon thing still is able to get through all that
+from the direction of any other breaker I leave turned on to my head–but
+even still–their new weapon thing still is able to get through all that
 protection on occasion and go straight through my head and my whole house.
 It’s going from South to North. I bet you could feel it if you stood
 outside on the sidewalk or in my yard to the north outside my home in the
@@ -4260,7 +4260,7 @@ don’t take what I say and evolve to try and make me look crazy again) And
 if you kneeled down. (Because that’s where my bed is at, they target my
 head whenever I’m laying down/sleeping) I guarantee there is residual
 energy going straight through my house despite all my protections in place
-when they use the lightsaber ones. (Also notice how they installed them
+whenever they use the lightsaber ones. (Also notice how they installed them
 right before I was supposed to return to work)
 
 I think it’s about time for me to bounce, but if I bounce they’ll likely
@@ -4270,26 +4270,26 @@ will be obtained, thereby not solving anything.
 
 I think it might have something to do with my power breakers cuz when I
 originally had them all turned on the other day, after they broke in again,
-afterwards they were seemingly all able to emit these power rays from each
-and every individual breaker in my house. (From a bunch of different
-angles/locations, from the locations each breaker covers essentially)
-That’s what I was getting at when I said it got less and less intense as I
-shut off my breakers one by one the other day–it was like turning off a
-different light sabor one by one until all that was left was one lightsaber
-coming from the direction of my meter outside. I think they either
-installed new power breakers the other day when they were in my house or
-else they did something else to make it so they could emit gama rays from
-each separate circuit in my house, using my main meter or main power line
-itself. They now appear to be trying to kill me using my own power, once
-again they have evolved to their latest intel and exploited vulnerabilities
-in my latest defenses. Prior to their latest new installation, my
-protection had me completely covered and from all angles. Now I will likely
-never be able to have that much protection from all possible angles in my
-house. (I’ll never be able to leave my power on again if I want to get any
-sleep whatsoever, and even doing what I’m doing now I mean it still gets
-through on occasion and it’s not healthy, I suspect they might just turn
-the power down during the day times anyways so that I’m constantly being
-exposed to radiation while I’m here)
+afterwards they were seemingly all able to emit these powerful lightsaber
+rays from each and every individual breaker in my house. (From a bunch of
+different angles/locations, from the locations each breaker covers
+essentially) That’s what I was getting at when I said it got less and less
+intense as I shut off my breakers one by one the other day–it was like
+turning off a different lightsaber one by one until all that was left was
+one lightsaber coming from the direction of my meter outside. I think they
+either installed new power breakers the other day when they were in my
+house or else they did something else to make it so they could emit gama
+rays from each separate circuit in my house, or else using my main meter or
+main power line itself. They now appear to be trying to kill me using my
+own power, once again they have evolved to their latest intel and exploited
+vulnerabilities in my latest defenses. Prior to their latest new
+installation, my protection had me completely covered and from all angles.
+Now I will likely never be able to have that much protection from all
+possible angles in my house. (I’ll never be able to leave my power on again
+if I want to get any sleep whatsoever, and even doing what I’m doing now I
+mean it still gets through on occasion and it’s not healthy, I suspect they
+might just turn the power down during the day times anyways so that I’m
+constantly being exposed to radiation while I’m here)
 
 I strongly suspect they do something similar with sound as well. They are
 able to use sound in a way where they can triangulate the sound to any
@@ -4382,16 +4382,17 @@ them today.
 
 And sure enough, look how they clearly got access to my NVR again
 somehow–even before I ever plugged it into internet again–either by
-breaking into my house yet again or else by hacking it’s wifi or else
-hacking the individual cameras somehow yet again, and look how they do
-things that aren’t even possible through the NVR’s UI tmk. Like changing
+breaking into my house yet again or else by hacking it’s wifi somehow or
+else hacking the individual cameras themselves yet again, and look how they
+do things that aren’t even possible through the NVR’s UI tmk. Like changing
 the primary hard-drive for instance, logging into individual cameras,
 changing the config “discreetly”, etc, etc. Like I don’t even know how to
 do any of that stuff–and like I said I hadn’t even touched it since the
 beginning of December when the first logs were created. But yea, I’ve never
-even seen any of those options on it before when I did actually mess with
-it prior to me having to reset it and try again this time. It’s insane. I’m
-a web programmer not an IOT programmer btw.
+even seen any of those options on the UI before when I did actually mess
+with it prior to me having to reset it and try again this time. It’s
+insane. P.s. I’m a web programmer not an IOT programmer btw. These guys are
+clearly good at both.
 
 https://drive.google.com/drive/folders/1KnN\_2TG2WSjgaAHFF6piinKiRj\_HOa2A?usp=sharing
 
@@ -4402,12 +4403,12 @@ Regardless, I need to get the microchip out first. That’s my number one
 priority as of right now. Then I’ll probably leave.
 
 I think they may have put something in my body wash. I now think that’s
-what caused me to get hives above because I got them again only not as
-intense right after taking a bath just barely.
+what caused me to get hives the other day because I got them again today
+only not as intense right after taking a bath just barely.
 
 I got a whole bunch of random evidence like that just when you are ready
 for it. From my vape juices to my tooth paste to my body wash, etc, etc.
-Hopefully one day you’ll know what to actually test it for..
+Hopefully one day you’ll know what to actually test it all for..
 
 As of January 3, 2022
 
@@ -4434,3 +4435,64 @@ Just some of the times I’ve reported all this stuff. The list has since
 grown.
 
 https://drive.google.com/open?id=1ayOeO29H\_bIhHZwFiJT9oipxAYil7RIV&disco=AAAATmpMjH4
+
+They haven’t been using the super intense lightsaber emfs the last few
+nights–they only used those ones right before I was planning on going back
+to work. It was enough to screw up my whole schedule again though and stop
+me from going back to work.
+
+Hopefully one day I’ll be able to sue for damages. I’ve never sued anyone
+before but this is getting ridiculous–they are legit trying to ruin my
+whole life and thus far at least they have been doing so with relative
+impunity.
+
+One thing I realized today about all the lies or whatever my brother made
+up and spread about my mom previously is I think he may have actually been
+referring to what he planned to do to me, or else he’s just been doing that
+same stuff to me since for whatever reason.
+
+
+ -
+
+ Because Dusty talked shit on my mom’s teeth towards the beginning in
+ 2019. (I now suspect my brother’s gang may have put something in my
+ toothpaste while they were in here, which started getting to my teeth,
+ before I changed toothpastes; I read it’s a common gangstalking tactic)
+ When I said I can’t trust anything in my house after they got in here–I
+ meant I really can’t trust anything–like some people don’t get the severity
+ of all this and the implications of them breaking in constantly for me.
+ It’s no joke. It’s not easily fixable either.
+ -
+
+ My brother and my mom also had this strange narrative that they both
+ apparently said the other was going to die a lonely death. (That’s exactly
+ what Dusty is now trying to do to me/force upon me)
+ -
+
+ Etc
+
+
+And again, I still don’t really understand why exactly, unless it’s because
+I started continuing my father’s legacy by buying another one of my
+father’s buildings from my little sister Taylor, which is right around the
+time when this all started, when the purchase agreement was finalized
+anyways. (i.e. Unless it’s because Dusty really is a serial killer who
+truly despises our father as I suspect)
+
+What are people going to do when there’s nobody left but Dusty, Cindy, and
+Taylor? That’s all I’m saying. Like at some point it’s got to become
+obvious who the imposter(s) is/are. It became obvious to me when Dusty
+started attacking me.
+
+
+
+Chase Gibbons  / Manager
+435-999-4722
+
+ 
+PO Box 747Logan, UT 84321
+gfic.io 
+
+[image: Twitter]  [image: Facebook]
+ [image: LinkedIn]
+
