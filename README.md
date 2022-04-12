@@ -11710,7 +11710,11 @@ haven’t. Like some people only care about themselves I swear. You would
 think she would realize I didn't do anything and I was friends with Dusty
 up until the point when he started coming after me so nothing she doesn't
 do is going to stop him from going after herself, any of her other children
-or grandchildren–the only way to stop him is if others actually help.
+or grandchildren–the only way to stop him is if others actually help. This
+is only going to get worse if others don’t help. One thing I’ve learned
+forsure throughout all this is I got my willingness to stand up for what's
+right from my father. Some of my other siblings have that mentality as
+well–but not all of them.
 
 P.s. The hackers are the only ones who know literally everything–everyone
 else seems to only know their part in it and that seems deliberate. All you
