@@ -4465,8 +4465,9 @@ same stuff to me since for whatever reason.
  -
 
  My brother and my mom also had this strange narrative that they both
- apparently said the other was going to die a lonely death. (That’s exactly
- what Dusty is now trying to do to me/force upon me)
+ apparently said the other was going to die a lonely death or something. (I
+ don’t know who to believe–all I know is that is exactly what Dusty is now
+ trying to do to me/force upon me)
  -
 
  Etc
@@ -4486,3 +4487,14 @@ started attacking me and Turbo.
 
 I still can’t believe how my mom completely flipped. I have stood up for
 her all along.
+
+Chase Gibbons  / Manager
+435-999-4722
+
+ 
+PO Box 747Logan, UT 84321
+gfic.io 
+
+[image: Twitter]  [image: Facebook]
+ [image: LinkedIn]
+
