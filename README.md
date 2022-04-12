@@ -2780,6 +2780,10 @@ but more elaborate quote of what I put above here:
  previously.. (But the thing is, he’s kinda helped make it this way for me
  in numerous different ways especially as of lately–I swear he thinks he’s
  god–or the devil I guess he’d like being called the devil better..)
+
+https://drive.google.com/file/d/1MPPe0Tox0-VSfmKER74yayxrx0fpWK4C/view?usp=sharing
+
+
  -
 
  So having realized this, I think it might be in my best interest to
@@ -2789,7 +2793,7 @@ but more elaborate quote of what I put above here:
  career as well. I’m still thinking about it, but the longer any of my
  devices are turned on–the more of a potential liability they are for my
  brother to frame me–seems I still haven’t figured out how to get him off my
- network/devices.
+ network/devices yet.
  -
 
  Happy Holidays all, wish me luck. 🎄🎅✌️
