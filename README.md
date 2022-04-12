@@ -3528,10 +3528,11 @@ around all the hacking at this time is simply by never logging into certain
 key accounts lol and then referencing certain google drive folders from
 other google drive accounts)
 
-I hope I’ve given you enough, I think it’s about time for me to try and
-find a better life elsewhere. (You know, a life where I don’t have to worry
-about my life, focus on all this shit daily, and a life where I don’t have
-to sleep in a faraday cage nightly, etc, etc)
+I hope I’ve given you enough, I’ve honestly given it my all, but I think
+it’s about time for me to try and find a better life elsewhere. (You know,
+a life where I don’t have to worry about my life, focus on all this shit
+daily, and a life where I don’t have to sleep in a faraday cage nightly,
+etc, etc)
 
 
 Chase Gibbons  / Manager
