@@ -11561,47 +11561,49 @@ deliberate attempts to target you whenever you use the restroom as if they
 are trying to condition you not to eat anymore so that you don’t have to
 deal with their harassment when using the restroom as often. I think they
 specifically target me while using the restroom both for this reason and
-because what’s one of the reason one wakes up at nights randomly? It’s to
-use the restroom. So them getting the signatures of me using the restroom
-further ensures they won’t get caught when tampering with me during the
-nighttimes essentially–if i am unprotected.
+because that’s one of the reason one wakes up at nights randomly. So them
+getting the signatures of my brain needing to use the restroom further
+ensures they won’t get caught when tampering with me during the nighttimes
+essentially–if i am left unprotected.
 
 Imagine getting ready to leave the house. No big deal right? Wrong. Huge
 freaking deal. I’ve got to make sure literally everything is in place, and
 half the time I encounter something or other that suggests they have
 compromised another one of my countermeasures making it so I have to then
-reset my phone or reset my network or reset my security system just to
-have even like 50 percent confidence that they won’t get in my house while
-I’m away, etc, etc.
+reset my phone or reset my network or reset my security system or buy a new
+one just to have even like 50 percent confidence that they won’t get in my
+house while I’m away, etc, etc.
 
 Imagine going to sleep at night. No big deal right? Wrong. I’ve got to
 sleep in a faraday cage. I’ve got to make sure my whole freaking house is
-locked down. I’ve got to make sure I am literally loked into my room with
+locked down. I’ve got to make sure I am literally looked into my room with
 triggers on the door to let me know if they get in while I’m asleep. I’ve
-got to make sure I am protected from their emf’s, gas, and infrasound.
-They’ll even put their poison shit on the sound proof foam to where if I
-fall asleep surrounded in sound proof foam then I’ll wake up with this
-strange substance on my hands and arms and on any exposed skin essentially,
-which can give me hives as well. I’ve got to make sure they can’t access
-anything of value like my prescriptions, vape juice, etc, etc, while I’m
-asleep I’ve got to try and make sure they can’t make me sleep indefinitely
-by protecting myself sufficiently. I’ve got to make sure my home security
+got to make sure I am protected from their emf’s, gas, and infrasound–which
+is impossible to be fully protected from all 3 btw. They’ll even put their
+poison shit on the sound proof foam to where if I fall asleep surrounded in
+sound proof foam then I’ll wake up with this strange substance on my hands
+and arms and on any exposed skin essentially, which can give me hives as
+well. I’ve got to make sure they can’t access anything of value like my
+prescriptions, vape juice, etc, etc, while I’m asleep I’ve got to try and
+make sure they can’t make me sleep indefinitely nor keep me awake by
+protecting myself sufficiently. I’ve got to make sure my home security
 alarm is on and not hacked so they don’t tamper with other parts of my
 house while I’m asleep. I’ve got to make sure my regular alarm clocks are
 on and not connected to the internet otherwise they can just disable them
 through all their hacking. I’ve got to make sure they haven’t added new
-hardware to anything that isn’t connected to the internet which makes it so
-it is connected to the internet. I’ve got to make sure I block all air gaps
-that sound can travel through without suffocating myself, etc, etc.
+hardware to anything that isn’t connected to the internet by default which
+makes it so it is connected to the internet for their tampering. I’ve got
+to make sure I block all air gaps that sound can travel through without
+suffocating myself, etc, etc.
 
 Imagine the prospect of getting a new place. No big deal right? Wrong. Huge
 freaking deal. For one they are all over whatever it is I do. They rigged
 my whole rental house just in anticipation of me possibly staying there
-before renting it out again previously. Plus if I rent any place out
+before I rented it out again previously. Plus if I rent any place out
 myself, I’m going to need advanced locks in place just to keep them out—and
 not every landlord will be cool with that. Just renting a place out seems
 like a huge challenge to me tbh. They aim to essentially rig the whole
-place before I even rent it out.
+place before I even officially rent it out.
 
 I guess I need to find a roommate is what I need. Someone renting just like
 a single room out. And to disable their damn microchips still.
@@ -11610,35 +11612,39 @@ Just while it’s on my mind, it’s very possible that they actually used a
 satellite to superheat me right above where I sleep and then they just
 instructed the jet to fly over while they used the satellite to heat me
 previously, hence setting it up to where if investigated then I’ll look
-like the crazy one myself–when in reality they are colluding with Russia. I
-am confident they have a tunnel btw, I’m going to be renting out a ground
-penetrating radar soon to find their tunnel seems they can’t hide their
-tunnel just cuz they know I’m going to be searching for it. Finding their
-tunnel will also make it so I don’t have to bother renting another place
-out. It will also lead us directly to the culprit if found.
+like the crazy one myself–when in reality the pilot is indeed colluding
+with Russia. I am confident they have a tunnel btw, I’m going to be renting
+out a ground penetrating radar soon to find their tunnel seems they can’t
+hide their tunnel just cuz they know I’m going to be searching for it.
+Finding their tunnel will also make it so I don’t have to bother renting
+another place out. It will also lead us directly to the culprit if found.
 
-Imagine the prospect of leaving your car at anytime and the possibility of
-them getting inside it whenever they choose. I often leave my phone
-recording these days in my car whenever I have any food or anything in
-there that I don’t want them tampering with while I have to run into some
-other store real quick—but even then all my phones are hacked so they can
-still technically get passed it.
+Imagine the prospect of leaving your car and the possibility of them
+getting inside it whenever they choose. I often leave my phone recording
+these days in my car whenever I have any food or anything in there that I
+don’t want them tampering with while I have to run into some other store
+real quick—but even then all my phones are hacked so they can still
+technically get passed it.
 
 It’s all designed to discredit me. From keeping me up at nights to making
 me sleep forever when I do sleep to making it a bad experience for me to
-shower to making it a bad experience for me to use the restroom to making
-it difficult for me to do literally anything to all their false flag
-operations and continuous evolutions, etc, etc. They are extremely serious
-about discrediting me. I’m surprised they haven’t discredited me more than
-they have tbh. They actually haven’t really succeeded in discrediting me at
-all thus far. But they try that’s for damn sure.
+shower to making me afraid to brush my teeth to making it a bad experience
+for me to use the restroom to making it difficult for me to do literally
+anything to all their false flag operations and continuous evolutions, etc,
+etc. They are extremely serious about discrediting me. I’m surprised they
+haven’t discredited me more than they have tbh. They actually haven’t
+really succeeded in discrediting me at all thus far. But they try that’s
+for damn sure.
 
 I could go on btw. But just know this is just the gist of it. The three
 critical pieces to enable them to do all this is all their hacking, their
 tunnel, and their microchips. If i can counter any one of those things it
 would honestly make all of the difference. I hope Russia hacks us tbh. Then
-maybe we’ll start taking hacking more seriously. From now on we need to
-keep hacking Russia ourselves.
+maybe we’ll start taking hacking more seriously. Regardless–from now on we
+need to keep hacking Russia and other adversaries ourselves. Worst case
+we’ll just come across some of their secret weapons and we will be better
+for it.
+
 
 Chase Gibbons  / Manager
 435-999-4722
