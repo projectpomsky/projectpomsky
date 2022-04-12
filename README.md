@@ -1112,6 +1112,57 @@ Timeline coming soon, which will hopefully put everything in a little
 better perspective..
 
 
+As of December 15, 2021
+
+[Opinion]
+
+My brother is trying to kill me you guys. Like I know that sounds bad, but
+I swear it’s the truth. Do you know how much money and time his “people”
+have spent on me? It’s insane. Sometimes I become desensitized like I said,
+but the truth is I can’t grow hair on like half of my legs anymore--which
+isn’t normal. Most older men can still grow hair on their legs--let alone
+men my age. I know deep down this is no joke. Sometimes I suspect they may
+still be getting into my house despite my best efforts to keep them out. I
+don’t know if it’s just PTSD or whether I’m still being re-exposed to
+something they did previously while in my house somehow or else whether
+it’s from my car or what. All of this likely implicates way more than just
+my brother too. So it’s like a small army of people want me dead. And
+nobody is going to truly take this seriously until it ultimately happens.
+That’s the position I find myself in. The worst part is my brother has
+ripped apart my whole family.
+
+These guys can hack anything--you have been warned. It’s scary. I suspect
+they buy exploits off of the dark web btw, I don’t think they program
+everything from scratch.
+
+I wish I knew the name of what hacking gang or mob or cult or whatever it
+is these guys belong to. Because these guys are extremely dangerous. Some
+of them seem to be like hired contractors or hitmen, whereas others seem to
+be more persistent in nature. But going after people seems to be legit all
+this hacking gang does all day every day. Most hackers aren’t killers but
+the two together are a deadly mix. My brother really had no reason to hack
+me other than if he wanted to kill me. Do you want to know who’s websites
+my brother has done previously btw? Karie’s and my father’s. Crazy right? I
+wonder if he hacked them too.
+
+Regardless, I hope someone takes all this and runs with it and holds my
+brother and everyone else who has been involved accountable some day,
+assuming they are indeed guilty as I strongly suspect--don’t let them
+mislead you. If I can do anything further to help, just let me know. If my
+brother and any other key members of this unnamed group are one day held
+responsible--it will have all been worth it. Even just raising the alarm
+like this is huge. Hopefully when I’m done with all this then people can
+make up their own minds about my brother and whatever happens to me from
+here on out. My fear is a lot of what I have shared here is electronic at
+the end of the day, and it could therefore be hacked and manipulated and
+therefore it could be argued to not be authentic in court--when in fact
+everything I’ve written here thus far is authentic--I just could still do
+it in a more official way is all I guess. I’ll do that on the key parts
+once I’m through. But then I need to get out of here for my own safety and
+leave this all behind me I think, in pursuit of happiness elsewhere.
+
+Regardless, thank you for your support.
+
 Indicators of being hacked
 
 The following outlines some indicators of being hacked based on what I’ve
@@ -1521,68 +1572,77 @@ over email--just as a test. My brother responded to my email saying
 something about how much Karie charged us to be our trustee, but the email
 is deleted from my inbox somehow. I look into how that could be possible, I
 find there is such a thing of confidential self deleting email messages and
-I attribute that email being deleted to that.
+I attribute that email being deleted to that. (However, I’ve since found
+out that confidential self deleting emails are marked clearly as such–and I
+don’t recall this email from dusty as being marked that way when I did
+glance at it before it was deleted)
 
-First perfect circle of black feathers left in my yard right around this
-same time--I didn’t know what it was at the time.
+First perfect circle of black feathers left in my yard right around the
+time I accused dusty of killing our father and sister for Cindy--I didn’t
+know what it was at the time tho.
 
 My dog and I get poisoned for the first time on our walk--a group of
 Mexicans came up and deliberately put what appeared to be this strange
 grayish paste poison substance on my dog’s forearm--while pretending to pet
 him/pick him up--my phone got hot at the time. My brother had told me he
-thinks my dog should die the day prior. My brother texted into the group
-conversation between my siblings and I right after the mexicans put that
-shit on turbo, (
+thinks my dog should die the day prior over imessage/sms. My brother texted
+into the group conversation between my siblings and I right after the
+mexicans put that shit on turbo, (
 https://drive.google.com/file/d/1TwEBUWSWpaOQLLgTQGL-Wq\_tqkWIKc4W/view?usp=sharing
 ) disparaging our mother further--even though he said he was blocking us
-all the day prior. I knew it had to have been poison cuz it made both me
-and my dog feel funny, (I wiped it off him cuz he wouldn’t walk any further
-until I got it off) and even then my dog didn’t want to walk more than
-100ft more that day, which was uncharacteristic for him at the time. It
-made me feel like messed up at first, then it made my whole body ache for
-days afterwards. I couldn’t get it off--it kept seeping out of my pours for
-days--despite repeated washing. I finally figured out that rubbing
-alcohol/apple cider vinegar helped in washing it off but even still it
-required repeated washing over time as it seeped out of my skin.
+all the day prior–as if to send me a signal. I knew it had to have been
+poison cuz it made both me and my dog feel funny, (I wiped it off turbo cuz
+he wouldn’t walk any further until I got it off) and even then my dog
+didn’t want to walk more than 100ft more that day, which was
+uncharacteristic for him at the time. It made me feel like messed up at
+first, then it made my whole body ache for days afterwards. I couldn’t get
+it off--it kept seeping out of my pours for days--despite repeated washing.
+I finally figured out that rubbing alcohol/apple cider vinegar helped in
+washing it off but even still it required repeated washing over time as it
+seeped out of my skin.
 
-2nd perfect circle of black feathers left in my yard the same night we were
-poisoned--which again was the day after my brother straight up told me he
-thinks my dog should die all rudely over sms for no reason whatsoever. They
-did it on the night of the fireworks going off in 2019.
+2nd perfect circle of black feathers left in my yard the same night my dog
+and I were first poisoned--which again was the day after my brother
+straight up told me he thinks my dog should die all rudely over sms for no
+reason whatsoever. They did it on the night of the fireworks going off in
+2019.
 
 I confront my brother saying he’d be crazy to try and kill me right then
-essentially--because if he had still lived in logan he’d know people are
+essentially--because if he had still lived in Logan he’d know people are
 suspicious of all the deaths in our family as is and how there was a
-pattern of them being 5 years apart. (Notice the timing of the attack, it
-was mid way through 2019) This is when I first started looking back on
-everything and is when I first started truly suspecting my brother of
-potentially killing some of our family--I straight up asked him after all
-and he completely failed that test and all tests I have thrown his way
-since then--miserably.
+pattern of the deaths being 5 years apart. (Notice the timing of the
+attack, it was mid way through 2019, or four years after karie’s death)
+This is when I first started looking back on everything and is when I first
+started truly suspecting my brother of potentially killing some of our
+family--I straight up asked him after all and he completely failed that
+test and all tests I have thrown his way since then--miserably.
 
 To be continued…
 
 2020
 
 Poisoned again this time from a key I left out for a tenant who was
-interested in renting one of my little sister’s commercial units (located
-within the commercial building of our father’s I had bought when Dusty
-first started distancing himself from me)--when the prospective tenants
-left the key in the drop spot to give the keys back to me. Similar
-substance as the first time except this time it was clear but it gave me a
-similar initial feeling and it made all my lymph nodes swell up for days
-afterwards. Sound familiar? Lymph nodes are what are affected in non
-hodgkin's lymphoma.
+interested in renting one of my little sister’s commercial units (the unit
+was located within the commercial building of our father’s I had bought
+when Dusty first started distancing himself from me, but the key was left
+outside)--when the prospective tenants left the key in the drop spot
+outside to give the keys back to me. It was a similar substance as the
+first time except this time it was clear instead of grey but it gave me a
+similar initial feeling, it smelt similar, and I was able to differentiate
+this time as it made all my lymph nodes swell up for days afterwards. (The
+first time I just knew it made my whole body ache, this second time I
+realized it was really all my lymph nodes swelling up/aching) Sound
+familiar? Lymph nodes are what are affected in non hodgkin's lymphoma.
 
-Again I can tie it back to Dusty.
+Again I can tie this second poisoning back to Dusty.
 
 2021
 
 I notify my brother that my dog turbo, is in bad shape, he has multiple
 organ failure and is not going to be around much longer, in trying to give
-Dusty the benefit of doubt from what happened in the past. I specifically
-pointed out how he used to like turbo and be close to turbo, secretly
-hoping I could take turbo to go say goodbye to dusty.
+Dusty the benefit of doubt from what happened in the past again. I
+specifically pointed out how he used to like turbo and be close to turbo,
+secretly hoping I could take turbo to go say goodbye to dusty.
 
 Hispanic male starts stalking my neighborhood literally like 25 minutes
 after I sent that message to my brother. Seems turbo’s prognosis was grim
@@ -1608,8 +1668,8 @@ https://neighbors.ring.com/event/Vxp7yxNSxV )
 Child abuser’s (
 https://drive.google.com/file/d/1sSBbS1KNBGcXheMrK1JETPhNqP2AFmg\_/view?usp=sharing
 ) kid starts showing up at my house for the first time out of the whole
-time they’ve lived next to me, asking to “play” initially. I didn’t know
-who’s kid it was until some time later. (
+time they’ve lived next to me, asking to “play”. I didn’t know who’s kid it
+was until some time later. (
 https://drive.google.com/drive/folders/1u5IDbtDskD\_X8bowDJAY9ukE-xuI5MlS?usp=sharing
 )
 
@@ -1646,23 +1706,26 @@ infecting the new computer I had been issued, to get a password off my
 1password or whatever. I later found out that despite my best efforts, the
 new computer showed similar signs of being infected. Anyways, I went home
 that night after being invited to the Eagles and I recall I was on one of
-my computers doing something when the same kid knocked/rang the doorbell
-for the seventh time. My network was down at the time so this time, once I
-saw who it was, I started recording on my cell phone instead prior to
-answering. Sure enough it was the same kid again, only this time I saw who
-was directing him myself in walking out with my cell phone camera rolling.
-(All previous times I had recorded it with my ring video doorbell which
-stayed put in one location) It was the child abuser neighbor guy who was
-directing the kid. As soon as he saw me he tucked back into his garage so
-he couldn’t be recorded. The kid initially said something like “why you
-always working”, but then after his dad tucked behind his garage door, the
-kid looked back for direction and didn’t know what to do once he saw his
-dad was now gone. I would be willing to bet the dad had been standing right
-there every single time--because it had become clear the kid was being
-directed. (Which is partly why I call him a child abuser, that and because
-he clearly had hurt his kids previously physically) Anyways, the
-significance of what the kid said the last time was the kid was essentially
-coercing me to goto the bar where I would later be poisoned.
+my computers doing something around 7:20pm when the same kid knocked/rang
+the doorbell for the seventh time. My network was down at the time so this
+time, once I saw who it was, I started recording on my cell phone instead
+prior to answering. Sure enough it was the same kid again, only this time I
+saw who was directing him myself in walking out with my cell phone camera
+rolling. All previous times I had recorded our encounters with my ring
+video doorbell which stayed put in one location. It was the child abuser
+neighbor guy who was directing the kid. As soon as he saw me he tucked back
+into his garage so he couldn’t be recorded, I saw him myself but I don’t
+think I captured him on my cell phone footage. The kid initially said
+something like “why you always working?”, (as if to coerce me to goto the
+bar) but then after his dad tucked behind his garage door, the kid looked
+back for direction and didn’t know what to do once he saw his dad was now
+gone. I would be willing to bet the dad had been standing right there every
+single time--because it had become clear the kid was being directed. (Which
+is partly why I call that guy a child abuser, that and because he clearly
+had hurt his kids previously physically) Anyways, the significance of what
+the kid said the last time was the kid was essentially coercing me to goto
+the bar where I would later be poisoned, given how I was late to go to the
+eagles that evening.
 
 Describe eagles bar poisoning incident in full here..
 
@@ -1670,18 +1733,19 @@ One thing I want to add right now about the eagles bar poisoning is they
 ended up getting in my car while I was at the eagles and put poison in
 there, they also left a bunch of thorn-bush spikes on my floormat that I
 later dumped out thinking they were odd whereas I hadn’t been near any
-thornbushes at all lately--let alone that many of them. It was only after
-one of the next poisonings where they left similar thorn bush spikes on my
-porch when I put two and two together, that that would be a great way for
-someone to get poison into me internally--and that those thornbush spikes
-were likely left there deliberately--even though the main poisoning in the
-eagles incident came from them leaving some heat activated clear substance
-on I think like my shifter in my car, which I ended up getting exposed to 2
-separate times because at first I thought it was from a guy who came and
-touched me in the bar that night right before I left--when in reality it
-was that same guy who came and touched me in the bar that night although he
-had been in my car prior--because my whole car had wreaked like his
-cologne.
+thornbushes at all lately and whereas I hadn’t had any thorn bush spikes on
+any of my pant legs or shoes or anything--let alone that many of them. It
+was only after one of the next poisonings where they left similar thorn
+bush spikes on my porch when I put two and two together, that that would be
+a great way for someone to get poison into me internally--and that those
+thornbush spikes were likely left there deliberately--even though the main
+poisoning in the eagles incident came from them leaving some heat activated
+clear substance on I think like my shifter in my car, which I ended up
+getting exposed to 2 separate times because at first I thought it was from
+a guy who came and touched me in the bar that night right before I
+left--when in reality it was that same guy who came and touched me in the
+bar that night although he had been in my car prior--because my whole car
+had wreaked like his cologne.
 
 The significance of the thorn bush spikes is what happened to my dad before
 he died? He got some strange “infection” in his foot--leading to him having
@@ -1697,10 +1761,21 @@ Time they poisoned me which pulled all the blood from my extremities was
 from the eagles incident--on my second exposure to be specific. The first
 exposure I felt while at walmart right after I left the eagles and it made
 me feel drugged. The substance was a clear liquidy substance that doesn’t
-feel like liquid to the touch. Like my hands didn’t feel wet but I noticed
-it from looking at my vape and it being all over my vape. From past
-experiences I knew I had to wash it off immediately--both the first and
-second exposure.
+feel like liquid to the touch. The first exposure I noticed from feeling
+drugged out of nowhere–even though I had only had one drink that night at
+the bar. From past experiences I knew I had to wash it off
+immediately--both the first and second exposure. So in walmart I went
+directly to the bathroom and washed off my hands and where that guy had
+touched me, and I started feeling better. The second exposure that night
+legit pulled all the blood from my extremities. I noticed the second
+exposure from looking at my vape later on that same night while at home,
+there was some clear substance all over my hands and my vape. Like my hands
+didn’t even feel wet and I likely wouldn’t have even noticed it had it not
+been all over my vape. I washed it off immediately again but even still it
+almost wasn’t soon enough–it almost killed me. It pulled all the blood from
+my toes into my feet, my fingers going up my arms; I couldn’t pee for hours
+even though I had to because I did not have enough blood flow down there
+either. It was scary.
 
 String of break-ins #1
 
@@ -1724,12 +1799,13 @@ wired ones--which was unheard of. (I had been staying in a hotel to try and
 get away from all the EMF stuff)
 
 Wet spot in the middle of the walkway on the carpet in one of my
-bedrooms--which I also stepped on. Between this and the thorn bush spike,
-made me feel wobbly. Vape juice made me feel drugged.
+bedrooms–even though I had been gone for at least 24 hours--which I also
+stepped on. Between this and the thorn bush spike, made me feel wobbly.
+Vape juice made me feel drugged.
 
 It was as if they planned on the thorn bush spike, wet spot they had left
 for me to kill me, and they had set it all up to frame me to the police as
-being a druggy.
+being a druggy when they later found me.
 
 I didn’t drive my car for days afterwards because I was afraid they had
 succeeded in drugging me that day/evening.
