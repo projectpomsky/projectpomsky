@@ -1199,11 +1199,11 @@ to try a lot of them himself.
 Other things that have happened to me is they’ll interfere with what I
 type, especially on mobile. They make it so it’s damn near impossible to
 type sometimes, by like typing over what I’m trying to type when they are
-trying to piss me off. They will cut my internet connection on both desktop
-and mobile or else throttle it at key times–just depending on what I'm
-doing at the time. (I realize this happens naturally as well and is a
-common occurrence but the difference is they’ll do it like to prevent me
-from being able to work when next to other coworkers who’s computers are
+trying to piss me off at key times. They will cut my internet connection on
+both desktop and mobile or else throttle it at key times–just depending on
+what I'm doing at the time. (I realize this happens naturally as well and
+is a common occurrence but the difference is they’ll do it like to prevent
+me from being able to work when next to other coworkers who’s computers are
 behaving just fine, they do it in odd ways and always at key times, they
 also have cut my internet access both on my phone and on my computer in
 order to prevent me from checking on my cameras previously, prevent me from
@@ -1225,7 +1225,10 @@ reinstall my ring app before leaving my home when I plan to monitor my
 house closely these days as well, cuz they’ll essentially reprogram that
 particular app to fail to load altogether–and re-installing the entire app
 is the only way I’ve found to get anything on my ring account to load
-again. What else? I’ll think of more and add it here.
+again. They reprogram my phone number to forward to other phone numbers.
+They’ll make my phone not block contacts that are clearly marked as being
+blocked. (Like my brother for instance, he can still text me even though
+he’s blocked) What else? I’ll think of more and add it here.
 
 The best thing you can do if you do suspect you are hacked, that I have
 found at least, is to report it to the Utah Department of Public Safety -
@@ -1623,6 +1626,10 @@ that) #garage #framingme
 My brother goes into sleeper mode. (Which was a red flag given all that
 happened in the past)
 
+Dusty started talking like a gangster–like he completely changed the way he
+would talk to everyone–it was weird, (Sometimes I wonder if he has
+multiple personalities) but then he deleted everything later. #gang
+
 My brother Dusty asks me to do his website for his new recording studio,
 even though he was perfectly capable to do it himself. Whereas he had all
 the sudden distanced himself from all his friends and family, I told him I
@@ -1635,8 +1642,8 @@ denied. Plus my brother has always been difficult to work with.
 Dusty flakes out on hanging out anymore.
 
 Dusty encourages me to use social media more. (I felt like he could just be
-trying to look for a better way to do something to me without him besing
-the only suspect given how shady and hostile he had been acting out of
+trying to look for a better way to do something to me without him being the
+only suspect given how shady and hostile he had been acting out of
 nowhere–so I didn’t take his advice)
 
 Dusty recommends a book to me called “Never eat alone”.
@@ -1671,8 +1678,8 @@ marked clearly as such–and I don’t recall this email from dusty as being
 marked that way when I did glance at it before it was deleted)
 
 First perfect circle of black feathers left in my yard right around the
-time I accused dusty of killing our father and sister for Cindy--I didn’t
-know what it was at the time tho. #signal
+same time I accused dusty of killing our father and sister for Cindy--I
+didn’t know what it was at the time tho. #signal
 
 First Poisoning
 
@@ -1712,7 +1719,8 @@ caller in a gang.
 
 Dusty tells me I’m going to regret not coming to work with him.
 
-Dusty blames him being the way he is on our mother.
+Dusty blames him being the way he is on our mother. (Only caring about
+himself)
 
 Dusty says he’ll have Paul take “his money” out of my account.
 
@@ -1729,11 +1737,8 @@ know why, cuz he knows he’s guilty/he was up to no good at his recording
 studio and/or he thought I might try to do something similar to him as a
 result of what he did to me or something)
 
-Dusty disparages Karie. #karie
+Dusty disparages Karie repeatedly. #karie
 
-Dusty started talking like a gangster–like he completely changed the way he
-would talk to everyone–it was weird, (Sometimes I wonder if he has
-multiple personalities) but then he deleted everything later. #gang
 
 Dusty doesn't deny being a serial killer nor does he deny being in a gang
 when asked by me directly numerous times over email.
@@ -1767,10 +1772,10 @@ started truly suspecting my brother of potentially killing some of our
 family--I straight up asked him after all and he completely failed that
 test and all tests I have thrown his way since then--miserably. Like can
 you even think of a worse response to my test? (Circle of black feathers
-left outside my house right after, deleting emails out of my inbox, telling
-me my dog should die, phone getting hot, someone trying to fill my
-prescriptions, disparaging our whole family, etc, etc) I can’t. This stuff
-is scary.
+left outside my house right after, deleting his response out of my inbox,
+telling me my dog should die, phone getting hot when poisoned, someone
+trying to fill my prescriptions, disparaging our whole family, etc, etc) I
+can’t. This stuff is scary.
 
 To be continued…
 
@@ -2063,11 +2068,24 @@ being a druggy when they later found me.
 I didn’t drive my car for days afterwards because I was afraid they had
 succeeded in drugging me that evening.
 
+Gave evidence to the police.
+
 String of break-ins #2
 
 This folder, see videos of intruders here:
 https://drive.google.com/file/d/1G4yI\_Ri\_7t\_p5Hf4kBtDzwlnUK8V0HGl/view?usp=sharing
 #tampering #waterheater
+
+
+Halloween Car break-in/Mocking me
+
+I suspect a black guy in a black mercedes car got into my car while in
+walmart and put something in my vape juice. He and his girlfriend were
+sitting in their car next to my car when I went out that day and I
+recognized him as being one of my brother’s guys. Right after this is when
+they left that voicemail mocking me by coughi. They have since left other
+voicemails as well, the latest one I actually listened to sounds like it’s
+being created by a dj.
 
 Tampering with my electricityI suspect they’ve been able to remotely
 control my electricity previously, by they I mean my brother and his
@@ -2100,6 +2118,9 @@ I suspect they stole my keychain out of my car most recently, which had
 keys to all my rental properties, my new safe, my house, my mailbox, etc,
 etc.
 
+My rental house has since been having a lot of issues with it’s
+furnace/water heater.
+
 
 2022
 
@@ -2121,21 +2142,23 @@ Sometimes I suspect they may still be getting into my house despite my best
 efforts to keep them out. I don’t know if it’s just PTSD or whether I’m
 still being re-exposed to something they did previously while in my house
 somehow or else whether it’s from my car or what. All of this likely
-implicates way more than just my brother too. But nobody is going to truly
-take this all seriously until it ultimately happens. That’s the position I
-find myself in. The worst part is my brother has ripped apart our whole
-family.
+implicates way more than just my brother too. But hardly anybody is going
+to truly take this all seriously until it ultimately happens. That’s the
+position I find myself in. The worst part is my brother has ripped apart
+our whole family.
 
 These guys can hack anything--you have been warned. It’s scary. I suspect
 they buy exploits off of the dark web btw, I don’t think they program
-everything from scratch.
+everything from scratch–but I do think they have programming knowledge to
+say the least.
 
 I wish I knew the name of what hacking gang or mob or cult or whatever it
 is these guys belong to. Because these guys are extremely dangerous. Some
 of them seem to be like hired contractors or hitmen, whereas others seem to
-be more persistent in nature. But going after people seems to be legit all
-this hacking gang does all day every day. Most hackers aren’t killers but
-the two together are a deadly mix. Especially when the hackers act as the
+be more persistent in nature. (Like the black mercedes black guy and the
+child abuser guy) But going after people seems to be legit all this hacking
+gang does all day every day. Most hackers aren’t killers but the two
+together are a deadly mix. Especially when the hackers act as the
 coordinators for people on the ground. My brother really had no reason to
 hack me other than if he wanted to kill me.
 
@@ -2233,14 +2256,17 @@ however–if I want any chance at ever being able to live a happy life again.
 
 It’s like a one in a million shot at me actually getting a desirable
 outcome. But I am doing it because I have no other options at this point.
-They tell you to stay silent for a reason. But what about when you are able
-to put two and two together before the police are able to? Because you were
-there as a witness? And the person you suspect was behind some shady stuff
-knows that you have figured out their shady past? So then they start
-pursuing you trying to discredit you and kill/frame you? Then what? What
-would you do if you were me? Stay silent? Run? Then my brother could just
-frame you or kill you and the police would have no idea about the other
-side of the story until it’s too late.
+They tell you to stay silent for a reason–my brother stays silent for a
+reason.
+
+But what about when you are able to put two and two together before the
+police are able to? Because you were there as a witness? And the person you
+suspect was behind some shady stuff knows that you have figured out their
+shady past? So then they start pursuing you trying to discredit you and/or
+kill/frame you daily? Then what? What would you do if you were me? Stay
+silent? Run? Then my brother could just frame you or kill you and the
+police would have no idea about the other side of the story until it’s too
+late.
 
 Some people don’t think I should devote as much time to this either, and I
 honestly wish I didn’t have to. But the truth is I have no other choice at
@@ -2261,9 +2287,11 @@ I wish I had any other male human being on this planet as a brother tbh.
 Doing the right thing is never easy, but I’m hoping in the end it will be
 worth it, and I'm hoping someone is looking over me.
 
-(I’m going to be moving this readme to git to try and avoid tampering btw,
-so watch out for that. Git has version histories built into it that all can
-see)
+(I’m going to be moving this readme to git to try and avoid tampering and
+to avoid everything being read by people who have shown signs of covering
+for my brother btw, (the last thing I need is everyone being on the same
+page in their denials, etc) so watch out for that. Git has version
+histories built into it that all can see)
 
 My Analysis of TimelineFather
 
@@ -2292,13 +2320,15 @@ take both Dusty’s and Cindy’s alibis at face value. Cindy said she was in
 Ogden at her biker bar. Dusty said he went to the gas station nearby, which
 was literally like 2 minutes away. So like a ten minute round trip or so.
 And when he came back he found our dad that way. I’m assuming when he left
-for the gas station our dad wasn’t there.
+for the gas station our dad wasn’t there. Also it just seems too convenient
+for them both to have not been there at the time. It’s as if they planned
+it to be that way.
 
-It’s almost as if Dusty called Cindy or something when he first found our
-father is all I’m saying–with the specific purpose of having her cover for
-him on the autopsy. Then he waited to call the paramedics until Cindy was
-in range. And he didn’t goto the hospital cuz he already knew our dad was
-dead essentially, either that or I guess he could have been busy being
+It’s almost as if Dusty called Cindy or something when he did first find
+our father is all I’m saying–with the specific purpose of having her cover
+for him on the autopsy. Then he waited to call the paramedics until Cindy
+was in range. And he didn’t goto the hospital cuz he already knew our dad
+was dead essentially, either that or I guess he could have been busy being
 questioned by the police, idk if the police even really questioned him
 though tbh. But yea, then it’s almost as if Dusty played the victim to
 avoid being asked too much about his discovery of our father from anybody.
@@ -2334,7 +2364,7 @@ died, or like he’s now treating me.
 My brother had demonized our dad prior to this point, he held resentment
 towards our father both for not being there when we were little, and for
 our father “making” Dusty follow in our father’s footsteps. (Our father
-didn’t make him do anything btw) I could totally see someone like Cindy
+didn’t make Dusty do anything btw) I could totally see someone like Cindy
 using psychology to amp up or leverage my brother’s resentment against our
 father as well. I therefore do think part of my brother’s motivation is
 also to ruin our father’s legacy, and to snub our father for “making” dusty
@@ -2352,17 +2382,21 @@ tbc
 
 Me
 
-As for my brother’s subsequent targeting of me, it all lines up–I simply
-know too much for my brother’s comfort or something. I am now a liability
-to him/them. When my brother blamed my mother for him being this way, he
-was blaming my mother for the fact that Dusty only really cares about
-himself. Dusty has essentially admitted a lot of this in subtle ways, ways
-in which only his victims would know the true meaning of–given only his
-victims have the required context. For instance, I recall shortly after
-first accusing Dusty of all this, he replied over imessage just out of the
-blue at one point “you’re smart” only to delete it after. Dusty enjoys
-having his victims and only his victims know he is ultimately responsible,
-it must make him feel powerful or something.
+I know my brother very well–you have got to take that into consideration
+when considering all of this. I know him as well as anybody. I know when he
+is lying. I know when he’s being shady. I know how smart he is. I also know
+how he thinks he’s smarter than everybody. As for my brother’s subsequent
+targeting of me, it all lines up–I simply know too much for my brother’s
+comfort or something. I am now a liability to him/them. When my brother
+blamed my mother for him being this way, he was blaming my mother for the
+fact that Dusty only really cares about himself. Dusty has essentially
+admitted a lot of this in subtle ways, ways in which only his victims would
+know the true meaning of–given only his victims have the required context.
+For instance, I recall shortly after first accusing Dusty of all this, he
+replied over imessage just out of the blue at one point “you’re smart” only
+to delete it after. Dusty enjoys having his victims and only his victims
+know he is ultimately responsible, it must make him feel powerful or
+something.
 
 I suspect Dusty went into sleeper mode when I purchased Taylor’s commercial
 building, which Cindy did seem to be questioning whether it was the right
@@ -2370,15 +2404,15 @@ thing for Taylor to do at our purchase finalization dinner that Dusty
 didn’t show up to, even though if I recall correctly, the whole reason
 Taylor wanted to sell it to begin with was due to Cindy convincing Taylor
 of the value of annuities. I recall Dusty wasn’t really happy about me
-purchasing it at the time either–but I had that dinner for a reason–to
+purchasing shortly thereafter either–but I had that dinner for a reason–to
 ensure Taylor really wanted to sell it after having ample time to think it
 through and to see the unit she was selling first hand in person alongside
-me as well.
+me.
 
 I think Dusty started distancing himself from me at this time based on all
-he’s learned in the past and all he was planning to do. He realized it
-would be better for him if he didn’t associate with me if he were going to
-start coming after me.
+he’s learned in the past and all he was planning to do to me. He realized
+it would be better for him if he didn’t associate with me if he were going
+to start coming after me, to avoid questioning later.
 
 tbc
 
@@ -2411,9 +2445,9 @@ don’t hide that I’m a programmer now either—I code my ass off but it’s
 mostly all for rent dynamics as all the GitHub reporting shows. One person
 can only code so much at the end of the day. Plus I’ve never been a
 hacker—i haven’t had time to. I’m not the one who takes time off around
-all the deaths in my family. I’m not the one who freakin starts a fake
-recording studio just to act as a front to what I’m really doing. And I’m
-not the one who stopped being a civil engineer just to spite my father.
+all the deaths in my family either. I’m not the one who freakin starts a
+fake recording studio just to act as a front to what I’m really doing. And
+I’m not the one who stopped being a civil engineer just to spite my father.
 Like what more do you even need to know? I treated karie with the dignity
 and respect she deserved. Plus I don’t recall my brother even showing me
 the dark web until right around the time karie died anyways. (Not sure on
@@ -2435,10 +2469,11 @@ such a big freaking deal to me is because I now know these guys will try
 and frame me for what I now suspect they’ve done, and they actually know
 what they’ve done whereas I still don’t know what substances they are
 using, I can only give my best guess—so again they have the upper hand, let
-alone everything else they have been doing to me beyond trying to frame me.
-And I’m only one person at the end of the day. I refuse to be my brothers
-“fall” guy, that’s apparently what he’s been trying to make me for years
-now—and the evidence clearly shows that.
+alone everything else they have been doing to me beyond just trying to
+frame me. And I’m only one person at the end of the day. I refuse to be my
+brothers “fall” guy, that’s apparently what he’s been trying to make me for
+years now—and the evidence clearly shows that. Guess where I learned the
+term “fall guy”? My brother.
 
 These guys clearly know how to do all this in a way to where little
 questions are asked and where they are able to get away with stuff and
@@ -2450,14 +2485,15 @@ eventually and on their timing. I’ve now seen their different strategies
 play out again and again first hand, and I’m now being tortured
 daily/discredited daily as a result—hence why I have now reached the
 conclusions I have is because my brother has essentially forced me to reach
-these conclusions. Why else would they be coming after me? If they were
-goody two shoes at the end of the day they wouldn’t even know how to come
-after me to begin with. (Kinda like how I don’t even know where to even
-begin in going after my brother) If I were them on the other hand, I would
-have way more options than what I have right now—and “faking” a
-gangstalking would be among the worst of my options. Seems if I were them
-it would have to be a fake, and if I were them I would have all the options
-they do. (To be clear–I’m not faking anything)
+these conclusions. Why else would they be coming after me? It is my brother
+I know that it is. If they were goody two shoes at the end of the day they
+wouldn’t even know how to come after me to begin with. (Kinda like how I
+don’t even know where to even begin in going after my brother) If I were
+them on the other hand, I would have way more options than what I have
+right now—and “faking” a gangstalking would be among the worst of my
+options. Seems if I were them it would have to be a fake, and if I were
+them I would have all the options they do. (To be clear–I’m not faking
+anything)
 
 Let’s take a look at all their options real quick:
 
@@ -2548,6 +2584,7 @@ all my breakers had been on like normal for the full month of November)
 It’s as if someone is somehow somewhere drawing from my power or something..
 
 https://drive.google.com/file/d/1D0GBUhN7OuX4ylzVuDL1PS2t0lnAX7Xw/view?usp=sharing
+
 
 
 Chase Gibbons  / Manager
