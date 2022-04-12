@@ -428,11 +428,13 @@ Part 3
 What their tunnel in my house sounds like
 
 
-Anonymous Video I’ve Been Working On in Support of Ukraine (Wait for it to
-finish loading–don’t download anything)
+Anonymous Video I’ve Been Working On in Support of Ukraine
 
 
 As of March 15, 2022
+
+
+Investigation Assumptions
 
 
 
@@ -10420,6 +10422,129 @@ after both me and Ukraine but I honestly doubt it at this point, China has
 changed.
 
 May the force be with you. ;)
+
+Investigation Assumptions
+
+So I’d like to clarify something that’s been a little unclear even to me at
+times.
+
+Alright so imagine most all of this is true for a second. Now think about
+how it ideally would be investigated vs how it might practically be
+investigated given it could be a matter of national security and all the
+confidentiality involved.
+
+Starting when I first reported the EMF incident. I believe I originally
+reported it to the FBI online and then I called the local police dispatch
+afterwards. When I called the local police dispatch they sent two
+detectives to my home, both were driving their own cache county sheriff
+trucks, and one of the officers was detective Joseph Escobar, whom I stayed
+in touch with for probably 2-3 weeks after and who I kept up to date with
+everything that was happening. Detective Escobar was honestly really cool,
+I’ll just say he acted like he believed me throughout. 2-3 weeks into it is
+when detective Escobar was done investigating, he just left me with “if I
+am in danger then call 911”--he never demeaned me in any way or anything.
+Right at that same time is when my brother reached out to me essentially
+saying that was fast, how’d I do it that fast? And it was right around the
+same time when Dusty first showed me he could make it all stop himself.
+Anyways, since then when I tried figuring out how to get back in touch with
+detective Escobar again, and when I tried referring my workplace to the
+same detective I had been talking to–-the local police department didn’t
+even know who Joseph Escobar was and the phone number I had texted
+Detective Escobar on seemingly was now out of service or at least it no
+longer had any response from Detective Escobar. From my experiences with
+Detective Escobar I did get the sense that he was a real cop and that he
+was really investigating the EMF stuff, like he wasn’t just some guy my
+brother hired to come pretend to be a real cop. And based on the fact that
+I still have the video of when they came to my house, I further assume that
+these guys were in fact real cops, because if it had really been some fake
+set up or whatever, then my brother’s people would have totally deleted the
+following video a long time ago. Plus I got a number of showings of
+solidarity from these cops that my tips were indeed helping them get to the
+bottom of whatever was going on at the time. (See original video of
+Detective Escobar here:
+https://drive.google.com/file/d/1XPZkAdBpeudnP2UII1FC88Fv68cVAP5K/view?usp=sharing)
+However it has been made clear to me since that whatever those detectives
+found out previously didn’t necessarily make it’s way back down to the
+local police department, which I now assume to be because it was deemed to
+be either top secret or a matter of national security. I guess another
+option might be they were real cops and they just brushed whatever it was
+under the rug, but then that doesn’t explain why nobody knows who Detective
+Escobar is when I tried figuring out how to get back in contact with him
+later.
+
+
+It almost seems like these cops must have been special cops that are
+already investigating this type of incident elsewhere or something. Like my
+report must have had some of the same halmarks as other reports that have
+also been reported elsewhere within Utah or something. I now take when my
+brother asked me how I caught him/them so fast or whatever, I now assume
+that was my brother pushing me for knowledge to let him know what all
+Detective Escobar told me on the subject. And whereas he didn’t tell me
+anything really on the subject, that meant my brother/Russia could continue
+their pursuit of me because they had already been caught but the intel
+wasn’t shared with any of the local law enforcement. That’s my take on it
+anyways. And by them getting caught, I mean Detective Escobar likely just
+determined it was Russia or China and he didn’t go any deeper than that.
+
+Alright so knowing all that, now look at all this from a global super
+power’s perspective. It’s in our best interest as a superpower to project
+strength so that we keep our alliances in tact and in good standing, etc.
+Therefore, it’s actually in our best interest not to make things like this
+known publicly. And there inlies the issue these guys are exploiting in
+this case in my opinion. It makes it to where anybody I might tell all this
+to won’t immediately understand why this isn’t playing out how they might
+expect–myself included. But in reality–it’s been playing out how one might
+realistically expect given the nature of our government and the various
+levels of classification, once you consider some of the particular nuances
+that are likely involved in something of this caliber, etc. However with
+that said, it does make it a particularly shitty experience for the
+victims, I will say that.
+
+Most victims likely don’t get as far as I have gotten. I can totally see
+how other victims might ultimately be led to blame their own government in
+this situation. It makes it to where, thanks to classification and what
+have you, then the victims are left almost completely SOL to all other
+forms of law enforcement beyond the highest level of government. Meaning
+most of what I’ve said here likely only resonates with people who are in
+some of the highest positions of our government. And to everybody else–it
+might not resonate very much at all. And that is kind of a problem. It’s
+something ripe for exploitation. And these guys are extremely good at
+exploitation.
+
+One piece of positive feedback I will give however is for the most part at
+least, I haven’t been pestered too much myself since, which I am extremely
+grateful for. Can you imagine having all this be true and then having the
+local law enforcement actually turn on you and start completely
+investigating you or trying to jail you? It’s just a nightmare position to
+be placed in tbh. So thank you for that if nothing else.
+
+In a way I can see the need to keep an eye on things in situations like
+these, and I hope you do so. But at the same time I hope you also recognize
+who the real victim really is, and you recognize and I hope you continue to
+pursue the true source of all the psychological manipulation/exploitation.
+I hope the feds will at least give the lower level police that much to go
+on, if things really are the way I’ve just laid out.
+
+Now imagine if the Russians have managed to corrupt some of our local
+community/church leaders/law enforcement, and imagine if there is actually
+an investigation going on into some of them as well. Not saying that’s
+happening, I have no clue tbh, but that would only make everything even
+more secretive in nature and it would therefore make things even worse for
+a victim like me if so.
+
+This hasn’t been easy you guys–just throwing that out there. It’s as if all
+the odds are/were designed to be against me at every step of the way. I
+hope this document helps everyone across all levels of government to at
+least somewhat get on the same page in a way that doesn’t undermine our
+national security, whereas it’s all just my perspective of it all as a
+regular citizen. It’s honestly been the hardest/scariest thing I’ve ever
+had to endure and I still don’t even see any light at the end of the tunnel
+tbh.
+
+I’m just trying to do what’s right and I’m trying to help protect my family
+and my country–that’s it.
+
+
 
 Chase Gibbons  / Manager
 435-999-4722
