@@ -4850,18 +4850,23 @@ and his previous promise to her to make her die alone.
 What’s the ultimate way to be evil? The ultimate way to be evil is by being
 evil through other people so you yourself don’t ever get caught.
 
-These guys’ hacking capabilities and their emf, infrasound, and
-nanotechnology capabilities are that which only someone like a foreign
-adversary could realistically possess. I believe my brother in seeking out
-how to get out of the bind he was in relating to essentially getting caught
-for murdering his own family–he sought out help from Russian Oligarchs on
-the dark web as a result. (After he initially hacked me and others) And now
-he’s on a vendetta against his whole family and this entire town–seeking to
-do the one thing to his family that’s even worse than death–that is–mind
-control. He wants to essentially make them act out and behave in ways that
-will essentially cause our whole family never ending suffering and
-grievance and will be the ultimate slap in the face to both my father and
-my mother and to this whole town.
+What is the ultimate way to be a hacker? The ultimate way to be a hacker is
+by hacking into people’s minds.
+
+These guys’ advanced persistent threat hacking capabilities and their emf,
+infrasound, extreme break-in capabilities, and their suspected
+nanotechnology capabilities are those which only someone like a foreign
+adversary might realistically possess. I believe my brother when seeking
+out how to get out of the bind he was in relating to essentially getting
+caught for murdering his own family–he sought out help from Russian
+Oligarchs on the dark web as a result, especially given the politics of the
+time. (After he initially hacked me and others) And now he’s on a vendetta
+against his whole family and this entire town–seeking to do the one thing
+to his family that’s even worse than death–that is–mind control. He wants
+to essentially make some of us act out and behave in ways that will
+essentially cause our whole family never ending suffering and grievance and
+will be the ultimate slap in the face to my father and my mother and to
+this whole town.
 
 
 
@@ -4872,17 +4877,19 @@ particularly seek out those who are currently single.
 [reference goes here]
 
 I believe most of the people I have alleged are involved in these attacks
-that have actually persisted could really be secret Russian agents. (i.e.
-Child abuser guy, *cough, *cough, My brother, *cough, *cough) The ones that
-don’t persist likely were hired contractors as previously thought.
-
-Now that right there would explain everything.
-
-I therefore plan to move somewhere where I will be of no use to Russia or
-my brother.
+against me that have actually persisted could really be secret Russian
+agents. (i.e. Child abuser guy, *cough, *cough, My brother, *cough, *cough)
+The ones that don’t persist likely were hired contractors as previously
+thought.
 
 I suspect everything else is just a cover story or false flag operation
-meant to cover up the truth more or less.
+meant to cover up the truth pretty much.
+
+Now that right there would explain literally everything.
+
+I therefore plan to move somewhere where I will be of no use to either
+Russia or my brother.
+
 
 Chase Gibbons  / Manager
 435-999-4722
