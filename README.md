@@ -518,6 +518,9 @@ As of April 3, 2022
 As of April 7, 2022
 
 
+Recent Triggered Alarms
+
+
 
 
 README
@@ -12401,6 +12404,28 @@ let them. It’s just whatever.
 
 
 
+Actually you know what? I don’t want to give them any possible leeway to be
+able to toy with the police going forward, so I just turned all my sensors
+to only send me a secret notification on any sensor being triggered going
+forward now instead, seems how that is the second time they’ve made the
+police come to my house now in like 2 weeks. Unlike them, I actually care
+about the police’s time and so I’d prefer just to put an end to their
+toying around with everyone right now. If they have a tunnel the police
+will never catch them until I find their tunnel anyways, plus I really just
+need something to notify me when they get in that I can then use to report
+back to here afterwards anyways, seems their “signature” is very much like
+poisonings and whatnot anyways. (Seems they have yet to like straight up
+shoot me or anything, they have pulled a gun on me once but they haven’t
+shot me–yet–I don’t think that’s how they roll) My security system more is
+just useful as like a historical logger for me more than anything–and as a
+deterrent I would hope.. It really is them triggering my alarm however–it’s
+just they come in my house literally like daily anyways without my
+permission through one means or another from what I gather–or at least they
+try to come in daily–but my goal is just to keep them out without them
+exploiting anything including the automated alarm triggers to police
+dispatch–that’s my goal anyway--and so I’ve got to just adapt and overcome
+and evolve to all their latest shenanigans myself. My apologies again
+regardless however. Thank you for your understanding.
 
 
 Chase Gibbons  / Manager
