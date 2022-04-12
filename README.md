@@ -12258,7 +12258,7 @@ brave actions. Plus, I don’t want to let our forefathers down, I personally
 really like our constitution. Just because some of your friends might be
 corrupt doesn’t make it okay for you to be corrupt either.
 
-Being corrupt isn’t “cool” in any way either. It’s more like a disease that
+Being corrupt isn’t “cool” in any way. It’s more like a disease that
 spreads if left unchecked. Nobody seems to think about our children or our
 children’s children–and how what they do today will inevitably affect their
 lives and their freedom. I’d be willing to bet most people’s kids would be
