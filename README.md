@@ -12240,8 +12240,8 @@ they succeed–and they can’t do it without your help. It’s a slippery slope
 that’s for damn sure. I’d rather go down knowing I did what’s right than go
 down helping satan. At least then, if the religions are right–then I’ll be
 rewarded after I die. And who knows, maybe I’ll even help save this
-country. I don’t want to let our forefathers down, I personally really like
-our constitution.
+country. Plus, I don’t want to let our forefathers down either, I
+personally really like our constitution.
 
 
 Chase Gibbons  / Software Development
