@@ -1581,7 +1581,7 @@ to me because he wasn’t sure if it was me. (Meaning whomever it was likely
 at least sounded somewhat like me, plus my brother was acting shady as hell
 at the time)
 
-Initial Test/Accusation
+Testing My Brother
 
 I confront my brother about him killing Karie and our father for Cindy,
 over email--just as a test. My brother responded to my email saying
@@ -1733,16 +1733,18 @@ though, but I’m honestly not sure. The cops did show me solidarity I think
 on more than one occasion, however they obviously don’t tell me whether any
 of my tips led to them discovering anything or not directly.
 
-Murder by Suicide Plot
+Eagles Incident - Murder by Suicide Plot
 
 My brother misconstrued a message I sent to him and reported me as being
-suicidal to the police. That particular police officer made me call him
-seems how Dusty was apparently so concerned about me–so I did–Dusty freakin
-hung up on me not even 30 seconds into our conversation. It was bs. Then I
-looked back at the messages Dusty had sent while I was driving home and
-realized he had set it up to be able to social engineer the police. (Acting
-like he was a mormon with kids) So I called the police letting them know
-that whereas social engineering is actually how he hacked me.
+suicidal to the police. That particular police officer made me call Dusty
+seems how Dusty was apparently “so concerned about me”–so I did–Dusty
+freakin hung up on me not even 30 seconds into our conversation. It was bs.
+Then I looked back at the messages Dusty had sent while I was driving home
+in response to the message I had sent him and I realized Dusty had set it
+up to be able to social engineer the police. (Acting like he was a mormon
+with kids, etc) So I called the police letting them know that Dusty had
+lied to them and he could have very well just hacked them whereas social
+engineering is actually how he hacked me.
 
 
 A few days later my superior at work invited me while at work to goto the
