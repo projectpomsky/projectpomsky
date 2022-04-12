@@ -3487,14 +3487,64 @@ that is enjoyable to me no longer enjoyable to me. They really do spend all
 their time on doing just that to me. But see if you can see the pattern
 from this explanation of mine:
 
-P.s. They got me again. This time through my open easter egg candy. It
-essentially makes all your joints feel like there is sand in them out of
-nowhere. It was very similar to the poisons they used to use on me only
-this time they did it through consumption rather than through skin
-exposure. Same effect tho. I assume it’s something meant to give me
-non-hodgkin's lymphoma tbh.
+P.s. They got in my house and they poisoned me again. This time through my
+open easter egg candy. It essentially makes all your joints feel like there
+is sand in them out of nowhere. It was very similar to the poisons they
+used to use on me only this time they did it through consumption rather
+than through skin exposure. Same effect tho. I assume it’s something meant
+to give me non-hodgkin's lymphoma tbh.
 
-I wish someone would actually truly help me not get murdered.
+I know it’s from them cuz they always rub it in by repeatedly pointing
+their damn energy weapons at my feet when my toes keep curling for no
+reason out of nowhere, etc, etc.
+
+I really wish someone would actually truly help me not get murdered. I
+seriously don’t think I can get out of this one by myself.
+
+My mom has raised a monster. The worst part is she won’t even admit it.
+
+I can’t believe what Logan has become just in general tho. I can’t believe
+so many people are willing to succumb to the devil's manipulation around
+here. It is very cyclical in nature and they end up making everyone
+accomplices to murder ultimately. They essentially go after the people like
+me who see the hacking for what it truly is to begin with, people who
+aren’t particularly susceptible to corruption themselves, and then they
+snag the ones that are more concerned about money than anything and they
+just continue to further and further corrupt them–by ultimately making the
+corruptible ones be accomplices to murdeering the non corruptible
+ones–leaving our country with a bunch of corrupted people and nobody to
+stand up to it. And they end up scaling this up and hacking our whole
+country by simply gangstalking the non-corruptible ones like me while they
+are killing them and making their lives as miserable as possible and while
+they are discrediting them. Any new game I get into–they will legit spend
+time and hack it and they make it no fun to play anymore. Any person I
+reach out to even on linked in–they will hack them and make it pointless
+for me to reach out to anybody anymore. And then through all those new
+people/businesses they hack while gangstalking the last batch–the whole
+process is reborn and it continues to repeat itself until they ultimately
+hack everyone and corrupt everyone and kill all the non-corruptible persons
+essentially and make everyone else accoomplices to all their murders.
+That’s my latest theory on how this all works on a macro level anyways and
+how it scales.. So for instance they just hacked the Evony game I’ve been
+getting into lately–and now those guys will be faced with the same exact
+contemplation Rent Dynamics was faced with originally. And wheres nobody
+wants to have their company devalued–the stakeholders normally decide its
+best if they just act like nothing happened despite all the evidence being
+extremely clear–but based on what new entity chooses to do in that initial
+hacking will ultimately then determine whether or not they are ultimately
+sucked into being accomplices to murder their colllegues or not through
+Russia’s never ending manipulation..
+
+Just a thought..
+
+I shouldn’t even have to have to worry about things like my own personal
+trust at this age. But I do because of everyone else's decisions and their
+succumbing to all the manipulation themselves essentially. (And getting
+dragged down to hell themselves)
+
+You know how it’s extra prestigious for mormons to get someone baptized
+right? Yea well with these guys it’s the opposite. It’s extra prestigious
+the more people they are able to drag down to hell essentially.
 
 Chase Gibbons  / Manager
 435-999-4722
