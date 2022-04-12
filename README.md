@@ -3676,7 +3676,7 @@ life would be really really tough. But I'll likely always fear when he gets
 out for anything less than that. These are all my honest/genuine emotions.
 
 I have little doubt he’s going to end up sending at least one person to
-follow me wherever I end up btw, likely multiple..
+follow me wherever I end up moving to btw, likely multiple..
 
 I have a hypothesis on Dusty’s motive. He legit thinks our dads money is
 “his” money as he said—you know, cuz dusty I think killed our dad. So Dusty
@@ -3701,14 +3701,17 @@ buys this like triangulating infrasound sonar I described above, only using
 sound which dusty has always been into, which essentially allows dusty to
 map out any building in real time to find his victims. Like that’s as big a
 slap in the face to any parent I could ever possibly even think of. (Well
-besides killing them)
+besides killing them) Then he uses it to go after all my dads children
+besides the one who was birthed by Cindy. Now that is some hate right
+there. That is extreme hatred.
 
-Dusty is very childish/rebellious at heart. It’s like he never fully
-matured. Just being honest. He never lets anything go either. He’s very
-cold and calloused, these days anyways. He thinks he gets whatever he
+Dusty has always been very childish/rebellious at heart. It’s like he never
+fully matured. Just being honest. He never lets anything go either. He’s
+very cold and calloused, these days anyways. He thinks he gets whatever he
 wants. There are no if ands or buts about it. And he’ll do some extremely
 shady things to make that happen. All he cares about is himself, he thinks
-he’s a gangster.
+he’s a gangster. As much as I hate to say this—Dusty really needs to be in
+jail tbh. Like straight up.
 
 
 -- 
