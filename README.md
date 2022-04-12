@@ -8347,69 +8347,71 @@ security lately as well for the same reasons—to try and protect myself.
 
 As of February 28, 2022
 
-Added outline to top of file. Sorry I should have added that sooner, I set
-everything up so I could but never went back and actually did it until now.
+Added table of contents to top of file. Sorry I should have added that
+sooner, I set everything up so I could add a table of contents but I never
+went back and actually did it until now.
 
 I think they got to my vape juice again ever since dusty got back, they
 even lit off some small fireworks during the middle of the night last night
 right after dusty first got back from wherever he has been the last two
-weeks or so. I just didn’t know if it were a false flag or not and so I
-originally wrote about it last night in this file then I deleted it, in
-thinking it were probably just a false flag of his. But sure enough they
-got to my vape juice again. I now believe the fireworks again were to
-signal an upcoming murder/murder attempt. Or maybe they already had gotten
-to my vape juice when they lit them off, idk.. I wish more ppl were up at
-nights tbh, they keep me up at nights intentionally. These guys are getting
-kinda desperate tho I can tell—especially now that Russian sanctions are
-going to start taking effect. But at the same time people need to
-understand how dangerous these guys really are and how they could literally
-kill anybody and get away with it. Again it’s a group of numerous different
-people coordinated by a Central Intelligence Agency—with 24/7 monitoring of
-me, hackers hacking into anything and everything I do in real time a lot of
-times before I even access any new countermeasure devices myself, they have
-people sent out to follow me and/or break into my house whenever I leave my
-house, and I suspect they even have a tunnel entrance to my house somewhere
-where they’ll even access my home when I’m just in the other room for a
-minute. I have numerous reasons to suspect that but most recently all I
-know is I didn’t leave my vape juice anymore besides maybe in my room for 5
-mins and it’s pretty clear they got to it again. And lastly because their
-specialty is poisoning which makes them very dangerous. Like they have the
-most optimal setup to poison people one could possibly think of essentially
+weeks or so from what I gather. I just didn’t know if it was a false flag
+or not and so I originally wrote about it last night in this file then I
+deleted it, in thinking it were probably just another false flag of his.
+But i do have reason to believe they got to my vape juice again. These guys
+are getting kinda desperate tho I can tell—especially now that Russian
+sanctions are going to start taking effect. But at the same time people
+need to understand how dangerous these guys really are and how much my
+safety is in jeopardy. Again it’s a group of numerous different people
+coordinated by a Central Intelligence Agency—with 24/7 monitoring of me,
+hackers hacking into anything and everything I do in real time a lot of
+times before I even access any new countermeasure devices myself, (I end up
+having to send them all back) they have people sent out to follow me and/or
+break into my house whenever I leave my house, and I even suspect they
+could have a tunnel entrance to my house somewhere where they’ll access my
+home even when I’m just in the other room for a minute. I have numerous
+reasons to suspect that but most recently all I know is I didn’t leave my
+vape juice anywhere besides maybe in my room for 5 mins when I was in the
+other room and it’s pretty clear they are targeting that again. And lastly
+they are dangerous because their specialty is poisoning which makes them
+very dangerous. Like people need to understand they legit have like the
+most optimal setup to poison people one could possibly imagine essentially
 is what I’m saying.
 
-In addition they have x-ray vision to constantly monitor when I leave
-anything out that may interest them or where I spend most of my time as of
-most recently or what bath soap I’ve been using lately and where I put it
-and what com I put in my safe to unlock it, what toothpaste I use, what
-deodorant I use, what vape juice I use and where I may leave it—to the
-point where as soon as they get any opportunity they jump in and poison me
-in a way which will be most effective essentially.
+They even have x-ray vision to constantly monitor when I leave anything out
+that may be of interest to them or where I spend most of my time as of most
+recently or what body wash I’ve been using lately and where I put it
+afterwards and what com I put in my safe to unlock it, what toothpaste I
+use, what deodorant I use, what vape juice I use and where I may leave
+it—to the point where as soon as they get any opportunity they can jump in
+and poison me in a way which will be most effective essentially. Now that
+is extremely dangerous if you ask me.
 
 I honestly think they want me to leave Logan just given how they know
 tensions are already high here given how they know they’ve already killed
 my family. I suspect dusty hired Russia originally to kill my father and
-sister over the dark web and then later somehow he decided to start working
-for them directly or something. I’ll have to share a conversation I had
-with my neighbor tonight further elaborating on this.
+sister over the dark web now btw and then later somehow he decided to start
+working for them directly or something. I’ll have to share a conversation I
+had with my neighbor tonight further elaborating on this.
 
 The way I see it, their options at this point are as follows: Kill me in a
 way that looks and plays out more naturally (i.e. poison me in a way that
-will lead to me getting lung cancer and let that play out naturally after
-the initial poisoning—I doubt they’d ever leave me alone tbh but just kill
-me in a way that plays out naturally after the initial exposure is all I’m
-saying, kinda like with karie) or else get me to leave while their tracking
-mechanisms are still in place and in that case they could just catch up to
-me and kill me by whatever means necessary wherever I end up seems I’ll
-likely be out of Logan at that point and they are afraid of killing me
-point blank in Logan and for good reason. That’s why I’m so determined not
-to leave Logan until this microchip is disabled, but then again I need to
-leave Logan because they make my life miserable here daily.
+will lead to me getting lung cancer or whatever and let that play out
+naturally after their initial poisoning—I doubt they’d ever leave me alone
+tbh but just kill me in a way that plays out naturally after the initial
+exposure is all I’m saying, kinda like what I suspect they did to karie) or
+else get me to leave Logan while their tracking mechanisms are still in
+place and in that case they could just catch up to me and kill me by
+whatever means necessary wherever I end up seems I’ll likely be out of
+Logan at that point and they are afraid of killing me point blank in Logan
+for good reason. That’s why I’m so determined not to leave Logan until this
+microchip is disabled, but then again I need to leave Logan because they
+make my life miserable here daily.
 
 I also think I just caught them changing up the wording on this document
 just barely, it said I had modified this file today when I hadn’t even
 loaded it today when originally loading this file tonight. More on this
-soon, it’ll be interesting to go back and look over what all they
-changed/erased exactly.
+soon, it’ll be interesting to go back and compare my different versions and
+figure out what all they changed/erased exactly.
 
 P.s. with all this said—please don’t let them intimidate you unless you are
 willing to have this be the new norm and the future for the rest of
@@ -8418,21 +8420,22 @@ dictators/serial killers poisoning you or killing you for the slightest
 disagreement or just because they are craving more blood or whatever it may
 be all the time; we are Americans—freedom doesn’t come for free. It comes
 on the backs of all the brave people who stood up to ruthless dictators and
-whatnot previously. If our ancestors would have succumbed to their
+whatnot before us. If our ancestors would have succumbed to their
 fear/intimidation and allowed people like Hitler to have their ways—we
 would be living in a very different world indeed. It takes more than just
 one person to stand up to them to succeed however—it takes everyone doing
 their part—they can’t come after all of us after all—just saying. Plus at
-this point Russia is screwed.
+this point I’m hoping Russia is screwed and all their corruption money will
+dry up with all the new sanctions.. 🤞🤞🤞
 
 I prayed recently as my neighbor asked me to and I feel my prayers have
-been answered in all these Russian sanctions and worldwide unity. Did you
-hear one of the first sanctions we did against Russia upon their initial
-invasion of Ukraine had to do with Russia’s micro electronics? (I’ll try
-and share/recreate what I said to my neighbor for more context, I’m trying
-to keep things short) Regardless, we can all learn a lot from Ukraine’s
-unity tbh. I’m even helping join in with some Ukraine stuff these days
-tbh—we all should do our part tbh.
+been answered in all these Russian sanctions and all this worldwide unity.
+Did you hear one of the first sanctions we did against Russia upon their
+initial invasion of Ukraine had to do with Russia’s micro electronics?
+(I’ll try and share/recreate what I said to my neighbor for more context on
+this, I’m trying to keep things short) Regardless, we can all learn a lot
+from Ukraine’s unity tbh. I’m even helping join in with some Ukraine stuff
+these days tbh—we all should do our part tbh.
 
 Putin is evil as hell you guys—you don’t want Putin successfully
 corrupting/running our whole country through all his various proxies
@@ -8444,9 +8447,9 @@ I’m worried about Zelensky tbh. Putin is totally going to kill Zelensky and
 completely crush all our excitement/unity/good will. Then we will be left
 divided once again and therefore vulnerable. Everything about watching the
 news recently reminds me of what these guys do to me. Including their
-bombing shit during their most recent talks, etc. (aka their sending
-Ukraine a signal, similar to how dusty will send ppl to my door on
-Halloween right after texting him and then the videos are all deleted
+bombing shit during their most recent diplomatic talks, etc. (aka their
+sending Ukraine a signal, similar to how dusty will send ppl to my door on
+Halloween right after texting him and then the videos all simply vanish
 later, etc, etc—these guys are evil as hell you guys—if you believe me on
 only one thing then believe me on that part—because we all know it takes
 more than one person to stand up to evil to defeat it)
@@ -8455,10 +8458,10 @@ Putin is just going to be even stronger next round too—well I guess we will
 have to wait and see. But I think that’s what he’s banking on personally.
 They always think 2-3 steps ahead without fail. I have even picked up on
 them first setting up a pretext for whatever they are about to do, like
-Putin tried to do with Ukraine, then they’ll do like like this
-reverse-reverse psychology based on reactive control theory or
-whatever—i.e. they use super complex Jedi mind trick tactics all based on
-psychology and manipulation.
+Putin tried to do with Ukraine originally using a fake attack tape, then
+they’ll do like this reverse-reverse psychology jiu jitsu based on reactive
+control theory or whatever—i.e. they use super complex Jedi mind trick
+tactics all derived in psychology and manipulation.
 
 
 
