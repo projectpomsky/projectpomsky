@@ -13150,8 +13150,8 @@ trying to fall asleep–as usual–I assume trying to give me brain cancer. I’
 pretty sure they had to have rented out an adjacent room tbh just given it
 was coming from a direction where only other rooms could have been the
 possible source. They will first try to keep me awake for as long as
-possible then they will do something like this when I am really really
-tired so that they can do the most damage possible and so that I stay still.
+possible then they will do something like this when I am particularly tired
+so that they can do the most damage possible and so that I stay still.
 
 
 Concerted Effort
