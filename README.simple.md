@@ -1,40 +1,28 @@
 Outline
 
-Outline
+Outline 
 
+README 
 
-README
+Security Cameras 
 
+How They Broke In 
 
-Security Cameras
+Motive 
 
+My Credibility 
 
-How They Broke In
+Daily Occurrences 
 
+As of Nov 12, 2021 
 
-Motive
+As of Nov 15, 2021 
 
+As of Nov 16, 2021 
 
-My Credibility
+As of Nov 18, 2021 
 
-
-Daily Occurrences
-
-
-As of Nov 12, 2021
-
-
-As of Nov 15, 2021
-
-
-As of Nov 16, 2021
-
-
-As of Nov 18, 2021
-
-
-As of Nov 20, 2021
-
+As of Nov 20, 2021 
 
 As of November 22, 2021
 
@@ -63,71 +51,53 @@ Indicators of being hacked
 Timeline (Rough Draft)
 
 
-~2006
+~2006 
 
+~2007 
 
-~2007
-
-
-~2008
-
+~2008 
 
 Before Father’s Death
 
 
-~2009
+~2009 
 
+Dusty and Cindy 
 
-Dusty and Cindy
+2010 
 
+Divorce/Move Out 
 
-2010
-
-
-Divorce/Move Out
-
-
-Father’s Death
-
+Father’s Death 
 
 Right After Father’s Death
 
 
-~2011
+~2011 
 
+Trust/College 
 
-Trust/College
+2013 
 
+Graduation 
 
-2013
+Eyes of a Killer 
 
-
-Graduation
-
-
-Eyes of a Killer
-
-
-2015
-
+2015 
 
 Before Sister’s Death
 
 
-Sister’s Death
+Sister’s Death 
 
-
-~2016
-
+~2016 
 
 After Sister’s Death
 
 
-2018
+2018 
 
-
-2019
-
+2019 
 
 Brother Distancing/Time Off
 
@@ -138,32 +108,24 @@ Last Visit/Website/Brother Hacking
 Someone Tries to Fill My Prescriptions
 
 
-Testing My Brother
+Testing My Brother 
 
+First Poisoning 
 
-First Poisoning
+2020 
 
+Second Poisoning 
 
-2020
+2021 
 
-
-Second Poisoning
-
-
-2021
-
-
-Gun Pulled On Me
-
+Gun Pulled On Me 
 
 Witness Intimidation
 
 
-EMF
+EMF 
 
-
-Hotels
-
+Hotels 
 
 Eagles Incident - Murder by Suicide Plot
 
@@ -183,14 +145,11 @@ Tampering with my electricity
 Radiation poisoning
 
 
-Infrasound
+Infrasound 
 
+Keys 
 
-Keys
-
-
-2022
-
+2022 
 
 As of December 15, 2021
 
@@ -201,14 +160,11 @@ As of December 17, 2021
 My Analysis of Timeline
 
 
-Father
+Father 
 
+Sister 
 
-Sister
-
-
-Me
-
+Me 
 
 As for any questions about me.
 
@@ -246,11 +202,9 @@ As of December 29, 2021
 As of December 30, 2021
 
 
-Part 1
+Part 1 
 
-
-Part 2
-
+Part 2 
 
 As of December 31, 2021
 
@@ -273,8 +227,7 @@ As of January 3, 2022
 As of January 4, 2022
 
 
-Random Thought
-
+Random Thought 
 
 As of January 7, 2022
 
@@ -342,8 +295,7 @@ As of February 6, 2022
 As of February 7, 2022
 
 
-February 8, 2022
-
+February 8, 2022 
 
 Lesson - RF/Waves/Hacking
 
@@ -398,8 +350,7 @@ Latest Potentially Significant IPs and Email Tampering Logs
 Electromagnetic Spectrum Health Effects Video
 
 
-Notice
-
+Notice 
 
 As of March 10, 2022
 
@@ -407,11 +358,9 @@ As of March 10, 2022
 What Putin is Doing
 
 
-Final Answer
+Final Answer 
 
-
-References
-
+References 
 
 As of March 12, 2022
 
@@ -419,11 +368,9 @@ As of March 12, 2022
 As of March 14, 2022
 
 
-Part 2
+Part 2 
 
-
-Part 3
-
+Part 3 
 
 What their tunnel in my house sounds like
 
@@ -434,8 +381,7 @@ Anonymous Video I’ve Been Working On in Support of Ukraine
 As of March 15, 2022
 
 
-Notice
-
+Notice 
 
 As of March 10, 2022
 
@@ -443,11 +389,9 @@ As of March 10, 2022
 What Putin is Doing
 
 
-Final Answer
+Final Answer 
 
-
-References
-
+References 
 
 As of March 12, 2022
 
@@ -455,11 +399,9 @@ As of March 12, 2022
 As of March 14, 2022
 
 
-Part 2
+Part 2 
 
-
-Part 3
-
+Part 3 
 
 What their tunnel in my house sounds like
 
@@ -2287,6 +2229,7 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
+​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -7688,8 +7631,8 @@ system for instance. Therefore even alarm systems are vulnerable to the
 same attack as a car remote now thanks to software defined radio and the
 potential of hackers monitoring the radio spectrum. Simply Safe used to
 never even encrypt their devices' communications either btw, before their
-latest model came out. (https://www.nimblefreelancer.com/simplisafe-hack/ )
-But like I said, even with encryption–a hacker with a software defined
+latest model came out. (​​https://www.nimblefreelancer.com/simplisafe-hack/
+) But like I said, even with encryption–a hacker with a software defined
 radio can still bypass it after enough monitoring even if it is encrypted.
 (The same is true with our brains btw)
 
@@ -9373,6 +9316,7 @@ called biohacking. See the following links. But the one in my case is wayyy
 more sophisticated, plus I didn’t do it to myself, and therefore I have no
 way to turn it off by myself.
 
+​​
 https://twitter.com/drkiki/status/1168299777424908288?s=20&t=r4TnY99zwvl2yJbyM9FV5Q
 
 https://dangerousthings.com/category/implants/x-series/
@@ -10463,8 +10407,7 @@ changed.
 May the force be with you. ;)
 
 
-Notice
-
+Notice 
 
 As of March 10, 2022
 
@@ -10472,11 +10415,9 @@ As of March 10, 2022
 What Putin is Doing
 
 
-Final Answer
+Final Answer 
 
-
-References
-
+References 
 
 As of March 12, 2022
 
@@ -10484,11 +10425,9 @@ As of March 12, 2022
 As of March 14, 2022
 
 
-Part 2
+Part 2 
 
-
-Part 3
-
+Part 3 
 
 What their tunnel in my house sounds like
 
@@ -11514,7 +11453,7 @@ changed.
 
 May the force be with you. ;)
 
-Investigation Assumptions
+As of March 19, 2022Investigation Assumptions
 
 So I’d like to clarify something that’s been a little unclear even to me at
 times.
@@ -11631,8 +11570,11 @@ tbh.
 I’m just trying to do what’s right and I’m trying to help protect my family
 and my country–that’s it.
 
-
 Twitter Observation
+
+Trump Russia connection (one of many)
+
+https://www.washingtonpost.com/outlook/trumps-businesses-are-full-of-dirty-russian-money-the-scandal-is-thats-legal/2019/03/29/11b812da-5171-11e9-88a1-ed346f0ec94f\_story.html
 
 The Russians will literally stalk platforms like twitter looking for people
 to speak up against exact scenarios like shown above and then they will
@@ -11776,6 +11718,68 @@ Also, my brother could care less about you guys–all he cares about is
 himself. Even if my brother knew you guys were likely being investigated by
 a higher agency–he still wouldn’t have said shit. And I assure you the feds
 are involved in this case. I’ve kept them in the loop.
+
+How would you feel
+
+Imagine if you were strolling around twitter one day and saw some punk ass
+kid post about Obama or Clinton being a godsend and telling you to prove
+them wrong. Then you prove them wrong. And then out of nowhere a foreign
+adversary starts trying to track you down and figure out who you are. Then
+they start stalking you and harassing you and killing your dog and working
+with your murderous brother—and having no sympathy for the murders of your
+family members—and causing your every day life to be a living nightmare.
+And they create conflicts of interest between you and everyone you
+associate with through all their hacking and they manage to isolate you in
+that way—then you find out a bunch of your community including some of the
+religious community actually might be partially in on it as well and is
+actually helping the others out in various ways because you aren’t
+religious and they even got some people on the inside so who the hell else
+are the religious people going to believe you or the religious insider? And
+they all seemingly could give a crap less about the constitution, our
+forefathers, whether your brother murdered your whole family or not, and
+they could care less about all the people who died previously to let us
+live a life of freedom and luxury—all they seem to want is for you to be
+out of the way. How the f-ck would you feel? Because at that point if you
+succeed that means you might implicate a lot of them in some way—because
+they’ve all been tied up in it to a certain degree and they are all still
+buzzing off of the toxic “kool-aid” that the foreign adversaries also
+managed to get a bunch of people to drink via poisoning our social media,
+news outlets, etc, etc using dark psychology. And nobody gives a damn about
+the truth anymore. And even some of your fathers own friends no longer seem
+to care all that much that your very own brother most likely actually
+murdered both your father and your sister. Just sayin. Oh and they started
+sucking up to foreign adversary dictators and worshiping demagogues and
+undermining our alliances as if they legit want a full blown liberal
+Democrat socialist dictatorship and they aided the adversary in corrupting
+and dividing our entire country for that cause—and they always just looked
+the other way. And they stayed silent even when it was violent. How would
+you feel? And they even had the balls to microchip you while convincing
+your whole Republican side that microchips are completely bogus—while
+meanwhile silently letting out the alarm to their own side to be weary of
+microchips. How would you feel?
+
+Like think it through at the very least first pretty please. That would
+never go down like you might imagine. It would most definitely result in a
+brutal civil war at the very least—more like a world war—before anything is
+ever even worked out because as you can see from Ukraine—the majority of
+people in this world aren’t for all that kind of murderous dictator
+conquest stuff—they just want to live their lives normally—while
+maintaining their freedom—as do/did I.
+
+It’s never too late to do what’s right for your country. We really could
+use everybody’s help. They have hacked us so bad to where any business with
+enough defenses in places to block their hacking they are able to just hire
+an insider for.
+
+I don’t know about you but I’m not letting this country goto ruin while I’m
+alive—not on my watch. It’s the least we could do for all those who came
+before us.
+
+The mechanisms our adversaries used to get us to the brink happen to be
+pretty easy to reverse if we just focus our efforts and remain united.
+
+
+-- 
 
 Chase Gibbons  / Manager
 435-999-4722
