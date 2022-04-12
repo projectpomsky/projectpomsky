@@ -13004,9 +13004,18 @@ screwing you out of your inheritance. One common method is they sell your
 assets to a friend for cheap, and then they work something out with that
 friend on the back end.
 
-I’m just now realizing just how corrupt Paul really is tbh. He started
-being all silent around that time towards me as well–as if his lawyer
-advised him to.
+Sorry guys–I simply have it coming at me from too many different directions
+at this point. It was a lot easier when Paul was all I had to worry about.
+I wonder what they actually think they’d get from my inheritance if I were
+to die that is worth so much to them? Cuz I guarantee they’ve already spent
+even more than that. (Even more than my whole inheritance tbh) Oh maybe
+Paul had something to do with Karie as well? That would be worth a lot to
+them. Dusty has always been kinda strangely supportive of Paul despite his
+clear abuses of his power as our trustees. That would also make sense why
+Dusty got access to moost all his money so much earlier too.
+
+God I can’t believe Logan of all places is at the root of such screwed up
+shit.
 
 Chase Gibbons  / Manager
 435-999-4722
