@@ -12188,13 +12188,13 @@ tampering. (Imagine that)
 Don’t you guys see how the Russians can corrupt a whole society one person
 at a time using hacking? And how they can turn supposedly “religous” people
 into accomplices to murder just like that? All out of concern for people’s
-own well-being/pocketbooks? But in reality, if religious people truly
-believed their religion they would never let anyone manipulate them into
-being accoomplices to murder in the first place cuz they would realize they
-are going to hell as soon as they do allow someone to manipulate them in
-that way? I’m not even religious and I don’t even cross that line myself
-for fuck sakes–just out of an abundance of caution incase the religions are
-right. It’s called having morals and values.
+own well-being/pocketbooks while utilizing psychology? But in reality, if
+religious people truly believed their religion they would never let anyone
+manipulate them into being accoomplices to murder in the first place cuz
+they would realize they are going to hell as soon as they do allow someone
+to manipulate them in that way? I’m not even religious and I don’t even
+cross that line myself for fuck sakes–just out of an abundance of caution
+incase the religions are right. It’s called having morals and values.
 
 Screw hacking organizations–hacking individuals and households gets them
 way further towards their ultimate goals anyways.
