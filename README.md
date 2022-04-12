@@ -7868,17 +7868,17 @@ previously–and yet I still haven’t been able to. (I could have tried harder
 but still–with our social media it’s a cakewalk)
 
 Plausible deniability is the key to punishing Russia for taking over
-Ukraine without causing a nuclear war in my own personal opinion. I realize
-I’m not as smart as some of the people actually briefing the President
-however, but that’s just my opinion. I will say I do have some pretty
-unique experience on the subject though and plus I’m pretty decent and
-seeing things from a 30,000 foot level–just ask Russia. 😉 (More on how
+Ukraine without causing a nuclear war in my own personal opinion. Cuz
+Russia does it all the time to us and there hasn’t been a nuclear war yet.
+I realize I’m not as smart as some of the people actually briefing the
+President however, but that’s just my opinion. I will say I do have some
+pretty unique experience on the subject though and plus I’m pretty decent
+and seeing things from a 30,000 foot level–just ask Russia. 😉 (More on how
 Russia is exploiting our red lines later and the significance of what they
 are doing–they can do a lot more damage than you would think without ever
 even raising the alarm or crossing any of our red lines so to speak–that’s
 why this is so important even though as of right now all I know of is they
 are only mainly targeting me (the whistleblower))
-
 
 Chase Gibbons  / Manager
 435-999-4722
