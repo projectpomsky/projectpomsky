@@ -1,28 +1,40 @@
 Outline
 
-Outline 
+Outline
 
-README 
 
-Security Cameras 
+README
 
-How They Broke In 
 
-Motive 
+Security Cameras
 
-My Credibility 
 
-Daily Occurrences 
+How They Broke In
 
-As of Nov 12, 2021 
 
-As of Nov 15, 2021 
+Motive
 
-As of Nov 16, 2021 
 
-As of Nov 18, 2021 
+My Credibility
 
-As of Nov 20, 2021 
+
+Daily Occurrences
+
+
+As of Nov 12, 2021
+
+
+As of Nov 15, 2021
+
+
+As of Nov 16, 2021
+
+
+As of Nov 18, 2021
+
+
+As of Nov 20, 2021
+
 
 As of November 22, 2021
 
@@ -51,53 +63,71 @@ Indicators of being hacked
 Timeline (Rough Draft)
 
 
-~2006 
+~2006
 
-~2007 
 
-~2008 
+~2007
+
+
+~2008
+
 
 Before Father’s Death
 
 
-~2009 
+~2009
 
-Dusty and Cindy 
 
-2010 
+Dusty and Cindy
 
-Divorce/Move Out 
 
-Father’s Death 
+2010
+
+
+Divorce/Move Out
+
+
+Father’s Death
+
 
 Right After Father’s Death
 
 
-~2011 
+~2011
 
-Trust/College 
 
-2013 
+Trust/College
 
-Graduation 
 
-Eyes of a Killer 
+2013
 
-2015 
+
+Graduation
+
+
+Eyes of a Killer
+
+
+2015
+
 
 Before Sister’s Death
 
 
-Sister’s Death 
+Sister’s Death
 
-~2016 
+
+~2016
+
 
 After Sister’s Death
 
 
-2018 
+2018
 
-2019 
+
+2019
+
 
 Brother Distancing/Time Off
 
@@ -108,24 +138,32 @@ Last Visit/Website/Brother Hacking
 Someone Tries to Fill My Prescriptions
 
 
-Testing My Brother 
+Testing My Brother
 
-First Poisoning 
 
-2020 
+First Poisoning
 
-Second Poisoning 
 
-2021 
+2020
 
-Gun Pulled On Me 
+
+Second Poisoning
+
+
+2021
+
+
+Gun Pulled On Me
+
 
 Witness Intimidation
 
 
-EMF 
+EMF
 
-Hotels 
+
+Hotels
+
 
 Eagles Incident - Murder by Suicide Plot
 
@@ -145,11 +183,14 @@ Tampering with my electricity
 Radiation poisoning
 
 
-Infrasound 
+Infrasound
 
-Keys 
 
-2022 
+Keys
+
+
+2022
+
 
 As of December 15, 2021
 
@@ -160,11 +201,14 @@ As of December 17, 2021
 My Analysis of Timeline
 
 
-Father 
+Father
 
-Sister 
 
-Me 
+Sister
+
+
+Me
+
 
 As for any questions about me.
 
@@ -202,9 +246,11 @@ As of December 29, 2021
 As of December 30, 2021
 
 
-Part 1 
+Part 1
 
-Part 2 
+
+Part 2
+
 
 As of December 31, 2021
 
@@ -227,7 +273,8 @@ As of January 3, 2022
 As of January 4, 2022
 
 
-Random Thought 
+Random Thought
+
 
 As of January 7, 2022
 
@@ -295,7 +342,8 @@ As of February 6, 2022
 As of February 7, 2022
 
 
-February 8, 2022 
+February 8, 2022
+
 
 Lesson - RF/Waves/Hacking
 
@@ -350,7 +398,8 @@ Latest Potentially Significant IPs and Email Tampering Logs
 Electromagnetic Spectrum Health Effects Video
 
 
-Graphene Microchip 
+Graphene Microchip
+
 
 As of March 10, 2022
 
@@ -358,11 +407,14 @@ As of March 10, 2022
 What Putin is Doing
 
 
-Final Answer 
+Final Answer
 
-References 
 
-Art of War Quotes 
+References
+
+
+Art of War Quotes
+
 
 As of March 12, 2022
 
@@ -370,9 +422,11 @@ As of March 12, 2022
 As of March 14, 2022
 
 
-Part 2 
+Part 2
 
-Part 3 
+
+Part 3
+
 
 What their tunnel in my house sounds like
 
@@ -392,7 +446,8 @@ Twitter Observation
 Oddity at Doctors Office the Other Day
 
 
-How would you feel 
+How would you feel
+
 
 As of March 20, 2022
 
@@ -403,7 +458,8 @@ We need to support Ukraine 🇺🇦
 Potential Russian Mafia “Signals”
 
 
-Water Tampering 
+Water Tampering
+
 
 More on the Microchips
 
@@ -414,11 +470,14 @@ My superpower💪 === Ability to see through people 👓
 As of March 22, 2022
 
 
-Status Update 
+Status Update
 
-Hacker People 
 
-My Brother 
+Hacker People
+
+
+My Brother
+
 
 As of March 24, 2022
 
@@ -432,14 +491,22 @@ Russia is Root of ALL Our Problems
 As of March 26, 2022
 
 
-Gangstalking 
+Gangstalking
 
-If It Helps 
+
+If It Helps
+
 
 As of March 28, 2022
 
 
 I’m Now Out of Time
+
+
+As of March 30, 2022
+
+
+Be on the lookout for possible Russian EMF satellite targeting US
 
 
 
@@ -2253,7 +2320,6 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
-​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -7655,8 +7721,8 @@ system for instance. Therefore even alarm systems are vulnerable to the
 same attack as a car remote now thanks to software defined radio and the
 potential of hackers monitoring the radio spectrum. Simply Safe used to
 never even encrypt their devices' communications either btw, before their
-latest model came out. (​​https://www.nimblefreelancer.com/simplisafe-hack/
-) But like I said, even with encryption–a hacker with a software defined
+latest model came out. (https://www.nimblefreelancer.com/simplisafe-hack/ )
+But like I said, even with encryption–a hacker with a software defined
 radio can still bypass it after enough monitoring even if it is encrypted.
 (The same is true with our brains btw)
 
@@ -9350,7 +9416,6 @@ called biohacking. See the following links. But the one in my case is wayyy
 more sophisticated, plus I didn’t do it to myself, and therefore I have no
 way to turn it off by myself.
 
-​​
 https://twitter.com/drkiki/status/1168299777424908288?s=20&t=r4TnY99zwvl2yJbyM9FV5Q
 
 https://dangerousthings.com/category/implants/x-series/
@@ -10565,6 +10630,7 @@ and monarchies were the norm.
 
 Please don’t forget to read
 https://docs.google.com/document/d/1lK0mGt9S44aFu39nnGZ6ZRYl57FW8IbhYzPjAzWHylE/edit#heading=h.5pj2htfgtk07
+
 
 
 To be clear, I think they might be planning on targeting me again over the
@@ -11817,7 +11883,7 @@ simply store everything until a later date when we actually have a better
 idea of what to test for exactly.. (Like I was doing)
 
 
-As of March 30, 2022Be on the lookout for possible Russian satellite
+As of March 30, 2022Be on the lookout for possible Russian EMF satellite
 targeting US
 
 Be on lookout for a Russian satellite targeting the following address in
@@ -11832,9 +11898,9 @@ United States
 https://maps.apple.com/?address=1235%20Smithfield%20Canyon%20Rd,%20Smithfield,%20UT%20%2084335,%20United%20States≪=41.848250,-111.806250&q=1235%20Smithfield%20Canyon%20Rd&\_ext=EiYpwH+pRgDsREAxozWkZPzzW8A5PlXPoibtREBBuXw80DbzW8BQAw%3D%3D&t=m
 
 
-They have no other real good way to emf me here so I’m assuming they are
-using a Russian satellite to do it just now. I’ll be here the rest of today
-and part of tomorrow.
+They have no other real good way to emf me here really so I’m assuming they
+could be using a Russian satellite to do it just now. I’ll be here the rest
+of today and part of tomorrow.
 
 This is how I think they must have busted them the first time cuz I
 remember seeing a black hawk helicopter fly over my house when they were
@@ -11881,10 +11947,11 @@ damn things—I assure you. There’s no real good way of getting them out once
 they are in you either. Speaking of that, I’ve been meaning to get you the
 nurse's name who did this to me. I’ll get you those records soon...
 
-I aim to bring every single one of these guys down—my brother especially.
-This whole Ukraine ordeal has only helped in making that actually
-plausible. Thank you Ukraine for your help, I’m sorry Russia dragged you
-into this too.. I feel for you. Together we will make it through.
+I aim to bring every single one of these guys to justice—my brother
+especially. This whole Ukraine ordeal has only helped in making that
+actually plausible. Thank you Ukraine for your help, I’m sorry Russia
+dragged you into this too.. I feel for you. Together we will make it
+through.
 
 I think I need a shield you guys. An ef/rf/emf shield. Kinda like my
 infrasound jammer but an electromagnetic field jammer—an all in one device.
@@ -11913,12 +11980,68 @@ from. Something like that probably costs hundreds of thousands of dollars.
 P.s. I’m working on moving all this content to git including the version
 history up to this point. Have you seen that spycraft show on Netflix? I
 just started watching it. That’s exactly the type of shit they are doing to
-me—like to the T. Like these microchips even I think only become activated
-when they receive a certain outside signal. That’s the smartest way to do
-it. And just everything about that show is what they are doing to me—it’s
-nuts. You would think I’m a government embassy or some shit. Sometimes they
-make me feel like I am Superman or something. Cuz who else besides Superman
-would warrant this much time and effort and sophistication? That’s all I’m
-saying. I even bought a Superman necklace/dog tag since as a result. ;) (it
-doubles as a way to throw off some of their targeting of my head with
-electricity whereas it’s made of metal)
+me—like to the T. Just everything about that show is what they are doing to
+me—it’s nuts. You would think I’m a government agent or I run a government
+embassy or some shit. Sometimes they make me feel like I am Superman or
+something. Cuz who else besides Superman would warrant this much time and
+effort and sophistication? That’s all I’m saying. I even bought a Superman
+necklace/dog tag since as a result. ;) (it doubles as a way to throw off
+some of their targeting of my head with electricity whereas it’s made of
+metal)
+
+
+P.s. If anybody asks—anonymous has no ties to the us government. Putin is
+trying to blame the anonymous hacks on the us government. He’s even setting
+them up to frame them for killing Russian citizens. This is what Russia
+does regularly. Regardless, it’s essential to keep any ambiguity between
+anonymous and the US government. To be clear, I don’t even know whether
+anonymous really does have ties or not to the US government—I just know how
+the game is played so to speak just from me watching how Russia does
+it—that’s all. The whole reason it works for Russia is because they never
+admit it—even tho we all know their hackers really do have ties to the
+Russian government—literally everyone in Russia will become a Russian agent
+if their government so chooses it will help Russia—Russia monitors
+everything after all. Plus I can see Russia is setting up the ground work
+in various forums, social media sites, etc—to both make that link and to
+frame anonymous for doing horrendous things. I personally think anonymous
+and the US government should have at least loose ties—for dicey situations
+just like this—but if so—never admit it. Russia is now trying to do what I
+said recently which is to hold all parties accountable when any singular
+party does something “wrong”. And they are putting in the ground work to be
+able to do so successfully. (Via their planting such ideas that anonymous
+and our government are one in the same in our information ecosystem, aka
+using communications warfare) So it’s important we counter that notion at
+this time anyway. There is seriously something up with Russia and our
+hackers like I said. They could be banking on this link they are setting up
+between anonymous and the US government. To be clear, I’m not even a member
+of anonymous. I made a video just for fun but anyone can do that and plus I
+never promoted it. In reality, my scope of anonymous consists of me just
+reaching out to them and giving them my opinion on various subjects, asking
+for help, similar to what I did with our government once my bro started
+trying to kill me. Like that doesn’t make me an anonymous member or a US
+agent? I don’t think so. Plus neither ever even actually talks back to me.
+Anyways, my bro must actually be pretty high up in the kremlin tbh cuz it’s
+as if they are trying to use ME and this very document to start a war in a
+way. My bro seems to have access to some pretty high level stuff too.
+Russian satellites and whatnot, he almost seems to drive some of their
+operations around here. Plus, it’s as if Russia’s whole ordeal has a
+“brothers” “theme” to it—as well as a “hacking theme” to it–on multiple
+levels. Nevertheless, I don’t want them to use me to start a war—not unless
+any war is on our country’s own terms. This shit is scary you guys, not
+going to lie.
+
+I can now see why Joe Biden is so reserved. I think it’s called “game
+theory”. Essentially it’s crucial you are not seen as the country who
+starts any war pretty much. There really is some high tech communications
+warfare going on right now as we speak—with the end game being full blown
+cyber war at the very least from what I gather. Russia is essentially
+“using” anonymous in a way to try and kick off a cyber war in my opinion.
+And Russia will happily kill its own people for that cause.
+
+
+Chase Gibbons  / Manager
+435-999-4722
+
+
+PO Box 747Logan, UT 84321
+gfic.io  
