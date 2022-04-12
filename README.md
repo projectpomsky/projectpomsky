@@ -5177,3 +5177,8 @@ harass me and make it so I can’t work anymore, discredit me, etc, etc, but
 I’m still having high electricity bills despite most my breakers being
 turned off for most the month which ultimately falls on me as the homeowner
 to do something about.
+
+P.s. I think their latest suspect hitmen have still yet to strike, assuming
+my vibe was right at Logan hero’s tonight. They had to have installed that
+gas thing in my printer before I ever even crossed paths with those guys
+earlier tonight.
