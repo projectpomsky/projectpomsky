@@ -4843,31 +4843,36 @@ Still awaiting the results of my GRAMA request..
 As of January 10, 2022
 
 I believe my brother may be working with Russian Oligarchs and the gang
-thing might just be a cover story. I believe my brother plans to seek
-revenge on more than just me in our family for his despise of our mother
-and his previous promise to her to make her die alone.
+thing might just be a cover story or smoke screen. I believe my brother
+plans to seek revenge on more than just me in our family for his despise of
+our mother and his previous promise to her to make her die alone.
 
 What’s the ultimate way to be evil? The ultimate way to be evil is by being
 evil through other people so you yourself don’t ever get caught.
 
 What is the ultimate way to be a hacker? The ultimate way to be a hacker is
-by hacking into other people’s minds essentially. (By taking it beyond just
+by hacking into other people’s minds essentially. (By transcending
 electronics)
 
 These guys’ advanced persistent threat hacking capabilities and their emf,
 infrasound, extreme break-in capabilities, and their suspected
 nanotechnology microchip capabilities are those which only someone like a
-foreign adversary might realistically possess. I believe my brother when
-seeking out how to get out of the bind he was in relating to essentially
-getting caught for murdering his own family–he sought out help from Russian
-Oligarchs on the dark web as a result, especially given the politics of the
-time. (After he initially hacked me and others) And now he’s on a vendetta
-against his whole family and this entire town–seeking to do the one thing
-to his family that’s even worse than death–that is–mind control. He wants
-to essentially make some of us act out and behave in ways that will
-essentially cause our whole family never ending suffering, grievance, and
-shame and which will be the ultimate slap in the face to my father, my
-mother and to this whole town.
+foreign adversary might realistically possess.
+
+I believe my brother when seeking out how to get out of the bind he was in
+relating to essentially knowing he was getting close to being caught for
+murdering his own family–he sought out help from Russian Oligarchs on the
+dark web as a result, especially given the politics of the time. (Around
+the time he initially hacked me and others in my family) And now he’s on a
+vendetta against his whole family and this entire town–seeking to do the
+one thing to his family that’s even worse than death–that is–mind control.
+He wants to essentially make some of us act out and behave in ways that
+will essentially cause our whole family never ending suffering, grievance,
+and shame and which will be the ultimate slap in the face to my father, my
+mother and to this whole town. (Regardless of how he’s acting now–when
+someone shows you their true colors–you had better believe them–it’s no
+coincidence my brother is acting like a perfect little child now that the
+police are actually digging into all of this--don’t be fooled)
 
 
 
@@ -4879,29 +4884,58 @@ currently single.
 [reference goes here]
 
 I believe most of the people I have alleged are involved in these attacks
-against me that have actually persisted could really be secret Russian
-agents. (i.e. Child abuser guy, *cough, *cough, My brother, *cough, *cough)
-The ones that don’t persist likely were hired contractors as previously
-thought.
+against me that have actually persisted could actually be secret Russian
+agents/assets. (i.e. Child abuser guy, *cough, *cough, My brother, *cough,
+*cough) The ones that don’t persist likely were hired contractors as
+previously thought.
 
-I suspect everything else is just a cover story or false flag operation
-meant to cover up the truth pretty much.
+I suspect everything else is just a smoke screen or cover story or false
+flag operation meant to cover up the truth pretty much.
 
-Now that right there would explain literally everything.
+Now that right there would explain literally everything. It even explains
+the times when they recently tried to kill me like the eagles incident
+because I think what happened there was they actually reached a point where
+their AI wasn’t lining up given any variances in my prescriptions from day
+to day, so I think at one point they decided I was a lost cause and
+proceeded to try and kill me instead of pursue mind control, only to later
+discover they could add another variable to their AI based on my daily
+prescription usage on any given day; however, they have still been
+seemingly struggling with it ever since–thank god.
 
 I therefore plan to move somewhere where I will be of no use to either
-Russia or my brother.
+Russia or my brother. I plan to move to somewhere like Portugal or
+somewhere like that, which isn’t Russia, but somewhere which still has ties
+to the US, and somewhere which isn’t in the heat of all this political
+nonsense and therefore will hopefully make me of little use to them.
 
-(They started freaking out when I was writing this btw, like as if they
-have now been caught–my screen went blue and back to white and back to blue
-again multiple times when writing this, as if multiple people were logging
-in to view what I was writing at the time–don’t let them fool you–I think
-this is the closest to the truth I’ve gotten yet; The beauty of what they
-are doing to me is that I can read them through all their reactions to what
-I’m doing at any given point as well, just like they can read me, I can
-also read their lack of reactions at key times, etc, etc..)
+(They started freaking out when I was writing the section above btw, like
+as if they have now been caught–my screen went blue and back to white hue
+and back to blue hue again multiple times when writing this, as if multiple
+people were logging in to view what I was writing at the time–don’t let
+them fool you–I think this is the closest to the truth I’ve gotten yet; The
+beauty of what they are doing to me is that I can read them through all
+their reactions to what I’m doing at any given point in reverse as well,
+just like they can read me, I can also glean insight from their lack of
+reactions at key times, etc, etc..)
 
-Shutting off my devices now..
+This is my final answer at this time. It’s the only thing I can think of
+that explains everything realistically.
+
+Me personally, I’m not a good liar–I’m not good at being fake either. I
+have no motive to be doing any of this besides to try and help my family,
+stop all the harassment, go back to work, and to do some good in this
+world. I therefore would hope you will give all this adequate consideration
+because truth is stranger than fiction and you just can’t make this stuff
+up; plus, at the end of the day–I assure you I have been telling you the
+truth to the best of my abilities this entire time–regardless of how
+strange the truth may seem.
+
+Thank you for coming along the journey with me, I think I have now found my
+answer as to where I should move to. (Don’t worry, I plan to move to a
+place where I am still accessible to the US if you guys need me for
+anything)
+
+Shutting off all my devices for now..
 
 Chase Gibbons  / Manager
 435-999-4722
