@@ -7983,31 +7983,28 @@ hacking at any given moment as of lately at least? (Dismissing how I
 originally found out it was my bro in the first place and all that jazz)
 It’s because my brother is actually the most vicious. And I think he’s now
 back from wherever he went. Him and Kyle French are both really vicious.
-They just played some small fireworks outside my house tonight in the
-middle of the night btw. By they I mean my brother as the hacker and Kyle
-French as the person who lit off the small fireworks outside my house. I’ve
-got to be careful what I say or they’ll try and get my bro off the hook
-based on my latest statement. Either that or they’ll do a false flag with
-the intent to get me to react how they want. It’s a constant battle with
-these guys never knowing whether it’s a false flag or not. My brother
+I’ve got to be careful what I say or they’ll try and get my bro off the
+hook based on my latest statement. Either that or they’ll do a false flag
+with the intent to get me to react how they want. It’s a constant battle
+with these guys never knowing whether it’s a false flag or not. My brother
 normally works during the day times I’ve found. Kyle French normally always
 works at night. By works I mean takes turns assaulting me. But tonight it
 was most definitely my brother and Kyle French. I wonder where my brother
 went the last week or two—it was honestly a nice break from him tbh. I’ve
 been creating incremental backups of this readme in my emails btw. I’ve
-been trying to make a Tesla coil thingy to try and disable this damn
-microchip but after the fireworks tonight it’s got me questioning things.
-Cuz if I were to die tonight I don’t want ppl getting the wrong idea. So
-I’m kinda stuck between a rock and a hard place. But in general—the best
-way to learn how something works and to learn how to be able to stop their
-assaults is by learning about the underlying technology they are using
-against me myself. For instance, with the van eck phreaking hacking they
-do, I have no idea what signals they are picking up on until I dig into it
-and start reading the rf/electromagnetic signals emitted when typing for
-myself. And once I figure out the exact frequencies my laptop emits when
-typing then I can figure out how to block it. But yea—all I know is I need
-to disable the nano chip in my ear before I leave so they can’t follow me
-because this is no joke. My life is really on the line here.
+been trying to make this small Tesla coil thingy to try and disable this
+damn microchip but I don’t want ppl getting the wrong idea. So I’m kinda
+stuck between a rock and a hard place. Perception is key however. But on
+the other hand—the best way to learn how something works and to learn how
+to be able to stop their various assaults against me is by learning about
+the underlying technology they are using myself. For instance, with the van
+eck phreaking hacking they do, I have no idea what signals they are picking
+up on when I type until I dig into it and start reading the
+rf/electromagnetic signals emitted when typing for myself. And once I
+figure out the exact frequencies my laptop emits when typing then I can
+figure out how to block it. All I know is I need to disable the nano chip
+in my ear before I leave so they can’t follow me because this is no joke.
+My life is really on the line here.
 
 
 
