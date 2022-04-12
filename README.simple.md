@@ -10344,33 +10344,32 @@ previously about the jets now I am just a little more unsure is all.
 What their tunnel in my house sounds like
 
 I think they are most definitely up to something. This sound isn’t heard by
-me but it’s been being picked up on all my cameras. I do think they somehow
-have direct access from their tunnel to my attic tbh, but I need to track
-down my house’s floorplans. However I might just bounce. It’s getting too
-close you guys. I’ll dislodge this damn microchip however necessary. And
-from there I’m confident I can escape these guys. If so, I wish you all the
-best of luck going forward. Ukraine, USA, allies, colleagues, family,
+me but it’s been being picked up on all my cameras lately. I do think they
+somehow have direct access from their tunnel to my attic tbh, but I need to
+track down my house’s floorplans. However I might be signing off for a
+little while. It’s getting too close you guys. Regardless, I wish you all
+the best of luck going forward. Ukraine, USA, allies, colleagues, family,
 everyone. I’ll be in touch occasionally but please consider everything I
-have wrote and keep up the fight against evil.
+have written and keep up the fight against evil while I’m away for an
+undetermined amount of time.
 
 https://drive.google.com/file/d/1KRjIj91fwn8ZdA7oduhpXOo8Ka\_L77ij/view?usp=sharing
 
 
-P.s. I got a new simplisafe alarm system today. I’m hoping this one will
-keep them out for at least 10-15 days–if all goes as hoped. I have got to
-screw with their RF readings by pushing more than one button at once
-anytime I arm or disarm my system–just to get the best longevity out of it.
-The last one I threw them off by doing just that and I probably got about
-20-25 days out of it. Not to mention everything else I’ve got to do with my
-phones, wifi, passwords, pins, etc just to keep them out for that long.
-It’s a constant struggle tbh. Simplisafe is cool tho cuz it has 2 different
-cell phone sim cards and doesn’t necessarily even require wifi. But even
-still they can crack the underlying encryption signature after they receive
+I got a new simplisafe alarm system today. I’m hoping this one will keep
+them out for at least 10-15 days–if all goes as hoped. I have got to screw
+with their RF readings by pushing more than one button at once anytime I
+arm or disarm my system–just to get the best longevity out of it. The last
+one I threw them off by doing just that and I probably got about 20-25 days
+out of it. Not to mention everything else I’ve got to do with my phones,
+wifi, passwords, pins, etc just to keep them out for that long. It’s a
+constant struggle tbh. Simplisafe is cool tho cuz it has 2 different cell
+phone sim cards and doesn’t necessarily even require wifi. But even still
+they can crack the underlying encryption signature after they receive
 enough samples–and once they do that then there’s no real way to get the
 simplisafe to change it’s underlying signatures unless you buy a new one.
 
-Anonymous Video I’ve Been Working On in Support of Ukraine (Wait for it to
-finish processing–don’t download anything)
+Anonymous Video I’ve Been Working On in Support of Ukraine
 
 https://drive.google.com/file/d/1pvr7-ULpFCYjPHRYadiOKlxeJzvhVdGc/view?usp=sharing
 
@@ -10412,12 +10411,13 @@ survive let alone have company over tbh)
 I reached out to China just barely and I straight up told them how I feel.
 The hackers weren’t too pleased.
 
-I think I’ve pissed them off enough for now, now it’s time for me to bounce
-until shit calms down. They are most definitely planning something, I
-already heard someone up in my attic right after I sent that message to
-China, and I’ve since smelt gas in my room I normally sleep in. So yea,
-I’ll be in touch. I’m hoping China requests that they stop coming after
-both me and Ukraine but I honestly doubt it.
+I think I’ve pissed them off enough for now, now it’s time for me to lay
+low until shit calms down a little. They are most definitely planning
+something, I already heard someone up in my attic right after I sent that
+message to China, and I’ve since smelt gas in my room I normally sleep in.
+So yea, I’ll be in touch. I’m hoping China requests that they stop coming
+after both me and Ukraine but I honestly doubt it at this point, China has
+changed.
 
 May the force be with you. ;)
 
