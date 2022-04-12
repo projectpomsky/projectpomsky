@@ -8013,6 +8013,20 @@ because this is no joke. My life is really on the line here.
 
 And no dusty you being so vicious towards your only 100 percent biological
 brother is not a compliment.
+
+
+
+P.s. Emp’s are created whenever electricity goes through any wire pretty
+much at their simplest form is what I’ve learned. It’s the electro magnetic
+spectrum, however the “p” in emp stands for pulse—which just means
+electricity going through a wire in the form of a single pulse of energy.
+That’s all an emp really is. They happen all around us tbh. It’s the
+magnetic part tho that can cause disruptions in electronics if directly by
+it, kinda like an electrical magnet but in the form of a pulse of energy.
+Idk it’s not my speciality I’m just trying to learn more about all this
+stuff to try and make some headway on this microchip tbh. My actual
+speciality is full stack web programming—but I’ve been learning a ton about
+security lately as well for the same reasons—to try and protect myself.
 -- 
 
 Chase Gibbons  / Manager
