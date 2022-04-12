@@ -434,7 +434,21 @@ parttern they’ve followed over time is I suspect they started externally
 with external poisons and then moved to internal poisonings overtime, where
 I couldn’t wash it off. (Repeated rinsing with rubbing alcohol was the only
 thing I found that could get it off previously, and even then it would
-still ooze out of my pours for days)
+still ooze out of my pours for days) — as of 12/20/2021— I suspect they’ve
+now moved back to external poisonings which don’t wash off with rubbing
+alcohol/apple cider vinegar and which aren’t immediately apparent you’ve
+been attacked — so a better description of their overall pattern is that
+they will always fine tune what they are doing at any given time using all
+their intel gleaned through all their hacking. (So what they are doing
+constantly changes based on their latest intel—a lot of times they’ll
+change up what they are doing just to try and make me look bad or to try
+and make a statement I have made previously prove false, like going back to
+external poisonings after I said in general they seem to be going from
+external to internal over time) Now that is something I can say
+definitively that they won’t be able to then turn around and try and make
+me look bad about, is their methods are always changing based on their
+latest intel essentially, to best suit them.. And they constantly exploit
+the latest vulnerabilities both in the digital and physical realm.
 
 I hope I’m wrong on them potentially getting in my car today especially
 given the news on my trust possibly being invalid as of this moment—but
@@ -497,46 +511,46 @@ per year and it’s only November; all those contracts I did myself. All that
 property mgmt. Even the fact that I chose the assets I did in the first
 place and that I then chose to not sell them and instead rent them out
 despite being advised otherwise by my accountant at the time—that was all
-me too. I do think my accountant might be at least partly under my
+me too. I do suspect my accountant could be at least partly under my
 brother's influence btw. Because a professional bug sweep is the first
-logical step to resolve all of this—either way—and it could even lead to
-attempted murder charges if I’m right about my furnace and water heater
-being tampered with—which I do believe I am—and yet for some reason my
-accountant won’t give me a total of $3500 for even other legitimate causes
-right now.. Even though I now have the support of doctors, psychiatrists,
-and hidden camera footage and even though I couldn’t even sell my house
-right now without disclosing the fact that I suspect there may be
-electronic bugs in here. Weird right? That’s only one example of many as to
-why my little sister and I have wanted to switch trustees for a while now;
-one of the bigger examples is Paul actually got fired from Jones Simkins
-for “not putting his clients interests first” like a year or so ago now.
-And that wasn’t even the first time we suspected Paul might be corrupt
-either. Only now we have a good idea as to who corrupted him. The hackers
-keep trying to interfere with what I type btw, they do that a lot.
+logical step to resolve all of this—and it could even lead to attempted
+murder charges if I’m right about my furnace and water heater being
+tampered with—which I do believe I am—and yet for some reason my accountant
+won’t give me a total of $3500 for even other legitimate causes right now..
+Even though I now have the support of doctors, psychiatrists, and hidden
+camera footage and even though I couldn’t even sell my house right now
+without disclosing the fact that I suspect there may be electronic bugs in
+here. Weird right? That’s only one example of many as to why my little
+sister and I have wanted to switch trustees for a while now; one of the
+bigger examples is Paul actually got fired from Jones Simkins for “not
+putting his clients interests first” like a year or so ago now. And that
+wasn’t even the first time we suspected Paul might be corrupt either. Only
+now we have a good idea as to who may have corrupted him. The hackers keep
+trying to interfere with what I type btw, they do that a lot.
 
-I know there’s electronic bugs in my home and car. The ones in my car allow
-them to track my location in town—even when I don’t bring my phone with me.
-The ones on my home control my water heater and control some kind of gas
-and control my furnace cuz they straight shut off my water heater's ability
-to heat this weekend now for a bit, the knob didn’t even do anything
-anymore, as if to punish me or something--after causing it to almost
-explode previously—and they always do it at strategic times too. Like they
-mess with my nest thermostat all of the time, and they try and gas me at
-strategic times through my HVAC/furnace, (I think they installed that
-capability during the October 15, 2021 break-in) and then after I started
-shutting the power off to my furnace at nights, to avoid getting gassed
-while I was asleep,, they started overriding my heat settings to make it so
-it won’t even heat my house right before bed even though it’s supposed to,
-etc, as if to coerce me to not shut the power to my furnace off before I go
-to sleep so that my house will actually heat up; I finally just resorted to
-plugging in a space heater in my room tbh.
+I suspect there’s electronic bugs in my home and car. The ones in my car
+allow them to track my location in town—even when I don’t bring my phone
+with me. The ones on my home control my water heater and control some kind
+of gas and control my furnace cuz they straight shut off my water heater's
+ability to heat this weekend now for a bit, the knob didn’t even do
+anything anymore, as if to punish me or something--after causing it to
+almost explode previously—and they always do it at strategic times too.
+Like they mess with my nest thermostat all of the time, and they try and
+gas me at strategic times through my HVAC/furnace, (I think they installed
+that capability during the October 15, 2021 break-in) and then after I
+started shutting the power off to my furnace at nights, to avoid getting
+gassed while I was asleep,, they started overriding my heat settings to
+make it so it won’t even heat my house right before bed even though it’s
+supposed to, etc, as if to coerce me to not shut the power to my furnace
+off before I go to sleep so that my house will actually heat up; I finally
+just resorted to plugging in a space heater in my room tbh.
 
-Plus I’ve known there are emf bugs in here and sound causing bugs in here
-and location finding bugs in here for some time—I deal with them pretty
-much every night--especially nights when I have something important to do
-the next day like goto the doctor or go to work. They try and make me look
-bad to other key people essentially by emf-ing me or infrasounding me or
-causing this obnoxious sound that makes your ears ring and gives you a
+Plus I’ve suspected there are emf bugs in here and sound causing bugs in
+here and location finding bugs in here for some time—I deal with them
+pretty much every night--especially nights when I have something important
+to do the next day like goto the doctor or go to work. They try and make me
+look bad to other key people essentially by emf-ing me or infrasounding me
+or causing this obnoxious sound that makes your ears ring and gives you a
 headache mainly at night times these days. (They used to do it in the day
 too) It’d be nice if we could get a camera facing my house btw, they always
 send people out to try and exploit the latest vulnerability given the
@@ -633,7 +647,7 @@ ownership in a hotel in West Valley that I’ve now procured. And partly
 because I was afraid of losing connections and being left more vulnerable
 to Dusty.
 
-Which that part of my calculation definitely ended up coming to
+Which the Dusty part of my calculation definitely ended up coming to
 fruition—staying at rent dynamics hasn’t been quite as advantageous as I
 thought it might be to combat being more vulnerable to Dusty through my
 connections though—if anything money is turning out to be key—because
@@ -756,19 +770,19 @@ homework prior to coming after me--he hacks everyone around me--which makes
 it that much harder for me to go anywhere without them knowing about it.
 
 For instance, my accountant could be hacked as well, I’m not sure, but if I
-wanted to play it safe then it would be wise for me not to go
-anywhere--without risk of these guys knowing about it--at least until I
-switch accountants. Also, I find it odd that they haven't really messed
-with my house lately but they've messed with literally everything else away
-from my house. Like I asked the police to put up a camera facing my house
-and I don't know if they did or not. But based on these guys seemingly
-staying away from my house lately I'd almost guess that the police finally
-did put up a camera somewhere. (But that's just a guess—it could be my
-added protection inside as well which has caused them to stay away more
-now) All I'm saying is these guys could even have advanced insight into
-what the police are doing even--either through the neighbors, wittingly or
-unwittingly through all their hacking, or else through hacking the police
-department itself--that's what these guys are capable of.
+wanted to play it safe then it would be wise for me not to go anywhere--at
+least until I switch accountants. Also, I find it odd that they haven't
+really messed with my house lately but they've messed with literally
+everything else away from my house. Like I asked the police to put up a
+camera facing my house and I don't know if they did or not. But based on
+these guys seemingly staying away from my house lately I'd almost guess
+that the police finally did put up a camera somewhere. (But that's just a
+guess—it could be my added protection inside as well which has caused them
+to stay away more now) All I'm saying is these guys could even have
+advanced insight into what the police are doing even--either through the
+neighbors, wittingly or unwittingly through all their hacking, or else
+through hacking the police department itself--that's what these guys are
+capable of.
 
 These things that have been happening alone that I have been able to
 actually prove show a certain level of sophistication. But yea, if anyone
@@ -967,6 +981,9 @@ my electronic key signature changed. I do suspect the attackers may have
 registered my Lexus already via this same app using a different email
 address as a way to track me—because it’s a lot cleaner and less detectable
 way of gps tracking. But I guess we’ll see once I get to the dealer.
+(Either that or they use the satellite radio somehow to track me—I’ve seen
+them change my cars settings remotely before when I wasn’t even touching
+anything)
 
 
 As of December 8, 2021
@@ -1029,7 +1046,9 @@ brother's friends do believe me. And some actually found it odd how dusty
 behaved in the past in thinking back on it, after I brought all this to
 their attention.
 
-https://codepen.io/chase-gibbons/pen/VwMjmqd
+https://codepen.io/chase-gibbons/pen/VwMjmqd (I couldn’t figure out how to
+properly export this conversation so just know this code pen could easily
+be tampered with)
 
 I urge you not to overweigh any one of these items. Please give everything
 you see here adequate consideration—and don’t make any shallow
@@ -1047,7 +1066,7 @@ dismissing at least half of all of this as random or insignificant in
 nature.
 
 To be clear, I am at a disadvantage in all of this. Because this is all
-designed to make me look bad, to be difficult to prove, and to therefore
+designed to make me look bad, to be difficult to prove, and to therefore to
 give the advantage to the perpetrators. It’s all designed to seem
 outlandish and to go on over time for a reason. When people think about all
 this, it’s common to not consider the full context. It’s also common to
@@ -1155,31 +1174,32 @@ else connected to your network.
 
 Another indicator is your modem may regularly cut out and start downloading
 new configurations—like it might even stop your Comcast cable tv from
-working for a second even—just depending on which modem you have. I know
-it’s my brother who hacked me at least in part because all my issues with
-my modems started when I was on the phone with him back in 2019, he
-essentially social engineered me to put in my password when I shouldn’t
-have when I was trying to help him with his stupid website. Right after I
-put in my password—my whole network went down for the first time in that
-way. Which I later came to find out it was likely because he gained access
-to my computer when I put in my password which then sent a command to my
-modem to download a new malicious configuration to my modem which would
-proceed to hack the rest of my network, cuz my modem has gone down so many
-times since and that’s what I’ve narrowed it down to. I recall my brother
-was like holding back from laughing at the time too. I didn’t officially
-realize I had been hacked until a little while later though, but I did
-specifically remember my brother coerced me to put in my password when
-giving me some of his website files and right after I did put in my
-password it took my whole network down for the first time—my network going
-down like that out of nowhere seemingly on my input was odd for my network
-at the time. I’ve been dealing with it ever since though pretty much, I’ve
-come to find out what he installed on my network was actually a hacking AI
-that infects all of my devices. So getting rid of it entirely is extremely
-difficult. Since then I suspect the hackers have even advanced to rooting
-my devices I think, meaning you can’t even get the malware off any one
-device by reinstalling the operating system—let alone get all the malware
-off of the network as a whole. It’s a nightmare tbh. My brother has taken a
-lot of the fun out of technology for me.
+working for a second even—just depending on which modem you have and what
+the hackers are doing. I know it’s my brother who hacked me at least in
+part because all my issues with my modems started when I was on the phone
+with him back in 2019, he essentially social engineered me to put in my
+password when I shouldn’t have when I was trying to help him with his
+stupid website. Right after I put in my password—my whole network went down
+for the first time in that way. Which I later came to find out it was
+likely because he gained access to my computer when I put in my password
+which then sent a command to my modem to download a new malicious
+configuration to my modem which would proceed to hack the rest of my
+network, cuz my modem has gone down so many times since and that’s what
+I’ve narrowed it down to. I recall my brother was like holding back from
+laughing at the time too. I didn’t officially realize I had been hacked
+until a little while later though, but I did specifically remember my
+brother coerced me to put in my password when giving me some of his website
+files and right after I did put in my password it took my whole network
+down for the first time—my network going down like that out of nowhere
+seemingly on my input was odd for my network at the time. I’ve been dealing
+with it ever since though pretty much, I’ve come to find out what he
+installed on my network was actually a hacking AI that infects all of my
+devices. So getting rid of it entirely is extremely difficult. Since then I
+suspect the hackers have even advanced to rooting my devices I think,
+meaning you can’t even get the malware off any one device by reinstalling
+the operating system—let alone get all the malware off of the network as a
+whole. It’s a nightmare tbh. My brother has taken a lot of the fun out of
+technology for me.
 
 The thing that initially tipped me off to being hacked myself personally
 was some of my emails were being deleted, (emails from my brother) and my
@@ -1225,10 +1245,21 @@ reinstall my ring app before leaving my home when I plan to monitor my
 house closely these days as well, cuz they’ll essentially reprogram that
 particular app to fail to load altogether–and re-installing the entire app
 is the only way I’ve found to get anything on my ring account to load
-again. They reprogram my phone number to forward to other phone numbers.
-They’ll make my phone not block contacts that are clearly marked as being
-blocked. (Like my brother for instance, he can still text me even though
-he’s blocked) What else? I’ll think of more and add it here.
+again. They reprogram my phone number to forward to other phone numbers or
+to not work altogether. They’ll make my phone not block contacts that are
+clearly marked as being blocked. (Like my brother for instance, he can
+still text me even though he’s blocked) What else? I’ll think of more and
+add it here.
+
+They can act as the middle man between texts and add malicious payloads
+and/or change the timing of when texts are sent, change up the wording, or
+else prevent them from going out entirely.
+
+They can act as the middle man between emails and prevent me from being
+able to send/receive emails, add malicious payloads, change the timing,
+etc, etc
+
+
 
 The best thing you can do if you do suspect you are hacked, that I have
 found at least, is to report it to the Utah Department of Public Safety -
@@ -1581,7 +1612,8 @@ Dusty doesn’t show up for dinner with me, Cindy, and Taylor–the dinner
 meant to finalize my purchase agreement with Taylor. Cindy starts having
 regrets even though she’s the one who convinced Taylor to sell it for an
 annuity in the first place; I recall Dusty didn’t want me to purchase it or
-something either. But I needed the extra parking.
+something either later. But I needed the extra parking and I purchased it
+for a reason.
 
 My brother Dusty begins distancing himself from everyone besides Cindy,
 from what I gather.
@@ -1591,7 +1623,8 @@ psychology, and he tells me how he’s been talking to a psychologist who
 said our mom is a narcissist and he started saying all this messed up stuff
 about my mom’s teeth and how she used to be a druggy and all this messed up
 stuff, at least part of which he said he heard from Cindy. He recommends I
-read a psychology book myself and stop talking to our mom myself.
+read a psychology book myself and stop talking to our mom myself, quit my
+job, etc.
 
 My brother begins vigorously disparaging my mom and our whole family both
 privately to our whole family and publicly, calling my mom a narcissist,
@@ -2090,12 +2123,13 @@ https://drive.google.com/file/d/1G4yI\_Ri\_7t\_p5Hf4kBtDzwlnUK8V0HGl/view?usp=sh
 Halloween Car Break-in/Vape Juice Tampering/Mocking me
 
 I suspect a black guy in a black mercedes car got into my car while in
-walmart and put something in my vape juice. He and his girlfriend were
-sitting in their car next to my car when I went out that day and I
-recognized that car as being one of my brother’s guys. Right after this is
-when they left that voicemail mocking me by coughing or whatever. They have
-since left other voicemails as well, the latest one I actually listened to
-sounds like it’s being created by a dj. I do have the evidence.
+walmart and put something in my vape juice after the latest breakins. He
+and his girlfriend were sitting in their car next to my car when I went out
+that day and I recognized that car as being one of my brother’s guys. Right
+after this is when they left that voicemail mocking me by coughing or
+whatever. They have since left other voicemails as well, the latest one I
+actually listened to sounds like it’s being created by a dj. I do have the
+evidence.
 
 Tampering with my electricity
 
@@ -2590,6 +2624,36 @@ with Karie. Dusty has always sided with Cindy.
 I’m also quite shocked Dusty thought so little of my cognitive ability and
 my ability to protect myself and my family.
 
+As of December 16, 2021
+
+I suspect they followed me to Cache Valley Bank today, around 1:46pm.
+#signal?
+
+As of December 17, 2021
+
+I woke up with my right arm burning today. (Which was the side I was laying
+on in bed) They may have gotten in my house again, I read in gangstalking
+it’s common for them to use tunnels. I also read it’s common for them to
+use microchips. Not saying that’s what they are doing though. I do suspect
+them putting something on my bedding is what may have contributed to my
+loss of hair on my legs previously and my arm burning this morning
+though–well that and/or all the emf stuff.
+
+Again sometimes they’ll do false flag operations. Or operations
+specifically intended to make me look bad knowing I’ll likely report what
+happens to me.
+
+If you really wanted to get to the bottom of all this, you’d have a sincere
+talk with that child abuser guy who has been in on it since the very
+beginning–and you’d find out everything he knows–and you wouldn’t let him
+mislead you. That eagles incident is pretty damning after all, not to
+mention everything else I can link back to him and how I can link him back
+to my brother through all the hacking, eagles incident, etc, etc. (At least
+preliminarily)
+
+https://drive.google.com/drive/folders/17bzBc6v8X\_Oijsj2hLYF4LJavrScWmaU?usp=sharing
+
+
 As of December 18, 2021
 
 Power bill was up again for no reason in November when I just checked,
@@ -2598,9 +2662,40 @@ of the way through November. (Meaning it could have even been higher than
 this if all my breakers had been on like normal for the full month of
 November)
 
-It’s as if someone is somehow somewhere drawing from my power or something..
+It’s as if someone is somehow somewhere drawing from my power or
+something.. (attic or garage maybe? neither were covered in bug sweep)
 
 https://drive.google.com/file/d/1D0GBUhN7OuX4ylzVuDL1PS2t0lnAX7Xw/view?usp=sharing
+
+As of December 20, 2021
+
+I’m breaking out in hives today on my back. See what I added above under
+the “as of November 12, 2021” heading for more info. I’ll quote it here:
+
+ -
+
+ as of 12/20/2021— I suspect they’ve now moved back to external
+ poisonings which don’t wash off with rubbing alcohol/apple cider vinegar
+ and which aren’t immediately apparent you’ve been attacked–but have a
+ similar texture to them — so a better description of their overall pattern
+ is that they will always fine tune what they are doing at any given time
+ using all their intel gleaned through all their hacking. (So what they are
+ doing constantly changes based on their latest intel—a lot of times they’ll
+ change up what they are doing just to try and make me look bad or to try
+ and make a statement I have made previously prove false, like going back to
+ external poisonings after I said in general they seem to be going from
+ external to internal over time) Now that is something I can say
+ definitively that they won’t be able to then turn around and try and make
+ me look bad about, is their methods are always changing based on their
+ latest intel essentially, to best suit them.. And they constantly exploit
+ the latest vulnerabilities both in the digital and physical realm. (See
+ photos of my back and neck)
+ -
+
+
+ https://drive.google.com/drive/folders/17bzBc6v8X\_Oijsj2hLYF4LJavrScWmaU?usp=sharing
+
+
 
 
 Chase Gibbons  / Manager
