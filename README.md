@@ -380,6 +380,9 @@ As of March 3, 2022
 As of March 5, 2022
 
 
+As of March 7, 2022
+
+
 
 
 README
@@ -8777,54 +8780,55 @@ further.
 
 Even if that is not the case, these guys are definitely set up to get away
 with all of this. Because information is power and they have already hacked
-a lot of our infrastructure. So they already have access to all the
-information they need to get away with whatever they want essentially. I
-strongly suspect they’ve hacked rocky mountain power to turn on and off my
-power when breaking in and tampering with my power previously. All that is
-computerized these days after all. I know they hacked sirius xm radio
-because they made that one about as obvious as them hacking rocky mountain
-power. Plus they couldn’t access my location through sirius xm without
-having direct access to their backend logic. I strongly suspect they’ve
-also hacked various police agencies. Just based on what transpired
-previously with my brother social engineering them, and based on the
-attackers’ ability to know whenever any of them are getting investigated or
-not. I know for a fact they hack businesses all over this country–because
-I’ve seen it first hand. I know for a fact that they hack universities all
-over this country–because again, I’ve seen it first hand as part of my
-profession. What else? Church’s, media, congress, organized crime. As for
-church’s, I don't know if they’ve hacked them or just infiltrated them or
-what but it’s all part of their bigger effort to silently defeat us from
-within. Our media, some of them are extremely biased and divisive or else
-pro Russia these days, all they would have had to do is use the same
-tactics on our media as they do on our businesses to gain some level of
-control over them essentially. (Exploit capitalism, nobody wants to take a
-huge hit to their bottom line by going public with the fact that they’ve
-been hacked and all their customer’s data is potentially now in harm’s
-way–especially given the level of sophistication of the hacking–it’s
-comparable to the NSA) As for congress, I mean there’s been some strange
-acting congress members recently is all I’m saying–on the right and on the
-left. Russia doesn’t like one or the other–they infiltrate both and try and
-cause divisions. I don’t know for sure but them corrupting some of our
-congress members is definitely plausible if you ask me. All they got to do
-is hack them and monitor for anything they could use against them that
-would be embarrassing to them and then once found, begin pulling that
-embarrassing thing up on their phone at odd times, etc, to let them know
-they are indeed hacked and the hackers are essentially threatening them. A
-lot of people won’t take that to the police, especially if what the hackers
-found is indeed embarrassing or could otherwise get them in trouble. Then
-the hackers just use similar “signals” whenever they want them to behave a
-certain way. For instance, maybe later the person is reading a news article
-on their phone about Ukraine, all they have to do is start wigging their
-phone out at certain key points or provide other timely signals that are
-learned over time–and that my friends is how Vladimir Putin and Xi Jingping
-have managed to corrupt our society and exploit our law and order in an
-almost impossible to prove manner from within. And each piece of
-infrastructure they hack they use it to amplify their ability to take over
-the rest. That’s part of why hacking is so powerful. That doesn’t even get
-into how they strategically create/exploit conflicts of interest and
-control the interconnected society as a whole from afar, nor does it get
-into their mass social media psychological manipulation efforts, etc, etc.
-(What they are doing is honestly impressive but scary as hell)
+a lot of our infrastructure from what I can tell. So they already have
+access to all the information they need to get away with whatever they want
+essentially. I strongly suspect they’ve hacked rocky mountain power to turn
+on and off my power when breaking in and tampering with my power
+previously. All that is computerized these days after all. I know they
+hacked sirius xm radio because they made that one about as obvious as them
+hacking rocky mountain power. Plus they couldn’t access my location through
+sirius xm without having direct access to their backend logic. I strongly
+suspect they’ve also hacked various police agencies. Just based on what
+transpired previously with my brother social engineering them, and based on
+the attackers’ ability to know whenever any of them are getting
+investigated or not. I know for a fact they hack businesses all over this
+country–because I’ve seen it first hand. I know for a fact that they hack
+universities all over this country–because again, I’ve seen it first hand
+as part of my profession. What else? Church’s, media, congress, organized
+crime. As for church’s, I don't know if they’ve hacked them or just
+infiltrated them using dark money or what but it’s all part of their bigger
+effort to silently defeat us from within. Our media, some of them are
+extremely biased and divisive or else pro Russia these days, all they would
+have had to do is use the same tactics on our media as they do on our
+businesses to gain some level of control over them essentially. (Exploit
+capitalism, nobody wants to take a huge hit to their bottom line by going
+public with the fact that they’ve been hacked and all their customer’s data
+is potentially now in harm’s way–especially given the level of
+sophistication of the hacking–it’s comparable to the NSA) As for congress,
+I mean there’s been some strange acting congress members recently is all
+I’m saying–on the right and on the left. Russia doesn’t like one or the
+other–they infiltrate both and try and cause divisions. I don’t know for
+sure but them corrupting some of our congress members is definitely
+plausible if you ask me. All they got to do is hack them and monitor for
+anything they could use against them that would be embarrassing to them and
+then once found, begin pulling that embarrassing thing up on their phone at
+odd times, etc, to let them know they are indeed hacked and the hackers are
+essentially threatening them. A lot of people won’t take that to the
+police, especially if what the hackers found is indeed embarrassing or
+could otherwise get them in trouble. Then the hackers just use similar
+“signals” whenever they want them to behave a certain way. For instance,
+maybe later the person is reading a news article on their phone about
+Ukraine, all they have to do is start wigging their phone out at certain
+key points or provide other timely signals that are learned over time–and
+that my friends is how Vladimir Putin and Xi Jingping have managed to
+corrupt our society and exploit our law and order in an almost impossible
+to prove manner from within. And each piece of infrastructure they hack
+they use it to amplify their ability to take over the rest. That’s part of
+why hacking is so powerful. That doesn’t even get into how they
+strategically create/exploit conflicts of interest and control the
+interconnected society as a whole from afar, nor does it get into their
+mass social media psychological manipulation efforts, etc, etc. (What they
+are doing is honestly impressive but scary as hell)
 
 I wish one of these guys would come forward and do what they know is in the
 best interest of our country. All Putin’s terrorism scares everyone into
@@ -8879,6 +8883,127 @@ understanding of ourselves and our adversaries and realize we are all in
 this together.
 
 Have a good day! Don’t forget about Turbo btw.
+
+
+As of March 7, 2022
+
+If anyone from our government is reading this. You should check on the
+flight path of one of our military’s most sophisticated jet airplanes
+around 5:40am this morning in Nibley, UT and check whether or not they
+hovered over my house located at 2981 Stonebridge Dr. Nibley UT, 84321, and
+whether or not they used directed energy weapons against their own people
+above my north east bedroom. Because there was one hovering over my house
+around that time and my immediate surroundings started heating up like
+quite a bit, including my innards, and there was a bunch of static out of
+nowhere. I hadn’t heard the jet come in I could just tell this latest
+energy beam was clearly coming from above and it was clearly intense as
+hell and it was clearly heating everything around, so I started flipping
+them off and that’s when I heard what sounded like one of the jets I
+recorded previously move away, after I started flipping it off to get them
+to realize I had been woken up and to get them to realize I was on to them.
+
+But yea, I had no idea all this was really this bad. I mean I heard rumors
+about our military turning on our government. But I had no idea they are
+legit going rogue all over some big lie spread by a Russian asset in my
+opinon and I have no clue as to why the new norm in this world appears to
+become a traitor against your own fucking country—at least around here it
+seems at times. I didn’t even realize that our adversaries could fuck up
+our country so quickly using psychology and exploiting conflicts of
+interest and using their various foreign assets and exploiting social media
+like they have apparently now done—and I realized more than most. But yea,
+you might want to check on that jet plane but it’s honestly up to you. Just
+sayin.
+
+I don’t know where you live but things have definitely changed in the
+heavily Republican leaning areas from what I gather. It’s as if the
+Russians have infiltrated/corrupted quite a bit of our society in my view
+sadly. Imagine if you truly believed the last election were rigged. Imagine
+what you might be okay with that you wouldn’t otherwise be okay with if
+that were the case. Now imagine what that means for our country’s stability
+and security. There was a reason no President in our history had ever
+alleged that the election were stolen from them nor refused to concede even
+if it were true, like in the case of bush vs gore in I think 2000 which was
+an actual really close election that came down to one questionable state of
+Florida. Gore did the right thing for the sake of our country though and
+conceded. I can’t believe Trump did what he did tbh—well I can believe it
+actually but I can’t believe so many people actually believed it. That’s
+psychology for you tho I guess—so I can believe it. All just cuz “well he’s
+sure a hell of a lot better than the other option” mentality. I feel like
+I’ve gone back to jr high school or something sometimes with our politics.
+The biggest problem is Trump essentially acted as a really bad example for
+all others to follow, and that bad example happens to be one that leads our
+country to significant pain and suffering in the future if everyone were to
+do as he does—and that’s what’s happening sadly.
+
+I mean these attackers wouldn’t be trying to give me cancer and all this
+other stuff if I were wrong about them mind you. Now we just have to live
+with the fucking consequences as a nation I guess. Dark times ahead for all
+of us if you ask me—Russia and China aren’t going to just give any of our
+people first dibs on anything either btw—they’ll likely give their own
+citizens first dibs on everything including their allies’ citizens. Meaning
+it’s in everybody’s best interest to be real about what the fuck is going
+on with our country and to help our country get back to normal.
+
+I had no idea so little people would actually be willing to step up and do
+what’s right for our country when it truly matters; I’ll admit, I didn’t
+count on so little people being willing to stick their neck out to try and
+make the future a better place for all of us nor did I ever receive any
+real warning from anybody around here about what it truly was I might be
+going up against here. (Even though I got a sense some of them already knew
+themselves) Whoever takes the side of the Russians over working shit out at
+home is honestly taking the side of multiple serial killers, my brother
+included—just fyi. I get some people believe in Qanon and whatnot but did
+you know Putin has actually been accused of being a child molester himself
+by one of his own kgb judges? The irony.
+
+The other issue is Russia and China have strategically set this all up to
+where they completely side step our government/military and go straight
+after the civilians themselves for a reason. I mean, do you blame them?
+It’s smart. Then all the citizens either are light years behind, they’ve
+already been corrupted or drank the mind control juice, and/or a lot of the
+people who do realize there is definitely something going on just sit back
+and say well idk, that’s the government's job. And all our adversaries do
+is exploit vulnerabilities left and right all over the ducking place and
+you just can’t have that attitude if you want your grandchildren to be able
+to have the luxuries you were afforded as a child. Because America is ran
+by the people. That’s my take on it anyways—I’ll admit I’m a little heated
+right now—like literally. I feel like I have a sunburn now and that jet
+beam was only over me for like 30-45 secs tops from what I could tell–it
+got hot quick.
+
+I don’t know where to even start with how to fix all this tbh. Putin and Xi
+do have an advantage whereas they don’t have to worry about another
+election every 2-4 years. But then again Putin is evil as hell and I simply
+have a hard time figuring out how a religious town like this can end up
+siding with a major adversary of ours who happens to be one of the most
+nortorious killers around, big lie or no big lie, even tho it’s clearly in
+everyone’s best interest to come together and stop engaging in disunity and
+isolationism. We have bigger and better shit to worry about—I assure you.
+Republicans will have another chance as well–it has been switching parties
+back and forth since our country’s inception after all.
+
+The jet that hovered over my house just barely was this same model as this
+one I took a video of a while ago from what I could tell:
+
+https://drive.google.com/file/d/1m6FP5TxyTGLC90Cy588QEo5Ky6Qh8yGA/view?usp=sharing
+
+I’m ready to get out of here.
+
+P.s. Want to know who falls for reflexive control theory every damn time?
+Russia and my brother. You can guarantee if we start being more aggressive
+to them they will be more aggressive back every time no matter what. And
+therefore their behavior is predictable and therefore their behavior is
+exploitable. (That’s literally how they think about everything btw–how can
+I exploit one or more vulnerabilities given the latest circumstances? I
+swear their whole military operation is run by hackers these days–not to
+mention Putin used to be a kgb spy against countries in the UK himself–and
+spies think much the same way as hackers–it makes it so you either have to
+constantly be plugging holes or else you got to start giving them something
+to worry about so they don’t spend all their time trying to exploit
+vulnerabilities against you themselves)
+
+I’m not going to sue anyone besides maybe my brother btw. So just throwing
+that out there. I just want our country back to normal tbh.
 
 Chase Gibbons  / Manager
 435-999-4722
