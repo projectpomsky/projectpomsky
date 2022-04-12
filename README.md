@@ -1807,6 +1807,7 @@ https://drive.google.com/open?id=0BzNNDYI4WhqOd01DVUtaVHJqNXBwSmY5MWtWMnc3NzFGZj
 
 I accuse Dusty of killing Karie and our father for Cindy, just as a test.
 
+​​
 https://drive.google.com/open?id=1CJeKQGAaOorMTJEFbv6JeF1gCsungg\_b&disco=AAAATkeKcKw
 
 
@@ -6928,9 +6929,12 @@ above ips might have even been somebody’s home ips tbh, as shown in the
 video I shared yesterday. How I got this was by doing what they call “Arp
 Poisoning” using a new program I found. Essentially you trick all the
 devices on the network to think you are the router and so that all the
-requests begin to go through you from all the devices on the network. But
-in this case, 10.0.0.202 was actually my local ip address to my computer
-that I was monitoring.
+requests begin to go through you from all the devices on the network.
+That’s also how they do man in the middle attacks I guess. It’s easy to do
+once you know what program/command to run if you are on the same network
+come to find out. In the following screenshot, 10.0.0.202 is actually my
+local ip address to my computer that all those strange ips were funneling a
+bunch of strange requests on a single port through.
 
 Incase you didn’t notice I’ve been learning to hack a little myself lately
 just so I can get in the mindset of a hacker. Well I already know the
@@ -6938,11 +6942,11 @@ mindset of a hacker–they literally always constantly look for how they can
 exploit vulnerabilities in anything and everything. But all I’m saying is I
 just figured the best way to know how to stop a hacker is if you are a
 hacker yourself–that’s the best way I can stay anonymous going forward
-if/when I leave too. They call hacking for good a white-hat hacker.
-Conversely, what these guys are doing is black-hat hacking–they are even
-darker than black-hat hackers I’d argue–maybe even terrorists or
+if/when I leave too. They call hacking for good, they call that a white-hat
+hacker. Conversely, what these guys are doing is black-hat hacking–they are
+even darker than black-hat hackers I’d argue–maybe even terrorists or
 government-sponsored hackers. (Hired or directed by my brother somehow–see
-figure to the left for more info on different types of hackers) But yea, I
+nearby picture for more info on the different types of hackers) But yea, I
 think my plan of learning hacking is already paying dividends tbh..
 
 
@@ -7000,6 +7004,13 @@ and it’s completely and totally fucked up–that’s all I know for sure. I
 wish someone would stand up to my brother and get him to call it off.
 Nobody deserves to be put through all of this–I don’t care wtf they may
 think I did to them–it’s fucked up.
+
+All I’m saying is if my bro really is working with Russians to kill me as I
+now suspect, then what the hell am I supposed to do? This could get out of
+hand quick especially if he starts doing this to others too.
+
+
+-- 
 
 Chase Gibbons  / Manager
 435-999-4722
