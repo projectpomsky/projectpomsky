@@ -8348,7 +8348,7 @@ security lately as well for the same reasons—to try and protect myself.
 As of February 28, 2022
 
 Added outline to top of file. Sorry I should have added that sooner, I set
-everything up so I could but never went back and actually did it.
+everything up so I could but never went back and actually did it until now.
 
 I think they got to my vape juice again ever since dusty got back, they
 even lit off some small fireworks during the middle of the night last night
@@ -8453,9 +8453,12 @@ more than one person to stand up to evil to defeat it)
 
 Putin is just going to be even stronger next round too—well I guess we will
 have to wait and see. But I think that’s what he’s banking on personally.
-They always think 2-3 steps ahead without fail.
-
-
+They always think 2-3 steps ahead without fail. I have even picked up on
+them first setting up a pretext for whatever they are about to do, like
+Putin tried to do with Ukraine, then they’ll do like like this
+reverse-reverse psychology based on reactive control theory or
+whatever—i.e. they use super complex Jedi mind trick tactics all based on
+psychology and manipulation.
 -- 
 
 Chase Gibbons  / Manager
