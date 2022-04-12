@@ -11532,10 +11532,10 @@ them in my safe.
 
 Imagine brushing your teeth and having it hurt your teeth more than it
 helps. This one has a direct link back to my brother–he was accusing my mom
-of this but in reality he was telling me what he was going to do to me come
-to find out. This one is meant to get me not to brush my teeth or else face
-potential tooth loss if I do. (Unless I buy brand new sealed toothpaste and
-toothbrush each time which I’ve been trying to do)
+of something similar but in reality he was telling me what he was going to
+do to me come to find out. This one is meant to get me not to brush my
+teeth or else face potential tooth loss if I do. (Unless I buy brand new
+sealed toothpaste and toothbrush each time which I’ve been trying to do)
 
 Imagine putting everything in your brand new 3rd safe you just bought. Safe
 right? Wrong. They use their tunnel to get in and take a picture of my keys
@@ -11596,19 +11596,19 @@ poison shit on the sound proof foam to where if I fall asleep surrounded in
 sound proof foam then I’ll wake up with this strange substance on my hands
 and arms and on any exposed skin essentially, which can give me hives as
 well. I’ve got to make sure they can’t access anything of value like my
-prescriptions, vape juice, etc, etc, while I’m asleep I’ve got to try and
+prescriptions, vape juice, etc, etc, while I’m asleep, I’ve got to try and
 make sure they can’t make me sleep indefinitely nor keep me awake by
 protecting myself sufficiently. I’ve got to make sure my home security
 alarm is on and not hacked so they don’t tamper with other parts of my
-house while I’m asleep. Lately they’ve even been triggering it
-intentionally to make it so it actually frustrates the police. I’ve got to
-make sure my regular alarm clocks are on and not connected to the internet
-otherwise they can just disable them through all their hacking while I’m
-asleep. I’ve got to make sure they haven’t added any new hardware to
-anything which doesn’t connect to the internet by default which makes it so
-it is connected to the internet for their tampering. I’ve got to make sure
-I block all air gaps that sound can travel through without suffocating
-myself, etc, etc.
+house while I’m asleep. Lately they’ve even been triggering my home
+security system intentionally to make it so it actually frustrates the
+police. I’ve got to make sure my regular alarm clocks are on and not
+connected to the internet otherwise they can just disable them through all
+their hacking while I’m asleep. I’ve got to make sure they haven’t added
+any new hardware to anything which doesn’t connect to the internet by
+default which makes it so it is connected to the internet for their
+tampering. I’ve got to make sure I block all air gaps that sound can travel
+through without suffocating myself, etc, etc.
 
 Imagine the prospect of getting a new place to get away from their tunnel,
 etc. No big deal right? Wrong. Huge freaking deal. For one they are all
@@ -11644,7 +11644,7 @@ weed in my home likely due to some gas or some capability they added to my
 furnace previously. It was meant as a false flag in that case. So what I’m
 getting at is they never make it simple or straightforward–they always
 deliberately make it look like it’s someone it’s not when in reality everyone
-is in on it whether they realize it or not but they only know their part.
+is in on it whether they realize it or not but they all only know their part.
 (Besides the hackers–the hackers know everything)
 
 I am confident they have a tunnel btw, I’m going to be renting out a ground
@@ -11661,23 +11661,25 @@ real quick—but even then all my phones are hacked so they can still
 technically get passed it.
 
 It’s all designed to discredit me. From keeping me up at nights to making
-me sleep forever when I do sleep to making it a bad experience for me to
-shower to making me afraid to brush my teeth to making it a bad experience
-for me to use the restroom to making it difficult for me to do literally
-anything to all their false flag operations and continuous evolutions, etc,
-etc. They are extremely serious about discrediting me. I’m surprised they
-haven’t discredited me more than they have tbh. They actually haven’t
-really succeeded in discrediting me at all thus far. But they try that’s
-for damn sure.
+me sleep forever when I do sleep even if I’m not tired to making it a bad
+experience for me to shower to making me afraid to brush my teeth to making
+it a bad experience for me to use the restroom to making it difficult for
+me to do literally anything to all their false flag operations and
+continuous evolutions, etc, etc. They are extremely serious about
+discrediting me. I’m surprised they haven’t discredited me more than they
+have tbh. They actually haven’t really succeeded in discrediting me at all
+thus far. But they try that’s for damn sure.
 
 I could go on btw. But just know this is just the gist of it. The three
 critical pieces to enable them to do all this is all their hacking, their
-tunnel, and their microchips. If i can counter any one of those things it
-would honestly make all of the difference. I hope Russia hacks us tbh. Then
-maybe we’ll start taking hacking more seriously. Regardless–from now on we
-need to keep hacking Russia and other adversaries ourselves. Worst case
-we’ll just come across some of their secret weapons and we will be better
-for it.
+tunnel, and their microchips–oh and all the Russian proxies/their use of
+psychology. If i can counter any one of those things it would honestly make
+all of the difference.
+
+I hope Russia hacks us tbh. Then maybe we’ll start taking hacking more
+seriously. Regardless–from now on we need to keep hacking Russia and other
+adversaries ourselves either way. Worst case we’ll just come across some of
+their secret weapons and we will be better for it.
 
 P.s. The hackers are the only ones who know literally everything–everyone
 else seems to only know their part in it and that seems deliberate. All you
@@ -11694,6 +11696,8 @@ of my family charges if nothing else. He's also likely critical to both the
 nanotechnology and infrasound/ultrasound. I don't even want to know how
 many people he's murdered or manipulated others into murdering at this
 point tbh.
+
+
 
 Chase Gibbons  / Manager
 435-999-4722
