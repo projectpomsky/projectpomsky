@@ -10070,39 +10070,55 @@ our allies’ countries and it’s about democracy itself. I just don’t want t
 see us continue making the same mistakes nor get defeated is all. In a way,
 we all rise and fall together.
 
-I have since changed my mind on intervening in Ukraine with the jets. See
-this video:
+I have since changed my mind on intervening in Ukraine with the jets for
+now, idk it’s a tough one. I just worry our adversaries might be trying to
+bait us into war given our inflation is already a little high in an attempt
+to defeat us. See this video:
 
 👇👇👇🤙
 
 https://www.youtube.com/watch?v=xguam0TKMw8
 
 Someone should show Trump supporters this video. It’s clear if we get along
-we are a lot less likely to have anyone challenge us. Biden needs to work
-on the inflation part of it as well.
+we are a lot less likely to have anyone challenge us. Ukraine has helped a
+ton–we owe them big time. Biden needs to work on the inflation part of it
+as well.
 
 We need to watch inflation closely to avoid falling out of our dominating
-status and we need to avoid getting involved in wars to avoid another
-rising super power from taking us out. It’s as if the adversaries are
-following this exact video only in attempting to use it against us to
-defeat us. And plus it’s clear you guys are playing the long game which is
-smart–your strategy really is the smartest strategy after all–the sanctions
-will most definitely get to Russia over time without really even risking
-ourselves. How that works exactly when countries like Russia are
+status and we need to avoid getting involved in wars if at all possible to
+avoid another rising super power from taking us out–but it really is a
+balance. There are pros and cons both ways. At least now we are united.
+It’s as if our adversaries are following that exact video only in
+attempting to use it against us to defeat us. And I worry about the entire
+free world if they succeed. Plus it’s clear you guys are playing the long
+game which is smart–your strategy really is the smartest strategy after
+all–the sanctions will most definitely get to Russia over time without too
+much risk . How that works exactly when countries like Russia are
 essentially taunting you and your citizens constantly–idk–but I’m sure all
 the sanctions will help. There’s plenty of ways to get creative to get them
 to stop without causing a full blown war however I now feel. Some
 sacrifices will likely have to be made but it’s all for the greater good,
-and that is okay with me I feel. In a way this was another trap cuz we
+and that is okay with me I guess, specifically referring to the fact that
+i’ll likely be a sacrifice myself. In a way this was another trap cuz we
 cannot fight another world war right next to Russia and China, so I’ll
-admit I was most definitely wrong on that one. It really is a battle of
+admit I was probably wrong on that one just due to a lack of context about
+how super powers fall, and a lack of thinking about the consequences to all
+our democracies if that were to really happen. It really is a battle of
 good vs evil.
 
 Ukraine is doing pretty darn well without the fighter jets all else
-considered. No use giving them jets and risking starting another world war.
-However I will say–we should condition Russia to talk to us diplomatically
-rather than constantly sending us “signals”. The “signals” are complete bs
-tbh. Talk to our faces and quit being scared. Just sayin.
+considered. I can see why you don’t want to give them jets and risk
+starting another world war. However I will say–we should definitely do
+everything we possibly can for them and we should keep checking up on them
+daily. (These guys keep changing what I write when I’m away to try and make
+me look cold hearted–when in reality–I want nothing more than to help
+Ukraine out–as stated previously–it's just we have got to find another way
+I guess–world war isn’t in the best interest of anybody–and russia and
+china seriously might be trying to do just that RIGHT NOW)
+
+We should most definitely condition Russia to talk to us diplomatically
+rather than constantly sending us “signals” tho. The “signals” are complete
+bs tbh. Talk to our faces and quit being scared. Just sayin.
 
 Again just wishful thinking on my part that we will ever be able to truly
 stop Putin’s mafia’s aggressions. So my apologies for my having a lack of
@@ -10117,7 +10133,8 @@ that I am extremely honest. I say what I think at the time for the most
 part. Some of it is right, some of it is wrong, but the overall theme of
 what I say is normally at least pointed in the right direction especially
 if I’ve maintained the same viewpoint overtime, and I really do just want
-to try and do what’s best for both my family and my country.
+to try and do what’s best for both my family and my country and Ukraine and
+everyone else that’s not trying to undermine us.
 
 We really are all in this together as democracies anyways. Like Putin has
 been undermining all of our democracies in similar ways, and while it may
@@ -10177,19 +10194,19 @@ of this because for one, I realized the timing of when Dusty went missing
 previously, it was right after I called him out for essentially flipping
 his political affiliation right when he started coming after me. If this
 really is/was their goal then that would make sense because they know that
-as soon as you know my brother is playing you in regards to his political
-affiliation then that would be counterproductive to what they are trying to
-do. And they realize that no republican is going to be convinced of a
-socialist communist from another socialist–particularly another socialist
-in their same country. In addition, it fits in the sense of my family’s
-past history and just the notoriety of it all. It makes it so they could
-try and manipulate a large audience into losing faith in things like our
-freedom from search and seizure, our right to stay silent, our democracy in
-general, etc, etc–all at once. It also fits in that I think that’s what
-they were trying to do when somebody I suspect shared this very file/folder
-with Ukraine tbh. Now that’s some psychology for you. That’s the level of
-psychological manipulation I’m dealing with and trying to decipher here,
-it’s not easy.
+as soon as you fellow republicans know my brother is playing you in regards
+to his political affiliation then that would be counterproductive to what
+they are trying to do. And they realize that no republican is going to be
+convinced of a socialist communist from another socialist–particularly
+another socialist in their same country. In addition, it fits in the sense
+of my family’s past history and just the notoriety of it all. It makes it
+so they could try and manipulate a large audience into losing faith in
+things like our freedom from search and seizure, our right to stay silent,
+our democracy in general, etc, etc–all at once. It also fits in that I
+think that’s what they were trying to do when somebody I suspect shared
+this very file/folder with Ukraine tbh. Now that’s some psychology for you.
+That’s the level of psychological manipulation I’m dealing with and trying
+to decipher here, it’s not easy.
 
 I specifically recall them being touchy about both any remarks about
 political affiliation and the time I said I prayed–which I did pray and I
@@ -10225,7 +10242,7 @@ brother. So it’s not impossible in a democracy to do things like that I
 don’t think if they can do it.
 
 I’ll admit, I can do a better job myself at not feeding into this potential
-frustration with the rule oof law narrative myself, I always get caught in
+frustration with the rule of law narrative myself, I always get caught in
 their damn traps tbh—not intentionally but just because they have such an
 advantage over me and because they switch up their false flags behavior
 from their real meaningful behavior constantly. One time they will act like
@@ -10280,16 +10297,19 @@ fyi.
 Allies, Putin is closing off his internet for a reason, all of us
 democracies need to take some cues from Putin in that regard. Putin
 protects his internet cuz he knows just how effective a tool it is to
-undermine other people’s countries.
+undermine other people’s countries. China’s internet is harder to target as
+well on social media as compared to other western societies–and China does
+it for a reason because they know how effective it is too.
 
 I get the sense Russia is doing this on behalf of China btw. Like it was
 meant to be some kind of trap or something. When you think about it from
 Putin’s perspective, knowing what I know now, Putin must have seen this as
-a win-win. Either they get us involved in WWIII right next to both Russia
-and China while we are already facing inflation, or else they get Zelensky
-to turn communist and potentially bring some of our allies with him; or
-else they undermine Joe Biden with his constituents and completely shatter
-the world by being so evil and completely crushing Ukraine. That explains
+a win-win. 1. Either they get all of us involved in WWIII right next to
+both Russia and China while we are already facing some inflation and aren’t
+ideally positioned ourselves, or else 2. they get Zelensky to turn
+communist and potentially bring some of our allies with him; or else 3.
+they undermine Joe Biden with his constituents and completely shatter the
+whole world by being so evil and completely crushing Ukraine. That explains
 why Putin did it now to me a little better, but it’s still like wtf
 dude–get some help Putin. Like I swear. Then I assume just like in any
 dictatorship, it would have put Russia in China’s good graces as an
@@ -10301,7 +10321,17 @@ that way for a reason–staging shit and putting on shows with real ppls
 lives only to manipulate other ppl into getting what you want all for your
 own selfish reasons and causing a damn world war just for the hell of it.
 It’s like god damn, go get some counseling already or something.
-What their tunnel sounds like
+
+This is not easy. We should get Ukraine a boat load of stuff including new
+more advanced anti aircraft weapons or drones while we still can. Drones
+would be cool cuz then it’s like okay Russia, you can shoot them down if
+you want lol–if you can catch us flying 'em in there. ;) But no foreal–we
+have got to have a plan for if/when Kiev gets cut of by Russia. Me
+personally–I’ve been messing China lately whereas they are like the parents
+funding the whole ordeal. Make sure we check on them daily as I
+said–please. We are all in this together and I still mean what i said
+previously about the jets now I am just a little more unsure is all.
+What their tunnel in my house sounds like
 
 [reference goes here]
 
@@ -10317,6 +10347,15 @@ doesn’t necessarily even require wifi. But even still they can crack the
 underlying encryption signature after they receive enough samples–and once
 they do that then there’s no real way to get the simplisafe to change it’s
 underlying signatures unless you buy a new one.
+
+Anonymous Video I’ve Been Working On in Support of Ukraine
+
+[reference goes here]
+
+I’ve been trying to use psychology to get to their heads lol. I know Russia
+is into space and whatnot. So I made it appear as though aliens are on our
+side. Still a work in progress..
+
 
 Chase Gibbons  / Manager
 435-999-4722
