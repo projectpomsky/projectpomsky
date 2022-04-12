@@ -8787,43 +8787,44 @@ power. Plus they couldn’t access my location through sirius xm without
 having direct access to their backend logic. I strongly suspect they’ve
 also hacked various police agencies. Just based on what transpired
 previously with my brother social engineering them, and based on the
-attacker’s ability to know whenever any of them are getting investigated or
+attackers’ ability to know whenever any of them are getting investigated or
 not. I know for a fact they hack businesses all over this country–because
 I’ve seen it first hand. I know for a fact that they hack universities all
 over this country–because again, I’ve seen it first hand as part of my
 profession. What else? Church’s, media, congress, organized crime. As for
 church’s, I don't know if they’ve hacked them or just infiltrated them or
 what but it’s all part of their bigger effort to silently defeat us from
-within. Our media, some of them are extremely biased and pro Russia these
-days, all they would have had to do is use the same tactics on our media as
-they do on our businesses to gain some level of control over them
-essentially. (Exploit capitalism, nobody wants to take a huge hit to their
-bottom line by going public with the fact that they’ve been hacked and all
-their customer’s data is potentially now in harm’s way) As for congress, I
-mean there’s been some strange acting congress members recently is all I’m
-saying. On the right and on the left. Russia doesn’t like one or the
-other–they infiltrate both and try and cause divisions. I don’t know for
-sure but them corrupting some of our congress members is definitely
-plausible if you ask me. All they got to do is hack them and monitor for
-anything they could use against them that would be embarrassing to them and
-then once found, begin pulling that embarrassing thing up on their phone at
-odd times, etc, to let them know they are indeed hacked and the hackers are
-essentially threatening them. A lot of people won’t take that to the
-police, especially if what the hackers found is indeed embarrassing or
-could otherwise get them in trouble. Then the hackers just use similar
-“signals” whenever they want them to behave a certain way. For instance,
-maybe later the person is reading a news article on their phone about
-Ukraine, all they have to do is start wigging their phone out at certain
-key points or provide other timely signals that are learned over time–and
-that my friends is how Vladimir Putin and Xi Jingping have managed to
-corrupt our society and exploit our law and order in an almost impossible
-to prove manner from within. And each piece of infrastructure they hack
-they use it to amplify their ability to take over the rest. That’s part of
-why hacking is so powerful. That doesn’t even get into how they
-strategically create/exploit conflicts of interest and control the
-interconnected society as a whole from afar, nor does it get into their
-mass social media psychological manipulation efforts, etc, etc. (What they
-are doing is honestly impressive but scary as hell)
+within. Our media, some of them are extremely biased and divisive or else
+pro Russia these days, all they would have had to do is use the same
+tactics on our media as they do on our businesses to gain some level of
+control over them essentially. (Exploit capitalism, nobody wants to take a
+huge hit to their bottom line by going public with the fact that they’ve
+been hacked and all their customer’s data is potentially now in harm’s
+way–especially given the level of sophistication of the hacking–it’s
+comparable to the NSA) As for congress, I mean there’s been some strange
+acting congress members recently is all I’m saying–on the right and on the
+left. Russia doesn’t like one or the other–they infiltrate both and try and
+cause divisions. I don’t know for sure but them corrupting some of our
+congress members is definitely plausible if you ask me. All they got to do
+is hack them and monitor for anything they could use against them that
+would be embarrassing to them and then once found, begin pulling that
+embarrassing thing up on their phone at odd times, etc, to let them know
+they are indeed hacked and the hackers are essentially threatening them. A
+lot of people won’t take that to the police, especially if what the hackers
+found is indeed embarrassing or could otherwise get them in trouble. Then
+the hackers just use similar “signals” whenever they want them to behave a
+certain way. For instance, maybe later the person is reading a news article
+on their phone about Ukraine, all they have to do is start wigging their
+phone out at certain key points or provide other timely signals that are
+learned over time–and that my friends is how Vladimir Putin and Xi Jingping
+have managed to corrupt our society and exploit our law and order in an
+almost impossible to prove manner from within. And each piece of
+infrastructure they hack they use it to amplify their ability to take over
+the rest. That’s part of why hacking is so powerful. That doesn’t even get
+into how they strategically create/exploit conflicts of interest and
+control the interconnected society as a whole from afar, nor does it get
+into their mass social media psychological manipulation efforts, etc, etc.
+(What they are doing is honestly impressive but scary as hell)
 
 I wish one of these guys would come forward and do what they know is in the
 best interest of our country. All Putin’s terrorism scares everyone into
