@@ -527,6 +527,9 @@ As of April 8, 2022
 My Own Personal Trust’s New Amendment
 
 
+Busted For Changing What I Wrote Just Barely
+
+
 
 
 README
@@ -12549,40 +12552,69 @@ https://drive.google.com/drive/folders/1-YJGVw4Lj462hNF92ntszSPOM5rPTgL-?usp=sha
 
 Busted For Changing What I Wrote Just Barely
 
-K so I just caught them deleting part of what I had originally wrote. I
+K so I just caught them deleting part of what I had originally written. I
 essentially stated that Dusty has essentially poisoned me 50 or more times
-now. And I went on to say that Dusty has got to have access to like a
-Russian biolab or something just given how they always evolve the method of
-delivery and the poison itself based on their latest intel. So yea, I’m
-accusing Dusty and therefore Russia of using bioweapons right here in the
-United States and they didn’t seem to like that. But the only reason they
-wouldn’t like that is because it is the truth. The facts are no person just
-buying something off the dark web could have the sheer variety of poisons
-they’ve used against me their disposal, and they for damn sure wouldn’t be
-able to tweak the delivery or base substance time and time again. Like most
-recently they tweaked it to make it work through just simple exposure when
-injected into my houses water pipes somewhere when I took a bath. And YES I
+now. And I went on to say that Dusty has got to have direct access to like
+a Russian biolab or something just given how they always evolve the method
+of delivery of their poisons and their poisons themselves based on their
+latest intel. So yea, I’m accusing Dusty and Russia of using bioweapons
+right here in the United States and they didn’t seem to like that, so they
+deleted that part of what I wrote and in proofreading it again one more
+time after a small break, I caught the fact that that part was now missing.
+But the only reason they wouldn’t like that part is because it is the truth
+and they are scared how it might impact them. The facts are no person just
+buying something off the dark web could ever have the sheer variety of
+poisons they’ve used against me at their disposal, and they for damn sure
+wouldn’t be able to tweak the delivery method or base substance used within
+the poison time and time again. Like most recently they tweaked it to make
+it work through just simple exposure when injected into my house's water
+pipes somewhere and so it would get on me and stay on me whenever I took a
+bath. (Like that has got to be some serious chemistry involved) And YES I
 am indeed now 100 percent confident it was my bath water that was giving me
-hives for weeks previously. And just like a few more quick examples, they
+hives for weeks recently btw. And just like a few more quick examples, they
 got poisons that are seemingly meant to kill fastly, they got poisons that
-are seemingly meant to kill slowly or give people cancer, and they even
-changed out the delivery base substance previously when they found out I
-was able to wash it off with rubbing alcohol. They changed it to no longer
-was off with rubbing alcohol. I will not say how I ended up getting that
-one off to prevent another iteration at this time. But yea, Dusty totally
-has seemingly direct access to a biolab of some form meant to create
-poisons for purposes of killing people. I no longer believe he is just
-getting this shit off the dark web. As you have seen throughout this
-journey, if you have read along, I now fully believe Dusty is indeed
-working with Russia and I believe he is funded by a Russian oligarch with
-his main objective being to destabilize this local region of our country
-from within.
+are seemingly meant to kill slowly or give people cancer, they got poisons
+that are seemingly meant to discredit people like by causing all these
+strange abscesses before I stopped drinking my water and they even changed
+out the delivery base substance numerous times previously like when they
+found out I was able to actually wash their poison off with rubbing alcohol
+previously. They legit changed the base of the poison out to no longer wash
+off with rubbing alcohol. I will not say how I ended up getting that
+particular variation off at this time, just to prevent another iteration of
+it. But yea, hopefully you get my point. Dusty totally has seemingly direct
+access to some biolab of some form meant to create poisons for purposes of
+killing people and they are using those poisons right here in Logan, UT. To
+be clear, I no longer believe my brother is just getting this shit off the
+dark web. As you have seen throughout this journey, if you have read along,
+I now fully believe Dusty is indeed working with Russia and/or China and I
+believe he is likely funded by a Russian oligarch with his main objective
+being to destabilize this local region of our country from within. But I am
+fairly confident he has direct ties to the Russian intelligence services.
 
-I also had stated something about how I need to get a yearly check-up given
-all the poisons they’ve subjected me to, and that I was honestly surprised
-that my body has held up for this long given they have now poisoned me
-literally over 50 separate times in one form or another.. (Again--not even
-exagerating--likely closer to 100 tbh--50 is a conservative estimate)
+I also had stated something just barely that they deleted about how I
+probably need to get a yearly check-up soon just given all the poisons
+they’ve subjected me to and continued to subject me to overtime, and that I
+was honestly surprised that my body has held up for this long just given
+how they have now poisoned me literally over 50 separate times in one form
+or another.. (Whether it be on a door knob, on multiple door knobs, in my
+car on my shifter, in my car on my arm rest, on my car’s door open handle,
+in my car on the steering wheel itself, directly on my dog previously,
+directly seemingly injected into my dog previously when at medvet, in my
+house within my shelter on the sheets, on my pillow case, on my sound
+proofing I surround myself with to try and stop their infrasound, on light
+switches, injected into my water pipes–that one they can deliver numerous
+different poisons overtime, etc, etc. And all that was just off the top of
+my head. Again--I’m not even exaggerating--they’ve likely poisoned me
+closer to 100 or more times tbh--50 is an extremely conservative estimate
+to say the least. It’s more like 50 times where it was immediately
+physiologically/psychologically disruptive to me.
+
+They are now playing the sounds of turbo suffering to me again as if to try
+and punish me for re-pointing out the fact that they seemingly have access
+to a biolab. And I didn’t even mention the numerous different types of
+gasses they have used..
+
+
 
 Chase Gibbons  / Manager
 435-999-4722
