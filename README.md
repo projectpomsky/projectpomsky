@@ -7007,9 +7007,35 @@ think I did to them–it’s fucked up.
 
 All I’m saying is if my bro really is working with Russians to kill me as I
 now suspect, then what the hell am I supposed to do? This could get out of
-hand quick especially if he starts doing this to others too.
+hand real quick especially if they start doing this to others too. Dusty
+even said something to me like the first week or two after he first started
+emf-ing me about how that was quick or something, asking me how I did that.
+(Implying he/they already got caught or something) Which just makes me
+wonder, like what if they already did catch him/them doing all this to me
+but it was just deemed top secret and/or a matter of national security or
+something so there’s nothing they could really even do? That seems like
+something my brother would do is set himself up to be almost impossible to
+stop too. Idk, it’s tough. I’m still confused about that Joseph Escobar cop
+I initially reported all the emf stuff to. I don’t know if he was from the
+fbi or what.
 
+You would think if they did already catch them and deemed it to be Russia
+tho then they could still do something about at least some of this
+regardless tho. Dusty saying that could have just been another episode of
+my brother playing with me and rubbing it in my face as well, idk, it’s
+hard to say forsure. If it were up to me I’d at least try and pursue any
+foreign agents/persons who hired the Russians who actually physically
+reside here in the states who are also responsible as well tho. (Persons
+like my brother)
 
+It’s so weird thinking that some foreign country can actually get away with
+brutally but slowly killing someone right in front of everyone when we
+aren’t even officially at war to begin with. And even stranger still is
+that unlucky person they are brutally and slowly killing happens to be
+me—not to mention the fact that the person who had to have initiated all of
+this had to have been my very own brother—all to cover for his suspected
+past murders. Surely there’s got to be some way for me to live a full life
+even still tho—regardless of how small a probability it actually is.
 -- 
 
 Chase Gibbons  / Manager
