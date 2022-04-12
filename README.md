@@ -1217,8 +1217,8 @@ Graduated from Logan High School.
 ~2008
 
 I started going to college in I think 2008, but I didn’t take it seriously
-at first and I ended up applying for a leave of absence going to work at
-icon instead. (Which showed me what life would be like if I didn’t get a
+at first and I ended up applying for a leave of absence and going to work
+at icon instead. (Which showed me what life would be like if I didn’t get a
 degree)
 
 ~2009
@@ -1227,12 +1227,12 @@ Dusty, my brother, (
 https://drive.google.com/file/d/16htiaOfvTWqNEHQNWD\_h4aIrhLKcB1dm/view?usp=sharing
 ) and Cindy, (
 https://drive.google.com/file/d/1HqEtatP91f-1UF0n6mgzEou4ShGlkJj4/view?usp=sharing
-) my stepmom, were always close. They would always stay up drinking alcohol
-at nighttimes together along with Cindy’s son Shawn. I’ve never been big
-into alcohol myself, I’d occasionally drink during parties or whatever,
-plus I was always hanging out with my girlfriend, Annie, all the time
-around this time myself, whenever I wasn’t working at the assembly line at
-icon.
+) my stepmom, were always close. They always had an inexplicable
+relationship in my mind. They would always stay up drinking alcohol at
+nighttimes together along with Cindy’s son Shawn. I’ve never been big into
+alcohol myself, I’d occasionally drink during parties or whatever, plus I
+was always hanging out with my girlfriend, Annie, all the time around this
+time myself, whenever I wasn’t working at the assembly line at icon.
 
 My father, Tim Gibbons, (
 https://drive.google.com/file/d/1eElmCgTJMhIZGUrNWuxHT6BjtmO0vbHd/view?usp=sharing
@@ -1247,21 +1247,21 @@ one of his big toes cut off.
 2010
 
 I hear from my father that Cindy, his wife at the time, may be divorcing
-him and that I needed to find another place to live. (Dusty as well)
+him and that Dusty and I needed to find another place to live.
 
 A little while after my father had to get his toe cut off, my brother Dusty
 (Aka Dustin, aka Baze) supposedly finds our dad unresponsive after
 returning from the gas station closeby. He finds our father laying in the
 middle of the hallway next to the piano where he supposedly proceeded to do
 CPR on him and call the paramedics. My father was on his way out the door
-to pick up my little sister, (half sister) Taylor, from the mall at the
-time. (
+to pick up my little sister, (half sister) Taylor, (
 https://drive.google.com/file/d/1QwC3FA8S1wsD7\_XoQW77Izx3nw0WBYh7/view?usp=sharing
-) My brother apparently called some of his friends right after. I don’t
-know if my brother was on the best terms with my father at the time. I know
-my brother held resentment towards my father for “making” him follow in his
-footsteps as a civil engineer. My brother was set to graduate with his
-bachelor’s in civil engineering a week later.
+) from the mall at the time when my dad apparently went down face first in
+the middle of the hallway. My brother apparently called some of his friends
+right after. I don’t know if my brother was on the best terms with my
+father at the time. I know my brother held resentment towards my father for
+“making” him follow in his footsteps as a civil engineer. My brother was
+set to graduate with his bachelor’s in civil engineering a week later.
 
 
 While in my bedroom downstairs with my girlfriend at the time, Annie, my
@@ -1300,40 +1300,40 @@ other all that much.
 
 ~2011
 
-My brother and Cindy quickly become displeased with Karie and the job she
-was doing as trustee--to say the least. (Cindy frustrated about Karie in
-relation to my little sister Taylor’s trust, Dusty frustrated about Karie
-in relation to his trust) To be clear, I had my frustrations with Karie,
-mostly just in their lack of transparency and their being a little shady
-trying to get us to sign something saying none of us could be trustee if
-she couldn’t serve previously, I had questioned their selling of all our
-dad’s assets previously, including their giving away our dad’s companies
-for next to nothing, but beyond that I actually always had a pretty decent
-relationship with Karie)
+My brother and Cindy quickly become displeased with Karie (
+https://drive.google.com/file/d/1v2Jetq8r9TDkU8EUR89IxZu69Qlj9NFW/view?usp=sharing
+) and the job she was doing as trustee--to say the least. (Cindy was
+frustrated about Karie in relation to my little sister Taylor’s trust,
+Dusty was frustrated about Karie in relation to his trust) To be clear, I
+had my frustrations with Karie, mostly just in their lack of transparency
+and their being a little shady trying to get us to sign something saying
+none of us could be trustee if she couldn’t serve previously, I had
+questioned their selling of all our dad’s assets previously, including
+their giving away our dad’s companies for next to nothing, but beyond that
+I actually always had a pretty decent relationship with Karie)
 
 I go back to college determined to take it more seriously this time. Karie
 does a good job at holding me accountable and ensuring I do well.
 
 2013
 
-I graduate from college with my bachelor’s degree in MIS. I essentially
-attribute a lot of my success to the fact that Karie let me go back to
-college and held me responsible for my grades this time. (Which my father
-never did, my father helped pay for my college beforehand but he never
-really held me to account for my grades previously, etc)
+I graduate from college with my bachelor’s degree in MIS. (Management
+Information Systems) I essentially attribute a lot of my success to the
+fact that Karie let me go back to college and held me responsible for my
+grades this time. (Which my father never did, my father helped pay for my
+college beforehand but he never really held me to account for my grades
+previously, etc)
 
 2015
 
-I received word from one of my friends at the time that my sister
-supposedly has cancer. At first i didn’t know which sister he was even
-referring to. And I’ll be honest, this friend wasn’t known to be the most
-credible person at the time. But once I found out he was referring to Karie
-and that his wife’s father actually worked with Raedell, who was Karie’s
-mother, I honestly didn’t know what to think. I brought it up to like Dusty
-and Taylor at the time but again, I didn’t know if it was true or not.
-
-I suspect this is when my brother first started using some kind of poison
-against me meant to discredit me.
+I received word from one of my friends at the time, Nick Poppleton, that my
+sister supposedly had cancer. At first i didn’t know which sister he was
+even referring to. And I’ll be honest, this friend wasn’t known to be the
+most credible person at the time. But once I found out he was referring to
+Karie and that his wife’s father actually worked with Raedell, who was
+Karie’s mother, I honestly didn’t know what to think. I brought it up to
+like Dusty and Taylor at the time but again, I didn’t know if it was true
+or not.
 
 Karie and the trust lawyer and Paul, the successor trustee accountant, had
 actually tried getting us all to sign something saying in the event Karie
@@ -1342,13 +1342,18 @@ they ever disclosed to us Karie was indeed quickly becoming
 incapacitated--which wasn’t very transparent at the time.
 
 I went from first kinda believing my friend to ultimately not believing him
-anymore, (because Karie had done a good job at keeping it all a secret)
-back to--holy shit my friend was telling the truth the whole time--when our
-trust finally told us Karie did in fact have cancer--non hodgkins lymphoma
-to be precise. (Which was odd given how Karie was the healthiest person I
-had ever met in my life--she was a personal trainer/physical therapist who
-ate all organics, etc--and I don’t think there was any family history of
-non hodgkin's lymphoma in either side of her family)
+anymore, (because Karie had done a good job at keeping it all a secret and
+that particular friend was known for making stuff up) back to--holy shit my
+friend was telling the truth the whole time--when our trust finally told us
+Karie did in fact have cancer--non hodgkins lymphoma to be precise. (Which
+was odd given how Karie was the healthiest person I had ever met in my
+life--she was a personal trainer/physical therapist who ate all organics,
+etc--and I don’t think there was any family history of non hodgkin's
+lymphoma in either side of her family)
+
+I suspect this is when my brother first started using some kind of
+something against me meant to discredit me--but I wouldn’t find out that
+was attributable to Dusty until much later..
 
 Not long later, that same friend who initially informed me of Karie not
 doing well called me and told me that Karie was on her deathbed at Logan
