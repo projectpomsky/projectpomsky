@@ -13139,16 +13139,16 @@ As of April 11, 2022Stayed in Hotel Powerful EMF From Right Next Door Last
 Night
 
 It was at the Days Inn at 447 N Main St, Logan, UT 84321•(435) 258-7470 on Apr
-10, 2022to Apr 11, 2022. I stayed in room 113. They rented out a room right
-next to me, (To the north of me) I believe they were in room 111 or 112.
-And yea–they EMF-d my brain from as close as they possibly could with as
-powerful an EMF as they possibly could while I slept and while I was trying
-to fall asleep–as usual–I assume trying to give me brain cancer. I’m pretty
-sure they had to have rented out an adjacent room tbh just given it was
-coming from a direction where only other rooms could have been the possible
-source. They will first try to keep me awake for as long as possible then
-they will do something like this when I am really really tired so that they
-can do the most damage possible and so that I stay still.
+10, 2022to Apr 11, 2022. I stayed in room 113. They rented out the room
+right next to me, (To the north of me) I believe they were in room 111 or
+112. And yea–they EMF-d my brain from as close as they possibly could with
+as powerful an EMF as they possibly could while I slept and while I was
+trying to fall asleep–as usual–I assume trying to give me brain cancer. I’m
+pretty sure they had to have rented out an adjacent room tbh just given it
+was coming from a direction where only other rooms could have been the
+possible source. They will first try to keep me awake for as long as
+possible then they will do something like this when I am really really
+tired so that they can do the most damage possible and so that I stay still.
 
 
 Concerted Effort
@@ -13184,12 +13184,20 @@ hasn’t been able to get his cut from me or something. (The Russian mob
 maybe?) Just another possible motive. Dusty really does think our dads
 money is his money for whatever reason.
 
+
 You guys really need to hurry if you want me to be around for any future
 trial. I’m doing my best to hurry on all fronts myself.
 
 They are so dumb for ever deciding to come after me to begin with–they are
 going to regret it mark my words. I’m not part of their damn mob so I
-shouldn’t have to pay it’s damn taxes to begin with.
+shouldn’t have to pay it’s damn taxes to begin with. (Yet another way for
+people to screw you out of your inheritance)
+
+https://drive.google.com/open?id=1IqxgViZ7R0kL1jLojKyGKVxImltLzAj0&disco=AAAAX\_Jy5aI
+
+
+https://drive.google.com/open?id=1uAJA\_BZItSDEoevqzHqOwJ7udfKSThEN&disco=AAAAXdN4-vA
+
 
 Whoever takes over my estate later is looking at possibly millions of
 damages lawsuit capabilities. Meaning whoever takes it over could sue the
