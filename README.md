@@ -3570,9 +3570,10 @@ always work without interference/tampering for the most part I think. (435)
 261-2308 And that way it will make it a little easier on me.
 
 I will likely still keep updating this but likely not as frequently as I
-have been, I start work again on Monday after all..
+have been, I start work again on Monday after all.. I may end up moving at
+any time tho, once I figure out where I’m going, etc.
 
-Thank you for reading. Happy new year!
+Regardless, thank you for reading. Happy new year!
 
 Chase Gibbons  / Manager
 435-999-4722
