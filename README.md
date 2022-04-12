@@ -3352,9 +3352,9 @@ As of December 30, 2021
 So I’ve been thinking, all this stuff that has been happening to me, all
 this hacking and whatnot, you would think it would almost have to be
 something like a hostile foreign government or specialized organization for
-hire who is behind the bulk of all this given all their capabilities.
-(Someone core entity who also seems to other people—making it harder to
-track) Maybe my brother hired Russia or something on the dark web to do his
+hire who is behind the bulk of all this given all their capabilities. (Some
+core entity who also seems to hire other people—making it harder to track)
+Maybe my brother hired Russia or something on the dark web to do his
 bidding for him right after he hacked me initially?
 
 I recall telling my manager around 2019 that it had appeared as though
@@ -3391,7 +3391,7 @@ to just one social group either. Like they seem to span different social
 groups either via taking advantage of rumors or via hiring different hitmen
 or else they really do have like undercover people who live double lives or
 who do only this for a living, deliberately across different social
-classes. (Which again makes it hard to track)
+sterotypes. (Which again makes it hard to track)
 
 I just want to point out that at Rent Dynamics we hired Russian contractors
 for some of our development needs previously, that could theoretically play
@@ -3413,7 +3413,7 @@ more than an attempted framing of Dusty.
 
 I guess Dusty could be in on it from day to day, running operations, but
 you would think someone would know about that if that’s really all he’s
-doing at his Ogden recording studio. I guess he could just hire a bunch of
+doing at his recording studio. I guess he could just hire a bunch of
 different people off the dark web and do his music stuff; but then who is
 coordinating it all? That would have to be all dusty does if he really does
 coordinate it all from day to day, and it would have to be a decent chunk
@@ -3460,7 +3460,7 @@ I get the sense that the microchip is likely powered by my nervous system
 and not reliant on a battery or electrical field. But I’m still narrowing
 that down. I’ve also tied some of the noise the suspected microchip makes
 to whenever I begin to move around or exert myself physically then it will
-make some noise, I figured that out just yesterday. But I’m sure it’s
+make some noise, I discovered that just yesterday. But I’m sure it’s
 tunable and could be dependent on the surrounding environment. The
 suspected microchip also seems to be able to make noise when I was just
 driving down the freeway in my loaner car previously, which is when I
@@ -3482,17 +3482,57 @@ able to find out more key info about this mysterious entity anyways at the
 end of the day if I run as well.
 
 I’d like to get away from my brother Dusty anyways–he’s scary. Like he
-doesn’t have a conscience. So he does fucked up stuff to people for fun. He
-might have schizophrenia cuz he mainly seems to target his family that I’m
-aware of—even if it is only through hired guns—that only makes him even
-scarier.
+doesn’t seem to have a conscience. So he does fucked up stuff to people for
+fun. He might have schizophrenia cuz he mainly seems to target his family
+that I’m aware of—even if it is only through hired guns—that only makes him
+even scarier.
 
 Regardless, the only questions that remain is when to leave, how I’m going
 to fund it, when my passport is going to show up in the mail, what I’m
 going to do with my house and all my current responsibilities, where I plan
 to initially run to, how I’m going to get there, where I’m going to reside
 when I get there, and then what I’m going to do once I’m there.
--- 
+
+As of December 31, 2021
+
+What these people are doing with the feed from my brain to my eyes might
+actually be caused by another variation of infrasound come to find
+out–which would be a relief if so. I don’t like the idea of my brain being
+reprogrammed. But yea, it could just be infrasound at a different
+frequency/rhythm than the one that messed with my heart previously.
+Infrasound is how your body controls your organs. So infrasound in the
+environment could theoretically produce the results I was describing with
+my eyes. I now suspect they essentially could be just sending out their own
+infrasound using a combination of my house's electricity, my house's duct
+work, whatever they installed in my house previously, and when I shut off
+all my power, some external infrasound source that isn’t quite as powerful.
+(Last night it was pretty loud too—it was seemingly shaking my whole
+room/shelter just depending on where they were pointing it) I also have
+suspected for some time that they are capable of using sound to act as
+sonar or radar, allowing them to map out the surrounding area in real time.
+I suspect there’s still something in my ear though that beeps regardless of
+where I’m located, but it varies. However I do now suspect it to be a
+tracker microchip.
+
+Most all the references I’ve been referring to throughout this document are
+already present somewhere in this folder just fyi. Some of the references
+were deleted, likely forever. Others might could be dug up if I had a clean
+computer and enough time. I dunno if any of the references in this folder
+have been tampered with or not, I’m scared to log in to some of my other
+accounts that are the actual owners/editors of some of the google drive
+folders linked to from within this folder for any substantial amount of
+time to add any more comments and to lay everything out in an intuitive way
+that I could then reference within this document for that reason–to try and
+avoid anybody tampering with what I do already have here. (That’s how I get
+around all the hacking at this time is simply by never logging into certain
+key accounts lol and then referencing certain google drive folders from
+other google drive accounts)
+
+I hope I’ve given you enough, I think it’s about time for me to try and
+find a better life elsewhere. (You know, a life where I don’t have to worry
+about my life, focus on all this shit daily, and a life where I don’t have
+to sleep in a faraday cage nightly, etc, etc)
+
 
 Chase Gibbons  / Manager
 435-999-4722
