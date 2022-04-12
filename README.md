@@ -10836,9 +10836,11 @@ EMF’s aren’t going to disable the microchips when they EMF me
 constantly–then I now have little hope my EMP device will disable their
 microchips given they are both acting on the same forces essentially, and
 given I don’t know how to exponentially increase the intensities beyond
-what they are hitting me with, if that makes sense? But I’m not giving up.
-I could just need to fine tune it in the right way or something, I’ve got
-to do more research and more experimenting I think.
+what they are already hitting me with, if that makes sense? But I’m not
+giving up. I could just need to fine tune it in the right way or something,
+I did seem to get their nanochips to reset or go offline temporarily
+however on at least one occasion—I’ve got to do more research and
+experimenting I think.
 
 In regards to my laser trials in an attempt to disable the microchips, I
 did the research and found out the laser I would need either had to be a
@@ -10848,17 +10850,18 @@ that’s what I bought. What happened when I tried it was well for one–I
 could tell whenever I was hitting one of their damn microchips because the
 laser isn’t even hot on my skin otherwise–but whenever I would pass over
 one of their nanochips I could feel it heat up under my skin quickly and I
-could actually feel the laser on my skin. Which makes sense cuz a side
-effect of graphene is it can get really hot and so what happens when I hit
-them with the red laser is they get really hot and I can actually feel the
-difference quite noticeably; however, again they have been able to get
-their damn microchips to be hotter “in the wild” than I was able to with my
-red laser itself, thus far anyways. Remember when I said I knew where the
-microchip was because it got really hot on the tip of my fingernail when
-plugging my ear with my finger previously? Yea, well that was just during
-“normal operations” when they were tracking me driving and they got it
-hotter than I have been able to get it thus far with my laser. I’m still
-iterating on this method as well however. (While keeping safety in mind)
+could actually feel the laser under my skin get hot. Which makes sense cuz
+a side effect of graphene is it can get really hot and so what happens when
+I hit them with the red laser is they get really hot and I can actually
+feel the difference quite noticeably; however, again they have been able to
+get their damn microchips to be hotter “in the wild” than I was able to
+with my red laser itself, thus far anyways. Remember when I said I knew
+where the microchip was because it got really hot on the tip of my
+fingernail when plugging my ear with my finger previously? Yea, well that
+was just during “normal operations” when they were tracking me driving and
+they got it hotter than I have been able to get it thus far with my laser.
+I’m still iterating on this method as well however. (While keeping safety
+in mind)
 
 I know there are multiple nanochips at different levels throughout my ear
 now because of the “getting hot” and feeling where the red laser encounters
@@ -10915,5 +10918,24 @@ Russia and willing to stage shit against its own citizens in order to gain
 strategic advantages itself. So I still don’t know how much of all this is
 China at this point. It might just be more concerned than Russia to hide
 its inner selves. Only time will tell. (Everyone knows Russia is brutal
-now, but China 🇨🇳 is still a tbd—they could just still be playing good
-cop 👮 bad cop 👮‍♂️ )
+now, but China 🇨🇳 is still a tbd—they could just be playing good cop 👮
+bad cop 👮‍♂️ still—but in reverse this time)
+
+My superpower === Ability to see through people
+
+It’s a good superpower to have during these trying times..
+
+
+
+
+
+
+
+-- 
+
+Chase Gibbons  / Manager
+435-999-4722
+
+
+PO Box 747Logan, UT 84321
+gfic.io  
