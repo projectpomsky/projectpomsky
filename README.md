@@ -3749,20 +3749,24 @@ completely fuck up this entire case that way. And then you’ll have a serial
 killer still on the loose for likely years to come.
 
 Another mysterious strange clear somewhat thick substance on my hallway
-floor today I found after I got home that wasn’t from anything I did.. (And
-I live alone) I don’t recall it being there when I left either. Dusty was
-mad at me too for adding more detailed stuff to this doc and for saying I’d
-still add references. Like I’m not messing around. Please don’t make all my
-hard work be in vain. If there was ever a credible
-microchip/emf/infrasound/gangstalking back story then mine has got to be
-among the top of that list—regardless of how outlandish it may sometimes
-sound. Bottom line is everything they are doing to me is literally
-engineered to seem outlandish for a reason. They’ve tried to kill me so
-many times now. I just want the police to actually arrest my brother
-already. It’s completely obvious that he’s involved at very least and
-overseeing the whole operation at most. Don’t miss out on this opportunity
-to make likely the biggest most dangerous and most capable criminal bust of
-likely all of our lifetimes.
+floor this evening I found after I got home that wasn’t from anything I
+recall doing.. (And I live alone) I don’t recall it being there when I left
+either. Dusty was mad at me too for adding more detailed stuff to this doc
+and for saying I’d still add references. Like I’m not messing around you
+guys—this is a highly capable organized crime group of some form or
+another. Please don’t make all my hard work be in vain. If there was ever a
+credible microchip/emf/infrasound/gangstalking back story then mine has got
+to be among the top of that list—regardless of how outlandish it may
+sometimes sound. Bottom line is everything they are doing to me is
+literally engineered to seem outlandish for a reason. They’ve tried to kill
+me so many times now. I suspect they have killed other people already. I
+just want the police to actually arrest my brother already. It’s completely
+obvious that he’s involved at the very least or else he completely
+overseeing the entire operation at most. Don’t miss out on this
+opportunity. If I were you I’d get my brother while he’s still around. Cuz
+otherwise you’ll never be able to bring him to justice and he’ll be able to
+continue his reign of terror against everyone around here remotely—which
+would be a nightmare tbh. He’s not dumb—keep that in mind please.
 
 Some (but not all) Dusty gangster references:
 
