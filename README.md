@@ -4484,14 +4484,5 @@ Taylor? That’s all I’m saying. Like at some point it’s got to become
 obvious who the imposter(s) is/are. It became obvious to me when Dusty
 started attacking me and Turbo.
 
-
-Chase Gibbons  / Manager
-435-999-4722
-
- 
-PO Box 747Logan, UT 84321
-gfic.io 
-
-[image: Twitter]  [image: Facebook]
- [image: LinkedIn]
-
+I still can’t believe how my mom completely flipped. I have stood up for
+her all along.
