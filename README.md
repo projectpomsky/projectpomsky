@@ -398,6 +398,9 @@ Latest Potentially Significant IPs and Email Tampering Logs
 Electromagnetic Spectrum Health Effects Video
 
 
+As of March 10, 2022
+
+
 
 
 README
@@ -9179,7 +9182,8 @@ Electromagnetic Spectrum Health Effects Video
 
 Watch this video.
 
-https://www.youtube.com/watch?v=i4pxw4tYeCU
+Is 5G Spelling Our DOOM?! How EM Waves Can Hurt
+
 
 This is no joke you guys. The attackers are specifically using high
 frequency radiation against me repeatedly at least in part to try and cause
@@ -9253,29 +9257,30 @@ https://www.google.com/search?q=sound+transduction&oq=sound+transd&aqs=chrome.1.
 I’m almost positive there’s a microchip located in or around my tragus in
 my left ear because I felt the damn thing get really hot when it was
 beeping off the charts previously right around that location when trying to
-block out the sound from my ear with my finger–as described in a previous
+block out the signal from my ear with my finger–as described in a previous
 post–before I ever even knew what “audio transduction” even was. Graphene
-is known to get hot too, it can even be used as a heater. There could even
-be multiple microchips, but all I know is the microchip that communicates
-with the outer world is in a part of my ear that is next to cartilage or
-the “tragus” and that part of my ear apparently isn’t sensitive to heat
-because it’s mostly next to just cartilage. Like when I felt the heat on
-the upper back portion of my fingernail previously when trying to plug my
-ear–I didn’t feel the heat directly in my ear itself–I only felt it on my
-upper/lower fingernail. I can however hear the damn thing beeping all the
-time in my ear—I just can’t feel it. (It doesn’t beep all the time
-literally but it does beep quite a bit and always when they have no other
-mechanism in place to track me, or else whenever my nervous system fires
-when exerting myself, or else when they are trying to sync data at
-nighttimes, etc) It is perfectly possible that there is actually a whole
-network of nanochips or “smart dust” in there–which communicate with each
-other using something like electromagnetic fields, all of which might be
-different sizes meant to stop in different locations. But tmk the only one
-I need to disable is the one that actually communicates with the outside
-world. Then I need to be careful as hell in getting any vaccines going
-forward and I need to be careful as hell to ensure they don’t know where
-I’m at going forward, so that they can’t somehow sedate me and implant me
-if that’s how they did it.
+is known to get hot too, it can even be used as a heater.
+
+There could even be multiple microchips, but all I know is the microchip
+that communicates with the outer world is in a part of my ear that is next
+to cartilage or the “tragus” and that part of my ear apparently isn’t that
+sensitive to heat because it’s mostly next to just cartilage. Like when I
+felt the heat on the upper back portion of my fingernail previously when
+trying to plug my ear–I didn’t feel the heat directly in my ear itself–I
+only felt it on my upper/lower fingernail. I can however hear the damn
+thing beeping all the time in my ear—I just can’t feel it. (It doesn’t beep
+all the time literally but it does beep quite a bit and always when they
+have no other mechanism in place to track me, or else whenever my nervous
+system fires when exerting myself, or else when they are trying to sync
+data at nighttimes, etc) It is perfectly possible that there is actually a
+whole network of nanochips or “smart dust” in me now–which communicate with
+each other using something like electromagnetic fields, all of which might
+be different sizes meant to get stuck in different locations. But tmk the
+only one I need to disable is the one that actually is designed to
+communicate with the outside world. Then I need to be careful as hell in
+getting any vaccines going forward and I need to be careful as hell to
+ensure they don’t know where I’m at going forward, so that they can’t
+sedate me like they love to do and implant me, if that’s how they did it.
 
 This nanochip is not only located in the optimal place for “audio
 transduction” to send electrical impulses to my brain, but it’s also
@@ -9288,10 +9293,10 @@ actually first bounces down into the “dish” so that it will then bounce
 back outwards and spread out more, as demonstrated below.
 
 
-People apparently add their own devices under their skin these days
-apparently, it’s called biohacking. See the following links. But the one in
-my case is wayyy more sophisticated, plus I didn’t do it to myself, and
-therefore I have no way to turn it off by myself.
+People apparently add their own devices under their skin these days, it’s
+called biohacking. See the following links. But the one in my case is wayyy
+more sophisticated, plus I didn’t do it to myself, and therefore I have no
+way to turn it off by myself.
 
 https://twitter.com/drkiki/status/1168299777424908288?s=20&t=r4TnY99zwvl2yJbyM9FV5Q
 
@@ -9363,27 +9368,232 @@ highly doubt that will ever happen.
 
 As of March 10, 2022
 
-I pulled the previous link to all these files yesterday. I don’t know if it
-was the right move, but my gut told me it was the right move at the time. I
-started getting a sense that someone had leaked this info to try and cause
-a lack of confidence in us among our allies and to try and cause divisions.
-I even started having a surge of people looking into my linkedin profile
-yesterday out of nowhere, as if it was on the verge of becoming published
-as news. I don’t know if pulling everything down was the right move,
-because again maybe if this got out then these people would actually
-fucking stop harrassing me because everyone would know the truth and this
-would have been further looked into and further legitimized.
+[Opinion]
+
+I pulled all the content from this original google drive folder which was
+open to public viewing yesterday. I don’t know if it was the right move,
+but my gut told me it was the right move at the time. I started getting a
+sense that someone had leaked this info either to try and cause a lack of
+confidence in us/cause divisions amongst our allies or else to make it seem
+as though the United States was attacking its own citizens. (Which goes
+with their recent narrative from that NRA chick that she couldn’t believe
+that anyone would bomb their own people, while insinuating that Ukraine was
+bombing it’s own citizens–it’s all extremely coordinated information
+desemination and whatnot on Russia’s part, it’s all part of their sick and
+twisted “show” they are putting on) I even started having a surge of people
+looking into my linkedin profile yesterday out of nowhere too, which I also
+temporarily deactivated, as if the “Jet Airplane Assault” incident from the
+other night was on the verge of becoming published as news or something. I
+don’t know if pulling everything down was the right move, because again
+maybe if all this got out then these people would actually fucking stop
+harrassing me and my brother might actually face accountability for once
+because everyone would know the truth; and maybe all this would have been
+further looked into and further legitimized by the American public.
 
 So I’m torn on the subject but the last thing I want is to be used by these
 guys to further their information warfare campaign against us and to cause
-strategic divisions at such a critical time. They do that to literally
-everyone–they bank on everyone doing what’s in their best interest rather
-than what’s in the best interest of the group. My fear however of never
-letting this information truly get out is that people will never know what
-I view to be important information, and the attackers will continue on all
-but forgotten, encircled in mystery to everyone but to those in the highest
-levels of our government. So it’s a tough one tbh. I don’t want to
-undermine my country but I want people to know the truth.
+strategic divisions amongst our allies at such a critical time. These guys
+do that to literally everyone–they try and manipulate everyone into doing
+what’s in their own personal best interest rather than what’s in the best
+interest of the group. My fear on the other hand of never letting this
+information truly get out however is that people will never know what I
+view to be important information, and the attackers will continue on all
+but forgotten, encircled in a shroud of mystery to everyone but to those in
+the highest levels of our government–which could also prove to be
+undesirable in my view. So it’s a tough one tbh. I don’t want to undermine
+our country but I want people to know the truth.
+
+What Putin is Doing
+
+[Opinion]
+
+Do you want to know what Putin is really doing? People talk about well
+Putin didn’t plan for occupying Ukraine long term, he’s clearly going to
+have a hostile people to deal with for years to come in Ukraine, etc, etc.
+But do you want to know Putin’s way out of that? His way out of that is to
+essentially convince Zelensky to join Putin rather than to join the
+European Union and the West. And how he’s going to do that is by leveraging
+his previous exploitations of the West to make us look weak by doing shit
+like what they did to me the other night which might make our government
+fear that we might not have full control of our military, (if I even was
+right about that incident) and that we have our own exiles, etc. and
+Putin’s hoping that will be interpreted by Zelensky that Democracy can be
+exploited and that he can’t fully rely on us as friends. (In reality
+however, every type of government can be exploited just as much but in
+their own ways–for every strength there is a weakness–you just have to get
+into that frame of mind and be willing to do exactly that and actually
+exploit them in every way just like they do to us–believe me–I guarantee
+you these attackers could think of numerous ways to completely exploit
+Putin’s government just as effectively as our democracy because they can
+exploit literally anything and everything–we can too–that’s the thing. And
+I assure you we are doing everything in our power to help Ukraine as much
+as we possibly can. it’s actually been really cool to see all the different
+ways everyone has jumped in to try and help–me personally I’ve been helping
+anonymous where I can, etc)
+
+But yea, you’ve got to understand gangstalking to understand how this all
+is ultimately planned to play out.
+
+Essentially in gangstalking the attackers ultimately end up rigging it to
+where it literally feels like everyone is against you, just due to the
+nature of how extraordinary what they are doing to you is, and due to the
+fact that they are actively manipulating everyone else in subtle ways too.
+(Whether everyone else realizes it or not) By creating/exploiting conflicts
+of interest primarily. It makes it so a lot of people either don’t fully
+understand what’s happening, they don’t believe you, they pretend like they
+don’t believe you, or else they seem to only care about themselves and not
+care about you from the victim’s point of view. Everyone you thought you
+knew and everyone you thought you could rely on seem to not care anymore
+almost. And so after a while the smartest people in the room seem to be the
+attackers over everyone else–they are the only ones who seem to truly get
+it. Like the attackers at least get what you are going through and believe
+you in regards to all the manipulation going on when nobody else really
+will–do to the attackers making it in everyone else’s best interest not to
+help you. But even beyond that, the attackers begin to show they can at
+least make it better or make it stop (temporarily) for you–when nobody else
+can make it stop–even though the attackers are the ones freaking doing all
+this fucked up shit to you. (But in reality it’s a trap, what they are
+really doing is just manipulating you to do what they want you to do in
+that very moment they need something from you and the next time they want
+something from you or even just they next time they want to show their
+dominance over you then they are right back on top of you–so it’s not a
+real solution to work with them–at least in my experiences it hasn’t
+been–they are fucking ruthless and unforgiving and very transactional in
+nature–but they will never stop trying to manipulate you regardless of
+whether you work with them or not) So over time, you end up being faced
+with a hard road and an easy road–but the easy road is a trap every fucking
+time–it’s like selling your soul to the devil pretty much at best.
+
+That has got to be Putin’s plan for Zelensky, which is to get him to turn
+on the West essentially. To get him to work out a deal with the devil. That
+way all Zelensky’s citizens become a non issue for Putin and that way Putin
+begins his takeover of more than just Ukraine by influencing public opinion
+through his new proxy. What we need to do to combat that is to continue to
+support Zelensky daily no matter what. And stop freaking saying we will or
+won’t do something beforehand–don’t let Putin know what we will or won’t do
+so it remains a mystery to him. But yea, never let Zelensky think he
+doesn't have our full support to the most extent possible–regardless of how
+much Putin tries to manipulate us–this is everyone’s entire future we are
+talking about here after all. Nobody wants to live under a brutal
+dictator/organized crime mafia ring for the rest of eternity.
+
+The shit with the jet airplane is just an attempt for Putin to manipulate
+our president into being submissive. If you let him, guess what he’s going
+to do? He’ll keep doing it and go even harder on it next time too. At the
+end of the day these Trumper Russian proxy guys aren’t going to do anything
+bad to their own hometowns nor their fellow troops–I mean like beyond maybe
+discreetly going after one person at a time who they are led to believe
+might have a different political ideology than them. But beyond that, I
+don’t see Putin’s proxies as being that reliable to him when it all comes
+down to it tbh. Nobody’s going to nuke their own hometown or even allow
+their hometown to be nuked or anything like that. They might try and
+undermine some things but they aren’t that big a deal tbh. It’s all a
+perception/illusion. I’d guess people like that are by far the minority,
+but it would be wise to figure out just how many of them there really are
+by doing our own investigation into it. Because if you just rely on them
+acting out then they will make it appear as though everyone is in on
+it–when in reality that is far from the truth. None of the proxies are
+going to follow any orders from Putin that might affect anyone they know or
+like period anyways. That’s the difference between say a foreign spy and a
+foreign proxy. The foreign proxy has boundaries in regards to who they will
+undermine and how far they will go. Plus, worst case you can just make it
+personal to the proxies, do what Putin does but in reverse. Make it so they
+have to sell their other proxies out to save themselves. The churches and
+the communities themselves need to start working on this issue in their
+communities as well however, in my opinion, to ensure people don’t continue
+to get radicalized. Because that’s what it is–radicalization–just in a
+slightly different slightly easier to reach form, as compared to full blown
+terrorist radicalization.
+
+In a way Putin is targeting our executive branch with his psychological
+manipulation just as much or more than he targets everyone else. It would
+really be wise for everyone making decisions in our government and our
+allies government’s to read/listen to a book or two on “psychology and
+manipulation” btw before determining how to proceed and protect ourselves
+going forward. (i.e. Don’t let their psychological mind control games
+defeat you)
+
+I fundamentally now believe that “Hitlerism” is about psychology as much as
+it is about anything. It’s about people realizing the power of psychology
+and manipulation and then using it to get what they want. They go after the
+perceived “weak” links. And sadly I am viewed as a weak link whereas I live
+alone in a mormon community when I’m not mormon; and thanks to history,
+jews are viewed as weak too sadly. The attackers saying they are going
+after nazis is a slap in the face tbh, when Zelensky is a jew, but it’s
+common psychological manipulation tactics both in hitler’s time and in the
+current day and now. I fully believe both Hitler and Putin would do this to
+anybody that they viewed as “weak” though. And how you get to where they
+won’t view you as weak is to learn psychology, band together, call out
+their manipulation, and to start applying these same concepts right back at
+them from what I’ve found. At least in Zelensky’s case he still has a ton
+of support from pretty much everyone besides Putin, and pretty much
+everyone are actually willing to help him in fighting back in whatever way
+they can.
+
+Two more things I think are important for anyone reading this to know.
+
+First, how to accomplish the “thinking 2-3 steps ahead” illusion. Because
+these guys seem to be smart and seem to have the ability to think 2-3 steps
+ahead. But in reality what is really happening is they are using reflexive
+control theory to first set up a pretext and then to trigger you in a way
+they can predict your reaction to, and based on their predicted reaction of
+what they think you will do when they trigger you, they then think about
+how they will be able to exploit your most probable reaction to their
+triggering you–and whether that would benefit them or not–before they ever
+even trigger you to begin with. And if they decide your most probable
+reaction is exploitable in a fashion that suits them–then they go forward
+with setting up the pretext and triggering you while banking on your
+reaction being what they’d expect. That’s literally how it works. From your
+perspective it seems as though they are smart as hell and they are thinking
+two to three steps ahead, and in reality it’s technically kinda sorta true,
+but it’s a lot easier to do than one might think when you are the one doing
+the triggering. From there you can take it and chain it, like okay if I set
+up this pretext and I trigger Putin in this way, his most probable reaction
+is he’ll likely respond in this way. And if he responds in this way will I
+then be able to take advantage of his response? I’m just giving an example
+of how it theoretically works. Information gathering definitely comes into
+play here as well though, information is power and it enables you to do
+this reflexive control theory stuff a lot more effectively, the more
+information you have.
+
+Secondly I want to give you an example of how they exploit vulnerabilities
+in anything and everything, and how it’s possible for you to do it too. The
+attackers whom I now believe to be Russian proxies whom are at least
+partially led by my own brother first started targeting me using social
+engineering. My brother took advantage of the trust I had for him while
+playing like he still loved me and used my love for him as a vulnerability
+for him to exploit. Once they got access to my network they began
+monitoring it and looking for other vulnerabilities. I won’t get into all
+the details but fast forward and they begin emf-ing me. I ultimately figure
+out how to get their emfs to no longer bother me by creating a makeshift
+faraday cage that was grounded. As soon as they found out it was no longer
+getting to me, they moved to another type of emf like ef or rf that went
+right through the grounded metal. So then I added an existing electrical
+current to the faraday cage to try and combat their latest exploit. And
+then ultimately they realized they couldn’t get through with any light
+based directed energy anymore so they switched to using infrasound instead,
+which I hadn’t accounted for so it was therefore a vulnerability to me. So
+then I figured out what the hell infrasound was and figured out you need
+this foam shit to stop it, and I added that foam stuff to the faraday cage.
+But now what was my vulnerability? My vulnerability at that point was well
+they could now either hit me from a different direction that wasn’t fully
+protected by all 3 different vulnerabilities–or else they could start to
+gas me to scare me out of my freaking faraday cage and make me totally
+exposed again, etc, etc. And as things have gone on, they’ve even figured
+out how to add something to the inside of the faraday cage, and make it so
+they can still hit it to electrify it from outside, and then from their
+getting in my house exploits which could be a whole nother example, they
+ended up putting something on the inside of the faraday cage itself that
+could take the energy from the metal and shoot it out from the inside
+before it is grounded, which effectively made my faraday cage useless. And
+on, and on, and on. Moral of the story is there are vulnerabilities
+everywhere in literally everything that can be exploited–and it doesn’t
+take the most powerful country to exploit them either.
+
+Just wanted to share some lessons learned in case it might help anybody.
+These are all my own personal opinions however, so just please recognize
+that fact.
+
 
 
 Chase Gibbons  / Manager
@@ -9392,3 +9602,12 @@ Chase Gibbons  / Manager
 
 PO Box 747Logan, UT 84321
 gfic.io  
+
+[image: Mailtrack]
+
+Sender
+notified by
+Mailtrack
+
+03/10/22,
+06:33:05 PM
