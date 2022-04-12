@@ -479,6 +479,9 @@ Hacker People
 My Brother
 
 
+As of March 24, 2022
+
+
 
 
 README
@@ -11020,18 +11023,18 @@ I’ll try to keep it short.
 
 I went to the doctor today and they didn’t say anything about my drug test
 so I’m assuming that was another attempt from the attackers at discrediting
-me and/or another false flag operation. Meaning the attackers didn’t tamper
-with my drug test that I’m aware of after all. Keep in mind though that the
-attackers always do shit that is like uncomfortable for both parties, so
-it’s possible the hackers did mess with my doctor’s systems and my doctor’s
-office figured it out–idk–probably not–but it’s possible. If that did
-happen would they want to say anything about it to me? Probably not. But
-for now I’ll just assume that was another false flag operation on the
-attackers part, my doctor’s systems are NOT hacked, for the sake of not
-making them look bad, and yea my drug test was as expected. But to be
-clear–DO NOT let that make you think for even a second that these guys
-don’t have the capabilities of hacking anybody and everybody–because they
-do–and they pretty much already have.
+me and/or another false flag operation the other day. Meaning the attackers
+didn’t tamper with my drug test that I’m aware of after all. Keep in mind
+though that the attackers always do shit that is like uncomfortable for
+both parties, so it’s possible the hackers did mess with my doctor’s
+systems and my doctor’s office figured it out–idk–probably not–but it’s
+possible. If that did happen would they want to say anything about it to
+me? Probably not. But for now I’ll just assume that was another false flag
+operation on the attackers part, my doctor’s systems are NOT hacked, for
+the sake of not making them look bad, and yea my drug test was as expected.
+But to be clear–DO NOT let that make you think for even a second that these
+guys don’t have the capabilities of hacking anybody and everybody–because
+they do–and they pretty much already have.
 
 I didn’t mean to come off wrong on the investigation assumptions piece, to
 be clear–I have no insight into what the police are doing whatsoever beyond
@@ -11213,14 +11216,21 @@ had to guess–and that’s not even exaggerating. They are working on behalf
 of Russia too based on everything I have found, which is also a pretty big
 incentive I might add. Plus you might help save our country like
 for-real–and I know I would appreciate no longer being gangstalked anymore
-that’s for damn sure. But yea, be super careful if you do–do not ever allow
-yourself to get overconfident. Last I was aware of he uses Macs. Just fyi..
+that’s for damn sure. But yea, be super careful and use like layers and
+layers of anonymity if you do. Last I was aware of he uses Macs. Just fyi..
 If I weren’t in this position that;s what I’d do–cuz it’s like you not only
-get access to all his malware but you get access to everything he has
-gotten access to–which is a lot I’m telling you. It’s like you jump from a
-small fish to a megalodon just like that. He probably tries to keep his
-most valuable stuff pretty hidden and out of sight tho.
+get access to all his automated 0day malware but you get access to
+everything he has gotten access to previously–which is a lot I’m telling
+you. It’s like you jump from a small fish to a megalodon in the ocean just
+like that. He probably tries to keep his most valuable stuff pretty hidden
+and out of sight tho. I cannot be held liable if you do, I'm just
+fantasizing that’s all.. :)
 
+As of March 24, 2022
+
+They “baked” me again last night. I can feel the “sun burn”. They are
+trying to give me cancer. They seem to want me to go after my brother.
+Probably because he knows he’s fucked at this point.
 
 Chase Gibbons  / Manager
 435-999-4722
