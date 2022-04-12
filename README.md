@@ -449,6 +449,9 @@ As of March 20, 2022
 We need to support Ukraine 🇺🇦
 
 
+Potential Russian Mafia “Signals”
+
+
 
 
 README
@@ -10795,7 +10798,7 @@ prosecuting them for it–then you’d need to dig even deeper to uncover the
 ties to Russia with uncooperative witnesses. (The witnesses are
 uncooperative because they are scared for their lives) This is
 fundamentally how Russia operates across the board. They have become good
-at what they do.
+at what they do. You guys I think these guys worship satan.
 
 Chase Gibbons  / Manager
 435-999-4722
