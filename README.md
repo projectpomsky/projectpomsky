@@ -12817,7 +12817,7 @@ multiple added benefits/advantages such as:
  the ability to stay hidden by adding an addition proxy layer for
  investigators to have to go through in our adversary’s ultimate hacking of
  all our corporations/infrastructure, (The investigators literally have to
- track their way back through computers like mine and find the malware on
+ track their way back through citizens’ computers and find the malware on
  those computers and then track that back to any command and control server
  which could be behind all kinds of proxies and whatnot itself–plus, all
  their hacking of individuals is also how they apparently communicate with
@@ -12889,6 +12889,9 @@ seemingly strategic targeting/manipulation of our social networks I
 wouldn’t think.. It’s scary. Some people don’t see how hacking can be such
 a big deal–but it really is–and this is how.
 
+I really hope if nothing else than I really hope someone will look into
+this notion and take it seriously because doing so really could make all
+the difference in this world.
 
 
 Chase Gibbons  / Manager
