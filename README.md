@@ -28,7 +28,7 @@ Don't give into the Charles Mansons of the world. Just ask for help, be patient,
 
 Never give up. Nothing to fear but fear itself--trust me. 😉 
 
-P.s. I can't project what I'm about to do you guys otherwise they will try to take advantage of it. I'll just keep hiding and unhiding it at random lol 😂 In protest of how rediculous Russia is. Timing is everything. 😉
+P.s. I can't project what I'm about to do you guys otherwise they will try to take advantage of it. I'll just keep hiding and unhiding it at random lol 😂 In protest of how rediculous Russia is. Timing is everything. 😉 I'll hide it soon 🔜 though. 🤭 
 
 Glory to Ukraine! 🇺🇦
 
