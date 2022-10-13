@@ -12,13 +12,13 @@ Now we must trust our governments are indeed aware of what Russia is really up t
 
 Russia is at war with the whole world because there are people who play evony from across the whole world. My bets are on the rest of the world. 😉 But y'all can bet on Russia if you want. 🤭 The odds for them are quite low though. The odds they will terrorize people and try and cause chaos on their way down though are quite high. 🙄
 
-Don't give into the Charles Mansons of the world of the world. Just ask for help and surround yourself with good people 😉 Never give up. Nothing to fear but fear itself--trust me. 😉
+Don't give into the Charles Mansons of the world. Just ask for help and surround yourself with good people 😉 Never give up. Nothing to fear but fear itself--trust me. 😉
 
 Thank you everyone for all of your help!! 🙏🙏🙏🙏
 
 I told you we got this! 💪💪💪
 
-I will unhide all of this again soon enough I promise 😉 I got a plan that falls more inline with all the other good guys plan. 🤭😉
+I will unhide all of this again soon enough I promise 😉 I got a plan that falls more inline with all the other good guys plan. 🤭😉 Just know that plan is bigger than just Evony.
 
 Don't let anyone blackmail you in the interim regardless however. Have faith the good guy reinforcements have now arrived and are working their magic behind the scenes. 😊😊😊
 
