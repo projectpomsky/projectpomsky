@@ -22,7 +22,7 @@ I told you we got this! 💪💪💪
 
 I will unhide all of this again at some point I promise 😉 I got a plan that falls more inline with all the other good guys plan. 🤭😉 Just know that plan is bigger than just Evony.
 
-Don't let anyone blackmail you in the interim regardless however. Have faith the good guy reinforcements have now arrived and are working their magic behind the scenes. 😊😊😊
+Don't let anyone blackmail you in the interim regardless however. Have faith the good guy reinforcements have now arrived and are working their magic behind the scenes in mysterious but productive ways. 😊😊😊
 
 Glory to Ukraine! 🇺🇦
 
