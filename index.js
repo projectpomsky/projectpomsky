@@ -1,7 +1,7 @@
 'use strict';
 
 require('dotenv').config()
-console.log(process.env) // remove this after you've confirmed it is working
+console.log(process.env)
 
 import axios from 'axios';
 
