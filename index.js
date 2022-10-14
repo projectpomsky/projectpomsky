@@ -51,6 +51,8 @@ functions.cloudEvent('randomFateOfRussiaPubSub', async cloudEvent => {
           "Content-Type": "application/json"
         }
       });
+
+      console.log('github patch result =>', result?.status);
     } catch (ex) {
       console.log("Error!", ex.toString());
       result = ex;
@@ -58,8 +60,6 @@ functions.cloudEvent('randomFateOfRussiaPubSub', async cloudEvent => {
   } else {
     console.log('visibility the same!!', randomFateOfRussiaVariable);
   }
-
-  console.log('github patch result =>', result?.status);
 
   return result;
 });
