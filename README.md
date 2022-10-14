@@ -35,9 +35,9 @@ https://github.com/projectpomsky/projectpomsky2
 
 I don't want to be held responsible for any of this shit. 🙃 So I did that to have the best of both worlds. 😇
 
-God I love being free! 🥰🥰🥰
+God I love being free! 🥰🥰🥰 https://www.youtube.com/watch?v=-KoXt9pZLGM
 
-I'm gonna miss you Evony people. 🥺 One person in particular.. We will meet again I'm sure. 😉 Regardless, never give up! 😉
+I'm gonna miss you Evony people. 🥺 One gal in particular.. We will meet again I'm sure. 😉 Regardless, never give up! 😉
 
 Glory to Ukraine! 🇺🇦
 
