@@ -10,12 +10,13 @@ gcloud functions deploy projectpomsky-show-hide-pub-sub-function --gen2 \
 --region=us-west1 \
 --source=. \
 --entry-point=randomFateOfRussiaPubSub \
---trigger-topic=randomFateOfRussiaPubSub
+--trigger-topic=randomFateOfRussiaPubSub \
+--env-vars-file .env.yaml
 
-# Create cloud scheduler cron job which is currently set to invoke the randomFateOfRussiaPubSub topic once at 4:05am daily, 
-# which in turn will randomly either show or hide my complaint with 2 to 1 odds of it being hidden on any given day, as shown in the index.js file 🤪🤪🤪
+# Create cloud scheduler cron job which is currently set to invoke the randomFateOfRussiaPubSub topic once at 1:00am daily, 
+# which in turn will randomly either show or hide my complaint with 3 to 1 odds of it being hidden on any given day, as shown in the index.js file 🤪🤪🤪
 gcloud beta scheduler jobs create pubsub random-fate-of-russia-cron-job \
-  --schedule '5 4 * * *' \
+  --schedule '0 1 * * *' \
   --topic randomFateOfRussiaPubSub \
   --message-body '{"zone":"us-west1-b", "label":"env=dev"}' \
   --location nodejs-pubsub-function-832534
