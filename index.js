@@ -1,7 +1,6 @@
 'use strict';
 
 require('dotenv').config()
-console.log(process.env)
 
 const axios = require('axios');
 const chance = require('chance').Chance();
