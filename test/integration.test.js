@@ -12,7 +12,7 @@ describe('functions_cloudevent_pubsub', () => {
       data: Buffer.from(name).toString('base64'),
     };
 
-    const server = functionsFramework.getTestServer('helloPubSub');
+    const server = functionsFramework.getTestServer('randomFateOfRussiaPubSub');
     await supertest(server)
       .post('/')
       .send(cloudEventData)

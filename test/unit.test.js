@@ -28,19 +28,19 @@ describe('functions_cloudevent_pubsub', () => {
     };
 
     // Call tested function and verify its behavior
-    const helloPubSub = getFunction('helloPubSub');
-    helloPubSub(cloudEvent);
+    const randomFateOfRussiaPubSub = getFunction('randomFateOfRussiaPubSub');
+    randomFateOfRussiaPubSub(cloudEvent);
     assert.ok(console.log.calledWith(`Hello, ${name}!`));
   });
 
-  it('helloPubSub: should print hello world', () => {
+  it('randomFateOfRussiaPubSub: should print hello world', () => {
     // Create mock Pub/Sub event, in the event where a
     // PubSub message is empty but message has an attribute
     const cloudEvent = {data: {message: {data: null}}};
 
     // Call tested function and verify its behavior
-    const helloPubSub = getFunction('helloPubSub');
-    helloPubSub(cloudEvent);
+    const randomFateOfRussiaPubSub = getFunction('randomFateOfRussiaPubSub');
+    randomFateOfRussiaPubSub(cloudEvent);
     assert.ok(console.log.calledWith('Hello, World!'));
   });
 });
