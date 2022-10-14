@@ -14,7 +14,7 @@ console.log('authHeader =>', authHeader);
 // be executed when the Pub/Sub trigger topic receives a message from the Cloud Scheduler cron job.
 functions.cloudEvent('randomFateOfRussiaPubSub', async cloudEvent => {
 
-  // Whenever this is invoked on a regular interval, it will either randomly show or hide my complaint 👇👇👇👇 (with a 2 to 1 odds of being hidden on any given day) 🤪
+  // Whenever this is invoked on a regular interval, it will either randomly show or hide my complaint 👇👇👇👇 (with a 3 to 1 odds of being hidden on any given day) 🤪
   const randomFateOfRussiaVariable = chance.pickone(["private", "private", "private", "public"]) // 😜😜😜
 
   // Log what was decided
