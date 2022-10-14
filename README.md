@@ -33,7 +33,11 @@ P.s. I can't project what I'm about to do you guys otherwise they will try to ta
 The following is either shown or hidden by chance with 3 to 1 odds of being hidden on any given day. 😉🤭😊😂🤪
 https://github.com/projectpomsky/projectpomsky2
 
-I'm gonna miss you Evony people. 🥺 Never give up! 😉
+I don't want to be held responsible for any of this shit. 🙃 So I did that to have the best of both worlds. 😇
+
+God I love being free! 🥰🥰🥰
+
+I'm gonna miss you Evony people. 🥺 One person in particular.. We will meet again I'm sure. 😉 Regardless, never give up! 😉
 
 Glory to Ukraine! 🇺🇦
 
