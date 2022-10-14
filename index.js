@@ -7,10 +7,6 @@ import axios from 'axios';
 
 const chance = require('chance').Chance();
 const functions = require('@google-cloud/functions-framework');
-
-// import * as dotenv from 'dotenv' // see https://github.com/motdotla/dotenv#how-do-i-use-dotenv-with-import
-// dotenv.config()
-
 const auth_header = `token ${process.env.GITHUB_TOKEN}`;
 
 // Register a CloudEvent callback with the Functions Framework that will
