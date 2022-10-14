@@ -33,7 +33,7 @@ P.s. I can't project what I'm about to do you guys otherwise they will try to ta
 The following is either shown or hidden by chance with 3 to 1 odds of being hidden on any given day. 😉🤭😊😂🤪
 https://github.com/projectpomsky/projectpomsky2
 
-I don't want to be held responsible for their response to me making changes to any of this shit. 🙃 And it's best if they can't plan for anything in advance. 🤭😉 That's why I'm unpredictable. 🤪 So I did that to have the best of both worlds. 😇 To be able to still get the word out without having to feel like I'm am somehow responsible for whatever they choose to do in response to any changes I make. 😇
+I don't want to be held responsible for their response to me making changes to any of this shit. 🙃 And it's best if they can't plan for anything in advance. 🤭😉 That's why I'm unpredictable. 🤪 So I did that to have the best of both worlds. 😇 To be able to still get the word out without having to feel like I may be somehow responsible for whatever they choose to do in response to any changes I make. 😇
 
 God I love being free! 🥰🥰🥰 https://www.youtube.com/watch?v=-KoXt9pZLGM
 
