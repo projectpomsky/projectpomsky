@@ -1,7 +1,6 @@
 'use strict';
 
 require('dotenv').config()
-console.log(process.env)
 
 const axios = require('axios');
 const chance = require('chance').Chance();
@@ -28,18 +27,44 @@ functions.cloudEvent('randomFateOfRussiaPubSub', async cloudEvent => {
   // Log what was decided
   console.log('randomFateOfRussiaVariable =>', randomFateOfRussiaVariable);
 
-  // It's in god's hands now.. 🙏🙏🙏😉🤭🤭🤭😊😊😊🤪
-  const result = await axios.patch(`https://api.github.com/repos/projectpomsky/projectpomsky2`, {
-    visibility: randomFateOfRussiaVariable
-  }, {
+  let result;
+
+  result = await axios.get(`https://api.github.com/repos/projectpomsky/projectpomsky2`, {
     headers: {
       "authorization": authHeader,
       "Content-Type": "application/json"
     }
   });
 
+  if (visibilityOfComplaintIsChanged(result, randomFateOfRussiaVariable)) {
+
+    console.log('visibility changed!!', randomFateOfRussiaVariable);
+    
+    try {
+      // Update repository visibility 
+      // It's in god's hands now.. 🙏🙏🙏😉🤭🤭🤭😊😊😊🤪
+      result = await axios.patch(`https://api.github.com/repos/projectpomsky/projectpomsky2`, {
+        visibility: randomFateOfRussiaVariable
+      }, {
+        headers: {
+          "authorization": authHeader,
+          "Content-Type": "application/json"
+        }
+      });
+    } catch (ex) {
+      console.log("Error!", ex.toString());
+      result = JSON.stringify(ex);
+    }
+  } else {
+    console.log('visibility the same!!', randomFateOfRussiaVariable);
+  }
+
   console.log('github patch result =>', result?.status);
 
   return result;
 });
 // [END functions_cloudevent_pubsub]
+
+function visibilityOfComplaintIsChanged(result, newVal){
+  return result?.data?.visibility !== newVal
+}
