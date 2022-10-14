@@ -13,6 +13,9 @@ gcloud functions deploy projectpomsky-show-hide-pub-sub-function --gen2 \
 --trigger-topic=randomFateOfRussiaPubSub \
 --env-vars-file .env.yaml
 
+# Debug
+gcloud pubsub topics publish randomFateOfRussiaPubSub --message="Friend"
+
 # Create cloud scheduler cron job which is currently set to invoke the randomFateOfRussiaPubSub topic once at 1:00am daily, 
 # which in turn will randomly either show or hide my complaint with 3 to 1 odds of it being hidden on any given day, as shown in the index.js file 🤪🤪🤪
 gcloud beta scheduler jobs create pubsub random-fate-of-russia-cron-job \

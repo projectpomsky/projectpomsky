@@ -53,7 +53,7 @@ functions.cloudEvent('randomFateOfRussiaPubSub', async cloudEvent => {
       });
     } catch (ex) {
       console.log("Error!", ex.toString());
-      result = JSON.stringify(ex);
+      result = ex;
     }
   } else {
     console.log('visibility the same!!', randomFateOfRussiaVariable);
