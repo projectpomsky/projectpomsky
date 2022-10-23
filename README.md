@@ -16,10 +16,6 @@ But with that said, we can learn a lot from them at the same time. Russia treats
 
 Russia likes to think it is way far ahead and everyone will welcome them with open arms but how did that work out for them in Ukraine? 🇺🇦
 
-Thank you everyone for all of your help!! 🙏🙏🙏🙏
-
-I told you we got this! 💪💪💪
-
 I will unhide all of this again at some point if I deem it in our best interest to do so I promise 😉 I got a plan that falls more inline with all the other good guys' plans. 🤭😉 Just know the plan is bigger than just Evony. 😉 
 
 Don't let anyone blackmail you in the interim regardless however--nothing good can come from it. Have faith the good guy reinforcements have now arrived and are working their magic behind the scenes in mysterious but productive ways. 😊😊😊
@@ -38,6 +34,10 @@ Keep in mind this is technically information warfare. Don't let Russia win the w
 God I love being free! 🥰🥰🥰 https://www.youtube.com/watch?v=-KoXt9pZLGM
 
 I'm gonna miss you Evony people. 🥺 I'll stay out of it for now and only provide cover if need be. Regardless, never give up! 😉
+
+Thank you everyone for all of your help!! 🙏🙏🙏🙏
+
+I told you we got this! 💪💪💪
 
 😊😊😊
 
