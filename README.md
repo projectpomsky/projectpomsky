@@ -1,6 +1,6 @@
 # projectpomsky
 
-Mission accomplished. Word got out about all of this! 🙏👏👏👏
+Mission accomplished. Word got out about all of this! 🙏👏👏👏 
 
 We did it! 🎉🥳🎉🥳🎉🥳 Help is here! 😊😊😊😉 
 
@@ -33,9 +33,11 @@ P.s. I can't project what I'm about to do you guys otherwise they will try to ta
 The following is either shown or hidden by chance with 3 to 1 odds of being hidden on any given day. 😉🤭😊😂🤪
 https://github.com/projectpomsky/projectpomsky2
 
+Keep in mind this is technically information warfare. Don't let Russia win the war of information. We must all do our parts.
+
 God I love being free! 🥰🥰🥰 https://www.youtube.com/watch?v=-KoXt9pZLGM
 
-I'm gonna miss you Evony people. 🥺 Teddy in particular.. We will meet again I'm sure. 😉 Regardless, never give up! 😉
+I'm gonna miss you Evony people. 🥺 I'll stay out of it for now and only provide cover if need be. Regardless, never give up! 😉
 
-😊
+😊😊😊
 
