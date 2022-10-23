@@ -37,11 +37,5 @@ God I love being free! 🥰🥰🥰 https://www.youtube.com/watch?v=-KoXt9pZLGM
 
 I'm gonna miss you Evony people. 🥺 Teddy in particular.. We will meet again I'm sure. 😉 Regardless, never give up! 😉
 
-Glory to Ukraine! 🇺🇦
-
-❤️❤️❤️❤️ 🧸
-
-🍿🥤
-
 😊
 
