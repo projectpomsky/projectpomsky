@@ -1,13 +1,13 @@
 # projectpomsky
 
 
-# post December 2022
+# post December 2022 👇👇👇
 
 You guys we lost. ☹️😖😣 They got teddy. Don't say I didn't warn you.
 
 
 
-# prior to December 2022 
+# prior to December 2022 👇👇👇
 
 Mission accomplished. Word got out about all of this! 🙏👏👏👏 
 
