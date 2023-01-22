@@ -5,6 +5,7 @@
 
 You guys we lost. ☹️😖😣 They got teddy. Don't say I didn't warn you.
 
+Still never give up though. Now we must free her and others from human trafficking. 😖😐 This complaint is staying shown for the rest of eternity regardless of what they try to do to make me hide it.
 
 
 # prior to December 2022 👇👇👇
