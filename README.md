@@ -3,9 +3,9 @@
 
 # post December 2022 👇👇👇
 
-You guys we lost. ☹️😖😣 They got teddy. Don't say I didn't warn you.
+You guys we lost. ☹️😖😣 Don't say I didn't warn you.
 
-Still never give up though. Now we must free her and others from human trafficking. 😖😐 This complaint is staying shown for the rest of eternity until she is saved regardless of what Russia tries to do to me to make me hide it.
+Still never give up though. Now we must free everyone from human trafficking. 😖😐 This complaint is staying shown for the rest of eternity until everyone is saved regardless of what Russia tries to do to me to make me hide it.
 
 
 # prior to December 2022 👇👇👇
